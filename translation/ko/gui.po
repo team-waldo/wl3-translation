@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-12-22 20:17+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "gui/0"
 msgid " The first GUI text"
@@ -154,27 +155,27 @@ msgstr ""
 
 msgctxt "gui/35"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgctxt "gui/36"
 msgid "Options"
-msgstr ""
+msgstr "설정"
 
 msgctxt "gui/37"
 msgid "Sound"
-msgstr ""
+msgstr "사운드"
 
 msgctxt "gui/38"
 msgid "Master Volume"
-msgstr ""
+msgstr "마스터 볼륨"
 
 msgctxt "gui/39"
 msgid "Music Volume"
-msgstr ""
+msgstr "음악 볼륨"
 
 msgctxt "gui/40"
 msgid "SFX Volume"
-msgstr ""
+msgstr "SFX 볼륨"
 
 msgctxt "gui/41"
 msgid "Controls"
@@ -182,111 +183,111 @@ msgstr ""
 
 msgctxt "gui/42"
 msgid "Gameplay"
-msgstr ""
+msgstr "게임플레이"
 
 msgctxt "gui/43"
 msgid "Keyboard & Mouse"
-msgstr ""
+msgstr "키보드 & 마우스"
 
 msgctxt "gui/44"
 msgid "Xbox One"
-msgstr ""
+msgstr "Xbox One"
 
 msgctxt "gui/45"
 msgid "PS4"
-msgstr ""
+msgstr "PS4"
 
 msgctxt "gui/46"
 msgid "Steam Controller"
-msgstr ""
+msgstr "Steam 컨트롤러"
 
 msgctxt "gui/47"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "gui/48"
 msgid "5 Minutes"
-msgstr ""
+msgstr "5 분"
 
 msgctxt "gui/49"
 msgid "10 Minutes"
-msgstr ""
+msgstr "10 분"
 
 msgctxt "gui/50"
 msgid "15 Minutes"
-msgstr ""
+msgstr "15 분"
 
 msgctxt "gui/51"
 msgid "30 Minutes"
-msgstr ""
+msgstr "30 분"
 
 msgctxt "gui/52"
 msgid "Language"
-msgstr ""
+msgstr "언어"
 
 msgctxt "gui/53"
 msgid "Input Mode"
-msgstr ""
+msgstr "입력 모드"
 
 msgctxt "gui/54"
 msgid "Display"
-msgstr ""
+msgstr "디스플레이"
 
 msgctxt "gui/55"
 msgid "Screen Mode"
-msgstr ""
+msgstr "화면 모드"
 
 msgctxt "gui/56"
 msgid "Resolution"
-msgstr ""
+msgstr "해상도"
 
 msgctxt "gui/57"
 msgid "Vertical Sync"
-msgstr ""
+msgstr "수직 동기화"
 
 msgctxt "gui/58"
 msgid "{0} x {1} @ {2}Hz"
-msgstr ""
+msgstr "{0} x {1} @ {2}Hz"
 
 msgctxt "gui/59"
 msgid "Settings Changed"
-msgstr ""
+msgstr "설정 변경됨"
 
 msgctxt "gui/60"
 msgid "Do you wish to keep the current settings? They will revert in {0} {1}."
-msgstr ""
+msgstr "현재 설정을 저장하시겠습니까? {0} {1}후에 취소됩니다."
 
 msgctxt "gui/61"
 msgid "second"
-msgstr ""
+msgstr "초"
 
 msgctxt "gui/62"
 msgid "seconds"
-msgstr ""
+msgstr "초"
 
 msgctxt "gui/63"
 msgid "Interface"
-msgstr ""
+msgstr "인터페이스"
 
 msgctxt "gui/64"
 msgid "Small"
-msgstr ""
+msgstr "작음"
 
 msgctxt "gui/65"
 msgid "Medium"
-msgstr ""
+msgstr "보통"
 
 msgctxt "gui/66"
 msgid "Large"
-msgstr ""
+msgstr "큼"
 
 msgctxt "gui/67"
 msgid "Very Large"
-msgstr ""
+msgstr "매우 큼"
 
 msgctxt "gui/68"
 msgid "Text Size"
-msgstr ""
+msgstr "텍스트 크기"
 
 msgctxt "gui/69"
 msgid "Save and Close"
@@ -314,55 +315,55 @@ msgstr ""
 
 msgctxt "gui/75"
 msgid "Load Game"
-msgstr ""
+msgstr "불러오기"
 
 msgctxt "gui/76"
 msgid "Pause"
-msgstr ""
+msgstr "일시정지"
 
 msgctxt "gui/77"
 msgid "Main Menu"
-msgstr ""
+msgstr "메인 메뉴"
 
 msgctxt "gui/78"
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "게임 종료"
 
 msgctxt "gui/79"
 msgid "Select"
-msgstr ""
+msgstr "선택"
 
 msgctxt "gui/80"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 msgctxt "gui/81"
 msgid "Restore Defaults"
-msgstr ""
+msgstr "기본값으로 초기화"
 
 msgctxt "gui/82"
 msgid "Continue"
-msgstr ""
+msgstr "이어하기"
 
 msgctxt "gui/83"
 msgid "Start"
-msgstr ""
+msgstr "시작"
 
 msgctxt "gui/84"
 msgid "Credits"
-msgstr ""
+msgstr "크레딧"
 
 msgctxt "gui/85"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 msgctxt "gui/86"
 msgid "Character"
-msgstr ""
+msgstr "캐릭터"
 
 msgctxt "gui/87"
 msgid "Map"
-msgstr ""
+msgstr "지도"
 
 msgctxt "gui/88"
 msgid "Mission Log"
@@ -370,15 +371,15 @@ msgstr ""
 
 msgctxt "gui/89"
 msgid "Rookie"
-msgstr ""
+msgstr "신병"
 
 msgctxt "gui/90"
 msgid "Wastelander"
-msgstr ""
+msgstr "황무지인"
 
 msgctxt "gui/91"
 msgid "Ranger"
-msgstr ""
+msgstr "레인저"
 
 msgctxt "gui/92"
 msgid "Supreme Jerk"
@@ -386,23 +387,23 @@ msgstr ""
 
 msgctxt "gui/93"
 msgid "Interface Volume"
-msgstr ""
+msgstr "인터페이스 음량"
 
 msgctxt "gui/94"
 msgid "Voice Volume"
-msgstr ""
+msgstr "음성 음량"
 
 msgctxt "gui/95"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 msgctxt "gui/96"
 msgid "Tutorials"
-msgstr ""
+msgstr "튜토리얼"
 
 msgctxt "gui/97"
 msgid "Autosave"
-msgstr ""
+msgstr "자동저장"
 
 msgctxt "gui/98"
 msgid "Timed Autosave"
@@ -414,11 +415,11 @@ msgstr ""
 
 msgctxt "gui/100"
 msgid "Auto-Sort Inventory"
-msgstr ""
+msgstr "인벤토리 자동 정렬"
 
 msgctxt "gui/101"
 msgid "Toggle Tactical Mode"
-msgstr ""
+msgstr "전술 모드 전환"
 
 msgctxt "gui/102"
 msgid "Multiplayer Chat"
@@ -624,11 +625,11 @@ msgstr ""
 
 msgctxt "gui/151"
 msgid "New Game"
-msgstr ""
+msgstr "새로운 게임"
 
 msgctxt "gui/152"
 msgid "Multiplayer"
-msgstr ""
+msgstr "멀티플레이어"
 
 msgctxt "gui/153"
 msgid "Adding other player to conversation..."
@@ -644,15 +645,15 @@ msgstr ""
 
 msgctxt "gui/156"
 msgid "Save"
-msgstr ""
+msgstr "저장"
 
 msgctxt "gui/157"
 msgid "Load"
-msgstr ""
+msgstr "불러오기"
 
 msgctxt "gui/158"
 msgid "Overwrite"
-msgstr ""
+msgstr "덮어쓰기"
 
 msgctxt "gui/159"
 msgid "Overwrite Saved Game?"
@@ -664,7 +665,7 @@ msgstr ""
 
 msgctxt "gui/161"
 msgid "Unsupported Version"
-msgstr ""
+msgstr "지원되지 않는 버전"
 
 msgctxt "gui/162"
 msgid "This saved game is not compatible with this version of the game."
@@ -1910,7 +1911,7 @@ msgstr ""
 
 msgctxt "gui/475"
 msgid "Select Difficulty"
-msgstr ""
+msgstr "난이도 선택"
 
 msgctxt "gui/476"
 msgid "You may customize these options in the Options Menu later if you wish."
@@ -2175,7 +2176,7 @@ msgstr ""
 
 msgctxt "gui/538"
 msgid "Friendly Fire"
-msgstr ""
+msgstr "아군 사격"
 
 msgctxt "gui/539"
 msgid "Hobo"
@@ -3334,15 +3335,15 @@ msgstr ""
 
 msgctxt "gui/803"
 msgid "Difficulty Options"
-msgstr ""
+msgstr "난이도 옵션"
 
 msgctxt "gui/804"
 msgid "These options are only recommended for experienced Wasteland players."
-msgstr ""
+msgstr "이 옵션들은 오직 숙련된 웨이스트랜드 플레이어만 사용하는 것이 권장됩니다."
 
 msgctxt "gui/805"
 msgid "Permanent Death"
-msgstr ""
+msgstr "영구 사망"
 
 msgctxt "gui/806"
 msgid "Reload ({0} AP)"
@@ -3350,7 +3351,7 @@ msgstr ""
 
 msgctxt "gui/807"
 msgid "Ironman Mode"
-msgstr ""
+msgstr "철인 모드"
 
 msgctxt "gui/808"
 msgid "Hide Skill Requirements"
@@ -3364,18 +3365,21 @@ msgid ""
 "Permanent Death can only be enabled in single player, and cannot be disabled "
 "once turned on."
 msgstr ""
+"쓰러진 분대원을 전투 중에 부활시키지 못하면 영구적으로 사망합니다.\n"
+"\n"
+"영구 사망은 오직 싱글플레이어에서만 활성화할 수 있으며, 다시 비활성화할 수 없습니다."
 
 msgctxt "gui/810"
 msgid ""
 "If enabled, areas-of-effect and missed ranged attacks will be able to damage "
 "your own squad members."
-msgstr ""
+msgstr "활성화되면 범위 효과와 빗나간 원거리 공격이 아군 분대원에게 피해를 입힐 수 있습니다."
 
 msgctxt "gui/811"
 msgid ""
 "If enabled, only a single save file per playthrough is allowed, and it is "
 "deleted on game over."
-msgstr ""
+msgstr "활성화되면 오직 하나의 세이브 파일만 사용 가능하며, 게임 오버시 삭제됩니다."
 
 msgctxt "gui/812"
 msgid ""
@@ -4808,35 +4812,35 @@ msgstr ""
 
 msgctxt "gui/1167"
 msgid "Combat"
-msgstr ""
+msgstr "전투"
 
 msgctxt "gui/1168"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 msgctxt "gui/1169"
 msgid "Camera"
-msgstr ""
+msgstr "카메라"
 
 msgctxt "gui/1170"
 msgid "Screen"
-msgstr ""
+msgstr "화면"
 
 msgctxt "gui/1171"
 msgid "Graphics"
-msgstr ""
+msgstr "그래픽"
 
 msgctxt "gui/1172"
 msgid "Accessibility"
-msgstr ""
+msgstr "접근성"
 
 msgctxt "gui/1173"
 msgid "Notifications"
-msgstr ""
+msgstr "알림"
 
 msgctxt "gui/1174"
 msgid "Chat Window"
-msgstr ""
+msgstr "대화 창"
 
 msgctxt "gui/1175"
 msgid "World Map is unavailable in the demo."
@@ -8094,19 +8098,19 @@ msgstr ""
 
 msgctxt "gui/1997"
 msgid "Confirm"
-msgstr ""
+msgstr "확인"
 
 msgctxt "gui/1998"
 msgid "Customize"
-msgstr ""
+msgstr "사용자 설정"
 
 msgctxt "gui/1999"
 msgid "Show Inventory"
-msgstr ""
+msgstr "인벤토리 표시"
 
 msgctxt "gui/2000"
 msgid "Show Equipment"
-msgstr ""
+msgstr "장비 표시"
 
 msgctxt "gui/2001"
 msgid ""
@@ -9059,7 +9063,7 @@ msgstr ""
 
 msgctxt "gui/2229"
 msgid "Subtitles"
-msgstr ""
+msgstr "자막"
 
 msgctxt "gui/2230"
 msgid "Required {0} {1}"
@@ -9123,7 +9127,7 @@ msgstr ""
 
 msgctxt "gui/2245"
 msgid "Special Features"
-msgstr ""
+msgstr "추가 컨텐츠"
 
 msgctxt "gui/2246"
 msgid "Live Action Vignette"
@@ -10063,7 +10067,7 @@ msgstr ""
 
 msgctxt "gui/2451"
 msgid "Minimap"
-msgstr ""
+msgstr "미니맵"
 
 msgctxt "gui/2452"
 msgid "Auto-Detect"
@@ -10271,7 +10275,7 @@ msgstr ""
 
 msgctxt "gui/2500"
 msgid "Tourist"
-msgstr ""
+msgstr "관광객"
 
 msgctxt "gui/2501"
 msgid ""
