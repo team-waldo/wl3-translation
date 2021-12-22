@@ -1,0 +1,4721 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:11+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "characters/0"
+msgid "[TEMP] The first character text"
+msgstr ""
+
+msgctxt "characters/1"
+msgid "Merchant"
+msgstr ""
+
+msgctxt "characters/2"
+msgid "[TEMP] Test Assault Rifle Enemy"
+msgstr ""
+
+msgctxt "characters/3"
+msgid "Dorsey Pillager"
+msgstr ""
+
+msgctxt "characters/4"
+msgid "Dorsey Hunter"
+msgstr ""
+
+msgctxt "characters/5"
+msgid "Dorsey Raider"
+msgstr ""
+
+msgctxt "characters/6"
+msgid "Dorsey Ambusher"
+msgstr ""
+
+msgctxt "characters/7"
+msgid "Dorsey Rifleman"
+msgstr ""
+
+msgctxt "characters/16"
+msgid "Nelius Dorsey"
+msgstr ""
+
+msgctxt "characters/18"
+msgid "Taste of Winter Sky"
+msgstr ""
+
+msgctxt "characters/20"
+msgid "Growler"
+msgstr ""
+
+msgctxt "characters/21"
+msgid "Spiked Growler"
+msgstr ""
+
+msgctxt "characters/22"
+msgid "Wolverine"
+msgstr ""
+
+msgctxt "characters/23"
+msgid "Drone"
+msgstr ""
+
+msgctxt "characters/24"
+msgid "Snow Turret"
+msgstr ""
+
+msgctxt "characters/28"
+msgid "Torrance"
+msgstr ""
+
+msgctxt "characters/29"
+msgid "Lloyd"
+msgstr ""
+
+msgctxt "characters/30"
+msgid "Unseen Voice"
+msgstr ""
+
+msgctxt "characters/31"
+msgid "Incinerator Drone"
+msgstr ""
+
+msgctxt "characters/32"
+msgid "Faux soldier Drone"
+msgstr ""
+
+msgctxt "characters/33"
+msgid "Caretaker Drone"
+msgstr ""
+
+msgctxt "characters/34"
+msgid "Quid Pro Go"
+msgstr ""
+
+msgctxt "characters/35"
+msgid "Debug Character"
+msgstr ""
+
+msgctxt "characters/36"
+msgid "Razorback"
+msgstr ""
+
+msgctxt "characters/37"
+msgid "Wolverine Hunter"
+msgstr ""
+
+msgctxt "characters/38"
+msgid "Rifle Drone"
+msgstr ""
+
+msgctxt "characters/39"
+msgid "Shotgun Drone"
+msgstr ""
+
+msgctxt "characters/40"
+msgid "Rocket Drone"
+msgstr ""
+
+msgctxt "characters/41"
+msgid "Flame Drone"
+msgstr ""
+
+msgctxt "characters/42"
+msgid "Growler Cub"
+msgstr ""
+
+msgctxt "characters/45"
+msgid " Test Melee Enemy"
+msgstr ""
+
+msgctxt "characters/46"
+msgid " Test Handgun Enemy"
+msgstr ""
+
+msgctxt "characters/47"
+msgid " Test Rifle Enemy"
+msgstr ""
+
+msgctxt "characters/48"
+msgid " Test Shotgun Enemy"
+msgstr ""
+
+msgctxt "characters/49"
+msgid " Test SMG Enemy"
+msgstr ""
+
+msgctxt "characters/50"
+msgid " Test Energy Enemy"
+msgstr ""
+
+msgctxt "characters/51"
+msgid " Test Heavy Enemy"
+msgstr ""
+
+msgctxt "characters/52"
+msgid " Test Tech Enemy"
+msgstr ""
+
+msgctxt "characters/53"
+msgid " Test Medic Enemy"
+msgstr ""
+
+msgctxt "characters/54"
+msgid " Test Grenadier Enemy"
+msgstr ""
+
+msgctxt "characters/55"
+msgid " Test Robot Enemy"
+msgstr ""
+
+msgctxt "characters/57"
+msgid " Citizen"
+msgstr ""
+
+msgctxt "characters/99"
+msgid "Waste Wolf"
+msgstr ""
+
+msgctxt "characters/100"
+msgid "Waste Wolf Alpha"
+msgstr ""
+
+msgctxt "characters/101"
+msgid "Ice Hopper"
+msgstr ""
+
+msgctxt "characters/102"
+msgid "DEBUG Long John"
+msgstr ""
+
+msgctxt "characters/103"
+msgid "Dorsey Sniper"
+msgstr ""
+
+msgctxt "characters/104"
+msgid "Dorsey Gunner (Dupe String)"
+msgstr ""
+
+msgctxt "characters/105"
+msgid "Dorsey Commando"
+msgstr ""
+
+msgctxt "characters/106"
+msgid "Dorsey Tactician"
+msgstr ""
+
+msgctxt "characters/107"
+msgid "Rocket Turret"
+msgstr ""
+
+msgctxt "characters/112"
+msgid "Maj. Vera Prasad"
+msgstr ""
+
+msgctxt "characters/122"
+msgid "DEBUG Perimeter Encounters"
+msgstr ""
+
+msgctxt "characters/123"
+msgid "DEBUG Robot Encounter"
+msgstr ""
+
+msgctxt "characters/125"
+msgid "DEBGU CHEAT for Conversations"
+msgstr ""
+
+msgctxt "characters/126"
+msgid "R.E.M."
+msgstr ""
+
+msgctxt "characters/127"
+msgid "R.A.M."
+msgstr ""
+
+msgctxt "characters/128"
+msgid "debug_npc_blue"
+msgstr ""
+
+msgctxt "characters/129"
+msgid "OpsComputer"
+msgstr ""
+
+msgctxt "characters/130"
+msgid "SatelliteLinkComputer"
+msgstr ""
+
+msgctxt "characters/131"
+msgid "Geronimo"
+msgstr ""
+
+msgctxt "characters/132"
+msgid "TestSubject 1"
+msgstr ""
+
+msgctxt "characters/133"
+msgid "TestSubject 2"
+msgstr ""
+
+msgctxt "characters/134"
+msgid "TestSubject 3"
+msgstr ""
+
+msgctxt "characters/135"
+msgid "E.E.T. 1 Computer"
+msgstr ""
+
+msgctxt "characters/136"
+msgid "Head Researcher"
+msgstr ""
+
+msgctxt "characters/137"
+msgid "General 3"
+msgstr ""
+
+msgctxt "characters/138"
+msgid "VR Holo Guide"
+msgstr ""
+
+msgctxt "characters/139"
+msgid "VR Holo Gate Guard"
+msgstr ""
+
+msgctxt "characters/140"
+msgid "VR Holo Guide"
+msgstr ""
+
+msgctxt "characters/141"
+msgid "VR Holo Guide"
+msgstr ""
+
+msgctxt "characters/142"
+msgid "Watson (on Radio) "
+msgstr ""
+
+msgctxt "characters/144"
+msgid "Main Elevator "
+msgstr ""
+
+msgctxt "characters/145"
+msgid "Door"
+msgstr ""
+
+msgctxt "characters/146"
+msgid "1st floor Debug Options "
+msgstr ""
+
+msgctxt "characters/147"
+msgid "Trapped Trappers Mission (Debug Options) "
+msgstr ""
+
+msgctxt "characters/148"
+msgid "DEBUG Head Researcher"
+msgstr ""
+
+msgctxt "characters/150"
+msgid "Laser Turret"
+msgstr ""
+
+msgctxt "characters/151"
+msgid "Plasma Turret"
+msgstr ""
+
+msgctxt "characters/156"
+msgid "Spider Bot"
+msgstr ""
+
+msgctxt "characters/157"
+msgid "Spy-der"
+msgstr ""
+
+msgctxt "characters/158"
+msgid "Suicide Skitterling"
+msgstr ""
+
+msgctxt "characters/159"
+msgid "Builder Bot"
+msgstr ""
+
+msgctxt "characters/160"
+msgid "Slicer Bot"
+msgstr ""
+
+msgctxt "characters/164"
+msgid "Nightterror"
+msgstr ""
+
+msgctxt "characters/165"
+msgid "Damaged Drone"
+msgstr ""
+
+msgctxt "characters/166"
+msgid "Carty"
+msgstr ""
+
+msgctxt "characters/169"
+msgid "Meson Turret"
+msgstr ""
+
+msgctxt "characters/170"
+msgid "Advanced Meson Turret"
+msgstr ""
+
+msgctxt "characters/171"
+msgid "Chessboard"
+msgstr ""
+
+msgctxt "characters/174"
+msgid "Debug patrol character"
+msgstr ""
+
+msgctxt "characters/175"
+msgid "Lloyd"
+msgstr ""
+
+msgctxt "characters/176"
+msgid "Training Bot"
+msgstr ""
+
+msgctxt "characters/180"
+msgid "Ranger Junker"
+msgstr ""
+
+msgctxt "characters/181"
+msgid "Ranger Rover"
+msgstr ""
+
+msgctxt "characters/182"
+msgid "Morningstar"
+msgstr ""
+
+msgctxt "characters/183"
+msgid "Frankenstein"
+msgstr ""
+
+msgctxt "characters/184"
+msgid "Godfisher"
+msgstr ""
+
+msgctxt "characters/186"
+msgid "Charles"
+msgstr ""
+
+msgctxt "characters/189"
+msgid "Test Heavy Enemy"
+msgstr ""
+
+msgctxt "characters/190"
+msgid "Mangy Mutt"
+msgstr ""
+
+msgctxt "characters/191"
+msgid "Test Blunt Enemy"
+msgstr ""
+
+msgctxt "characters/192"
+msgid "Octotron"
+msgstr ""
+
+msgctxt "characters/193"
+msgid "Test Sniper Enemy"
+msgstr ""
+
+msgctxt "characters/194"
+msgid "Test Turret Enemy"
+msgstr ""
+
+msgctxt "characters/195"
+msgid "Wild Dog Pack Leader"
+msgstr ""
+
+msgctxt "characters/196"
+msgid "Test Medic Enemy (Dupe String)"
+msgstr ""
+
+msgctxt "characters/200"
+msgid "Village Elder"
+msgstr ""
+
+msgctxt "characters/201"
+msgid "Village Merchant"
+msgstr ""
+
+msgctxt "characters/202"
+msgid "Test Subject 01"
+msgstr ""
+
+msgctxt "characters/203"
+msgid "Test Subject 02"
+msgstr ""
+
+msgctxt "characters/204"
+msgid "Test Subject 03"
+msgstr ""
+
+msgctxt "characters/205"
+msgid "Villager 01"
+msgstr ""
+
+msgctxt "characters/206"
+msgid "Villager 02"
+msgstr ""
+
+msgctxt "characters/207"
+msgid "Villager 03"
+msgstr ""
+
+msgctxt "characters/208"
+msgid "Villager 04"
+msgstr ""
+
+msgctxt "characters/209"
+msgid "Villager 05"
+msgstr ""
+
+msgctxt "characters/210"
+msgid "Villager 06"
+msgstr ""
+
+msgctxt "characters/211"
+msgid "Villager 07"
+msgstr ""
+
+msgctxt "characters/212"
+msgid "Villager 08"
+msgstr ""
+
+msgctxt "characters/213"
+msgid "Payaso Bastard"
+msgstr ""
+
+msgctxt "characters/214"
+msgid "Payaso Bombero"
+msgstr ""
+
+msgctxt "characters/215"
+msgid "Payaso Trickster"
+msgstr ""
+
+msgctxt "characters/216"
+msgid "Payaso Tumbler"
+msgstr ""
+
+msgctxt "characters/217"
+msgid "Hot Hog"
+msgstr ""
+
+msgctxt "characters/218"
+msgid "Ditso Gogo"
+msgstr ""
+
+msgctxt "characters/224"
+msgid "Gipper"
+msgstr ""
+
+msgctxt "characters/225"
+msgid "Gipper Flame Matron"
+msgstr ""
+
+msgctxt "characters/226"
+msgid "Gipper Gatherer"
+msgstr ""
+
+msgctxt "characters/227"
+msgid "Godfisher Thurifer"
+msgstr ""
+
+msgctxt "characters/228"
+msgid "Godfisher Harvester"
+msgstr ""
+
+msgctxt "characters/229"
+msgid "Godfisher Keeper"
+msgstr ""
+
+msgctxt "characters/230"
+msgid "Gipper Warmaker"
+msgstr ""
+
+msgctxt "characters/231"
+msgid "Gipper Redhunter"
+msgstr ""
+
+msgctxt "characters/232"
+msgid "Gipper Commando"
+msgstr ""
+
+msgctxt "characters/233"
+msgid "Gipper Draftee"
+msgstr ""
+
+msgctxt "characters/234"
+msgid "Godfisher Pursuer"
+msgstr ""
+
+msgctxt "characters/237"
+msgid "Dionna Herrera"
+msgstr ""
+
+msgctxt "characters/238"
+msgid "Michael"
+msgstr ""
+
+msgctxt "characters/239"
+msgid "Angela Deth"
+msgstr ""
+
+msgctxt "characters/240"
+msgid "Marcia"
+msgstr ""
+
+msgctxt "characters/244"
+msgid "Monster Army Basher"
+msgstr ""
+
+msgctxt "characters/245"
+msgid "Monster Army Tender"
+msgstr ""
+
+msgctxt "characters/246"
+msgid "Monster Army Masher"
+msgstr ""
+
+msgctxt "characters/247"
+msgid "Monster Army Blaster"
+msgstr ""
+
+msgctxt "characters/248"
+msgid "Monster Army Sniper"
+msgstr ""
+
+msgctxt "characters/249"
+msgid "Monster Army Lieutenant"
+msgstr ""
+
+msgctxt "characters/250"
+msgid "Flab the Inhaler"
+msgstr ""
+
+msgctxt "characters/251"
+msgid "Randy Gett"
+msgstr ""
+
+msgctxt "characters/252"
+msgid "Masato"
+msgstr ""
+
+msgctxt "characters/253"
+msgid "Pareidolia Jones"
+msgstr ""
+
+msgctxt "characters/254"
+msgid "Eidilon"
+msgstr ""
+
+msgctxt "characters/255"
+msgid "Quarex"
+msgstr ""
+
+msgctxt "characters/256"
+msgid "The Sanctified Piscitelli"
+msgstr ""
+
+msgctxt "characters/257"
+msgid "Gwyn Talbot"
+msgstr ""
+
+msgctxt "characters/258"
+msgid "Long John"
+msgstr ""
+
+msgctxt "characters/259"
+msgid "Hugh Lugnuts"
+msgstr ""
+
+msgctxt "characters/260"
+msgid "Charley's Thug"
+msgstr ""
+
+msgctxt "characters/261"
+msgid "Charley Knowes"
+msgstr ""
+
+msgctxt "characters/270"
+msgid "Lily"
+msgstr ""
+
+msgctxt "characters/271"
+msgid "Scream"
+msgstr ""
+
+msgctxt "characters/272"
+msgid "Kitten"
+msgstr ""
+
+msgctxt "characters/273"
+msgid "Fish-Lips"
+msgstr ""
+
+msgctxt "characters/274"
+msgid "Hard-Head"
+msgstr ""
+
+msgctxt "characters/275"
+msgid "Los Payaso"
+msgstr ""
+
+msgctxt "characters/276"
+msgid "Lacey Fryes"
+msgstr ""
+
+msgctxt "characters/277"
+msgid "Mother Nancy Reliance"
+msgstr ""
+
+msgctxt "characters/278"
+msgid "Sister Nancy Vigilance"
+msgstr ""
+
+msgctxt "characters/279"
+msgid "Sister Glory"
+msgstr ""
+
+msgctxt "characters/280"
+msgid "Sister Nancy Forge"
+msgstr ""
+
+msgctxt "characters/281"
+msgid "The Wyman"
+msgstr ""
+
+msgctxt "characters/282"
+msgid "Mela"
+msgstr ""
+
+msgctxt "characters/283"
+msgid "Bill"
+msgstr ""
+
+msgctxt "characters/284"
+msgid "Buck"
+msgstr ""
+
+msgctxt "characters/285"
+msgid "Blaze"
+msgstr ""
+
+msgctxt "characters/286"
+msgid "Dale Dawson"
+msgstr ""
+
+msgctxt "characters/287"
+msgid "Teddy"
+msgstr ""
+
+msgctxt "characters/288"
+msgid "Whit Walker"
+msgstr ""
+
+msgctxt "characters/289"
+msgid "Ronald Reagan"
+msgstr ""
+
+msgctxt "characters/290"
+msgid "Mist-that-Burns"
+msgstr ""
+
+msgctxt "characters/291"
+msgid "999-i-USMI"
+msgstr ""
+
+msgctxt "characters/292"
+msgid "Binary Star"
+msgstr ""
+
+msgctxt "characters/293"
+msgid "Distributed Operations Platform"
+msgstr ""
+
+msgctxt "characters/294"
+msgid "Commune Robot"
+msgstr ""
+
+msgctxt "characters/295"
+msgid "(Function) Liberator"
+msgstr ""
+
+msgctxt "characters/296"
+msgid "Hologram"
+msgstr ""
+
+msgctxt "characters/297"
+msgid "Indigo Rouge"
+msgstr ""
+
+msgctxt "characters/298"
+msgid "Machine Intelligence Tower"
+msgstr ""
+
+msgctxt "characters/299"
+msgid "no name. use this field"
+msgstr ""
+
+msgctxt "characters/300"
+msgid "Pico"
+msgstr ""
+
+msgctxt "characters/301"
+msgid "SAL"
+msgstr ""
+
+msgctxt "characters/302"
+msgid "Stacy Guns"
+msgstr ""
+
+msgctxt "characters/303"
+msgid "DEBUG Dark Clouds"
+msgstr ""
+
+msgctxt "characters/304"
+msgid "DEBUG Call to Action"
+msgstr ""
+
+msgctxt "characters/305"
+msgid "DEBUG Fun and Games"
+msgstr ""
+
+msgctxt "characters/306"
+msgid "DEBUG The Zealot"
+msgstr ""
+
+msgctxt "characters/307"
+msgid "DEBUG Reagan Reborn"
+msgstr ""
+
+msgctxt "characters/308"
+msgid "DEBUG Useful Prey"
+msgstr ""
+
+msgctxt "characters/309"
+msgid "DEBUG Tiny Claws, No Pockets"
+msgstr ""
+
+msgctxt "characters/310"
+msgid "Crossword Gang Cutter"
+msgstr ""
+
+msgctxt "characters/311"
+msgid "Crossword Gang Boss"
+msgstr ""
+
+msgctxt "characters/312"
+msgid "Crossword Gang Hacker"
+msgstr ""
+
+msgctxt "characters/313"
+msgid "Valor Buchanan"
+msgstr ""
+
+msgctxt "characters/314"
+msgid "Mountain Goat"
+msgstr ""
+
+msgctxt "characters/315"
+msgid "Dr. Smiles"
+msgstr ""
+
+msgctxt "characters/316"
+msgid "Crossword Gang Thief"
+msgstr ""
+
+msgctxt "characters/317"
+msgid "Larry's Hunter"
+msgstr ""
+
+msgctxt "characters/318"
+msgid "George"
+msgstr ""
+
+msgctxt "characters/319"
+msgid "Debug Exterior"
+msgstr ""
+
+msgctxt "characters/320"
+msgid "DEBUG Trading Fire"
+msgstr ""
+
+msgctxt "characters/321"
+msgid "Hologram"
+msgstr ""
+
+msgctxt "characters/326"
+msgid "Little Sparrow"
+msgstr ""
+
+msgctxt "characters/327"
+msgid "Tinker"
+msgstr ""
+
+msgctxt "characters/330"
+msgid "Scar Collector Heavy"
+msgstr ""
+
+msgctxt "characters/331"
+msgid "George's Family"
+msgstr ""
+
+msgctxt "characters/332"
+msgid "Megan Silver"
+msgstr ""
+
+msgctxt "characters/333"
+msgid "TESTNAME"
+msgstr ""
+
+msgctxt "characters/334"
+msgid "Theodoric Curie"
+msgstr ""
+
+msgctxt "characters/335"
+msgid "Refugee Leader"
+msgstr ""
+
+msgctxt "characters/336"
+msgid "Voice on radio"
+msgstr ""
+
+msgctxt "characters/337"
+msgid "Console"
+msgstr ""
+
+msgctxt "characters/338"
+msgid "Test Rocket Enemy"
+msgstr ""
+
+msgctxt "characters/339"
+msgid "Test Handgun Enemy"
+msgstr ""
+
+msgctxt "characters/340"
+msgid "Debug"
+msgstr ""
+
+msgctxt "characters/341"
+msgid "Paris Handler"
+msgstr ""
+
+msgctxt "characters/342"
+msgid "Hawkbit"
+msgstr ""
+
+msgctxt "characters/343"
+msgid "Six-Fingered Larry"
+msgstr ""
+
+msgctxt "characters/344"
+msgid "Polly"
+msgstr ""
+
+msgctxt "characters/345"
+msgid "Lieutenant Giggles"
+msgstr ""
+
+msgctxt "characters/346"
+msgid "Lieutenant Chester"
+msgstr ""
+
+msgctxt "characters/347"
+msgid "Nita Gett"
+msgstr ""
+
+msgctxt "characters/348"
+msgid "Smuggler Saboteur "
+msgstr ""
+
+msgctxt "characters/349"
+msgid "Refugee"
+msgstr ""
+
+msgctxt "characters/350"
+msgid "Lewis Stenerud"
+msgstr ""
+
+msgctxt "characters/351"
+msgid "Ananda Rabindranath"
+msgstr ""
+
+msgctxt "characters/352"
+msgid "Hopeful"
+msgstr ""
+
+msgctxt "characters/353"
+msgid "Carmen"
+msgstr ""
+
+msgctxt "characters/354"
+msgid "Mercenary Guard"
+msgstr ""
+
+msgctxt "characters/355"
+msgid "DEBUG The Zealot"
+msgstr ""
+
+msgctxt "characters/360"
+msgid "Godfisher \"Piece\" Maker"
+msgstr ""
+
+msgctxt "characters/361"
+msgid "Godfisher Fanatic"
+msgstr ""
+
+msgctxt "characters/362"
+msgid "Console"
+msgstr ""
+
+msgctxt "characters/363"
+msgid "Turbine"
+msgstr ""
+
+msgctxt "characters/364"
+msgid "Test Enemy Vehicle"
+msgstr ""
+
+msgctxt "characters/366"
+msgid "DEBUG for Soldier 115"
+msgstr ""
+
+msgctxt "characters/367"
+msgid "Soldier 115"
+msgstr ""
+
+msgctxt "characters/368"
+msgid "Elite Soldier 23"
+msgstr ""
+
+msgctxt "characters/369"
+msgid "DEBUG for Soldier 23"
+msgstr ""
+
+msgctxt "characters/370"
+msgid "Scar Collector Butcher"
+msgstr ""
+
+msgctxt "characters/371"
+msgid "DEBUG for Soldier 78"
+msgstr ""
+
+msgctxt "characters/372"
+msgid "Elite Soldier 78"
+msgstr ""
+
+msgctxt "characters/374"
+msgid "DEBUG for R.E.M."
+msgstr ""
+
+msgctxt "characters/375"
+msgid "Vic Buchanan"
+msgstr ""
+
+msgctxt "characters/376"
+msgid "Ironclad Cordite"
+msgstr ""
+
+msgctxt "characters/377"
+msgid "Hawkbit"
+msgstr ""
+
+msgctxt "characters/378"
+msgid "Marshal Kwon"
+msgstr ""
+
+msgctxt "characters/379"
+msgid "The Mechanic"
+msgstr ""
+
+msgctxt "characters/380"
+msgid "The Fine Man, Cult Leader"
+msgstr ""
+
+msgctxt "characters/381"
+msgid "Lecherito"
+msgstr ""
+
+msgctxt "characters/382"
+msgid "Star-that-Dreams"
+msgstr ""
+
+msgctxt "characters/383"
+msgid "Haloed Moon"
+msgstr ""
+
+msgctxt "characters/384"
+msgid "Steel-Trap"
+msgstr ""
+
+msgctxt "characters/385"
+msgid "Beta Master"
+msgstr ""
+
+msgctxt "characters/387"
+msgid "Liberty Buchanan"
+msgstr ""
+
+msgctxt "characters/388"
+msgid "Patsy"
+msgstr ""
+
+msgctxt "characters/389"
+msgid "Not-Yet-Skinned"
+msgstr ""
+
+msgctxt "characters/390"
+msgid "Scar Collector Slave"
+msgstr ""
+
+msgctxt "characters/391"
+msgid "Advance Team Ranger"
+msgstr ""
+
+msgctxt "characters/392"
+msgid "Mercenary"
+msgstr ""
+
+msgctxt "characters/393"
+msgid "Mercenary"
+msgstr ""
+
+msgctxt "characters/394"
+msgid "Odinkirk"
+msgstr ""
+
+msgctxt "characters/395"
+msgid "Theodoric Curie"
+msgstr ""
+
+msgctxt "characters/396"
+msgid "Doctor"
+msgstr ""
+
+msgctxt "characters/397"
+msgid "Nurse"
+msgstr ""
+
+msgctxt "characters/398"
+msgid "Nurse"
+msgstr ""
+
+msgctxt "characters/399"
+msgid "Giant Bison"
+msgstr ""
+
+msgctxt "characters/400"
+msgid "Bennie"
+msgstr ""
+
+msgctxt "characters/401"
+msgid "Jet"
+msgstr ""
+
+msgctxt "characters/402"
+msgid "Test Grenadier Enemy"
+msgstr ""
+
+msgctxt "characters/403"
+msgid "Scar Collector Slaver"
+msgstr ""
+
+msgctxt "characters/404"
+msgid "Risky Briskett"
+msgstr ""
+
+msgctxt "characters/405"
+msgid "Darryl"
+msgstr ""
+
+msgctxt "characters/406"
+msgid "Wind-that-Tangles"
+msgstr ""
+
+msgctxt "characters/407"
+msgid "Nikki"
+msgstr ""
+
+msgctxt "characters/408"
+msgid "Dog"
+msgstr ""
+
+msgctxt "characters/409"
+msgid "Dog"
+msgstr ""
+
+msgctxt "characters/410"
+msgid "Vehicle"
+msgstr ""
+
+msgctxt "characters/411"
+msgid "Unnamed Friend"
+msgstr ""
+
+msgctxt "characters/412"
+msgid "Margaret"
+msgstr ""
+
+msgctxt "characters/413"
+msgid "Winona"
+msgstr ""
+
+msgctxt "characters/414"
+msgid "Betsy"
+msgstr ""
+
+msgctxt "characters/416"
+msgid "Fish-Lips"
+msgstr ""
+
+msgctxt "characters/417"
+msgid "Hard-Head Tinkerer"
+msgstr ""
+
+msgctxt "characters/418"
+msgid "Hard-Head Sharpshooter"
+msgstr ""
+
+msgctxt "characters/419"
+msgid "Hard-Head Blaster"
+msgstr ""
+
+msgctxt "characters/420"
+msgid "Hard-Head Cutter"
+msgstr ""
+
+msgctxt "characters/422"
+msgid "Dee Sharp"
+msgstr ""
+
+msgctxt "characters/423"
+msgid "Payaso Cohete"
+msgstr ""
+
+msgctxt "characters/424"
+msgid "Payaso Fuego"
+msgstr ""
+
+msgctxt "characters/425"
+msgid " Cutscene dialogue"
+msgstr ""
+
+msgctxt "characters/426"
+msgid "Petitioner"
+msgstr ""
+
+msgctxt "characters/427"
+msgid "Blind Marvin"
+msgstr ""
+
+msgctxt "characters/428"
+msgid "Inspector Delgado"
+msgstr ""
+
+msgctxt "characters/432"
+msgid "Vehicle"
+msgstr ""
+
+msgctxt "characters/433"
+msgid "Molly Bell"
+msgstr ""
+
+msgctxt "characters/434"
+msgid "Shiloh"
+msgstr ""
+
+msgctxt "characters/435"
+msgid "George"
+msgstr ""
+
+msgctxt "characters/437"
+msgid "Isolated Garage Foot Soldier"
+msgstr ""
+
+msgctxt "characters/438"
+msgid "Isolated Garage Foot Soldier"
+msgstr ""
+
+msgctxt "characters/439"
+msgid "Isolated Garage Foot Soldier"
+msgstr ""
+
+msgctxt "characters/440"
+msgid "Isolated Garage Foot Soldier"
+msgstr ""
+
+msgctxt "characters/441"
+msgid "Isolated Garage Foot Soldier"
+msgstr ""
+
+msgctxt "characters/442"
+msgid "Isolated Garage 88"
+msgstr ""
+
+msgctxt "characters/443"
+msgid "Molly's Foot Soldier"
+msgstr ""
+
+msgctxt "characters/444"
+msgid "Molly's Foot Soldier"
+msgstr ""
+
+msgctxt "characters/445"
+msgid "Los Payasos Thug"
+msgstr ""
+
+msgctxt "characters/446"
+msgid "Los Payasos Leader"
+msgstr ""
+
+msgctxt "characters/447"
+msgid "\"Rebellious\" Slave"
+msgstr ""
+
+msgctxt "characters/448"
+msgid "DEBUG for LPA Leader"
+msgstr ""
+
+msgctxt "characters/449"
+msgid "Giles"
+msgstr ""
+
+msgctxt "characters/450"
+msgid "Rody"
+msgstr ""
+
+msgctxt "characters/452"
+msgid "Aspen Civilian"
+msgstr ""
+
+msgctxt "characters/453"
+msgid "Opie"
+msgstr ""
+
+msgctxt "characters/454"
+msgid "Revolting Worker"
+msgstr ""
+
+msgctxt "characters/455"
+msgid "Sheriff Daisy"
+msgstr ""
+
+msgctxt "characters/456"
+msgid "Amber"
+msgstr ""
+
+msgctxt "characters/457"
+msgid "Lucia Wesson"
+msgstr ""
+
+msgctxt "characters/458"
+msgid "Marshal Lupinski"
+msgstr ""
+
+msgctxt "characters/459"
+msgid "MacTavish"
+msgstr ""
+
+msgctxt "characters/460"
+msgid "Machine Shop Worker"
+msgstr ""
+
+msgctxt "characters/461"
+msgid "Rabbit"
+msgstr ""
+
+msgctxt "characters/462"
+msgid "Doc Parker"
+msgstr ""
+
+msgctxt "characters/463"
+msgid "October-11"
+msgstr ""
+
+msgctxt "characters/464"
+msgid "Nita"
+msgstr ""
+
+msgctxt "characters/465"
+msgid "Debug NPC"
+msgstr ""
+
+msgctxt "characters/466"
+msgid "Frank Pappas"
+msgstr ""
+
+msgctxt "characters/467"
+msgid "Deputy Marshal Torres"
+msgstr ""
+
+msgctxt "characters/468"
+msgid "Maxwell"
+msgstr ""
+
+msgctxt "characters/469"
+msgid "Rosie Wong"
+msgstr ""
+
+msgctxt "characters/470"
+msgid "Brady"
+msgstr ""
+
+msgctxt "characters/471"
+msgid "Automated Turret"
+msgstr ""
+
+msgctxt "characters/472"
+msgid "Emogene Dorsey"
+msgstr ""
+
+msgctxt "characters/473"
+msgid "Percival Wesson"
+msgstr ""
+
+msgctxt "characters/474"
+msgid "Dollmaker"
+msgstr ""
+
+msgctxt "characters/475"
+msgid "Hardee Knox"
+msgstr ""
+
+msgctxt "characters/480"
+msgid "Vic Buchanan"
+msgstr ""
+
+msgctxt "characters/481"
+msgid "Psychopath Crew Basher"
+msgstr ""
+
+msgctxt "characters/482"
+msgid "Breather"
+msgstr ""
+
+msgctxt "characters/483"
+msgid "The Gift"
+msgstr ""
+
+msgctxt "characters/484"
+msgid "Riley Woodson"
+msgstr ""
+
+msgctxt "characters/485"
+msgid "Ash"
+msgstr ""
+
+msgctxt "characters/486"
+msgid "La Loca"
+msgstr ""
+
+msgctxt "characters/487"
+msgid "Rook"
+msgstr ""
+
+msgctxt "characters/488"
+msgid "Pizepi"
+msgstr ""
+
+msgctxt "characters/489"
+msgid "Estin Ward"
+msgstr ""
+
+msgctxt "characters/490"
+msgid "Violet Reed"
+msgstr ""
+
+msgctxt "characters/491"
+msgid "Priscilla Reed"
+msgstr ""
+
+msgctxt "characters/492"
+msgid "Gwendolyn Reed"
+msgstr ""
+
+msgctxt "characters/493"
+msgid "Irv"
+msgstr ""
+
+msgctxt "characters/494"
+msgid "Cutter Throat"
+msgstr ""
+
+msgctxt "characters/495"
+msgid "Llewellyn"
+msgstr ""
+
+msgctxt "characters/496"
+msgid "Young Vincent"
+msgstr ""
+
+msgctxt "characters/497"
+msgid "Ken Doll"
+msgstr ""
+
+msgctxt "characters/498"
+msgid "Boulder"
+msgstr ""
+
+msgctxt "characters/499"
+msgid "Faran Brygo"
+msgstr ""
+
+msgctxt "characters/500"
+msgid "The Patriarch"
+msgstr ""
+
+msgctxt "characters/501"
+msgid "Marshal Kwon"
+msgstr ""
+
+msgctxt "characters/502"
+msgid "Sergei Greatski"
+msgstr ""
+
+msgctxt "characters/503"
+msgid "Corporal Marcelo Gonzalez"
+msgstr ""
+
+msgctxt "characters/504"
+msgid "Refugee"
+msgstr ""
+
+msgctxt "characters/505"
+msgid "Test Mechanic Enemy"
+msgstr ""
+
+msgctxt "characters/506"
+msgid "Bellamy Ward"
+msgstr ""
+
+msgctxt "characters/507"
+msgid "Isaac Reed"
+msgstr ""
+
+msgctxt "characters/508"
+msgid "Hundred Families Youth"
+msgstr ""
+
+msgctxt "characters/509"
+msgid "Nightclub Patron"
+msgstr ""
+
+msgctxt "characters/510"
+msgid "Starving Wolverine"
+msgstr ""
+
+msgctxt "characters/511"
+msgid "Scar Collector Brawler"
+msgstr ""
+
+msgctxt "characters/512"
+msgid "Scar Collector Modder"
+msgstr ""
+
+msgctxt "characters/513"
+msgid "Scar Collector Leadhead"
+msgstr ""
+
+msgctxt "characters/514"
+msgid "Scar Collector Thrall"
+msgstr ""
+
+msgctxt "characters/515"
+msgid "Scar Collector Overlord"
+msgstr ""
+
+msgctxt "characters/516"
+msgid "Scar Collector Truck"
+msgstr ""
+
+msgctxt "characters/517"
+msgid "Light Machine Turret"
+msgstr ""
+
+msgctxt "characters/518"
+msgid "Heavy Machine Turret"
+msgstr ""
+
+msgctxt "characters/519"
+msgid "Minigun Turret"
+msgstr ""
+
+msgctxt "characters/520"
+msgid "Light Cannon Turret"
+msgstr ""
+
+msgctxt "characters/521"
+msgid "Heavy Cannon Turret"
+msgstr ""
+
+msgctxt "characters/522"
+msgid "Laser Turret"
+msgstr ""
+
+msgctxt "characters/523"
+msgid "Plasma Turret"
+msgstr ""
+
+msgctxt "characters/524"
+msgid "Fusion Turret"
+msgstr ""
+
+msgctxt "characters/525"
+msgid "The Provost"
+msgstr ""
+
+msgctxt "characters/526"
+msgid "Mrs. Delgado"
+msgstr ""
+
+msgctxt "characters/527"
+msgid "Laura Delgado"
+msgstr ""
+
+msgctxt "characters/532"
+msgid "DEBUG Welcome to Colorado"
+msgstr ""
+
+msgctxt "characters/533"
+msgid "Erastus Dorsey"
+msgstr ""
+
+msgctxt "characters/534"
+msgid "Servitor Bot"
+msgstr ""
+
+msgctxt "characters/535"
+msgid "Connie Zeng"
+msgstr ""
+
+msgctxt "characters/536"
+msgid "Brother Thomas"
+msgstr ""
+
+msgctxt "characters/537"
+msgid "Pistol Pete"
+msgstr ""
+
+msgctxt "characters/538"
+msgid "Takayuki"
+msgstr ""
+
+msgctxt "characters/539"
+msgid "Rebel Worker"
+msgstr ""
+
+msgctxt "characters/540"
+msgid "Rebel Worker Arsonist"
+msgstr ""
+
+msgctxt "characters/541"
+msgid "Rebel Worker Tech"
+msgstr ""
+
+msgctxt "characters/542"
+msgid "Rebel Worker Mechanic"
+msgstr ""
+
+msgctxt "characters/543"
+msgid "Rebel Worker Heavy"
+msgstr ""
+
+msgctxt "characters/544"
+msgid "Rebel Worker Basher"
+msgstr ""
+
+msgctxt "characters/545"
+msgid "Vehicle Chassis"
+msgstr ""
+
+msgctxt "characters/546"
+msgid "Octotron"
+msgstr ""
+
+msgctxt "characters/547"
+msgid "Factory Bot"
+msgstr ""
+
+msgctxt "characters/548"
+msgid "Deputy Marshal Pitts"
+msgstr ""
+
+msgctxt "characters/549"
+msgid "Magistrate Silas Watkins"
+msgstr ""
+
+msgctxt "characters/550"
+msgid "Austin Pease"
+msgstr ""
+
+msgctxt "characters/551"
+msgid "Emaline Pease"
+msgstr ""
+
+msgctxt "characters/552"
+msgid "Light Machine Turret"
+msgstr ""
+
+msgctxt "characters/553"
+msgid "Heavy Machine Turret"
+msgstr ""
+
+msgctxt "characters/554"
+msgid "Light Cannon Turret"
+msgstr ""
+
+msgctxt "characters/555"
+msgid "Heavy Cannon Turret"
+msgstr ""
+
+msgctxt "characters/556"
+msgid "Laser Turret"
+msgstr ""
+
+msgctxt "characters/557"
+msgid "Fusion Turret"
+msgstr ""
+
+msgctxt "characters/558"
+msgid "Plasma Turret"
+msgstr ""
+
+msgctxt "characters/559"
+msgid "Minigun Turret"
+msgstr ""
+
+msgctxt "characters/560"
+msgid "Dorsey Prisoner"
+msgstr ""
+
+msgctxt "characters/561"
+msgid "Slave"
+msgstr ""
+
+msgctxt "characters/562"
+msgid "Jarett Dorsey"
+msgstr ""
+
+msgctxt "characters/563"
+msgid "Marshal Guard"
+msgstr ""
+
+msgctxt "characters/564"
+msgid "Test Bladed Enemy"
+msgstr ""
+
+msgctxt "characters/565"
+msgid "Paperboy"
+msgstr ""
+
+msgctxt "characters/566"
+msgid "Troy"
+msgstr ""
+
+msgctxt "characters/567"
+msgid "Dancing Teen"
+msgstr ""
+
+msgctxt "characters/568"
+msgid "Debug Dog"
+msgstr ""
+
+msgctxt "characters/569"
+msgid "Test SMG Enemy"
+msgstr ""
+
+msgctxt "characters/570"
+msgid "Josiah Casady"
+msgstr ""
+
+msgctxt "characters/571"
+msgid "Martha Casady"
+msgstr ""
+
+msgctxt "characters/572"
+msgid "Test Brawling Enemy"
+msgstr ""
+
+msgctxt "characters/573"
+msgid "Drinking Teen"
+msgstr ""
+
+msgctxt "characters/574"
+msgid "Dorsey Leadbiter"
+msgstr ""
+
+msgctxt "characters/575"
+msgid "Angus Hoon"
+msgstr ""
+
+msgctxt "characters/576"
+msgid "Avie Hoon"
+msgstr ""
+
+msgctxt "characters/577"
+msgid "Discobot"
+msgstr ""
+
+msgctxt "characters/578"
+msgid "Smoking Teen"
+msgstr ""
+
+msgctxt "characters/579"
+msgid "Troy"
+msgstr ""
+
+msgctxt "characters/580"
+msgid "Alpha Dog"
+msgstr ""
+
+msgctxt "characters/581"
+msgid "Dog"
+msgstr ""
+
+msgctxt "characters/582"
+msgid "Jorge"
+msgstr ""
+
+msgctxt "characters/583"
+msgid "Christopher"
+msgstr ""
+
+msgctxt "characters/584"
+msgid "Bryan"
+msgstr ""
+
+msgctxt "characters/585"
+msgid "Dan"
+msgstr ""
+
+msgctxt "characters/586"
+msgid "Scavenger M.I."
+msgstr ""
+
+msgctxt "characters/587"
+msgid "Scavenger M.I. Leader"
+msgstr ""
+
+msgctxt "characters/588"
+msgid "Two-Headed Gruff"
+msgstr ""
+
+msgctxt "characters/592"
+msgid "Aqua Vitae"
+msgstr ""
+
+msgctxt "characters/595"
+msgid "Killer"
+msgstr ""
+
+msgctxt "characters/596"
+msgid "Amber"
+msgstr ""
+
+msgctxt "characters/597"
+msgid "Discobot"
+msgstr ""
+
+msgctxt "characters/598"
+msgid "Spiderling"
+msgstr ""
+
+msgctxt "characters/599"
+msgid "Suicide Spider"
+msgstr ""
+
+msgctxt "characters/600"
+msgid "Blue's Gang Junker"
+msgstr ""
+
+msgctxt "characters/601"
+msgid "Factory Bot"
+msgstr ""
+
+msgctxt "characters/602"
+msgid "Shockling"
+msgstr ""
+
+msgctxt "characters/603"
+msgid "Factory Bot"
+msgstr ""
+
+msgctxt "characters/604"
+msgid "Nightclub Guard"
+msgstr ""
+
+msgctxt "characters/605"
+msgid "Synth"
+msgstr ""
+
+msgctxt "characters/606"
+msgid "Slicer Dicer"
+msgstr ""
+
+msgctxt "characters/608"
+msgid "Jailer"
+msgstr ""
+
+msgctxt "characters/609"
+msgid "Nox-Bomber"
+msgstr ""
+
+msgctxt "characters/610"
+msgid "Fumer"
+msgstr ""
+
+msgctxt "characters/611"
+msgid "Crazer"
+msgstr ""
+
+msgctxt "characters/612"
+msgid "Godfisher Watcher"
+msgstr ""
+
+msgctxt "characters/613"
+msgid "Adamant"
+msgstr ""
+
+msgctxt "characters/614"
+msgid "Godfisher Herald"
+msgstr ""
+
+msgctxt "characters/615"
+msgid "Immaculate"
+msgstr ""
+
+msgctxt "characters/616"
+msgid "Palace Guard"
+msgstr ""
+
+msgctxt "characters/617"
+msgid "Alarm"
+msgstr ""
+
+msgctxt "characters/618"
+msgid "Gipper Battle Nancy"
+msgstr ""
+
+msgctxt "characters/619"
+msgid "General's Clone"
+msgstr ""
+
+msgctxt "characters/623"
+msgid "Thug Enforcer"
+msgstr ""
+
+msgctxt "characters/624"
+msgid "Nightclub Goon"
+msgstr ""
+
+msgctxt "characters/625"
+msgid "Nightclub Enforcer"
+msgstr ""
+
+msgctxt "characters/628"
+msgid "Marshal Deputy"
+msgstr ""
+
+msgctxt "characters/629"
+msgid "Marshal Inspector"
+msgstr ""
+
+msgctxt "characters/630"
+msgid "Marshal Officer"
+msgstr ""
+
+msgctxt "characters/631"
+msgid "Arapaho Sharpshooter"
+msgstr ""
+
+msgctxt "characters/632"
+msgid "Arapaho Shotgunner"
+msgstr ""
+
+msgctxt "characters/633"
+msgid "Arapaho Grease Monkey"
+msgstr ""
+
+msgctxt "characters/634"
+msgid "Mama Cotter"
+msgstr ""
+
+msgctxt "characters/636"
+msgid "Marshal Quinn"
+msgstr ""
+
+msgctxt "characters/637"
+msgid "Gary \"NaCl\" Wolfe"
+msgstr ""
+
+msgctxt "characters/638"
+msgid "Fastback"
+msgstr ""
+
+msgctxt "characters/639"
+msgid "Wolfe Mercenary"
+msgstr ""
+
+msgctxt "characters/640"
+msgid "Pacer"
+msgstr ""
+
+msgctxt "characters/641"
+msgid "Jimmie Longhaul"
+msgstr ""
+
+msgctxt "characters/642"
+msgid "Wrench"
+msgstr ""
+
+msgctxt "characters/643"
+msgid "Calvin"
+msgstr ""
+
+msgctxt "characters/644"
+msgid "Jessica"
+msgstr ""
+
+msgctxt "characters/645"
+msgid "Jesse Cotter"
+msgstr ""
+
+msgctxt "characters/646"
+msgid "Jimmy Cotter"
+msgstr ""
+
+msgctxt "characters/647"
+msgid "Tommy Cotter"
+msgstr ""
+
+msgctxt "characters/648"
+msgid "Bobby Cotter"
+msgstr ""
+
+msgctxt "characters/649"
+msgid "Janet Castillo"
+msgstr ""
+
+msgctxt "characters/650"
+msgid "Julia Castillo"
+msgstr ""
+
+msgctxt "characters/651"
+msgid "Cora Castillo"
+msgstr ""
+
+msgctxt "characters/652"
+msgid "Gideon Reyes"
+msgstr ""
+
+msgctxt "characters/653"
+msgid "Clouds-Drifting-West"
+msgstr ""
+
+msgctxt "characters/654"
+msgid "Breather"
+msgstr ""
+
+msgctxt "characters/655"
+msgid "Miriam Knox"
+msgstr ""
+
+msgctxt "characters/656"
+msgid "Diligent Joe"
+msgstr ""
+
+msgctxt "characters/657"
+msgid "Elijah Ward"
+msgstr ""
+
+msgctxt "characters/658"
+msgid "Broadmoor Resident"
+msgstr ""
+
+msgctxt "characters/659"
+msgid "Convoy Ranger"
+msgstr ""
+
+msgctxt "characters/662"
+msgid "Freyja"
+msgstr ""
+
+msgctxt "characters/664"
+msgid "Frozen corpse"
+msgstr ""
+
+msgctxt "characters/666"
+msgid "Bargain Clown"
+msgstr ""
+
+msgctxt "characters/667"
+msgid "Whining Jimmy"
+msgstr ""
+
+msgctxt "characters/668"
+msgid "Safe Guard"
+msgstr ""
+
+msgctxt "characters/669"
+msgid "Newt Campbell"
+msgstr ""
+
+msgctxt "characters/670"
+msgid "Mountain Folk Gunner"
+msgstr ""
+
+msgctxt "characters/671"
+msgid "Mountain Folk Sharpshooter"
+msgstr ""
+
+msgctxt "characters/672"
+msgid "Mountain Folk Chopper"
+msgstr ""
+
+msgctxt "characters/673"
+msgid "Mountain Folk Berserker"
+msgstr ""
+
+msgctxt "characters/674"
+msgid "Mountain Folk Firestarter"
+msgstr ""
+
+msgctxt "characters/675"
+msgid "Mountain Folk Frostcaller"
+msgstr ""
+
+msgctxt "characters/676"
+msgid "Ranger Transport"
+msgstr ""
+
+msgctxt "characters/677"
+msgid "Marshal Truck"
+msgstr ""
+
+msgctxt "characters/678"
+msgid "Arapaho Convoy Truck"
+msgstr ""
+
+msgctxt "characters/679"
+msgid "War Wagon"
+msgstr ""
+
+msgctxt "characters/680"
+msgid "Walrus"
+msgstr ""
+
+msgctxt "characters/681"
+msgid "Godfisher Buggy"
+msgstr ""
+
+msgctxt "characters/682"
+msgid "Frankencar"
+msgstr ""
+
+msgctxt "characters/683"
+msgid "Debug Fishlips Conversation"
+msgstr ""
+
+msgctxt "characters/684"
+msgid "Refugee"
+msgstr ""
+
+msgctxt "characters/685"
+msgid "Donna"
+msgstr ""
+
+msgctxt "characters/686"
+msgid "Vivisecto, RN"
+msgstr ""
+
+msgctxt "characters/687"
+msgid "Human Outreach Mobile Gift Shop"
+msgstr ""
+
+msgctxt "characters/688"
+msgid "Vendomatic 2000!"
+msgstr ""
+
+msgctxt "characters/689"
+msgid "Brandi"
+msgstr ""
+
+msgctxt "characters/690"
+msgid "Commoner"
+msgstr ""
+
+msgctxt "characters/691"
+msgid "Betsy"
+msgstr ""
+
+msgctxt "characters/692"
+msgid "Margaret"
+msgstr ""
+
+msgctxt "characters/693"
+msgid "Winona"
+msgstr ""
+
+msgctxt "characters/694"
+msgid "Meson Cannon"
+msgstr ""
+
+msgctxt "characters/695"
+msgid "Marshal Dinh"
+msgstr ""
+
+msgctxt "characters/696"
+msgid "Simon The Squatch"
+msgstr ""
+
+msgctxt "characters/697"
+msgid "Ella Ripples"
+msgstr ""
+
+msgctxt "characters/698"
+msgid "Kyle Rockitt"
+msgstr ""
+
+msgctxt "characters/699"
+msgid "Magnus Hammer"
+msgstr ""
+
+msgctxt "characters/700"
+msgid "Sarah Gunns"
+msgstr ""
+
+msgctxt "characters/701"
+msgid "Sylver Stallion"
+msgstr ""
+
+msgctxt "characters/702"
+msgid "Bizarre Patron"
+msgstr ""
+
+msgctxt "characters/703"
+msgid "Pig"
+msgstr ""
+
+msgctxt "characters/704"
+msgid "M3 Turret"
+msgstr ""
+
+msgctxt "characters/705"
+msgid "M3 Cryo Beam"
+msgstr ""
+
+msgctxt "characters/706"
+msgid "M3 Shield Generator"
+msgstr ""
+
+msgctxt "characters/707"
+msgid "M3 Minigun"
+msgstr ""
+
+msgctxt "characters/708"
+msgid "Honey Badger"
+msgstr ""
+
+msgctxt "characters/709"
+msgid "Billy and Jean"
+msgstr ""
+
+msgctxt "characters/710"
+msgid "Dog"
+msgstr ""
+
+msgctxt "characters/711"
+msgid "Cat"
+msgstr ""
+
+msgctxt "characters/712"
+msgid "Pig"
+msgstr ""
+
+msgctxt "characters/713"
+msgid "Young Bison"
+msgstr ""
+
+msgctxt "characters/714"
+msgid "Cyborg Chicken"
+msgstr ""
+
+msgctxt "characters/715"
+msgid "Chicken"
+msgstr ""
+
+msgctxt "characters/716"
+msgid "Polly"
+msgstr ""
+
+msgctxt "characters/717"
+msgid "Debug: Missing Persons"
+msgstr ""
+
+msgctxt "characters/718"
+msgid "Poultron"
+msgstr ""
+
+msgctxt "characters/719"
+msgid "Angie's Pistoleer"
+msgstr ""
+
+msgctxt "characters/720"
+msgid "Angie's Tech"
+msgstr ""
+
+msgctxt "characters/721"
+msgid "Wounded Marshal"
+msgstr ""
+
+msgctxt "characters/722"
+msgid "Elite Trooper"
+msgstr ""
+
+msgctxt "characters/723"
+msgid "Elite Guard"
+msgstr ""
+
+msgctxt "characters/724"
+msgid "Palace Guard Captain"
+msgstr ""
+
+msgctxt "characters/725"
+msgid "Palace Guard Tech"
+msgstr ""
+
+msgctxt "characters/726"
+msgid "Elite Enforcer"
+msgstr ""
+
+msgctxt "characters/727"
+msgid "Palace Guard Rocket"
+msgstr ""
+
+msgctxt "characters/728"
+msgid "Refugee"
+msgstr ""
+
+msgctxt "characters/729"
+msgid "Unarmed Refugee"
+msgstr ""
+
+msgctxt "characters/730"
+msgid "Refugee Arsonist"
+msgstr ""
+
+msgctxt "characters/731"
+msgid "Refugee Pistoleer"
+msgstr ""
+
+msgctxt "characters/732"
+msgid "Refugee Instigator"
+msgstr ""
+
+msgctxt "characters/733"
+msgid "Refugee Gunner"
+msgstr ""
+
+msgctxt "characters/734"
+msgid "Bell Hackett"
+msgstr ""
+
+msgctxt "characters/735"
+msgid "Command Bot"
+msgstr ""
+
+msgctxt "characters/736"
+msgid "Statue of Reagan"
+msgstr ""
+
+msgctxt "characters/737"
+msgid "DEBUG Gideon Reyes"
+msgstr ""
+
+msgctxt "characters/738"
+msgid "DEBUG Diligent Joe"
+msgstr ""
+
+msgctxt "characters/739"
+msgid "Advance Team Heavy"
+msgstr ""
+
+msgctxt "characters/740"
+msgid "Advance Team Shotgunner"
+msgstr ""
+
+msgctxt "characters/741"
+msgid "Advance Team Gunner"
+msgstr ""
+
+msgctxt "characters/742"
+msgid "Advance Team Sniper"
+msgstr ""
+
+msgctxt "characters/743"
+msgid "Angie's Combat Medic"
+msgstr ""
+
+msgctxt "characters/744"
+msgid "Dorsey Chaosbringer"
+msgstr ""
+
+msgctxt "characters/745"
+msgid "Joey Bagodonuts"
+msgstr ""
+
+msgctxt "characters/746"
+msgid "Bookseller"
+msgstr ""
+
+msgctxt "characters/747"
+msgid "Merchant"
+msgstr ""
+
+msgctxt "characters/748"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "characters/749"
+msgid "Shop Foreman"
+msgstr ""
+
+msgctxt "characters/750"
+msgid "Machine Shop Thug"
+msgstr ""
+
+msgctxt "characters/751"
+msgid "Machine Shop Gunner"
+msgstr ""
+
+msgctxt "characters/752"
+msgid "Mercenary Marksman"
+msgstr ""
+
+msgctxt "characters/753"
+msgid "Mercenary Cutter"
+msgstr ""
+
+msgctxt "characters/754"
+msgid "Mercenary Tech"
+msgstr ""
+
+msgctxt "characters/755"
+msgid "Mercenary Medic"
+msgstr ""
+
+msgctxt "characters/756"
+msgid "Mercenary Leader"
+msgstr ""
+
+msgctxt "characters/757"
+msgid "Mercenary Hothead"
+msgstr ""
+
+msgctxt "characters/758"
+msgid "Mercenary Grenadier"
+msgstr ""
+
+msgctxt "characters/759"
+msgid "Mercenary Commando"
+msgstr ""
+
+msgctxt "characters/760"
+msgid "OMEGA"
+msgstr ""
+
+msgctxt "characters/761"
+msgid "Scotchmo"
+msgstr ""
+
+msgctxt "characters/762"
+msgid "Del Hackett"
+msgstr ""
+
+msgctxt "characters/763"
+msgid "Gertrude the Gruesome"
+msgstr ""
+
+msgctxt "characters/764"
+msgid "Scorpitron"
+msgstr ""
+
+msgctxt "characters/766"
+msgid "Clone"
+msgstr ""
+
+msgctxt "characters/767"
+msgid "Godfisher Hunter"
+msgstr ""
+
+msgctxt "characters/768"
+msgid "Godfisher Beastmaster"
+msgstr ""
+
+msgctxt "characters/769"
+msgid "Spiky Steve"
+msgstr ""
+
+msgctxt "characters/770"
+msgid "Cuddles the Bear"
+msgstr ""
+
+msgctxt "characters/771"
+msgid "Mangy Molly"
+msgstr ""
+
+msgctxt "characters/772"
+msgid "Percival Wesson"
+msgstr ""
+
+msgctxt "characters/773"
+msgid "Kym Hie"
+msgstr ""
+
+msgctxt "characters/774"
+msgid "Yoon Hie"
+msgstr ""
+
+msgctxt "characters/775"
+msgid "Moss Cogan"
+msgstr ""
+
+msgctxt "characters/776"
+msgid "Pvt. Jodie Bell"
+msgstr ""
+
+msgctxt "characters/777"
+msgid "Hallie"
+msgstr ""
+
+msgctxt "characters/778"
+msgid "La Perla"
+msgstr ""
+
+msgctxt "characters/779"
+msgid "Slaver Hunter"
+msgstr ""
+
+msgctxt "characters/780"
+msgid "Local 168 Mercenary"
+msgstr ""
+
+msgctxt "characters/781"
+msgid "Colorado Citizen"
+msgstr ""
+
+msgctxt "characters/782"
+msgid "Club Patron"
+msgstr ""
+
+msgctxt "characters/783"
+msgid "Hundred Families Member"
+msgstr ""
+
+msgctxt "characters/784"
+msgid "Knight Kadosch"
+msgstr ""
+
+msgctxt "characters/785"
+msgid "Nearly Unconscious Woman"
+msgstr ""
+
+msgctxt "characters/786"
+msgid "Severely Injured Man"
+msgstr ""
+
+msgctxt "characters/787"
+msgid "Badly Bleeding Man"
+msgstr ""
+
+msgctxt "characters/788"
+msgid "Courageous"
+msgstr ""
+
+msgctxt "characters/789"
+msgid "Factory Worker"
+msgstr ""
+
+msgctxt "characters/790"
+msgid "The Beast Master"
+msgstr ""
+
+msgctxt "characters/791"
+msgid "Ten of Hearts"
+msgstr ""
+
+msgctxt "characters/792"
+msgid "Dr. Cold Cuts"
+msgstr ""
+
+msgctxt "characters/793"
+msgid "Dr. Hyde"
+msgstr ""
+
+msgctxt "characters/794"
+msgid "Beast Master's Wolf"
+msgstr ""
+
+msgctxt "characters/795"
+msgid "Beast Master's Wolverine"
+msgstr ""
+
+msgctxt "characters/796"
+msgid "Hope Emerson"
+msgstr ""
+
+msgctxt "characters/797"
+msgid "Energy Drone"
+msgstr ""
+
+msgctxt "characters/798"
+msgid "Supply Officer Lachlan"
+msgstr ""
+
+msgctxt "characters/799"
+msgid "DARPA Bot"
+msgstr ""
+
+msgctxt "characters/803"
+msgid "Deputy Marshal Torres"
+msgstr ""
+
+msgctxt "characters/804"
+msgid "Silas Watkins"
+msgstr ""
+
+msgctxt "characters/805"
+msgid "Emaline Pease"
+msgstr ""
+
+msgctxt "characters/806"
+msgid "Austin Pease"
+msgstr ""
+
+msgctxt "characters/807"
+msgid "Paperboy"
+msgstr ""
+
+msgctxt "characters/808"
+msgid "Maxwell"
+msgstr ""
+
+msgctxt "characters/809"
+msgid "Sheriff Daisy"
+msgstr ""
+
+msgctxt "characters/810"
+msgid "Marshal Grandbois"
+msgstr ""
+
+msgctxt "characters/811"
+msgid "Senior Marshal"
+msgstr ""
+
+msgctxt "characters/812"
+msgid "Mercenary Robot"
+msgstr ""
+
+msgctxt "characters/813"
+msgid "Whetstone"
+msgstr ""
+
+msgctxt "characters/814"
+msgid "Pvt. Kerr"
+msgstr ""
+
+msgctxt "characters/815"
+msgid "Pvt. Kopman"
+msgstr ""
+
+msgctxt "characters/816"
+msgid "Pvt. Moise"
+msgstr ""
+
+msgctxt "characters/817"
+msgid "Pvt. Macchione"
+msgstr ""
+
+msgctxt "characters/818"
+msgid "Fixling"
+msgstr ""
+
+msgctxt "characters/819"
+msgid "Pvt. Meyers"
+msgstr ""
+
+msgctxt "characters/820"
+msgid "Pvt. Klein"
+msgstr ""
+
+msgctxt "characters/821"
+msgid "Pvt. Legendre"
+msgstr ""
+
+msgctxt "characters/822"
+msgid "Pvt. Mendieta"
+msgstr ""
+
+msgctxt "characters/823"
+msgid "Bar"
+msgstr ""
+
+msgctxt "characters/824"
+msgid "Pvt. Khaw"
+msgstr ""
+
+msgctxt "characters/825"
+msgid "Pvt. Wiedel"
+msgstr ""
+
+msgctxt "characters/826"
+msgid "Pvt. Jenkins"
+msgstr ""
+
+msgctxt "characters/827"
+msgid "Pvt. Bednar"
+msgstr ""
+
+msgctxt "characters/828"
+msgid "Pvt. Dean"
+msgstr ""
+
+msgctxt "characters/829"
+msgid "Pvt. Davey"
+msgstr ""
+
+msgctxt "characters/830"
+msgid "Pvt. Schwarz"
+msgstr ""
+
+msgctxt "characters/831"
+msgid "Pvt. Duncan"
+msgstr ""
+
+msgctxt "characters/832"
+msgid "Pvt. Bryant"
+msgstr ""
+
+msgctxt "characters/833"
+msgid "Pvt. Roberts"
+msgstr ""
+
+msgctxt "characters/834"
+msgid "Pvt. Winocur"
+msgstr ""
+
+msgctxt "characters/835"
+msgid "Pvt. Deeb"
+msgstr ""
+
+msgctxt "characters/836"
+msgid "Pvt. Jertberg"
+msgstr ""
+
+msgctxt "characters/837"
+msgid "Pvt. Hasian"
+msgstr ""
+
+msgctxt "characters/838"
+msgid "Pvt. Sanders"
+msgstr ""
+
+msgctxt "characters/839"
+msgid "Советский Робот"
+msgstr ""
+
+msgctxt "characters/840"
+msgid "Советская Турель"
+msgstr ""
+
+msgctxt "characters/841"
+msgid "Pvt. Long"
+msgstr ""
+
+msgctxt "characters/842"
+msgid "Pvt. Fish"
+msgstr ""
+
+msgctxt "characters/843"
+msgid "Pvt. Smith"
+msgstr ""
+
+msgctxt "characters/844"
+msgid "Pvt. Moya"
+msgstr ""
+
+msgctxt "characters/845"
+msgid "Pvt. Beekers"
+msgstr ""
+
+msgctxt "characters/846"
+msgid "Pvt. Moulder"
+msgstr ""
+
+msgctxt "characters/847"
+msgid "Pvt. Bloomer"
+msgstr ""
+
+msgctxt "characters/848"
+msgid "Pvt. Ziets"
+msgstr ""
+
+msgctxt "characters/849"
+msgid "Pvt. Lee"
+msgstr ""
+
+msgctxt "characters/850"
+msgid "Pvt. Hwang"
+msgstr ""
+
+msgctxt "characters/851"
+msgid "Pvt. Sandells"
+msgstr ""
+
+msgctxt "characters/852"
+msgid "Pvt. Schieffer"
+msgstr ""
+
+msgctxt "characters/853"
+msgid "Pvt. Fitzgerald"
+msgstr ""
+
+msgctxt "characters/854"
+msgid "Pvt. Scioneaux"
+msgstr ""
+
+msgctxt "characters/855"
+msgid "Pvt. Keenan"
+msgstr ""
+
+msgctxt "characters/856"
+msgid "Pvt. Findley"
+msgstr ""
+
+msgctxt "characters/857"
+msgid "Pvt. Sass"
+msgstr ""
+
+msgctxt "characters/858"
+msgid "Pvt. Tang"
+msgstr ""
+
+msgctxt "characters/859"
+msgid "Pvt. Betz"
+msgstr ""
+
+msgctxt "characters/860"
+msgid "Pvt. Pacholik"
+msgstr ""
+
+msgctxt "characters/861"
+msgid "Pvt. McDohl"
+msgstr ""
+
+msgctxt "characters/862"
+msgid "Pvt. McComb"
+msgstr ""
+
+msgctxt "characters/863"
+msgid "Pvt. Jurgens-Fyhrie"
+msgstr ""
+
+msgctxt "characters/864"
+msgid "Pvt. Itoi"
+msgstr ""
+
+msgctxt "characters/865"
+msgid "Irv Clone"
+msgstr ""
+
+msgctxt "characters/866"
+msgid "Jack off Hearts"
+msgstr ""
+
+msgctxt "characters/867"
+msgid "Queen of Hearts"
+msgstr ""
+
+msgctxt "characters/868"
+msgid "King of Hearts"
+msgstr ""
+
+msgctxt "characters/869"
+msgid "Joker"
+msgstr ""
+
+msgctxt "characters/870"
+msgid "Prostitute"
+msgstr ""
+
+msgctxt "characters/871"
+msgid "Satoshi"
+msgstr ""
+
+msgctxt "characters/872"
+msgid "Psychopath Crew Tech"
+msgstr ""
+
+msgctxt "characters/873"
+msgid "Psychopath Crew Pistoleer"
+msgstr ""
+
+msgctxt "characters/874"
+msgid "Psychopath Crew Heavy"
+msgstr ""
+
+msgctxt "characters/875"
+msgid "Psychopath Crew Shotgunner"
+msgstr ""
+
+msgctxt "characters/876"
+msgid "Psychopath Crew Basher"
+msgstr ""
+
+msgctxt "characters/877"
+msgid "Rebel Sniper"
+msgstr ""
+
+msgctxt "characters/878"
+msgid "Rebel Scout"
+msgstr ""
+
+msgctxt "characters/879"
+msgid "Rebel Tech"
+msgstr ""
+
+msgctxt "characters/880"
+msgid "Rebel Rifleman"
+msgstr ""
+
+msgctxt "characters/881"
+msgid "Hard-Head Mechanic"
+msgstr ""
+
+msgctxt "characters/882"
+msgid "Hard-Head Scrapper"
+msgstr ""
+
+msgctxt "characters/883"
+msgid "Ace Of Hearts"
+msgstr ""
+
+msgctxt "characters/884"
+msgid "Thief"
+msgstr ""
+
+msgctxt "characters/885"
+msgid "The Firebrand"
+msgstr ""
+
+msgctxt "characters/886"
+msgid "Professor Hadron"
+msgstr ""
+
+msgctxt "characters/887"
+msgid "Thief Leader"
+msgstr ""
+
+msgctxt "characters/888"
+msgid "Pvt. Bluth"
+msgstr ""
+
+msgctxt "characters/889"
+msgid "Drunk"
+msgstr ""
+
+msgctxt "characters/890"
+msgid "Doctor Denver"
+msgstr ""
+
+msgctxt "characters/891"
+msgid "Messenger"
+msgstr ""
+
+msgctxt "characters/892"
+msgid "Animatronic"
+msgstr ""
+
+msgctxt "characters/899"
+msgid "John Doe"
+msgstr ""
+
+msgctxt "characters/900"
+msgid "Jury-Rigged Scorpitron"
+msgstr ""
+
+msgctxt "characters/901"
+msgid "Junko Murayama"
+msgstr ""
+
+msgctxt "characters/902"
+msgid "Steeltown Worker"
+msgstr ""
+
+msgctxt "characters/903"
+msgid "Scar Collector Sharpshooter"
+msgstr ""
+
+msgctxt "characters/904"
+msgid "Prasad Memorial"
+msgstr ""
+
+msgctxt "characters/905"
+msgid "Payaso Clown Car"
+msgstr ""
+
+msgctxt "characters/906"
+msgid "Roxana Dorsey"
+msgstr ""
+
+msgctxt "characters/907"
+msgid "Stray Dog"
+msgstr ""
+
+msgctxt "characters/908"
+msgid "Gold Standard"
+msgstr ""
+
+msgctxt "characters/909"
+msgid "Disco D.O.P."
+msgstr ""
+
+msgctxt "characters/910"
+msgid "Servitor D.O.P."
+msgstr ""
+
+msgctxt "characters/911"
+msgid "Hedonist Robot"
+msgstr ""
+
+msgctxt "characters/912"
+msgid "Pvt. Jimenez"
+msgstr ""
+
+msgctxt "characters/913"
+msgid "Pvt. Campbell"
+msgstr ""
+
+msgctxt "characters/914"
+msgid "Bartender Finn"
+msgstr ""
+
+msgctxt "characters/915"
+msgid "Lynx"
+msgstr ""
+
+msgctxt "characters/916"
+msgid "Frank E Steen"
+msgstr ""
+
+msgctxt "characters/917"
+msgid "Gwynplaine"
+msgstr ""
+
+msgctxt "characters/918"
+msgid "Scientist"
+msgstr ""
+
+msgctxt "characters/919"
+msgid "Major Tomcat"
+msgstr ""
+
+msgctxt "characters/920"
+msgid "Ranger Private"
+msgstr ""
+
+msgctxt "characters/921"
+msgid "Pvt. Choi"
+msgstr ""
+
+msgctxt "characters/922"
+msgid "Pvt. Hourcade"
+msgstr ""
+
+msgctxt "characters/923"
+msgid "Pvt. Kim"
+msgstr ""
+
+msgctxt "characters/925"
+msgid "Pvt. Pellegrin"
+msgstr ""
+
+msgctxt "characters/926"
+msgid "Pvt. Hartline"
+msgstr ""
+
+msgctxt "characters/927"
+msgid "Pvt. Weits"
+msgstr ""
+
+msgctxt "characters/928"
+msgid "Pvt. Kotter"
+msgstr ""
+
+msgctxt "characters/929"
+msgid "Pvt. Birk"
+msgstr ""
+
+msgctxt "characters/930"
+msgid "Pvt. Plumlee"
+msgstr ""
+
+msgctxt "characters/931"
+msgid "Pvt. Latosinski"
+msgstr ""
+
+msgctxt "characters/932"
+msgid "Pvt. Rynkiewicz"
+msgstr ""
+
+msgctxt "characters/933"
+msgid "Pvt. Adamovic"
+msgstr ""
+
+msgctxt "characters/934"
+msgid "Pvt. Barkley"
+msgstr ""
+
+msgctxt "characters/936"
+msgid "Pvt. Trinh"
+msgstr ""
+
+msgctxt "characters/937"
+msgid "Pvt. Entwisle"
+msgstr ""
+
+msgctxt "characters/938"
+msgid "Pvt. Rogers"
+msgstr ""
+
+msgctxt "characters/939"
+msgid "The Great Gurn"
+msgstr ""
+
+msgctxt "characters/940"
+msgid "Medbot"
+msgstr ""
+
+msgctxt "characters/941"
+msgid "Team November Ranger"
+msgstr ""
+
+msgctxt "characters/942"
+msgid "Sonny Jim"
+msgstr ""
+
+msgctxt "characters/943"
+msgid "Dorsey Handgun 01"
+msgstr ""
+
+msgctxt "characters/944"
+msgid "Dorsey Handgun 00"
+msgstr ""
+
+msgctxt "characters/945"
+msgid "Dorsey AssaultRifle 00"
+msgstr ""
+
+msgctxt "characters/946"
+msgid "Dorsey AssaultRifle 01"
+msgstr ""
+
+msgctxt "characters/947"
+msgid "Dorsey Bladed 00"
+msgstr ""
+
+msgctxt "characters/948"
+msgid "Dorsey AssaultRifle 02"
+msgstr ""
+
+msgctxt "characters/949"
+msgid "Pvt. Beltran"
+msgstr ""
+
+msgctxt "characters/950"
+msgid "Pvt. Shanowski"
+msgstr ""
+
+msgctxt "characters/951"
+msgid "Pvt. Lau"
+msgstr ""
+
+msgctxt "characters/952"
+msgid "Sgt. Walsh"
+msgstr ""
+
+msgctxt "characters/953"
+msgid "Pvt. Velasquez"
+msgstr ""
+
+msgctxt "characters/954"
+msgid "Pvt. Russo"
+msgstr ""
+
+msgctxt "characters/955"
+msgid "Sgt. Abbas"
+msgstr ""
+
+msgctxt "characters/956"
+msgid "Pvt. Siegel"
+msgstr ""
+
+msgctxt "characters/957"
+msgid "Federico"
+msgstr ""
+
+msgctxt "characters/958"
+msgid "Pvt. Simms"
+msgstr ""
+
+msgctxt "characters/959"
+msgid "The Prisoner"
+msgstr ""
+
+msgctxt "characters/960"
+msgid "Creepy Doll"
+msgstr ""
+
+msgctxt "characters/961"
+msgid "Dorsey Grenadier 00"
+msgstr ""
+
+msgctxt "characters/962"
+msgid "DJ R.I.P."
+msgstr ""
+
+msgctxt "characters/963"
+msgid "DEBUG 963 Test Conversation"
+msgstr ""
+
+msgctxt "characters/964"
+msgid "Assault 2"
+msgstr ""
+
+msgctxt "characters/965"
+msgid "Assault 3"
+msgstr ""
+
+msgctxt "characters/966"
+msgid "Sniper 1"
+msgstr ""
+
+msgctxt "characters/967"
+msgid "Assault 1"
+msgstr ""
+
+msgctxt "characters/968"
+msgid "Rocket 1"
+msgstr ""
+
+msgctxt "characters/969"
+msgid "Rocket 2"
+msgstr ""
+
+msgctxt "characters/970"
+msgid "Sniper 2"
+msgstr ""
+
+msgctxt "characters/971"
+msgid "Sniper 3"
+msgstr ""
+
+msgctxt "characters/972"
+msgid "Pvt. Lang"
+msgstr ""
+
+msgctxt "characters/973"
+msgid "Roach-infested robot"
+msgstr ""
+
+msgctxt "characters/974"
+msgid "Debug Godfishers Vs Gippers "
+msgstr ""
+
+msgctxt "characters/975"
+msgid "Señora Gruñona"
+msgstr ""
+
+msgctxt "characters/976"
+msgid "Riddles"
+msgstr ""
+
+msgctxt "characters/977"
+msgid "Milo"
+msgstr ""
+
+msgctxt "characters/978"
+msgid "Puddles"
+msgstr ""
+
+msgctxt "characters/979"
+msgid "Miron"
+msgstr ""
+
+msgctxt "characters/980"
+msgid "Panzón"
+msgstr ""
+
+msgctxt "characters/981"
+msgid "Mittens's Little Sparkle"
+msgstr ""
+
+msgctxt "characters/982"
+msgid "Jimbo"
+msgstr ""
+
+msgctxt "characters/983"
+msgid "Britches"
+msgstr ""
+
+msgctxt "characters/984"
+msgid "Snuggles"
+msgstr ""
+
+msgctxt "characters/985"
+msgid "Knicknack"
+msgstr ""
+
+msgctxt "characters/986"
+msgid "Mini Mittens"
+msgstr ""
+
+msgctxt "characters/987"
+msgid "Dumpling"
+msgstr ""
+
+msgctxt "characters/988"
+msgid "Pumpkin"
+msgstr ""
+
+msgctxt "characters/989"
+msgid "Squeaks"
+msgstr ""
+
+msgctxt "characters/990"
+msgid "Jinggles"
+msgstr ""
+
+msgctxt "characters/991"
+msgid "Koko"
+msgstr ""
+
+msgctxt "characters/992"
+msgid "Pickles"
+msgstr ""
+
+msgctxt "characters/993"
+msgid "Waffles"
+msgstr ""
+
+msgctxt "characters/994"
+msgid "Ballerina"
+msgstr ""
+
+msgctxt "characters/995"
+msgid "Blackjack Dealer"
+msgstr ""
+
+msgctxt "characters/996"
+msgid "Roulette Croupier"
+msgstr ""
+
+msgctxt "characters/997"
+msgid "Hostess"
+msgstr ""
+
+msgctxt "characters/998"
+msgid "Mr. Pigglesworth"
+msgstr ""
+
+msgctxt "characters/999"
+msgid "Roman"
+msgstr ""
+
+msgctxt "characters/1000"
+msgid "Troy"
+msgstr ""
+
+msgctxt "characters/1001"
+msgid "Moronie"
+msgstr ""
+
+msgctxt "characters/1002"
+msgid "999-us01"
+msgstr ""
+
+msgctxt "characters/1003"
+msgid "Santa"
+msgstr ""
+
+msgctxt "characters/1004"
+msgid "Elf"
+msgstr ""
+
+msgctxt "characters/1005"
+msgid "Bushy Evergreen"
+msgstr ""
+
+msgctxt "characters/1006"
+msgid "Pepper Minstix"
+msgstr ""
+
+msgctxt "characters/1007"
+msgid "Shinny Upatree"
+msgstr ""
+
+msgctxt "characters/1008"
+msgid "Sugarplum Mary"
+msgstr ""
+
+msgctxt "characters/1009"
+msgid "Wunorse Openslae"
+msgstr ""
+
+msgctxt "characters/1010"
+msgid "Pixie Pudding"
+msgstr ""
+
+msgctxt "characters/1011"
+msgid "Dash Evergreen"
+msgstr ""
+
+msgctxt "characters/1012"
+msgid "Perky Candycane"
+msgstr ""
+
+msgctxt "characters/1013"
+msgid "Glitter-toes"
+msgstr ""
+
+msgctxt "characters/1014"
+msgid "Happy McJingles"
+msgstr ""
+
+msgctxt "characters/1015"
+msgid "Angel Frost"
+msgstr ""
+
+msgctxt "characters/1016"
+msgid "Tinsel Twinkle"
+msgstr ""
+
+msgctxt "characters/1017"
+msgid "Merry \"Ginger\" Pepper"
+msgstr ""
+
+msgctxt "characters/1018"
+msgid "Jingle Joy"
+msgstr ""
+
+msgctxt "characters/1019"
+msgid "Sparkle Winter"
+msgstr ""
+
+msgctxt "characters/1020"
+msgid "Noel Snowball"
+msgstr ""
+
+msgctxt "characters/1021"
+msgid "Tiny Winter"
+msgstr ""
+
+msgctxt "characters/1022"
+msgid "Elfin Candy"
+msgstr ""
+
+msgctxt "characters/1023"
+msgid "Plum Holly"
+msgstr ""
+
+msgctxt "characters/1024"
+msgid "Carol Snow"
+msgstr ""
+
+msgctxt "characters/1025"
+msgid "Brownie Cuddlelights"
+msgstr ""
+
+msgctxt "characters/1026"
+msgid "Treacletart Mullinglog"
+msgstr ""
+
+msgctxt "characters/1027"
+msgid "Evergreen Shinylog"
+msgstr ""
+
+msgctxt "characters/1028"
+msgid "Pompom Fruitboughs"
+msgstr ""
+
+msgctxt "characters/1029"
+msgid "Rustic Candywine"
+msgstr ""
+
+msgctxt "characters/1030"
+msgid "Cinnamon Twinklepie"
+msgstr ""
+
+msgctxt "characters/1031"
+msgid "Reindeer Chocolatetrifle"
+msgstr ""
+
+msgctxt "characters/1032"
+msgid "Lametta Candybells"
+msgstr ""
+
+msgctxt "characters/1033"
+msgid "Sugarmouse Peppercane"
+msgstr ""
+
+msgctxt "characters/1034"
+msgid "Bodyguard"
+msgstr ""
+
+msgctxt "characters/1035"
+msgid "Drive-Train"
+msgstr ""
+
+msgctxt "characters/1036"
+msgid "Benjie Braddock"
+msgstr ""
+
+msgctxt "characters/1037"
+msgid "Georgia Overdrive"
+msgstr ""
+
+msgctxt "characters/1038"
+msgid "Shotgun"
+msgstr ""
+
+msgctxt "characters/1039"
+msgid "Bulb"
+msgstr ""
+
+msgctxt "characters/1040"
+msgid "Brothel Patron"
+msgstr ""
+
+msgctxt "characters/1041"
+msgid "Dancer"
+msgstr ""
+
+msgctxt "characters/1042"
+msgid "Rollan Giff"
+msgstr ""
+
+msgctxt "characters/1043"
+msgid "Valentino"
+msgstr ""
+
+msgctxt "characters/1044"
+msgid "Franco"
+msgstr ""
+
+msgctxt "characters/1045"
+msgid "Axel"
+msgstr ""
+
+msgctxt "characters/1046"
+msgid "Ernesto"
+msgstr ""
+
+msgctxt "characters/1047"
+msgid "Alberto"
+msgstr ""
+
+msgctxt "characters/1048"
+msgid "Dave Steeler"
+msgstr ""
+
+msgctxt "characters/1049"
+msgid "Andy Coss"
+msgstr ""
+
+msgctxt "characters/1050"
+msgid "Graminahamham"
+msgstr ""
+
+msgctxt "characters/1051"
+msgid "Parry Marlin"
+msgstr ""
+
+msgctxt "characters/1052"
+msgid "Cannibal"
+msgstr ""
+
+msgctxt "characters/1053"
+msgid "Juvvie"
+msgstr ""
+
+msgctxt "characters/1054"
+msgid "Juvvie"
+msgstr ""
+
+msgctxt "characters/1055"
+msgid "Lieutenant Chuckles"
+msgstr ""
+
+msgctxt "characters/1056"
+msgid "DEBUG: Item Tester"
+msgstr ""
+
+msgctxt "characters/1057"
+msgid "Priest of the Final Deluge"
+msgstr ""
+
+msgctxt "characters/1058"
+msgid "G-String Theory"
+msgstr ""
+
+msgctxt "characters/1059"
+msgid "Excessive Force"
+msgstr ""
+
+msgctxt "characters/1060"
+msgid "Quick Draw"
+msgstr ""
+
+msgctxt "characters/1061"
+msgid "Pvt. Parts"
+msgstr ""
+
+msgctxt "characters/1062"
+msgid "Big Red"
+msgstr ""
+
+msgctxt "characters/1063"
+msgid " Debug NPC"
+msgstr ""
+
+msgctxt "characters/1064"
+msgid "Earline"
+msgstr ""
+
+msgctxt "characters/1065"
+msgid "Alfredo Garcia"
+msgstr ""
+
+msgctxt "characters/1066"
+msgid "Darryl"
+msgstr ""
+
+msgctxt "characters/1067"
+msgid "Darryl"
+msgstr ""
+
+msgctxt "characters/1068"
+msgid "Photon Amplification Lens"
+msgstr ""
+
+msgctxt "characters/1069"
+msgid "Commune Shooting Enthusiast"
+msgstr ""
+
+msgctxt "characters/1070"
+msgid "Taiwan Jones"
+msgstr ""
+
+msgctxt "characters/1071"
+msgid "Snappin' Jimmy Bob"
+msgstr ""
+
+msgctxt "characters/1072"
+msgid "Mary Milk-Teeth"
+msgstr ""
+
+msgctxt "characters/1073"
+msgid "TEMP Energy Rifle 00"
+msgstr ""
+
+msgctxt "characters/1074"
+msgid "TEMP Blunt 00"
+msgstr ""
+
+msgctxt "characters/1075"
+msgid "TEMP Energy Rifle 01"
+msgstr ""
+
+msgctxt "characters/1076"
+msgid "TEMP Blunt 01"
+msgstr ""
+
+msgctxt "characters/1077"
+msgid "TEMP Shotgun 00"
+msgstr ""
+
+msgctxt "characters/1078"
+msgid "TEMP SMG 00"
+msgstr ""
+
+msgctxt "characters/1079"
+msgid "Robear"
+msgstr ""
+
+msgctxt "characters/1080"
+msgid "Ronald The XLII"
+msgstr ""
+
+msgctxt "characters/1081"
+msgid "Ron"
+msgstr ""
+
+msgctxt "characters/1082"
+msgid "Patti"
+msgstr ""
+
+msgctxt "characters/1083"
+msgid "William"
+msgstr ""
+
+msgctxt "characters/1084"
+msgid "Brenda"
+msgstr ""
+
+msgctxt "characters/1085"
+msgid "RADIO Sister Nancy"
+msgstr ""
+
+msgctxt "characters/1086"
+msgid "Shakes"
+msgstr ""
+
+msgctxt "characters/1087"
+msgid "Ol' Baldy"
+msgstr ""
+
+msgctxt "characters/1088"
+msgid "Drool"
+msgstr ""
+
+msgctxt "characters/1089"
+msgid "Bile Bomber"
+msgstr ""
+
+msgctxt "characters/1090"
+msgid "Lost Soul"
+msgstr ""
+
+msgctxt "characters/1091"
+msgid "Ranch Leader"
+msgstr ""
+
+msgctxt "characters/1092"
+msgid "Scar Collector Leader"
+msgstr ""
+
+msgctxt "characters/1093"
+msgid "Bodacious"
+msgstr ""
+
+msgctxt "characters/1094"
+msgid "Bodacious II"
+msgstr ""
+
+msgctxt "characters/1095"
+msgid "Bodacious III"
+msgstr ""
+
+msgctxt "characters/1096"
+msgid "First Aid Station"
+msgstr ""
+
+msgctxt "characters/1097"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "characters/1098"
+msgid "Ice Spike"
+msgstr ""
+
+msgctxt "characters/1099"
+msgid "Hangry the Clown"
+msgstr ""
+
+msgctxt "characters/1100"
+msgid "Speaker"
+msgstr ""
+
+msgctxt "characters/1101"
+msgid "Prisoner"
+msgstr ""
+
+msgctxt "characters/1102"
+msgid "No Actual Speaker 1 "
+msgstr ""
+
+msgctxt "characters/1103"
+msgid "No Actual Speaker 2 "
+msgstr ""
+
+msgctxt "characters/1104"
+msgid "[TEMP] Explosively angry Alan"
+msgstr ""
+
+msgctxt "characters/1105"
+msgid "Almore Hoon"
+msgstr ""
+
+msgctxt "characters/1106"
+msgid "Angus Hoon, Jr."
+msgstr ""
+
+msgctxt "characters/1107"
+msgid "Rosemary Hoon"
+msgstr ""
+
+msgctxt "characters/1108"
+msgid "Tabitha Hoon"
+msgstr ""
+
+msgctxt "characters/1110"
+msgid "Flesh Trapper 00"
+msgstr ""
+
+msgctxt "characters/1111"
+msgid "Earl"
+msgstr ""
+
+msgctxt "characters/1112"
+msgid "Null Stack"
+msgstr ""
+
+msgctxt "characters/1113"
+msgid "Bodacious"
+msgstr ""
+
+msgctxt "characters/1114"
+msgid "Flesh Trapper 01"
+msgstr ""
+
+msgctxt "characters/1115"
+msgid "Refugee Rifleman"
+msgstr ""
+
+msgctxt "characters/1116"
+msgid "TEST Heavy 00"
+msgstr ""
+
+msgctxt "characters/1117"
+msgid "TEST Sniper 00"
+msgstr ""
+
+msgctxt "characters/1118"
+msgid "TEST Sniper 01"
+msgstr ""
+
+msgctxt "characters/1119"
+msgid "TEST Heavy 01"
+msgstr ""
+
+msgctxt "characters/1120"
+msgid "TEST Blunt 00"
+msgstr ""
+
+msgctxt "characters/1121"
+msgid "TEST Blunt 01"
+msgstr ""
+
+msgctxt "characters/1122"
+msgid "Plasma Mining Laser"
+msgstr ""
+
+msgctxt "characters/1123"
+msgid "Dos-Teh-Seh"
+msgstr ""
+
+msgctxt "characters/1124"
+msgid "Monster Goat"
+msgstr ""
+
+msgctxt "characters/1125"
+msgid "Waste Wormling"
+msgstr ""
+
+msgctxt "characters/1126"
+msgid "Frost Crawler"
+msgstr ""
+
+msgctxt "characters/1127"
+msgid "Silicon Reaver"
+msgstr ""
+
+msgctxt "characters/1128"
+msgid "Pikalope"
+msgstr ""
+
+msgctxt "characters/1129"
+msgid "Pikalope Witch Doctor"
+msgstr ""
+
+msgctxt "characters/1130"
+msgid "Bull Pikalope"
+msgstr ""
+
+msgctxt "characters/1131"
+msgid "Waste Goop"
+msgstr ""
+
+msgctxt "characters/1132"
+msgid "Flesh Mass"
+msgstr ""
+
+msgctxt "characters/1133"
+msgid "Splitting Sludge"
+msgstr ""
+
+msgctxt "characters/1134"
+msgid "Deputy Marshal Bowen"
+msgstr ""
+
+msgctxt "characters/1135"
+msgid "Decoy"
+msgstr ""
+
+msgctxt "characters/1136"
+msgid "Thumper"
+msgstr ""
+
+msgctxt "characters/1137"
+msgid "Elemental Projector"
+msgstr ""
+
+msgctxt "characters/1138"
+msgid "Bloodbeast"
+msgstr ""
+
+msgctxt "characters/1139"
+msgid "Mechagrowler"
+msgstr ""
+
+msgctxt "characters/1140"
+msgid "Monster Goat"
+msgstr ""
+
+msgctxt "characters/1141"
+msgid "Unnamed Grave"
+msgstr ""
+
+msgctxt "characters/1142"
+msgid "Bomb Hopper"
+msgstr ""
+
+msgctxt "characters/1143"
+msgid "Gas Hopper"
+msgstr ""
+
+msgctxt "characters/1144"
+msgid "Nuke Hopper"
+msgstr ""
+
+msgctxt "characters/1145"
+msgid "Sister Nancy Glory"
+msgstr ""
+
+msgctxt "characters/1146"
+msgid "Mother Nancy Reliance"
+msgstr ""
+
+msgctxt "characters/1147"
+msgid "Immortal Complex Terminal"
+msgstr ""
+
+msgctxt "characters/1148"
+msgid "Sawdog"
+msgstr ""
+
+msgctxt "characters/1149"
+msgid "Sawpup"
+msgstr ""
+
+msgctxt "characters/1150"
+msgid "StarStationWars.exe"
+msgstr ""
+
+msgctxt "characters/1151"
+msgid "Dying Man"
+msgstr ""
+
+msgctxt "characters/1152"
+msgid "Krampus"
+msgstr ""
+
+msgctxt "characters/1153"
+msgid "Frau Perchta"
+msgstr ""
+
+msgctxt "characters/1154"
+msgid "Belsnickel"
+msgstr ""
+
+msgctxt "characters/1155"
+msgid "Remote User"
+msgstr ""
+
+msgctxt "characters/1156"
+msgid "Pvt. Kim"
+msgstr ""
+
+msgctxt "characters/1157"
+msgid "Pvt. Kim"
+msgstr ""
+
+msgctxt "characters/1158"
+msgid "Pvt. Krueger"
+msgstr ""
+
+msgctxt "characters/1159"
+msgid "Santa"
+msgstr ""
+
+msgctxt "characters/1160"
+msgid "Cassette"
+msgstr ""
+
+msgctxt "characters/1161"
+msgid "Fox"
+msgstr ""
+
+msgctxt "characters/1162"
+msgid "Doe"
+msgstr ""
+
+msgctxt "characters/1163"
+msgid "Stag"
+msgstr ""
+
+msgctxt "characters/1164"
+msgid "Rabbit"
+msgstr ""
+
+msgctxt "characters/1165"
+msgid "Rancher"
+msgstr ""
+
+msgctxt "characters/1166"
+msgid "Pvt. Tillett"
+msgstr ""
+
+msgctxt "characters/1167"
+msgid "SAL's Terminal"
+msgstr ""
+
+msgctxt "characters/1169"
+msgid "Stitches"
+msgstr ""
+
+msgctxt "characters/1170"
+msgid "Commune Archeologist"
+msgstr ""
+
+msgctxt "characters/1171"
+msgid "Commune Philosopher"
+msgstr ""
+
+msgctxt "characters/1172"
+msgid "Party Pal"
+msgstr ""
+
+msgctxt "characters/1173"
+msgid "Dorsey War-bot"
+msgstr ""
+
+msgctxt "characters/1174"
+msgid "<i></i><i></i> visPacem 64 <i></i><i></i>"
+msgstr ""
+
+msgctxt "characters/1175"
+msgid "Goat"
+msgstr ""
+
+msgctxt "characters/1176"
+msgid "Woman in White"
+msgstr ""
+
+msgctxt "characters/1177"
+msgid "Bellameow"
+msgstr ""
+
+msgctxt "characters/1178"
+msgid "Vigilant Guard"
+msgstr ""
+
+msgctxt "characters/1179"
+msgid "Tom Redd"
+msgstr ""
+
+msgctxt "characters/1180"
+msgid "Isabelle Redd"
+msgstr ""
+
+msgctxt "characters/1181"
+msgid "Jimmy-6"
+msgstr ""
+
+msgctxt "characters/1182"
+msgid "Terminal Guard"
+msgstr ""
+
+msgctxt "characters/1183"
+msgid "Subsystem I"
+msgstr ""
+
+msgctxt "characters/1184"
+msgid "Subsystem II"
+msgstr ""
+
+msgctxt "characters/1185"
+msgid "Subsystem III"
+msgstr ""
+
+msgctxt "characters/1186"
+msgid "SYSTEMS CRITICAL"
+msgstr ""
+
+msgctxt "characters/1187"
+msgid "Vivesecto, RN"
+msgstr ""
+
+msgctxt "characters/1188"
+msgid "Flensing-Ice"
+msgstr ""
+
+msgctxt "characters/1189"
+msgid "V.I.C.I."
+msgstr ""
+
+msgctxt "characters/1190"
+msgid "Dorsey Killer"
+msgstr ""
+
+msgctxt "characters/1191"
+msgid "Dorsey Stalker"
+msgstr ""
+
+msgctxt "characters/1192"
+msgid "Godfisher Penitent"
+msgstr ""
+
+msgctxt "characters/1193"
+msgid "Gipper Loyalist"
+msgstr ""
+
+msgctxt "characters/1194"
+msgid "Gipper Mechanic"
+msgstr ""
+
+msgctxt "characters/1195"
+msgid "Gipper Patriot"
+msgstr ""
+
+msgctxt "characters/1196"
+msgid "Scar Collector Slave"
+msgstr ""
+
+msgctxt "characters/1197"
+msgid "Scar Collector Bomb Thrall"
+msgstr ""
+
+msgctxt "characters/1198"
+msgid "Scar Collector Cyclops"
+msgstr ""
+
+msgctxt "characters/1199"
+msgid "Scar Collector Heavy"
+msgstr ""
+
+msgctxt "characters/1200"
+msgid "Angie's Marksman"
+msgstr ""
+
+msgctxt "characters/1201"
+msgid "Angie's Breacher"
+msgstr ""
+
+msgctxt "characters/1202"
+msgid "Angie's Heavy Support"
+msgstr ""
+
+msgctxt "characters/1203"
+msgid "Angie's Gunslinger"
+msgstr ""
+
+msgctxt "characters/1204"
+msgid "Angie's Tech Specialist"
+msgstr ""
+
+msgctxt "characters/1205"
+msgid "Angie's Rebel"
+msgstr ""
+
+msgctxt "characters/1206"
+msgid "Nightclub Pit Boss"
+msgstr ""
+
+msgctxt "characters/1207"
+msgid "Shockdog"
+msgstr ""
+
+msgctxt "characters/1208"
+msgid "Drilldog"
+msgstr ""
+
+msgctxt "characters/1209"
+msgid "Liberty's War-bot"
+msgstr ""
+
+msgctxt "characters/1210"
+msgid "War-bot"
+msgstr ""
+
+msgctxt "characters/1211"
+msgid "Glow Hopper"
+msgstr ""
+
+msgctxt "characters/1212"
+msgid "Spiny Hopper"
+msgstr ""
+
+msgctxt "characters/1213"
+msgid "Monster Army Boomer"
+msgstr ""
+
+msgctxt "characters/1214"
+msgid "Smuggler Cutter "
+msgstr ""
+
+msgctxt "characters/1215"
+msgid "Smuggler Devastator "
+msgstr ""
+
+msgctxt "characters/1216"
+msgid "Slaver Enforcer"
+msgstr ""
+
+msgctxt "characters/1217"
+msgid "Slaver Trapper"
+msgstr ""
+
+msgctxt "characters/1218"
+msgid "Mercenary Commando"
+msgstr ""
+
+msgctxt "characters/1219"
+msgid "Mercenary Gunslinger"
+msgstr ""
+
+msgctxt "characters/1220"
+msgid "Mercenary Soldier"
+msgstr ""
+
+msgctxt "characters/1221"
+msgid "Wessons' Servitor Bot"
+msgstr ""
+
+msgctxt "characters/1222"
+msgid "DEBUG OEI Functions"
+msgstr ""
+
+msgctxt "characters/1223"
+msgid "Marshal Enforcer"
+msgstr ""
+
+msgctxt "characters/1224"
+msgid "Mysterious Case"
+msgstr ""
+
+msgctxt "characters/1225"
+msgid "Rusted Slicer Dicer"
+msgstr ""
+
+msgctxt "characters/1226"
+msgid "Parkelj"
+msgstr ""
+
+msgctxt "characters/1227"
+msgid "Wubartl"
+msgstr ""
+
+msgctxt "characters/1228"
+msgid "Armored Marshal Enforcer"
+msgstr ""
+
+msgctxt "characters/1229"
+msgid "Armored Marshal Defender"
+msgstr ""
+
+msgctxt "characters/1230"
+msgid "Ranger Infantry"
+msgstr ""
+
+msgctxt "characters/1231"
+msgid "Ranger Tech"
+msgstr ""
+
+msgctxt "characters/1232"
+msgid "Ranger Medic"
+msgstr ""
+
+msgctxt "characters/1233"
+msgid "Ranger Heavy"
+msgstr ""
+
+msgctxt "characters/1234"
+msgid "Ranger Sweeper"
+msgstr ""
+
+msgctxt "characters/1235"
+msgid "Ranger Gunner"
+msgstr ""
+
+msgctxt "characters/1236"
+msgid "Ranger Sniper"
+msgstr ""
+
+msgctxt "characters/1237"
+msgid "Melissa Howe"
+msgstr ""
+
+msgctxt "characters/1238"
+msgid "Disappeared Daughter"
+msgstr ""
+
+msgctxt "characters/1239"
+msgid "Disappeared Sister"
+msgstr ""
+
+msgctxt "characters/1240"
+msgid "Liberty Buchanan's desk"
+msgstr ""
+
+msgctxt "characters/1241"
+msgid "Adult Waste Worm"
+msgstr ""
+
+msgctxt "characters/1242"
+msgid "Waste Worm Queen"
+msgstr ""
+
+msgctxt "characters/1243"
+msgid "Waste Worm Colony Lord"
+msgstr ""
+
+msgctxt "characters/1244"
+msgid "Sawpup"
+msgstr ""
+
+msgctxt "characters/1245"
+msgid "Mini Scorpitron"
+msgstr ""
+
+msgctxt "characters/1246"
+msgid "Marshal Animatronic"
+msgstr ""
+
+msgctxt "characters/1247"
+msgid "Monster Army Animatronic"
+msgstr ""
+
+msgctxt "characters/1248"
+msgid "Scar Collector Animatronic"
+msgstr ""
+
+msgctxt "characters/1249"
+msgid "Manifest Destiny"
+msgstr ""
+
+msgctxt "characters/1250"
+msgid "Melvin Gilbert"
+msgstr ""
+
+msgctxt "characters/1251"
+msgid "Tree"
+msgstr ""
+
+msgctxt "characters/1252"
+msgid "Bench"
+msgstr ""
+
+msgctxt "characters/1253"
+msgid "Duty Roster"
+msgstr ""
+
+msgctxt "characters/1254"
+msgid "Papers"
+msgstr ""
+
+msgctxt "characters/1255"
+msgid "Guard"
+msgstr ""
+
+msgctxt "characters/1256"
+msgid "Angry Patron"
+msgstr ""
+
+msgctxt "characters/1257"
+msgid "Pvt. Brandon"
+msgstr ""
+
+msgctxt "characters/1258"
+msgid "Local 168 Bomber"
+msgstr ""
+
+msgctxt "characters/1259"
+msgid "Jaxie"
+msgstr ""
+
+msgctxt "characters/1260"
+msgid "Pol Ruby"
+msgstr ""
+
+msgctxt "characters/1261"
+msgid "Gilded Bert"
+msgstr ""
+
+msgctxt "characters/1262"
+msgid "Officer Six"
+msgstr ""
+
+msgctxt "characters/1263"
+msgid "Tony Baloney"
+msgstr ""
+
+msgctxt "characters/1264"
+msgid "Golden Scorpitron"
+msgstr ""
+
+msgctxt "characters/1265"
+msgid "Commune Bomb Hopper"
+msgstr ""
+
+msgctxt "characters/1266"
+msgid "Commune Discobot"
+msgstr ""
+
+msgctxt "characters/1267"
+msgid "Commune Factory Arm"
+msgstr ""
+
+msgctxt "characters/1268"
+msgid "Commune Killer"
+msgstr ""
+
+msgctxt "characters/1269"
+msgid "Commune Octotron"
+msgstr ""
+
+msgctxt "characters/1270"
+msgid "Commune Sawdog"
+msgstr ""
+
+msgctxt "characters/1271"
+msgid "Commune Sawpup"
+msgstr ""
+
+msgctxt "characters/1272"
+msgid "Commune Synth"
+msgstr ""
+
+msgctxt "characters/1273"
+msgid "Commune Laser Turret"
+msgstr ""
+
+msgctxt "characters/1274"
+msgid "Commune Plasma Turret"
+msgstr ""
+
+msgctxt "characters/1275"
+msgid "Commune Gas Hopper"
+msgstr ""
+
+msgctxt "characters/1276"
+msgid "Commune Nuke Hopper"
+msgstr ""
+
+msgctxt "characters/1277"
+msgid "Commune Medbot"
+msgstr ""
+
+msgctxt "characters/1278"
+msgid "Commune Drilldog"
+msgstr ""
+
+msgctxt "characters/1279"
+msgid "Commune Shockdog"
+msgstr ""
+
+msgctxt "characters/1280"
+msgid "Commune Scorpitron"
+msgstr ""
+
+msgctxt "characters/1281"
+msgid "Commune Mini Scorpitron"
+msgstr ""
+
+msgctxt "characters/1282"
+msgid "Commune Servitor Bot"
+msgstr ""
+
+msgctxt "characters/1283"
+msgid "Commune Command Bot"
+msgstr ""
+
+msgctxt "characters/1284"
+msgid "Commune Slicer Dicer"
+msgstr ""
+
+msgctxt "characters/1285"
+msgid "Commune Fixling"
+msgstr ""
+
+msgctxt "characters/1286"
+msgid "Commune Shock Spider"
+msgstr ""
+
+msgctxt "characters/1287"
+msgid "Commune Spiderling"
+msgstr ""
+
+msgctxt "characters/1288"
+msgid "Commune Spider Bot"
+msgstr ""
+
+msgctxt "characters/1289"
+msgid "Commune Suicide Spider"
+msgstr ""
+
+msgctxt "characters/1290"
+msgid "Commune Minigun Turret"
+msgstr ""
+
+msgctxt "characters/1291"
+msgid "Commune Light Machine Turret"
+msgstr ""
+
+msgctxt "characters/1292"
+msgid "Commune Light Cannon Turret"
+msgstr ""
+
+msgctxt "characters/1293"
+msgid "Commune Heavy Machine Turret"
+msgstr ""
+
+msgctxt "characters/1294"
+msgid "Commune Fusion Turret"
+msgstr ""
+
+msgctxt "characters/1295"
+msgid "Commune Shield Generator"
+msgstr ""
+
+msgctxt "characters/1296"
+msgid "Snow Pile"
+msgstr ""
+
+msgctxt "characters/1297"
+msgid "Roadblock"
+msgstr ""
+
+msgctxt "characters/1298"
+msgid "Ambush!"
+msgstr ""
+
+msgctxt "characters/1299"
+msgid "Enemies Spotted"
+msgstr ""
+
+msgctxt "characters/1300"
+msgid "Suspicious Activity"
+msgstr ""
+
+msgctxt "characters/1301"
+msgid "Hidden Structure"
+msgstr ""
+
+msgctxt "characters/1302"
+msgid "Scorpitron!!!"
+msgstr ""
+
+msgctxt "characters/1303"
+msgid "Natural Shelter"
+msgstr ""
+
+msgctxt "characters/1304"
+msgid "Abandoned Building"
+msgstr ""
+
+msgctxt "characters/1305"
+msgid "Cache"
+msgstr ""
+
+msgctxt "characters/1306"
+msgid "Traveling Busker"
+msgstr ""
+
+msgctxt "characters/1307"
+msgid "Bo Hoon"
+msgstr ""
+
+msgctxt "characters/1308"
+msgid "Lug Nuts"
+msgstr ""
+
+msgctxt "characters/1309"
+msgid "Sister Reckoning"
+msgstr ""
+
+msgctxt "characters/1310"
+msgid "Zero Pricely"
+msgstr ""
+
+msgctxt "characters/1311"
+msgid "B. B. Gunn"
+msgstr ""
+
+msgctxt "characters/1312"
+msgid "She-Monster"
+msgstr ""
+
+msgctxt "characters/1313"
+msgid "Cheebus"
+msgstr ""
+
+msgctxt "characters/1314"
+msgid "O'Leary Family"
+msgstr ""
+
+msgctxt "characters/1316"
+msgid "Mercenary \"Mini\" Gunner"
+msgstr ""
+
+msgctxt "characters/1317"
+msgid "Commune Heavy Cannon Turret"
+msgstr ""
+
+msgctxt "characters/1319"
+msgid "Pvt. Fagan"
+msgstr ""
+
+msgctxt "characters/1320"
+msgid "Pvt. O'Neill"
+msgstr ""
+
+msgctxt "characters/1321"
+msgid "Mysterious Wreck"
+msgstr ""
+
+msgctxt "characters/1322"
+msgid "Gate Guard"
+msgstr ""
+
+msgctxt "characters/1323"
+msgid "Cowboy Val"
+msgstr ""
+
+msgctxt "characters/1324"
+msgid "John Masa"
+msgstr ""
+
+msgctxt "characters/1325"
+msgid "Mykull Rodeo"
+msgstr ""
+
+msgctxt "characters/1326"
+msgid "Sykko Sam"
+msgstr ""
+
+msgctxt "characters/1327"
+msgid "Bimbus Bill"
+msgstr ""
+
+msgctxt "characters/1328"
+msgid "William Scar"
+msgstr ""
+
+msgctxt "characters/1329"
+msgid "Prostitute"
+msgstr ""
+
+msgctxt "characters/1330"
+msgid "Cowboy Eddy"
+msgstr ""
+
+msgctxt "characters/1331"
+msgid "Cowboy Petey"
+msgstr ""
+
+msgctxt "characters/1332"
+msgid "Cowboy Stephan"
+msgstr ""
+
+msgctxt "characters/1333"
+msgid "Corrupt Marshal"
+msgstr ""
+
+msgctxt "characters/1334"
+msgid "Radio"
+msgstr ""
+
+msgctxt "characters/1335"
+msgid "Greet-O"
+msgstr ""
+
+msgctxt "characters/1336"
+msgid "Kathmandu"
+msgstr ""
+
+msgctxt "characters/1382"
+msgid "Pvt. Deputowski"
+msgstr ""
+
+msgctxt "characters/1476"
+msgid "Assistant Rahmen"
+msgstr ""
+
+msgctxt "characters/1477"
+msgid "Parrot"
+msgstr ""
+
+msgctxt "characters/1479"
+msgid "Steeltown Employee"
+msgstr ""
+
+msgctxt "characters/1481"
+msgid "Guidance Counselor"
+msgstr ""
+
+msgctxt "characters/1487"
+msgid "Computer"
+msgstr ""
+
+msgctxt "characters/1488"
+msgid "Intercom"
+msgstr ""
+
+msgctxt "characters/1491"
+msgid "Toaster"
+msgstr ""
+
+msgctxt "characters/1505"
+msgid "Clockwork Chicken"
+msgstr ""
+
+msgctxt "characters/1506"
+msgid "Vending Machine"
+msgstr ""
+
+msgctxt "characters/1547"
+msgid "[empty]"
+msgstr ""

@@ -1,0 +1,687 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:11+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "inputactions/0"
+msgid " The first InputAction entry text"
+msgstr ""
+
+msgctxt "inputactions/1"
+msgid "Move Character"
+msgstr ""
+
+msgctxt "inputactions/2"
+msgid "Move Character"
+msgstr ""
+
+msgctxt "inputactions/3"
+msgid "Rotate Camera"
+msgstr ""
+
+msgctxt "inputactions/4"
+msgid "Zoom Camera"
+msgstr ""
+
+msgctxt "inputactions/5"
+msgid "Navigate Menus"
+msgstr ""
+
+msgctxt "inputactions/6"
+msgid "Navigate Menus"
+msgstr ""
+
+msgctxt "inputactions/7"
+msgid "D-Pad Horizontal"
+msgstr ""
+
+msgctxt "inputactions/8"
+msgid "D-Pad Vertical"
+msgstr ""
+
+msgctxt "inputactions/9"
+msgid "Submit"
+msgstr ""
+
+msgctxt "inputactions/10"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "inputactions/11"
+msgid "Continue"
+msgstr ""
+
+msgctxt "inputactions/12"
+msgid "Select"
+msgstr ""
+
+msgctxt "inputactions/13"
+msgid "Interact"
+msgstr ""
+
+msgctxt "inputactions/14"
+msgid "Alternate Interact"
+msgstr ""
+
+msgctxt "inputactions/15"
+msgid "Highlight Objects"
+msgstr ""
+
+msgctxt "inputactions/16"
+msgid "End Turn"
+msgstr ""
+
+msgctxt "inputactions/17"
+msgid "Attack"
+msgstr ""
+
+msgctxt "inputactions/18"
+msgid "Pause"
+msgstr ""
+
+msgctxt "inputactions/19"
+msgid "Close"
+msgstr ""
+
+msgctxt "inputactions/20"
+msgid "Quicksave"
+msgstr ""
+
+msgctxt "inputactions/21"
+msgid "Quickload"
+msgstr ""
+
+msgctxt "inputactions/22"
+msgid "Toggle HUD"
+msgstr ""
+
+msgctxt "inputactions/23"
+msgid "Toggle Console"
+msgstr ""
+
+msgctxt "inputactions/24"
+msgid "Attributes"
+msgstr ""
+
+msgctxt "inputactions/25"
+msgid "Inventory"
+msgstr ""
+
+msgctxt "inputactions/26"
+msgid "Journal"
+msgstr ""
+
+msgctxt "inputactions/27"
+msgid "Map"
+msgstr ""
+
+msgctxt "inputactions/28"
+msgid "Menu"
+msgstr ""
+
+msgctxt "inputactions/29"
+msgid "Select Next Character"
+msgstr ""
+
+msgctxt "inputactions/30"
+msgid "Select Previous Character"
+msgstr ""
+
+msgctxt "inputactions/31"
+msgid "Select Next Target"
+msgstr ""
+
+msgctxt "inputactions/32"
+msgid "Select Previous Target"
+msgstr ""
+
+msgctxt "inputactions/33"
+msgid "Next Tab"
+msgstr ""
+
+msgctxt "inputactions/34"
+msgid "Previous Tab"
+msgstr ""
+
+msgctxt "inputactions/35"
+msgid "Examine Item"
+msgstr ""
+
+msgctxt "inputactions/36"
+msgid "Default Item Action"
+msgstr ""
+
+msgctxt "inputactions/37"
+msgid "Level Up"
+msgstr ""
+
+msgctxt "inputactions/38"
+msgid "Drop Item"
+msgstr ""
+
+msgctxt "inputactions/39"
+msgid "Transfer Item"
+msgstr ""
+
+msgctxt "inputactions/40"
+msgid "Delete Saved Game"
+msgstr ""
+
+msgctxt "inputactions/41"
+msgid "Talk To Squad Member"
+msgstr ""
+
+msgctxt "inputactions/42"
+msgid "Show Stats"
+msgstr ""
+
+msgctxt "inputactions/43"
+msgid "Back"
+msgstr ""
+
+msgctxt "inputactions/44"
+msgid "Next"
+msgstr ""
+
+msgctxt "inputactions/45"
+msgid "Quickbar {0}"
+msgstr ""
+
+msgctxt "inputactions/46"
+msgid "Restore Defaults"
+msgstr ""
+
+msgctxt "inputactions/47"
+msgid "Switch Weapons"
+msgstr ""
+
+msgctxt "inputactions/48"
+msgid "Reload"
+msgstr ""
+
+msgctxt "inputactions/49"
+msgid "Switch Fire Mode"
+msgstr ""
+
+msgctxt "inputactions/50"
+msgid "Toggle Tactical Mode"
+msgstr ""
+
+msgctxt "inputactions/51"
+msgid "Select Character {0}"
+msgstr ""
+
+msgctxt "inputactions/52"
+msgid "Left Click"
+msgstr ""
+
+msgctxt "inputactions/53"
+msgid "Right Click"
+msgstr ""
+
+msgctxt "inputactions/54"
+msgid "Middle Click"
+msgstr ""
+
+msgctxt "inputactions/55"
+msgid "Attack"
+msgstr ""
+
+msgctxt "inputactions/56"
+msgid "Compare Items"
+msgstr ""
+
+msgctxt "inputactions/57"
+msgid "Zoom"
+msgstr ""
+
+msgctxt "inputactions/58"
+msgid "Zoom In"
+msgstr ""
+
+msgctxt "inputactions/59"
+msgid "Zoom Out"
+msgstr ""
+
+msgctxt "inputactions/60"
+msgid "Items & Abilities"
+msgstr ""
+
+msgctxt "inputactions/61"
+msgid "Combat Actions"
+msgstr ""
+
+msgctxt "inputactions/62"
+msgid "New Saved Game"
+msgstr ""
+
+msgctxt "inputactions/63"
+msgid "Radio"
+msgstr ""
+
+msgctxt "inputactions/64"
+msgid "Switch User"
+msgstr ""
+
+msgctxt "inputactions/65"
+msgid "Left Stick Left"
+msgstr ""
+
+msgctxt "inputactions/66"
+msgid "Left Stick Right"
+msgstr ""
+
+msgctxt "inputactions/67"
+msgid "Left Stick Up"
+msgstr ""
+
+msgctxt "inputactions/68"
+msgid "Left Stick Down"
+msgstr ""
+
+msgctxt "inputactions/69"
+msgid "Attack Mode"
+msgstr ""
+
+msgctxt "inputactions/70"
+msgid "Toggle Group Mode"
+msgstr ""
+
+msgctxt "inputactions/71"
+msgid "Modify Weapon"
+msgstr ""
+
+msgctxt "inputactions/72"
+msgid "Ambush"
+msgstr ""
+
+msgctxt "inputactions/73"
+msgid "Enter Vehicle"
+msgstr ""
+
+msgctxt "inputactions/74"
+msgid "Exit Vehicle"
+msgstr ""
+
+msgctxt "inputactions/75"
+msgid "Toggle Camera Mode"
+msgstr ""
+
+msgctxt "inputactions/76"
+msgid "Raw button press from Right Stick"
+msgstr ""
+
+msgctxt "inputactions/77"
+msgid "Raw button press from Left Stick"
+msgstr ""
+
+msgctxt "inputactions/78"
+msgid "Snap Camera To Squad"
+msgstr ""
+
+msgctxt "inputactions/79"
+msgid "Rotate Camera Clockwise"
+msgstr ""
+
+msgctxt "inputactions/80"
+msgid "Rotate Camera Counterclockwise"
+msgstr ""
+
+msgctxt "inputactions/81"
+msgid "Handbrake"
+msgstr ""
+
+msgctxt "inputactions/82"
+msgid "Host Multiplayer"
+msgstr ""
+
+msgctxt "inputactions/83"
+msgid "Join Multiplayer"
+msgstr ""
+
+msgctxt "inputactions/84"
+msgid "PS4 Handshake"
+msgstr ""
+
+msgctxt "inputactions/85"
+msgid "Multiplayer Ready"
+msgstr ""
+
+msgctxt "inputactions/86"
+msgid "Customize Appearance"
+msgstr ""
+
+msgctxt "inputactions/87"
+msgid "Select Portrait"
+msgstr ""
+
+msgctxt "inputactions/88"
+msgid "Reimport Custom Portraits"
+msgstr ""
+
+msgctxt "inputactions/89"
+msgid "Purchase Rank"
+msgstr ""
+
+msgctxt "inputactions/90"
+msgid "Refund Rank"
+msgstr ""
+
+msgctxt "inputactions/91"
+msgid "Exit Vehicle (All)"
+msgstr ""
+
+msgctxt "inputactions/92"
+msgid "Reset Camera Angle"
+msgstr ""
+
+msgctxt "inputactions/93"
+msgid "Toggle Combat Grid"
+msgstr ""
+
+msgctxt "inputactions/94"
+msgid "Toggle Target Type"
+msgstr ""
+
+msgctxt "inputactions/95"
+msgid "Load Multiplayer"
+msgstr ""
+
+msgctxt "inputactions/96"
+msgid "Change Formation"
+msgstr ""
+
+msgctxt "inputactions/97"
+msgid "Trade"
+msgstr ""
+
+msgctxt "inputactions/98"
+msgid "Remove From Party"
+msgstr ""
+
+msgctxt "inputactions/99"
+msgid "Loot All"
+msgstr ""
+
+msgctxt "inputactions/100"
+msgid "Distribute All"
+msgstr ""
+
+msgctxt "inputactions/101"
+msgid "Randomize"
+msgstr ""
+
+msgctxt "inputactions/102"
+msgid "Advance Credits"
+msgstr ""
+
+msgctxt "inputactions/103"
+msgid "Toggle Credits Mode"
+msgstr ""
+
+msgctxt "inputactions/104"
+msgid "Randomize Name"
+msgstr ""
+
+msgctxt "inputactions/105"
+msgid "Call Car"
+msgstr ""
+
+msgctxt "inputactions/106"
+msgid "Precision Strike"
+msgstr ""
+
+msgctxt "inputactions/107"
+msgid "Crafting"
+msgstr ""
+
+msgctxt "inputactions/108"
+msgid "Toggle Perk Visibility"
+msgstr ""
+
+msgctxt "inputactions/109"
+msgid "Skills"
+msgstr ""
+
+msgctxt "inputactions/110"
+msgid "Perks"
+msgstr ""
+
+msgctxt "inputactions/111"
+msgid "Fame & Reputation"
+msgstr ""
+
+msgctxt "inputactions/112"
+msgid "Start Chat"
+msgstr ""
+
+msgctxt "inputactions/113"
+msgid "Increase Value"
+msgstr ""
+
+msgctxt "inputactions/114"
+msgid "Decrease Value"
+msgstr ""
+
+msgctxt "inputactions/115"
+msgid "Swap Characters"
+msgstr ""
+
+msgctxt "inputactions/116"
+msgid "Move"
+msgstr ""
+
+msgctxt "inputactions/117"
+msgid "Modify Armor"
+msgstr ""
+
+msgctxt "inputactions/118"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "inputactions/119"
+msgid "Load Last Save"
+msgstr ""
+
+msgctxt "inputactions/120"
+msgid "Add to Group"
+msgstr ""
+
+msgctxt "inputactions/121"
+msgid "Collections"
+msgstr ""
+
+msgctxt "inputactions/122"
+msgid "Submit"
+msgstr ""
+
+msgctxt "inputactions/123"
+msgid "Break Down"
+msgstr ""
+
+msgctxt "inputactions/125"
+msgid "Field Strip"
+msgstr ""
+
+msgctxt "inputactions/126"
+msgid "Inspect"
+msgstr ""
+
+msgctxt "inputactions/127"
+msgid "Toggle Targeting Mode"
+msgstr ""
+
+msgctxt "inputactions/128"
+msgid "Select Previous Level"
+msgstr ""
+
+msgctxt "inputactions/129"
+msgid "Select Next Level"
+msgstr ""
+
+msgctxt "inputactions/130"
+msgid "Select Multiplayer Game"
+msgstr ""
+
+msgctxt "inputactions/131"
+msgid "Send Multiplayer Invite"
+msgstr ""
+
+msgctxt "inputactions/132"
+msgid "Final Actions"
+msgstr ""
+
+msgctxt "inputactions/133"
+msgid "Show Actions"
+msgstr ""
+
+msgctxt "inputactions/134"
+msgid "Show Items"
+msgstr ""
+
+msgctxt "inputactions/135"
+msgid "Vehicle Horn"
+msgstr ""
+
+msgctxt "inputactions/136"
+msgid "Replace"
+msgstr ""
+
+msgctxt "inputactions/138"
+msgid "Quick Targeting Mode"
+msgstr ""
+
+msgctxt "inputactions/139"
+msgid "Disable Tutorials"
+msgstr ""
+
+msgctxt "inputactions/140"
+msgid "Privacy: Private"
+msgstr ""
+
+msgctxt "inputactions/141"
+msgid "Privacy: Public"
+msgstr ""
+
+msgctxt "inputactions/142"
+msgid "Multiplayer Start Game"
+msgstr ""
+
+msgctxt "inputactions/143"
+msgid "Direct Connect Multiplayer"
+msgstr ""
+
+msgctxt "inputactions/144"
+msgid "Refresh Lobby List"
+msgstr ""
+
+msgctxt "inputactions/145"
+msgid "Change Lobby Sort Field"
+msgstr ""
+
+msgctxt "inputactions/146"
+msgid "Toggle Lobby List (Sort Ascending)"
+msgstr ""
+
+msgctxt "inputactions/147"
+msgid "Change Lobby List (Sort Ascending)"
+msgstr ""
+
+msgctxt "inputactions/148"
+msgid "Swap Characters Left"
+msgstr ""
+
+msgctxt "inputactions/149"
+msgid "Skip Song"
+msgstr ""
+
+msgctxt "inputactions/151"
+msgid "Toggle Visibility"
+msgstr ""
+
+msgctxt "inputactions/152"
+msgid "Sell Junk"
+msgstr ""
+
+msgctxt "inputactions/153"
+msgid "Toggle Inventory Filter"
+msgstr ""
+
+msgctxt "inputactions/154"
+msgid "Track"
+msgstr ""
+
+msgctxt "inputactions/155"
+msgid "Untrack"
+msgstr ""
+
+msgctxt "inputactions/156"
+msgid "Crouch Down"
+msgstr ""
+
+msgctxt "inputactions/157"
+msgid ""
+"Take a lower stance to gain improved Hit Chance, Evasion, and Detection "
+"Time. You will automatically stand up if you begin moving."
+msgstr ""
+
+msgctxt "inputactions/158"
+msgid "Stand Up"
+msgstr ""
+
+msgctxt "inputactions/159"
+msgid "Stand up to begin moving again, but lose the benefits of crouching."
+msgstr ""
+
+msgctxt "inputactions/160"
+msgid "<color=#CA3429>Cannot change stance while in cover</color>"
+msgstr ""
+
+msgctxt "inputactions/161"
+msgid "Adjust Brightness"
+msgstr ""
+
+msgctxt "inputactions/162"
+msgid " Unused"
+msgstr ""
+
+msgctxt "inputactions/163"
+msgid "Defend"
+msgstr ""
+
+msgctxt "inputactions/164"
+msgid "Prepare"
+msgstr ""
+
+msgctxt "inputactions/165"
+msgid "HUD"
+msgstr ""
+
+msgctxt "inputactions/166"
+msgid "Pan Camera Up"
+msgstr ""
+
+msgctxt "inputactions/167"
+msgid "Pan Camera Down"
+msgstr ""
+
+msgctxt "inputactions/168"
+msgid "Pan Camera Left"
+msgstr ""
+
+msgctxt "inputactions/169"
+msgid "Pan Camera Right"
+msgstr ""
+
+msgctxt "inputactions/170"
+msgid "Push To Talk"
+msgstr ""

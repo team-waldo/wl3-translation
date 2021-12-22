@@ -1,0 +1,2375 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:35+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "interactables/0"
+msgid "The first interactable text."
+msgstr ""
+
+msgctxt "interactables/1"
+msgid " Note"
+msgstr ""
+
+msgctxt "interactables/3"
+msgid "The elevator controls are not functional."
+msgstr ""
+
+msgctxt "interactables/4"
+msgid " Doesn't look like that's going to work."
+msgstr ""
+
+msgctxt "interactables/5"
+msgid "Like all hope for a better world, this clock is dead."
+msgstr ""
+
+msgctxt "interactables/6"
+msgid " A pump."
+msgstr ""
+
+msgctxt "interactables/7"
+msgid " A generator. Looks like this is for maintaining the water level."
+msgstr ""
+
+msgctxt "interactables/8"
+msgid " Electrified water. Don't touch!"
+msgstr ""
+
+msgctxt "interactables/9"
+msgid " A corpse."
+msgstr ""
+
+msgctxt "interactables/10"
+msgid " Food"
+msgstr ""
+
+msgctxt "interactables/11"
+msgid "  The player doesn't know that this food is poisoned."
+msgstr ""
+
+msgctxt "interactables/12"
+msgid "  The player knows that this food is poisoned."
+msgstr ""
+
+msgctxt "interactables/13"
+msgid ""
+" There are no controls for  this freight elevator. You'll need to access it "
+"from another location."
+msgstr ""
+
+msgctxt "interactables/14"
+msgid " Elevator"
+msgstr ""
+
+msgctxt "interactables/15"
+msgid " Pipes. Good job fixing those, champ!"
+msgstr ""
+
+msgctxt "interactables/16"
+msgid ""
+"There's a choking quality to the air in this room. Nothing living has been "
+"here in a long, long time."
+msgstr ""
+
+msgctxt "interactables/17"
+msgid " Looks comfy."
+msgstr ""
+
+msgctxt "interactables/18"
+msgid " Looks old."
+msgstr ""
+
+msgctxt "interactables/19"
+msgid " Surprisingly sanitary, given the age!"
+msgstr ""
+
+msgctxt "interactables/20"
+msgid "What a revolutionary example of hand-carved fungal art. "
+msgstr ""
+
+msgctxt "interactables/21"
+msgid " Cultivated edible fungus."
+msgstr ""
+
+msgctxt "interactables/22"
+msgid " Fit for a kitchen."
+msgstr ""
+
+msgctxt "interactables/23"
+msgid ""
+"The surface is drowned in mechanical diagrams, reference notes, more papers "
+"than sane."
+msgstr ""
+
+msgctxt "interactables/24"
+msgid ""
+"Hundreds of layers of frost have built up over the decades, obscuring the "
+"corpses' features and clothing."
+msgstr ""
+
+msgctxt "interactables/25"
+msgid ""
+"This corpse is frosted over, but you can see that's something's eaten the "
+"cheeks, eyes, and... tongue? Hard to tell."
+msgstr ""
+
+msgctxt "interactables/26"
+msgid "A massive amount of fungus was cunningly crafted into this... thing."
+msgstr ""
+
+msgctxt "interactables/27"
+msgid "A fun guy must have cultivated this work of art."
+msgstr ""
+
+msgctxt "interactables/28"
+msgid "Racks of fungus.  "
+msgstr ""
+
+msgctxt "interactables/29"
+msgid "Someone's been cultivating this fungus (DEBUG: Outdoorsman check)  "
+msgstr ""
+
+msgctxt "interactables/30"
+msgid "An abandoned tent. "
+msgstr ""
+
+msgctxt "interactables/31"
+msgid "Multiple people were here recently. "
+msgstr ""
+
+msgctxt "interactables/32"
+msgid "Doesn't look like there was a fight (Debug: Outdoorsman check) "
+msgstr ""
+
+msgctxt "interactables/33"
+msgid "Some scavengers have been rooting around here.  "
+msgstr ""
+
+msgctxt "interactables/34"
+msgid ""
+"This looks neglected, not destroyed. The owners have just been away for too "
+"long (Debug: Outdoorsman Check) "
+msgstr ""
+
+msgctxt "interactables/35"
+msgid "This firepit has been properly covered. "
+msgstr ""
+
+msgctxt "interactables/36"
+msgid "The trail is at least a few hours old. Less than a week, though. "
+msgstr ""
+
+msgctxt "interactables/37"
+msgid "Someone's been through here recently. 2 people... Maybe 4?  "
+msgstr ""
+
+msgctxt "interactables/38"
+msgid "Something was stalking this group. Doesn't look like they knew it. "
+msgstr ""
+
+msgctxt "interactables/39"
+msgid "These look like mountain lion tracks. "
+msgstr ""
+
+msgctxt "interactables/40"
+msgid "A frozen waterfall. Maybe you can melt it? "
+msgstr ""
+
+msgctxt "interactables/42"
+msgid "This building's been abandoned for a long time.  "
+msgstr ""
+
+msgctxt "interactables/43"
+msgid "Looks like this structure was built to last. "
+msgstr ""
+
+msgctxt "interactables/44"
+msgid "Guess an animal lived here. "
+msgstr ""
+
+msgctxt "interactables/45"
+msgid "Recent tracks. "
+msgstr ""
+
+msgctxt "interactables/46"
+msgid "This road has been well maintained. "
+msgstr ""
+
+msgctxt "interactables/47"
+msgid "This road is much less well-maintained. "
+msgstr ""
+
+msgctxt "interactables/48"
+msgid "Looks like this ice sheet could break at any moment. "
+msgstr ""
+
+msgctxt "interactables/49"
+msgid ""
+"Oh, joy. One of these suicides is carrying a wallet. The ID inside reads, "
+"\"Ian Curtis.\""
+msgstr ""
+
+msgctxt "interactables/82"
+msgid " A mural fit for posing."
+msgstr ""
+
+msgctxt "interactables/83"
+msgid " The first mural is very strange."
+msgstr ""
+
+msgctxt "interactables/84"
+msgid " The second mural is... difficult to describe."
+msgstr ""
+
+msgctxt "interactables/85"
+msgid " This third mural. Striking!"
+msgstr ""
+
+msgctxt "interactables/86"
+msgid " Even stranger than the first three."
+msgstr ""
+
+msgctxt "interactables/87"
+msgid " A striking resemblence. To what, you don't know."
+msgstr ""
+
+msgctxt "interactables/88"
+msgid " This sixth mural stirs strange suspicions."
+msgstr ""
+
+msgctxt "interactables/89"
+msgid "<i> Edit </i>"
+msgstr ""
+
+msgctxt "interactables/90"
+msgid ""
+"You notice some valuables through the glass of the cockpit. Unfortunately, "
+"they are outside of your arms' reach, and the mangled ground the cockpit has "
+"pierced prevents you from getting a better position."
+msgstr ""
+
+msgctxt "interactables/91"
+msgid ""
+"Well, now the valuables are somewhere underground, so good luck with that."
+msgstr ""
+
+msgctxt "interactables/92"
+msgid ""
+" Thorugh the plexiglass, you can see a small room exposed to the elements "
+"above by a nose of a jet that has pushed thorugh the ceiling."
+msgstr ""
+
+msgctxt "interactables/93"
+msgid " THIS LINE CUT"
+msgstr ""
+
+msgctxt "interactables/95"
+msgid " The gravestone says \"Loving mother, sacrificial lamb.\""
+msgstr ""
+
+msgctxt "interactables/96"
+msgid "Decontamination Room"
+msgstr ""
+
+msgctxt "interactables/97"
+msgid "Security"
+msgstr ""
+
+msgctxt "interactables/98"
+msgid "Repair Shop"
+msgstr ""
+
+msgctxt "interactables/99"
+msgid "Parts Storage Room"
+msgstr ""
+
+msgctxt "interactables/100"
+msgid "Security Checkpoint"
+msgstr ""
+
+msgctxt "interactables/101"
+msgid "Main Elevator"
+msgstr ""
+
+msgctxt "interactables/102"
+msgid "Armory"
+msgstr ""
+
+msgctxt "interactables/103"
+msgid " Go ahead, shovel on the puns."
+msgstr ""
+
+msgctxt "interactables/104"
+msgid ""
+"This snow drift must have formed after the ambush. Cold moves fast in these "
+"parts."
+msgstr ""
+
+msgctxt "interactables/105"
+msgid " A clue about the advance team."
+msgstr ""
+
+msgctxt "interactables/106"
+msgid ""
+"This is another Ranger from your convoy. She appears to have survived the "
+"ambush, only to be beaten, sliced open, and shot in the head."
+msgstr ""
+
+msgctxt "interactables/107"
+msgid ""
+"Haxm Hoon. 1998 - 2068. Born in the Deluge of Fire, consigned to the bosom "
+"of the ice. "
+msgstr ""
+
+msgctxt "interactables/108"
+msgid ""
+" There might have been loot here once, but it's been thoroughly picked over."
+msgstr ""
+
+msgctxt "interactables/109"
+msgid ""
+" The corpse has been picked apart by scavengers. You can barely tell it was "
+"a human."
+msgstr ""
+
+msgctxt "interactables/110"
+msgid ""
+" This body froze to death a long time ago. It's barely recognizable as human."
+msgstr ""
+
+msgctxt "interactables/111"
+msgid " You can see bodies frozen under the ice."
+msgstr ""
+
+msgctxt "interactables/112"
+msgid "INSERT TEXT HERE"
+msgstr ""
+
+msgctxt "interactables/113"
+msgid "INSERT TEXT HERE "
+msgstr ""
+
+msgctxt "interactables/114"
+msgid "INSERT TEXT HERE "
+msgstr ""
+
+msgctxt "interactables/115"
+msgid "Here slumbers Brian Fargo"
+msgstr ""
+
+msgctxt "interactables/116"
+msgid "Here slumbers Matthew Findley"
+msgstr ""
+
+msgctxt "interactables/117"
+msgid "Here slumbers Chris Keenan"
+msgstr ""
+
+msgctxt "interactables/118"
+msgid "Here slumbers Dan Jenkins"
+msgstr ""
+
+msgctxt "interactables/119"
+msgid "Here slumbers Chris Wiedel"
+msgstr ""
+
+msgctxt "interactables/120"
+msgid "Here slumbers Jeremy Kopman"
+msgstr ""
+
+msgctxt "interactables/121"
+msgid "Here slumbers Ben Moise"
+msgstr ""
+
+msgctxt "interactables/122"
+msgid "Here slumbers Jeffrey Corrales"
+msgstr ""
+
+msgctxt "interactables/123"
+msgid "Here slumbers Alendor Vulaj"
+msgstr ""
+
+msgctxt "interactables/124"
+msgid "Here slumbers Nathan Long"
+msgstr ""
+
+msgctxt "interactables/125"
+msgid "Here slumbers Colin McComb"
+msgstr ""
+
+msgctxt "interactables/126"
+msgid "Here slumbers Alisha Klein"
+msgstr ""
+
+msgctxt "interactables/127"
+msgid "Here slumbers Erika Sass"
+msgstr ""
+
+msgctxt "interactables/128"
+msgid "Here slumbers Charlie Bloomer"
+msgstr ""
+
+msgctxt "interactables/129"
+msgid "Here slumbers Josh Jertberg"
+msgstr ""
+
+msgctxt "interactables/130"
+msgid "Here slumbers Eric Daily"
+msgstr ""
+
+msgctxt "interactables/131"
+msgid "Here slumbers Elene Campbell"
+msgstr ""
+
+msgctxt "interactables/132"
+msgid "Here slumbers Todd Moulder"
+msgstr ""
+
+msgctxt "interactables/133"
+msgid "Here slumbers Leland Smith"
+msgstr ""
+
+msgctxt "interactables/134"
+msgid "Here slumbers Anthony Legendre"
+msgstr ""
+
+msgctxt "interactables/135"
+msgid "Here slumbers Alex Kerr"
+msgstr ""
+
+msgctxt "interactables/136"
+msgid "Munitions"
+msgstr ""
+
+msgctxt "interactables/137"
+msgid "Ammunition & Explosives"
+msgstr ""
+
+msgctxt "interactables/138"
+msgid "Supplies & Tactical Gear"
+msgstr ""
+
+msgctxt "interactables/139"
+msgid " (TEMP) Hoon Bedroom Examinable"
+msgstr ""
+
+msgctxt "interactables/140"
+msgid "Examinable object"
+msgstr ""
+
+msgctxt "interactables/141"
+msgid "Someone went to a lot of trouble to hide the a bunker in these caves…"
+msgstr ""
+
+msgctxt "interactables/142"
+msgid ""
+"These natural caves have been hollowed out and filled with (stuff) (tech)"
+msgstr ""
+
+msgctxt "interactables/143"
+msgid ""
+"This corpse has been here for a <i>long</i> time. It’s wearing the remains "
+"of a “Don’t Tread On Me” t-shirt."
+msgstr ""
+
+msgctxt "interactables/144"
+msgid "They didn't wait long enough."
+msgstr ""
+
+msgctxt "interactables/145"
+msgid " (TEMP) Examinable: OLD CAMP GROUNDS"
+msgstr ""
+
+msgctxt "interactables/146"
+msgid " (TEMP) Examinable: Building"
+msgstr ""
+
+msgctxt "interactables/147"
+msgid " (TEMP) Examinable: DAM"
+msgstr ""
+
+msgctxt "interactables/148"
+msgid " Computer: Write Something"
+msgstr ""
+
+msgctxt "interactables/149"
+msgid " Broken Computer is Broken"
+msgstr ""
+
+msgctxt "interactables/150"
+msgid " Food Storage Room"
+msgstr ""
+
+msgctxt "interactables/151"
+msgid ".--. ..- ... .... / .-. . -.. / -... ..- - - --- -."
+msgstr ""
+
+msgctxt "interactables/152"
+msgid " Reservoir"
+msgstr ""
+
+msgctxt "interactables/153"
+msgid " Firing Range"
+msgstr ""
+
+msgctxt "interactables/154"
+msgid " Break Room"
+msgstr ""
+
+msgctxt "interactables/155"
+msgid " Engine Turbine"
+msgstr ""
+
+msgctxt "interactables/156"
+msgid " Helipad"
+msgstr ""
+
+msgctxt "interactables/157"
+msgid "SCANNING"
+msgstr ""
+
+msgctxt "interactables/158"
+msgid "This corpse's hollowed eyesockets bulge with snow."
+msgstr ""
+
+msgctxt "interactables/159"
+msgid ""
+"Someone stood smoking here recently, if this dusting of ash is any "
+"indication of things."
+msgstr ""
+
+msgctxt "interactables/160"
+msgid ""
+"Willoughy's ashtray is polished black ceramic veined with estuaries of amber."
+msgstr ""
+
+msgctxt "interactables/161"
+msgid ""
+"You can make out faint black blotches behind the mirror's glass. Judging by "
+"the dust, nobody's been here in a long, long time."
+msgstr ""
+
+msgctxt "interactables/162"
+msgid "What a strange device. Perhaps it's some sort of weapon?"
+msgstr ""
+
+msgctxt "interactables/163"
+msgid ""
+"This bed is unmade. Also, it's cauled in cobwebs and soft blooms of white "
+"fungus."
+msgstr ""
+
+msgctxt "interactables/164"
+msgid ""
+"An unimaginable luxury, even in its current state of disrespair. The rim of "
+"dried urine smells of nostalgia."
+msgstr ""
+
+msgctxt "interactables/165"
+msgid ""
+"The elegant marquetry and ornate glasswork is unlike anything you've seen in "
+"the other rooms."
+msgstr ""
+
+msgctxt "interactables/166"
+msgid ""
+"A pre-war museum might have paid money for this artifact. Unfortunately, "
+"only a rare few remain."
+msgstr ""
+
+msgctxt "interactables/168"
+msgid ""
+" A specialized device that appears to be missing several critical parts. A "
+"worn nameplate reads \"FOLDING FUTURISTICS\""
+msgstr ""
+
+msgctxt "interactables/169"
+msgid ""
+"Self-help bibles and textbooks delineating best practices in the hospitality "
+"industry fill these shelves."
+msgstr ""
+
+msgctxt "interactables/170"
+msgid ""
+"Looks like this Ranger shot himself in the head. He clutches a scrawled note "
+"in his hand: “You gut-ripper FREAKS won’t get me!”"
+msgstr ""
+
+msgctxt "interactables/171"
+msgid " Clue "
+msgstr ""
+
+msgctxt "interactables/172"
+msgid ""
+"The snow is spattered with blood. One of your squadmates fell here, but they "
+"either crawled away or someone took them."
+msgstr ""
+
+msgctxt "interactables/173"
+msgid ""
+"Tread marks lead away from the ambush. If a Ranger vehicle escaped, the "
+"broken ice has hidden their trail."
+msgstr ""
+
+msgctxt "interactables/174"
+msgid ""
+"There's an impression of a body in the snow, surrounded by blood and "
+"footprints. Someone was butchered here, then taken away."
+msgstr ""
+
+msgctxt "interactables/175"
+msgid ""
+"Reborn, the Reagan shielded his chosen from nuclear fire, leading our "
+"ancestors to this place, and charged us with restoring the American Way Of "
+"Life."
+msgstr ""
+
+msgctxt "interactables/176"
+msgid "The Gipper, making the world a better place for all Americans."
+msgstr ""
+
+msgctxt "interactables/177"
+msgid "Cafeteria"
+msgstr ""
+
+msgctxt "interactables/178"
+msgid "Cryogenics"
+msgstr ""
+
+msgctxt "interactables/179"
+msgid "Hospital Lobby"
+msgstr ""
+
+msgctxt "interactables/180"
+msgid "Evaluation Room"
+msgstr ""
+
+msgctxt "interactables/181"
+msgid "Drug Storeroom"
+msgstr ""
+
+msgctxt "interactables/182"
+msgid "Prep Room"
+msgstr ""
+
+msgctxt "interactables/183"
+msgid "Morgue"
+msgstr ""
+
+msgctxt "interactables/184"
+msgid "Surgery"
+msgstr ""
+
+msgctxt "interactables/185"
+msgid "Ops Planning Room"
+msgstr ""
+
+msgctxt "interactables/186"
+msgid "Interrogation"
+msgstr ""
+
+msgctxt "interactables/187"
+msgid "Pacification Planning Room"
+msgstr ""
+
+msgctxt "interactables/188"
+msgid "War Room"
+msgstr ""
+
+msgctxt "interactables/189"
+msgid "Reservoir Tanks"
+msgstr ""
+
+msgctxt "interactables/190"
+msgid "Residential Hub"
+msgstr ""
+
+msgctxt "interactables/191"
+msgid ""
+"Looks like an injured Ranger crawled out of the nearby truck, but there’s no "
+"sign of them now."
+msgstr ""
+
+msgctxt "interactables/192"
+msgid " Twisted, hot metal partially buried in the ice."
+msgstr ""
+
+msgctxt "interactables/193"
+msgid " A clue about the advance team."
+msgstr ""
+
+msgctxt "interactables/194"
+msgid ""
+"This Ranger was crawling away from his vehicle when he was killed. Someone "
+"sliced him open with a knife and let him bleed to death."
+msgstr ""
+
+msgctxt "interactables/195"
+msgid ""
+"This Ranger was dragged out of a vehicle, disemboweled, and left to die of "
+"blood loss and cold."
+msgstr ""
+
+msgctxt "interactables/196"
+msgid ""
+"Someone sliced open this Ranger’s abdomen and removed his intestines. "
+"Judging by the expression that is frozen on his dead face, he was alive when "
+"it happened."
+msgstr ""
+
+msgctxt "interactables/197"
+msgid ""
+"Alastair Hoon. 2054 – 2090. Beloved son and Colorado Marshal, killed in the "
+"line of duty."
+msgstr ""
+
+msgctxt "interactables/198"
+msgid ""
+"Joella Hoon. 2001 – 2072. Toughest grandma in the Rockies, thirty notches on "
+"her gun."
+msgstr ""
+
+msgctxt "interactables/199"
+msgid "Li’l Lyda Hoon. 2027 – 2045. Taken by raiders, avenged by her kin. "
+msgstr ""
+
+msgctxt "interactables/200"
+msgid "A high-quality, well-worn, tenderly-laundered noose."
+msgstr ""
+
+msgctxt "interactables/201"
+msgid "A flickering holographic projector."
+msgstr ""
+
+msgctxt "interactables/202"
+msgid "Looks like this hasn't been used - or cleaned - in hundreds of years."
+msgstr ""
+
+msgctxt "interactables/203"
+msgid ""
+"You were riding in this truck when the convoy was attacked. Everybody inside "
+"is dead."
+msgstr ""
+
+msgctxt "interactables/204"
+msgid ""
+"A few Ranger corpses are sitting in this truck, still strapped into their "
+"seats. "
+msgstr ""
+
+msgctxt "interactables/205"
+msgid ""
+"This truck is empty. Looks like the occupants managed to escape, but you can’"
+"t tell where they went."
+msgstr ""
+
+msgctxt "interactables/206"
+msgid ""
+"Nothing stirs in this truck. Maybe the passengers got out… but they probably "
+"didn’t."
+msgstr ""
+
+msgctxt "interactables/207"
+msgid "The smell of cooked meat rises from this burned-out truck. "
+msgstr ""
+
+msgctxt "interactables/208"
+msgid "Inside the truck, you see dead Rangers slumped over in their seats."
+msgstr ""
+
+msgctxt "interactables/209"
+msgid ""
+"You don’t see any bodies in the truck, but the chassis is riddled with "
+"bullet holes."
+msgstr ""
+
+msgctxt "interactables/210"
+msgid "\"The Classic Rest\""
+msgstr ""
+
+msgctxt "interactables/211"
+msgid "\"The Delicious Rest\""
+msgstr ""
+
+msgctxt "interactables/212"
+msgid "\"The Exciting Rest\""
+msgstr ""
+
+msgctxt "interactables/213"
+msgid ""
+"These pumps and machines haven’t been used in decades. Someone already "
+"scavenged them for useful parts."
+msgstr ""
+
+msgctxt "interactables/214"
+msgid ""
+"Peering into the greenhouse, you can see rows of beets and cabbage, along "
+"with some fat, potted mushrooms."
+msgstr ""
+
+msgctxt "interactables/215"
+msgid "<i> Edit </i>"
+msgstr ""
+
+msgctxt "interactables/216"
+msgid ""
+"Leafy green vegetables are happily growing atop this rock spire, warmed by "
+"solar collectors and other weird devices. The snow melts into droplets of "
+"water before it reaches them."
+msgstr ""
+
+msgctxt "interactables/217"
+msgid ""
+"This camp is only a few days old. Looks like the Dorseys gathered here "
+"before their attack on the city."
+msgstr ""
+
+msgctxt "interactables/218"
+msgid "Bill's hat, soaked in blood. Guess he didn't find his mom."
+msgstr ""
+
+msgctxt "interactables/219"
+msgid ""
+"An arcade machine called \"Personal Space Invaders.\" There are no visible "
+"controls."
+msgstr ""
+
+msgctxt "interactables/220"
+msgid "Cheerful! Reminds you of warmer times."
+msgstr ""
+
+msgctxt "interactables/221"
+msgid ""
+"A container filled with pesticide. It looks like the piping leads into the "
+"greenhouse."
+msgstr ""
+
+msgctxt "interactables/222"
+msgid ""
+"The original and authentic treaty that united the Hundred Families under the "
+"Patriarch’s rule for the safety of the people of Colorado. Signed by the "
+"Patriarch himself and representatives of each of the Families. "
+msgstr ""
+
+msgctxt "interactables/223"
+msgid ""
+"Uniform of a soldier in the Monster Army, the gang that terrorized Colorado "
+"Springs until the Patriarch defeated them and won their fealty. The bullet "
+"holes and blood show the fierceness of the fighting. "
+msgstr ""
+
+msgctxt "interactables/224"
+msgid ""
+"A can of baked beans from the bunker where the Patriarch’s family waited out "
+"the Deluge of Fire. Canned food like this was all they had to eat, unlike "
+"today, when the Patriarch has provided us with fresh, greenhouse-grown "
+"vegetables. "
+msgstr ""
+
+msgctxt "interactables/225"
+msgid ""
+"The sword of Nelius Dorsey, who led his clan in an attempted coup against "
+"the Patriarch. Nelius and the Dorseys were defeated after a treacherous "
+"attempt on the Patriarch’s life. Now they are no more."
+msgstr ""
+
+msgctxt "interactables/226"
+msgid ""
+"Artificial limbs and augmentations taken from the bodies of defeated Scar "
+"Collectors after the legendary Battle of Punkin Center, where the Patriarch "
+"defeated the savage warlords of the Eastern Plains once and for all. "
+msgstr ""
+
+msgctxt "interactables/227"
+msgid ""
+"A replica of the rifle Sheriff Daisy used when she fought at the Patriarch’s "
+"side during the war against the Plains gangs. For her bravery, heroism, and "
+"tactical brilliance, he appointed her sheriff of Colorado Springs."
+msgstr ""
+
+msgctxt "interactables/228"
+msgid ""
+"There must have been a small avalanche: the way up to the dam is blocked by "
+"tons of snow and ice."
+msgstr ""
+
+msgctxt "interactables/229"
+msgid ""
+"The dessicated remains of cabbage, kale, and potato plants rest in "
+"hydroponic trays. This is what happens when you forget to water your "
+"plants... for a century or so."
+msgstr ""
+
+msgctxt "interactables/230"
+msgid ""
+" There are three carvings on the top of this dresser: an atom inside a "
+"stylized heart, an atom inside a realistic heart, and an atom splattered "
+"with dried blood."
+msgstr ""
+
+msgctxt "interactables/231"
+msgid ""
+"High-powered radio equipment has been welded to the spaceship's exterior "
+"frame."
+msgstr ""
+
+msgctxt "interactables/232"
+msgid "These bodies have been professionally butchered."
+msgstr ""
+
+msgctxt "interactables/233"
+msgid "\"Conquering Colorado\""
+msgstr ""
+
+msgctxt "interactables/234"
+msgid "\"Brother in Chains\""
+msgstr ""
+
+msgctxt "interactables/235"
+msgid "\"Fluid Change Service\""
+msgstr ""
+
+msgctxt "interactables/236"
+msgid "\"The Most Beautiful Dream\""
+msgstr ""
+
+msgctxt "interactables/237"
+msgid ""
+"This lectern served as the bimah for the Jewish Temple when the academy was "
+"in operation."
+msgstr ""
+
+msgctxt "interactables/238"
+msgid ""
+"Manic calculations and incomprehensible equations are scrawled across the "
+"chalkboard in this room. And the floors. And the walls."
+msgstr ""
+
+msgctxt "interactables/239"
+msgid ""
+"Reagan saved the world from the Red Menace of Communism. But he was betrayed "
+"by the perfidious Hinkley, who shot him with a poison bullet that gave him "
+"Old-Timer's disease."
+msgstr ""
+
+msgctxt "interactables/240"
+msgid ""
+"Scattered Commie remnants regrouped after the Reagan fell. In their madness, "
+"they launched nuclear missiles, dooming all of humanity."
+msgstr ""
+
+msgctxt "interactables/241"
+msgid "Frozen solid, hard as a rock. Probably not going to win any races."
+msgstr ""
+
+msgctxt "interactables/242"
+msgid ""
+"Looks like something was trapped inside the ice. Whatever it was, it's gone "
+"now."
+msgstr ""
+
+msgctxt "interactables/243"
+msgid ""
+"'Day 2: Pretty sure I can see something moving in the ice.'\\n"
+"'Day 3: I've decided to thaw it out.'"
+msgstr ""
+
+msgctxt "interactables/244"
+msgid "Decades of frost and dust have settled over a coating of ancient ice."
+msgstr ""
+
+msgctxt "interactables/245"
+msgid ""
+"Even through layers of ice and frost, it's clear this corpse used to be "
+"someone very wealthy."
+msgstr ""
+
+msgctxt "interactables/246"
+msgid "\"Reservoir Trail and Dam Overlook\""
+msgstr ""
+
+msgctxt "interactables/247"
+msgid "Looks like the roof collapsed under the weight of the snow."
+msgstr ""
+
+msgctxt "interactables/249"
+msgid ""
+"Looks like the Dorseys haven't been camped here long. They must have known "
+"you were coming."
+msgstr ""
+
+msgctxt "interactables/250"
+msgid "\"In Memoriam: For the man who fought for the little guy.\""
+msgstr ""
+
+msgctxt "interactables/251"
+msgid ""
+"The last known copy of Wasteland 4. The cover is signed with the initials, "
+"\"B.F.\""
+msgstr ""
+
+msgctxt "interactables/252"
+msgid ""
+"A MegaScope has been retrofitted onto an energy weapon prototype to create "
+"the ultimate weapon."
+msgstr ""
+
+msgctxt "interactables/253"
+msgid ""
+"The Mighty Mitt used high tech sensors to give ultra dimensional control to "
+"those brave enough to enter the virtual world."
+msgstr ""
+
+msgctxt "interactables/254"
+msgid ""
+"Before the war, people used these to ride ocean waves, probably for "
+"transportation."
+msgstr ""
+
+msgctxt "interactables/255"
+msgid "The famous arcade game where you clean up the streets with your fists."
+msgstr ""
+
+msgctxt "interactables/256"
+msgid "Defend the earth against aliens and space debris."
+msgstr ""
+
+msgctxt "interactables/257"
+msgid "Eat your way through the maze but don't get caught by the poltergeists."
+msgstr ""
+
+msgctxt "interactables/258"
+msgid ""
+"This throne was once coveted by many, as whoever would sit upon it would be "
+"king of the wasteland."
+msgstr ""
+
+msgctxt "interactables/259"
+msgid "A statue of Jesus has been adorned with clown garments and makeup."
+msgstr ""
+
+msgctxt "interactables/260"
+msgid ""
+"The corpse of a Bizarre merchant. His neck appears to have been snapped "
+"violently."
+msgstr ""
+
+msgctxt "interactables/261"
+msgid ""
+"The corpse of a Bizarre merchant. His entire body is covered in bruises and "
+"gashes."
+msgstr ""
+
+msgctxt "interactables/262"
+msgid ""
+"The corpse of a Bizarre merchant. There are too many bullet wounds to count."
+msgstr ""
+
+msgctxt "interactables/263"
+msgid "The corpse of a Bizarre merchant. Her face is scratched and bloody."
+msgstr ""
+
+msgctxt "interactables/264"
+msgid ""
+"The corpse of a Bizarre merchant. It appears her head was repeatedly slammed "
+"into the floor."
+msgstr ""
+
+msgctxt "interactables/265"
+msgid "This leads to Ambush Site "
+msgstr ""
+
+msgctxt "interactables/266"
+msgid ""
+"Several dead Monster Army corpses have been piled in this corner. Some of "
+"the corpses look they've been chewed on by pigs."
+msgstr ""
+
+msgctxt "interactables/267"
+msgid "Maintence Pipe-Clue about robots "
+msgstr ""
+
+msgctxt "interactables/268"
+msgid "Trail from Prasad's group leading to the pipe"
+msgstr ""
+
+msgctxt "interactables/269"
+msgid "Here's where they blew up the ladder. CLUE TEXT."
+msgstr ""
+
+msgctxt "interactables/270"
+msgid ""
+"TEXT these pipes descend down, and that thematically ties into what's going "
+"on here. WORDS."
+msgstr ""
+
+msgctxt "interactables/271"
+msgid ""
+"This machinery is untouched, which is odd compared to the other stripped out "
+"machinery in this area. Shorten this text by a bunch, please."
+msgstr ""
+
+msgctxt "interactables/272"
+msgid ""
+"There used to be some kind of machine here ,but it's been stripped to scraps."
+msgstr ""
+
+msgctxt "interactables/273"
+msgid "These pipes have been cut and scraped away"
+msgstr ""
+
+msgctxt "interactables/274"
+msgid "These pipes have been reinforced with carved stone. Weird."
+msgstr ""
+
+msgctxt "interactables/275"
+msgid ""
+"Creepy dolls have been planted here and they actually appear to be growing."
+msgstr ""
+
+msgctxt "interactables/276"
+msgid ""
+"This steel bridge is heavily rusted, yet it still seems operational. The "
+"pulley cables stretch across the gap suggesting that it can only be lowered "
+"from the other side."
+msgstr ""
+
+msgctxt "interactables/277"
+msgid ""
+"Someone was trying to dig their way into this building, before they were "
+"ravaged by goats."
+msgstr ""
+
+msgctxt "interactables/278"
+msgid ""
+"Bodies have been piled high in this corner. There are signs of torture. It "
+"is clear these people were brought down here against their will."
+msgstr ""
+
+msgctxt "interactables/279"
+msgid "Santa's Workshop"
+msgstr ""
+
+msgctxt "interactables/280"
+msgid "The Workshop"
+msgstr ""
+
+msgctxt "interactables/281"
+msgid "Santa's Office"
+msgstr ""
+
+msgctxt "interactables/282"
+msgid "Elves Only"
+msgstr ""
+
+msgctxt "interactables/283"
+msgid "Reserved for Dasher"
+msgstr ""
+
+msgctxt "interactables/284"
+msgid "Someone has nailed ballet slippers to this man's feet."
+msgstr ""
+
+msgctxt "interactables/285"
+msgid "Reserved for Prancer"
+msgstr ""
+
+msgctxt "interactables/286"
+msgid "Someone has sewn a bloody fox tail onto this man's butt."
+msgstr ""
+
+msgctxt "interactables/287"
+msgid "Reserved for Comet"
+msgstr ""
+
+msgctxt "interactables/288"
+msgid ""
+"Someone has cut a drawing of a heart with an arrow through it on this poor "
+"bastard's chest. "
+msgstr ""
+
+msgctxt "interactables/289"
+msgid "Reserved for Donner"
+msgstr ""
+
+msgctxt "interactables/290"
+msgid "Someone has crudely carved BLITZEN into this  poor guy's chest."
+msgstr ""
+
+msgctxt "interactables/291"
+msgid ""
+"Someone has shoved a christmas light up this guy's bloodied nose so it glows "
+"red. "
+msgstr ""
+
+msgctxt "interactables/292"
+msgid "Kitchen"
+msgstr ""
+
+msgctxt "interactables/293"
+msgid "Exit"
+msgstr ""
+
+msgctxt "interactables/294"
+msgid "Time Out Room"
+msgstr ""
+
+msgctxt "interactables/295"
+msgid "Plastic Santa Claus"
+msgstr ""
+
+msgctxt "interactables/296"
+msgid "Plastic Mrs. Claus"
+msgstr ""
+
+msgctxt "interactables/297"
+msgid "Plastic Sleigh"
+msgstr ""
+
+msgctxt "interactables/298"
+msgid "Plastic Reindeer"
+msgstr ""
+
+msgctxt "interactables/299"
+msgid ""
+"Before the Deluge of Fire, our God-President's stare cripples his foes while "
+"the Nancy's gentle smile graces the world with joy."
+msgstr ""
+
+msgctxt "interactables/300"
+msgid "First Lady Nancy Reagan riding a mighty weapon of peace."
+msgstr ""
+
+msgctxt "interactables/301"
+msgid "El Guapo"
+msgstr ""
+
+msgctxt "interactables/302"
+msgid "Curtains"
+msgstr ""
+
+msgctxt "interactables/303"
+msgid ""
+"Looks like she held out for a while. Must have been a cold, slow, hungry "
+"death."
+msgstr ""
+
+msgctxt "interactables/304"
+msgid ""
+"A large, circular hole has been carefully cut out of the pin-up's open mouth."
+msgstr ""
+
+msgctxt "interactables/305"
+msgid ""
+"Miss March 1991 has seen better days. The glossy coating has been worn down "
+"in a couple specific spots."
+msgstr ""
+
+msgctxt "interactables/306"
+msgid "\"Get More Out of Your Mine in Ten Easy Steps\""
+msgstr ""
+
+msgctxt "interactables/307"
+msgid "\"The Nimrod's Guide to Tellurium Mining\""
+msgstr ""
+
+msgctxt "interactables/308"
+msgid "\"Somebody Stinks: Strange Smells and their Sources\""
+msgstr ""
+
+msgctxt "interactables/309"
+msgid ""
+"Judging by all the cans scattered around, Bulb really loves baked "
+"beans...and dog food."
+msgstr ""
+
+msgctxt "interactables/310"
+msgid ""
+"Numerous small toys fill the dog house. A small sign above the entrance "
+"reads, \"Trudy\"."
+msgstr ""
+
+msgctxt "interactables/311"
+msgid ""
+"Every kind of booze in the known world! So, like... twelve kinds, basically. "
+"But they've got plenty of each."
+msgstr ""
+
+msgctxt "interactables/312"
+msgid "Bass! How low can you go?"
+msgstr ""
+
+msgctxt "interactables/313"
+msgid ""
+"Conveniently located if Mr. Brygo wants someone to sleep with the fishes."
+msgstr ""
+
+msgctxt "interactables/314"
+msgid "Big mirror. Can you blame her?"
+msgstr ""
+
+msgctxt "interactables/315"
+msgid "Hmmm. Jack sure uses a lot of tissues."
+msgstr ""
+
+msgctxt "interactables/316"
+msgid "A professional takes advantage of every angle."
+msgstr ""
+
+msgctxt "interactables/317"
+msgid "This is where the magic happens."
+msgstr ""
+
+msgctxt "interactables/318"
+msgid "Time to get pumped, bro."
+msgstr ""
+
+msgctxt "interactables/319"
+msgid "Hydration is important during extended workouts."
+msgstr ""
+
+msgctxt "interactables/320"
+msgid "Playground equipment for naughty boys and girls."
+msgstr ""
+
+msgctxt "interactables/321"
+msgid "All the comforts of home."
+msgstr ""
+
+msgctxt "interactables/322"
+msgid "Three balls for a quarter. Free play at 99,999 points. No wagering."
+msgstr ""
+
+msgctxt "interactables/323"
+msgid "That must have been some haircut."
+msgstr ""
+
+msgctxt "interactables/324"
+msgid ""
+"This portrait is from thirty years ago… but Mr. Brygo looks exactly the same."
+msgstr ""
+
+msgctxt "interactables/325"
+msgid ""
+"Behind the wooden boards, the door is splintered and broken. Through cracks "
+"in the wood, you can see a ransacked interior."
+msgstr ""
+
+msgctxt "interactables/326"
+msgid ""
+"Not much use for a fountain in frozen Colorado. This must have been built "
+"before the nuclear apocalypse."
+msgstr ""
+
+msgctxt "interactables/327"
+msgid ""
+"The windows are thick and double-paned. No expense was spared to keep out "
+"the cold."
+msgstr ""
+
+msgctxt "interactables/328"
+msgid ""
+"Nobody’s starving in this part of town… assuming they like cabbage, beets, "
+"and parsnips."
+msgstr ""
+
+msgctxt "interactables/329"
+msgid ""
+"The windows are thick and double-paned. No expense was spared to keep out "
+"the cold."
+msgstr ""
+
+msgctxt "interactables/330"
+msgid ""
+"This house had a lot of furniture. Most of it is now blocking this hallway."
+msgstr ""
+
+msgctxt "interactables/331"
+msgid ""
+"This corner of the room smells like biology class… formaldehyde and "
+"antiseptics."
+msgstr ""
+
+msgctxt "interactables/332"
+msgid ""
+"'Guaranteed 100% waterproof and blood-stain resistant.' -Colorado Springs "
+"Weatherproofing Co."
+msgstr ""
+
+msgctxt "interactables/333"
+msgid "'Gentleman's first chemistry set, advanced edition.'"
+msgstr ""
+
+msgctxt "interactables/334"
+msgid ""
+"These are some serious electrical generators from a bygone age. Looks like "
+"they've been offline for decades."
+msgstr ""
+
+msgctxt "interactables/335"
+msgid ""
+"These shelves are stuffed with hundreds of ancient books on survival, "
+"economics, religion, leadership, and public relations.\\n"
+"The bottom shelf is labeled \"planning for a post-civilized world.\""
+msgstr ""
+
+msgctxt "interactables/336"
+msgid "A long time ago, this tank held water for thirsty plants. "
+msgstr ""
+
+msgctxt "interactables/337"
+msgid ""
+"\"Title unknown\\n"
+"Artist unknown\\n"
+" - purchased by A. Buchanan for $5 million.\""
+msgstr ""
+
+msgctxt "interactables/338"
+msgid ""
+"\"Ellen Buchanan underground, 2001\\n"
+"Oil on canvas\""
+msgstr ""
+
+msgctxt "interactables/339"
+msgid ""
+"These cabinets contain a vast, itemized collection of plastic cassettes for "
+"an unknown video format. Too bad nobody can play them anymore."
+msgstr ""
+
+msgctxt "interactables/340"
+msgid "\"Manufacture date: 1997-04-04\""
+msgstr ""
+
+msgctxt "interactables/341"
+msgid ""
+"\"Author unknown.\\n"
+"Possession of the human form, 1945\\n"
+"Marble and brass\""
+msgstr ""
+
+msgctxt "interactables/342"
+msgid ""
+"A hundred years ago, this might have been the main power generator for the "
+"whole bunker. Now it’s a rusted wreck. "
+msgstr ""
+
+msgctxt "interactables/343"
+msgid ""
+"\"Mass market\\n"
+"Simulated plant, 1997\\n"
+"Plastic and ceramic\"\n"
+msgstr ""
+
+msgctxt "interactables/344"
+msgid ""
+"\"Abstract Art Is Nonsense, 1996\\n"
+"Mixed media\""
+msgstr ""
+
+msgctxt "interactables/345"
+msgid "These beds reek of sweat and booze."
+msgstr ""
+
+msgctxt "interactables/346"
+msgid ""
+"Waterlogged and sour-smelling, these provisions are a century beyond their "
+"'sell date.'"
+msgstr ""
+
+msgctxt "interactables/347"
+msgid ""
+"\"These luxury accommodations were custom-built by the Prudent Planning "
+"Company. Prepare for your future, today!\""
+msgstr ""
+
+msgctxt "interactables/348"
+msgid ""
+"A small nameplate describes this clock's time zone as 'Freedom Standard.'"
+msgstr ""
+
+msgctxt "interactables/349"
+msgid ""
+"The food on these tables is cold and partially-eaten, but not rotten. It's "
+"clear someone recently fled mid-meal."
+msgstr ""
+
+msgctxt "interactables/351"
+msgid ""
+"This workbench is arrayed with every tool you could ever need to break down "
+"dead synths and robots, then build new tech from the spoils."
+msgstr ""
+
+msgctxt "interactables/352"
+msgid ""
+"Bike wheels, mufflers, and unrecognizable metal scrap have been warped and "
+"folded to build this strange observation tower."
+msgstr ""
+
+msgctxt "interactables/353"
+msgid "Broadmoor Petting Zoo, 2073"
+msgstr ""
+
+msgctxt "interactables/354"
+msgid "Is this an animal skin, or…?"
+msgstr ""
+
+msgctxt "interactables/355"
+msgid "A freezer chest and a fuel can. Tools of every psychopath’s trade."
+msgstr ""
+
+msgctxt "interactables/356"
+msgid "A cuddly teddy bear… with a lot of stab wounds."
+msgstr ""
+
+msgctxt "interactables/357"
+msgid "More servers than you can shake a memory stick at."
+msgstr ""
+
+msgctxt "interactables/358"
+msgid "Even a century ago, these computers were antiques."
+msgstr ""
+
+msgctxt "interactables/359"
+msgid ""
+"Hidden under the mattress are some old issues of ‘Robot Love’ magazine… and "
+"a full-size poster of Ronald Reagan."
+msgstr ""
+
+msgctxt "interactables/360"
+msgid ""
+"Detailed maps of Colorado litter the desk, with towns, populations, and "
+"defenses clearly noted."
+msgstr ""
+
+msgctxt "interactables/361"
+msgid ""
+"All the strategist’s classics: Sun Tzu’s ‘Art of War,’ Machiavelli’s ‘The "
+"Prince,’ Von Clausewitz’s ‘On War’, Musashi’s ‘Book of Five Rings.’"
+msgstr ""
+
+msgctxt "interactables/362"
+msgid ""
+"Liberty seems to have a wide range of interests, from marksmanship to "
+"linguistics to biology. All the books are well-worn, and many have notes "
+"scribbled throughout.\n"
+msgstr ""
+
+msgctxt "interactables/363"
+msgid ""
+"Old Stars n’ Stripes is the only thing in this room that's not perfectly "
+"clean. Was it an object of veneration or contempt?"
+msgstr ""
+
+msgctxt "interactables/364"
+msgid "\"Beloved Larra, 2070\""
+msgstr ""
+
+msgctxt "interactables/365"
+msgid "\"Livia, 2059\""
+msgstr ""
+
+msgctxt "interactables/366"
+msgid "\"Cleo, 2072\""
+msgstr ""
+
+msgctxt "interactables/367"
+msgid "\"The Buchanans - Saul, Victory, Liberty, Valor. 2105.\""
+msgstr ""
+
+msgctxt "interactables/368"
+msgid ""
+"A smaller version of the giant Patriarch statue in Market Square. Maybe this "
+"was the prototype."
+msgstr ""
+
+msgctxt "interactables/369"
+msgid ""
+"This painting dates from before the apocalypse. It depicts a city with an "
+"unpronounceable name in a place called ‘Europe.’"
+msgstr ""
+
+msgctxt "interactables/370"
+msgid "\"Claimed from the body of a Breather, 2106.\""
+msgstr ""
+
+msgctxt "interactables/371"
+msgid "\"Scar Collector arm from the Battle of Punkin Center, 2097.\""
+msgstr ""
+
+msgctxt "interactables/372"
+msgid ""
+"Looks like the war banner of some forgotten Plains gang, defeated long ago.\n"
+msgstr ""
+
+msgctxt "interactables/373"
+msgid ""
+"The Patriarch still has chairs around his dining table… as if he’s waiting "
+"for his wayward children to come home."
+msgstr ""
+
+msgctxt "interactables/374"
+msgid "\"Genuine Payaso footwear, spattered with genuine Payaso blood.\""
+msgstr ""
+
+msgctxt "interactables/375"
+msgid "\"Mask of The Cyclops, last warlord of the Monster Army.\""
+msgstr ""
+
+msgctxt "interactables/376"
+msgid "An old, rubber monster mask. Is that a dried-out head inside?"
+msgstr ""
+
+msgctxt "interactables/377"
+msgid ""
+"There's a note pinned here: \"Hey, Charlie, we all know afternoon turret "
+"duty bites. But clean up your mess. Thanks.\""
+msgstr ""
+
+msgctxt "interactables/378"
+msgid "378-Available for Use"
+msgstr ""
+
+msgctxt "interactables/379"
+msgid ""
+"Jacob, you lost the bet, so you make the coffee. \n"
+"\n"
+"Make.\n"
+"The.\n"
+"Coffee."
+msgstr ""
+
+msgctxt "interactables/380"
+msgid "Blast marks cover these elf corpses."
+msgstr ""
+
+msgctxt "interactables/381"
+msgid ""
+"There are shattered cyborg limbs and signs of a struggle in the snow. "
+"Whoever was jumped here put up a hell of a fight. Old blood and drag-marks "
+"lead northwest. Is this proof of Dee's kidnapping?"
+msgstr ""
+
+msgctxt "interactables/382"
+msgid ""
+"There are shattered cyborg limbs and signs of a struggle in the snow. "
+"Whoever was jumped here put up a hell of a fight. Old blood and drag-marks "
+"lead northwest."
+msgstr ""
+
+msgctxt "interactables/383"
+msgid "Reagan, the Mighty and Merciful."
+msgstr ""
+
+msgctxt "interactables/384"
+msgid "These machines look like they haven't worked in years."
+msgstr ""
+
+msgctxt "interactables/385"
+msgid "Sign"
+msgstr ""
+
+msgctxt "interactables/386"
+msgid ""
+"Several nearby structures appear to be brand new. Looks like the Breathers "
+"interrupted a building boom."
+msgstr ""
+
+msgctxt "interactables/387"
+msgid "Dangling bodies have been hung over the fireplace with care."
+msgstr ""
+
+msgctxt "interactables/388"
+msgid ""
+"A pile of Hundred Families vacationers. Looks like their leisure time was "
+"cut short."
+msgstr ""
+
+msgctxt "interactables/389"
+msgid "A happy sight made of very sad victims."
+msgstr ""
+
+msgctxt "interactables/390"
+msgid ""
+"The dried blood caked on this cement mixer suggest some questionable "
+"building practices."
+msgstr ""
+
+msgctxt "interactables/391"
+msgid "If you're going to eat the rich, make sure they're properly cooked."
+msgstr ""
+
+msgctxt "interactables/392"
+msgid "Like a Cobb salad made of people."
+msgstr ""
+
+msgctxt "interactables/393"
+msgid ""
+"It's tough to tell exactly how many Hundred Families victims the bears ate, "
+"but they didn't go hungry."
+msgstr ""
+
+msgctxt "interactables/394"
+msgid "New Construction"
+msgstr ""
+
+msgctxt "interactables/395"
+msgid "Hanging Corpses"
+msgstr ""
+
+msgctxt "interactables/396"
+msgid "Broken Valve"
+msgstr ""
+
+msgctxt "interactables/397"
+msgid "Breather Gas Tank"
+msgstr ""
+
+msgctxt "interactables/398"
+msgid ""
+"An intoxicating mixture of gasses that takes the user into a dream-like "
+"state."
+msgstr ""
+
+msgctxt "interactables/399"
+msgid "Planter"
+msgstr ""
+
+msgctxt "interactables/400"
+msgid "Tarjan"
+msgstr ""
+
+msgctxt "interactables/401"
+msgid "Parking Meter"
+msgstr ""
+
+msgctxt "interactables/402"
+msgid ""
+"Sleeping bags provide a space efficient way for hopefuls to bide their time "
+"in the camp while they earn their way into the Bizarre."
+msgstr ""
+
+msgctxt "interactables/403"
+msgid ""
+"This toy appears to be a lookout, observing the operations of the Monster "
+"Army."
+msgstr ""
+
+msgctxt "interactables/404"
+msgid "A cannon is certainly one way to extract teeth."
+msgstr ""
+
+msgctxt "interactables/405"
+msgid ""
+"Someone has turned this inflatable gorilla into a frozen gargoyle, no doubt "
+"in hopes of scaring away unwanted guests."
+msgstr ""
+
+msgctxt "interactables/406"
+msgid ""
+"The plan outlined on this chalkboard is simple yet effective. Step 1: KILL "
+"THEM ALL  Step 2: PARTY"
+msgstr ""
+
+msgctxt "interactables/407"
+msgid ""
+"Based on the playground equipment and the bright colors, you're pretty sure "
+"this room used to be a nursery."
+msgstr ""
+
+msgctxt "interactables/408"
+msgid ""
+"This sign reads \"Erectory\" and \"Shop. Die. Play\". Some very mature "
+"comedian has clearly altered the lettering."
+msgstr ""
+
+msgctxt "interactables/409"
+msgid ""
+"Pig feed is in the process of being prepared. Their diet seems to consist of "
+"aging root crops and other leftover vegetables."
+msgstr ""
+
+msgctxt "interactables/410"
+msgid ""
+"Looks like a replacement unit that wasn't designed for this space. Someone "
+"crammed it in anyway."
+msgstr ""
+
+msgctxt "interactables/411"
+msgid ""
+"Something chewed through these wires. Maybe it didn't mind the shock. Maybe "
+"the toads got a cooked meal."
+msgstr ""
+
+msgctxt "interactables/412"
+msgid ""
+"Who would have thought that a children's playground would make for a great "
+"explosive pig training ground."
+msgstr ""
+
+msgctxt "interactables/413"
+msgid ""
+"This jukebox has been damaged beyond repair. There will be no jukebox hero "
+"today."
+msgstr ""
+
+msgctxt "interactables/414"
+msgid ""
+"It looks like some kind of wild animal was searching this trash for food."
+msgstr ""
+
+msgctxt "interactables/415"
+msgid ""
+"Gas is scarce in the wasteland yet someone went to great lengths to acquire "
+"dozens of canisters for the express purpose of burning people alive."
+msgstr ""
+
+msgctxt "interactables/416"
+msgid ""
+"Someone went hog wild with this chainsaw. There is so much blood and body "
+"parts it's hard to tell which limbs belong to which corpse."
+msgstr ""
+
+msgctxt "interactables/417"
+msgid "The board reads, \"Welcome to Ass-pen!\""
+msgstr ""
+
+msgctxt "interactables/418"
+msgid "It looks like Ash was making explosive barrels out of fertilizer."
+msgstr ""
+
+msgctxt "interactables/419"
+msgid ""
+"Looks like someone has been studying the effects of Breather gas on the "
+"human body. It also looks like they may have been breathing the gas when "
+"they wrote their notes. Woah."
+msgstr ""
+
+msgctxt "interactables/420"
+msgid ""
+"This head has been freshly severed. Based on the facial features you can "
+"tell this was a member of the Reed Family."
+msgstr ""
+
+msgctxt "interactables/421"
+msgid ""
+"The corpses of those who could not survive the sauna gas experiments have "
+"been piled in this corner. "
+msgstr ""
+
+msgctxt "interactables/422"
+msgid ""
+"Empty bottles of pain medicine and alcohol surround the sink. Somebody's "
+"been having either a really good time, or a really bad time."
+msgstr ""
+
+msgctxt "interactables/423"
+msgid "Winch"
+msgstr ""
+
+msgctxt "interactables/424"
+msgid ""
+"A plaque reads, \"In memory of Chanclita, the first Payaso cannonball. May "
+"she rest in pieces.\""
+msgstr ""
+
+msgctxt "interactables/425"
+msgid "A label inside the wig reads, \"These colors don't run, pendejo!!\""
+msgstr ""
+
+msgctxt "interactables/426"
+msgid "Inscribed upon each pin are the words, \"YOUR FACE HERE\"."
+msgstr ""
+
+msgctxt "interactables/427"
+msgid ""
+"Scribbled below in crayon, \"One clown stands alone. Ten clowns laugh as the "
+"ball rolls. Another enters.\""
+msgstr ""
+
+msgctxt "interactables/428"
+msgid ""
+"Though mostly worn away, a few flakes of thick clown makeup still cling to "
+"the face on the poster."
+msgstr ""
+
+msgctxt "interactables/429"
+msgid ""
+"The bison's head is covered in numerous surgical incisions. Bits of metal "
+"protrude from many of the cuts."
+msgstr ""
+
+msgctxt "interactables/430"
+msgid ""
+"The aroma of rancid bison rises from the pot bubbling over the campfire."
+msgstr ""
+
+msgctxt "interactables/431"
+msgid ""
+"Caked to the bottom half of the dozer blade is layer upon layer of dried "
+"bison dung."
+msgstr ""
+
+msgctxt "interactables/432"
+msgid ""
+"Dusty and worn, this might be the largest collection of cookie recipes in "
+"the known world."
+msgstr ""
+
+msgctxt "interactables/433"
+msgid ""
+"Burnt cookie dough has fused to the surface of the oven. Someone sure makes "
+"a lot of cookies."
+msgstr ""
+
+msgctxt "interactables/434"
+msgid ""
+"An inscription reads, \"Larry. Changed his diet, became a rancher, now is "
+"quiet, to greener pasture.\""
+msgstr ""
+
+msgctxt "interactables/435"
+msgid "An updraft of chilled air carries particles of rust."
+msgstr ""
+
+msgctxt "interactables/436"
+msgid ""
+"Sheets of thin plastic hang from a curved metal rod. The original pattern "
+"has faded, obscured by decades of mold stains."
+msgstr ""
+
+msgctxt "interactables/437"
+msgid "The record's home-made label reads, \"Dapper Youthful Cannibals\"."
+msgstr ""
+
+msgctxt "interactables/438"
+msgid ""
+"The monitor displays the work-in-progress plans for the \"Pitmaster 3000.\" "
+"The gold fringe seems a little pretentious."
+msgstr ""
+
+msgctxt "interactables/439"
+msgid ""
+"This corpse has been coated in a secret sauce of 11 herbs and spices. It "
+"smells disturbingly delicious."
+msgstr ""
+
+msgctxt "interactables/440"
+msgid ""
+"The dumpster is full of charred bones, frozen bags of intestines and used "
+"napkins."
+msgstr ""
+
+msgctxt "interactables/441"
+msgid ""
+"This Ranger has been eviscerated. The precision makes it seems like he was "
+"being prepped for butchering."
+msgstr ""
+
+msgctxt "interactables/442"
+msgid "Bellamy might be trying to overcompensate for something."
+msgstr ""
+
+msgctxt "interactables/443"
+msgid ""
+"Nothing but a twisted heap of broken bones and crushed organs. At least it "
+"was over quick."
+msgstr ""
+
+msgctxt "interactables/444"
+msgid ""
+"This looks like the Patriarch's Dorsey captive. Guess his trial was a quick "
+"one."
+msgstr ""
+
+msgctxt "interactables/445"
+msgid ""
+"War journalists are said to have photographed Reagan at his most iconic "
+"moments. The original images are lost to time, but history lives on through "
+"acrylics, the most precious of all paints."
+msgstr ""
+
+msgctxt "interactables/446"
+msgid "Observation Tower"
+msgstr ""
+
+msgctxt "interactables/447"
+msgid "The ruins of the speedway's fueling station."
+msgstr ""
+
+msgctxt "interactables/448"
+msgid "Car Spike"
+msgstr ""
+
+msgctxt "interactables/449"
+msgid ""
+"Someone stacked several wrecked cars and topped it with a torch. Party on, "
+"Wayne."
+msgstr ""
+
+msgctxt "interactables/450"
+msgid "Shelves"
+msgstr ""
+
+msgctxt "interactables/451"
+msgid "These are the sum total of the slaves' belongings. "
+msgstr ""
+
+msgctxt "interactables/452"
+msgid "Camp Fire"
+msgstr ""
+
+msgctxt "interactables/453"
+msgid ""
+"The slaves aren't just burning wood. There's no doubt there's also an eau "
+"d'bison wafting up."
+msgstr ""
+
+msgctxt "interactables/454"
+msgid "Torch"
+msgstr ""
+
+msgctxt "interactables/455"
+msgid "The gangs don't seem concerned about the ozone layer."
+msgstr ""
+
+msgctxt "interactables/456"
+msgid "These computers are covered in a thick layer of dust."
+msgstr ""
+
+msgctxt "interactables/457"
+msgid "Dino Toy"
+msgstr ""
+
+msgctxt "interactables/458"
+msgid "Cute but menacing, just like the Payasos."
+msgstr ""
+
+msgctxt "interactables/459"
+msgid "Workbench"
+msgstr ""
+
+msgctxt "interactables/460"
+msgid ""
+"Drills, saws, actuators, and scalpels stained with blood cover this "
+"workbench. This must be where they collect their scars."
+msgstr ""
+
+msgctxt "interactables/461"
+msgid ""
+"Several Godfisher kites rest against the fence, ready for a high-flying "
+"passenger."
+msgstr ""
+
+msgctxt "interactables/462"
+msgid "Surgery Booth"
+msgstr ""
+
+msgctxt "interactables/463"
+msgid ""
+"The mutilated corpse of Ironclad Cordite dangles from chains. Apparently he "
+"failed to seize his destiny after parting ways with the Rangers in the "
+"bunker below Broadmoor Heights."
+msgstr ""
+
+msgctxt "interactables/464"
+msgid "Antenna"
+msgstr ""
+
+msgctxt "interactables/465"
+msgid "Long abandoned, the doors on this RV have rusted shut."
+msgstr ""
+
+msgctxt "interactables/466"
+msgid ""
+"The oldest Monster Army Masher jacket. Legend says it belonged to an "
+"adolescent werewolf who wreaked terror on a small town. A young Saul "
+"Buchanan slew the last wearer and took the jacket as a trophy."
+msgstr ""
+
+msgctxt "interactables/467"
+msgid "Shattered concrete exposes what used to be a hardened inner structure."
+msgstr ""
+
+msgctxt "interactables/468"
+msgid ""
+"It's not obvious what this used to do, but it looks like it was expensive."
+msgstr ""
+
+msgctxt "interactables/469"
+msgid ""
+"An aged ventilation system, still pumping out recycled air. The room smells "
+"stale and metallic."
+msgstr ""
+
+msgctxt "interactables/470"
+msgid ""
+"There is a long row of tiny numbers and letters written across the bottom of "
+"this painting: \"78EBF3B55D7C44000AB7F8C7D298DA2BF6\""
+msgstr ""
+
+msgctxt "interactables/471"
+msgid ""
+"This junction box is probably hundreds of years old, but still appears "
+"functional."
+msgstr ""
+
+msgctxt "interactables/472"
+msgid ""
+"Ancient metal boxes mounted directly into the cement. There are no "
+"interfaces, ports, or even exposed wiring."
+msgstr ""
+
+msgctxt "interactables/473"
+msgid "This statue looks like a much younger version of The Patriarch."
+msgstr ""
+
+msgctxt "interactables/474"
+msgid "These terminals are covered in a thick layer of dust."
+msgstr ""
+
+msgctxt "interactables/475"
+msgid "The front of this vase is clean and shiny. The back is caked with dust."
+msgstr ""
+
+msgctxt "interactables/476"
+msgid ""
+"The statue has been weathered by time and the elements, but you can still "
+"see the resemblance."
+msgstr ""
+
+msgctxt "interactables/477"
+msgid ""
+"Someone spent a long time painting these block letters. And then someone "
+"else knocked the sign akilter."
+msgstr ""
+
+msgctxt "interactables/478"
+msgid ""
+"These ruins don't look like they were built on the ground - more like they "
+"embedded there after falling from a great height."
+msgstr ""
+
+msgctxt "interactables/479"
+msgid ""
+"This place looks more like a building than a mine, but everything is topsy-"
+"turvy. These cots are riveted to the walls."
+msgstr ""
+
+msgctxt "interactables/480"
+msgid ""
+"The computer banks in this section are still receiving auxiliary power from "
+"somewhere. All of the text is in Cyrillic lettering."
+msgstr ""
+
+msgctxt "interactables/481"
+msgid ""
+"This looks like some kind of Soviet symbol. The Gippers would <i>not</i> be "
+"pleased."
+msgstr ""
+
+msgctxt "interactables/482"
+msgid ""
+"The lab equipment is adhered to the table like someone was worried it would "
+"go flying."
+msgstr ""
+
+msgctxt "interactables/483"
+msgid ""
+"These control panels look like they could steer a ship. Or a flying ship, "
+"based on the three axes in the display."
+msgstr ""
+
+msgctxt "interactables/484"
+msgid "Smells great!"
+msgstr ""
+
+msgctxt "interactables/485"
+msgid ""
+"Seems like the Alaska Surprise truck was caught by surprise when erosion "
+"opened a sinkhole under it."
+msgstr ""
+
+msgctxt "interactables/486"
+msgid ""
+"The mangled asphalt and bent signage indicate that this used to be a highway "
+"before the water ate the land away."
+msgstr ""
+
+msgctxt "interactables/487"
+msgid ""
+"Discarded body parts, not fit for a sky-god's kite, have been stripped clean "
+"of flesh by something very hungry."
+msgstr ""
+
+msgctxt "interactables/488"
+msgid ""
+"This wind farm would have been a great source of green energy if not for the "
+"end of the world."
+msgstr ""
+
+msgctxt "interactables/489"
+msgid "Sans Luxe. Sounds fancy."
+msgstr ""
+
+msgctxt "interactables/490"
+msgid "The Marshals must go through a bunkers-worth of coffee every day."
+msgstr ""
+
+msgctxt "interactables/491"
+msgid "Good cop, bad cop, and a swinging exposed lightbulb. Classic."
+msgstr ""
+
+msgctxt "interactables/492"
+msgid ""
+"The Patriarch looms over the pillories, surveying the punishments of the "
+"guilty."
+msgstr ""
+
+msgctxt "interactables/493"
+msgid ""
+"Refugees have set up impromptu shelters around the square. Even with the "
+"city's heat, they must be freezing."
+msgstr ""
+
+msgctxt "interactables/494"
+msgid "Hey, good looking."
+msgstr ""
+
+msgctxt "interactables/495"
+msgid "The Saul Buchanan Colorado Heritage Museum seems closed for business."
+msgstr ""
+
+msgctxt "interactables/496"
+msgid ""
+"An Arapaho convoy truck is undergoing repairs. When you carry goods across "
+"all of Colorado, you're bound to take some damage."
+msgstr ""
+
+msgctxt "interactables/497"
+msgid ""
+"All of these computers appear to be networked together. They are running "
+"completely unrecognizable streams of code."
+msgstr ""
+
+msgctxt "interactables/498"
+msgid "Two tall tubes leaking pink goo."
+msgstr ""
+
+msgctxt "interactables/499"
+msgid "A statue of General Vargas of the Desert Rangers. "
+msgstr ""
+
+msgctxt "interactables/500"
+msgid ""
+"This campsite looks ancient. The airport structures must have protected it "
+"from the scouring winds and snow drifts."
+msgstr ""
+
+msgctxt "interactables/501"
+msgid "Ice Cream Truck"
+msgstr ""
+
+msgctxt "interactables/502"
+msgid ""
+"Scar Collector, Payaso, Godfisher: something tore all of them from nape to "
+"navel."
+msgstr ""
+
+msgctxt "interactables/503"
+msgid ""
+"These bones are stripped and show signs of years of weathering. How long has "
+"this creature lived here?"
+msgstr ""
+
+msgctxt "interactables/504"
+msgid ""
+"This must be Randy Gett's younger bother. The facial resemblance is strong. "
+"The exit wound on his chest appears several days old, but the bite marks on "
+"his arms seem fresh."
+msgstr ""
+
+msgctxt "interactables/505"
+msgid ""
+"The bodies of Dorseys slain in the recent incursion were tossed haphazardly "
+"into this frozen fountain."
+msgstr ""
+
+msgctxt "interactables/506"
+msgid ""
+"Several of the stalls in Market Square were wrecked by the Dorseys - or "
+"Marshal crossfire."
+msgstr ""
+
+msgctxt "interactables/507"
+msgid ""
+"The bodies of fallen Marshals and citizens have been arranged for pick up "
+"and a proper burial."
+msgstr ""
+
+msgctxt "interactables/509"
+msgid ""
+"This suit of power armor is well maintained, but appears to be missing "
+"several major components. No one will be using it anytime soon."
+msgstr ""
+
+msgctxt "interactables/510"
+msgid "Vehicle Workbench"
+msgstr ""
+
+msgctxt "interactables/511"
+msgid "Signpost"
+msgstr ""
+
+msgctxt "interactables/512"
+msgid ""
+"This crudely painted sign says \"Colorado Springs\" with an arrow pointing "
+"south."
+msgstr ""
+
+msgctxt "interactables/513"
+msgid ""
+"There are powder burns on this Ranger's jacket. They were shot at point "
+"blank range. "
+msgstr ""
+
+msgctxt "interactables/514"
+msgid ""
+"This Ranger corpse's eyes are wide open. They reflect the fire of burning "
+"trucks. "
+msgstr ""
+
+msgctxt "interactables/515"
+msgid "This Ranger was beaten to death."
+msgstr ""
+
+msgctxt "interactables/516"
+msgid ""
+"These fighters were astonishingly effective in destroying the exhibits as "
+"they savagely killed each other."
+msgstr ""
+
+msgctxt "interactables/517"
+msgid ""
+"An entire team of Rangers were turned into swiss cheese, probably by those "
+"gun-toting mechanical death machines over there. You'd best avoid them "
+"entirely."
+msgstr ""
+
+msgctxt "interactables/534"
+msgid ""
+"A card next to this set of steak knives reads, \"1st Prize for top salesman "
+"of the year!\""
+msgstr ""
+
+msgctxt "interactables/550"
+msgid "Animal Kennel"
+msgstr ""

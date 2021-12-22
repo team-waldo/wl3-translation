@@ -1,0 +1,497 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:35+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "scenes/0"
+msgid "Merchant Outpost"
+msgstr ""
+
+msgctxt "scenes/1"
+msgid "Empty"
+msgstr ""
+
+msgctxt "scenes/2"
+msgid "HUD"
+msgstr ""
+
+msgctxt "scenes/3"
+msgid "Launcher"
+msgstr ""
+
+msgctxt "scenes/4"
+msgid "Lobby"
+msgstr ""
+
+msgctxt "scenes/5"
+msgid "Main Menu"
+msgstr ""
+
+msgctxt "scenes/6"
+msgid "Singletons"
+msgstr ""
+
+msgctxt "scenes/7"
+msgid "Colorado"
+msgstr ""
+
+msgctxt "scenes/8"
+msgid "Ranger HQ"
+msgstr ""
+
+msgctxt "scenes/9"
+msgid "Ranger HQ Interior"
+msgstr ""
+
+msgctxt "scenes/10"
+msgid "Downtown Colorado Springs"
+msgstr ""
+
+msgctxt "scenes/11"
+msgid "Little Vegas"
+msgstr ""
+
+msgctxt "scenes/12"
+msgid "Garden of the Gods"
+msgstr ""
+
+msgctxt "scenes/13"
+msgid "Air Force Academy Ruins"
+msgstr ""
+
+msgctxt "scenes/14"
+msgid "Air Force Academy Underground"
+msgstr ""
+
+msgctxt "scenes/15"
+msgid "Broadmoor Heights"
+msgstr ""
+
+msgctxt "scenes/16"
+msgid "Patriarch's Palace"
+msgstr ""
+
+msgctxt "scenes/17"
+msgid "Old Survivalist Bunker"
+msgstr ""
+
+msgctxt "scenes/18"
+msgid "Denver Ruins"
+msgstr ""
+
+msgctxt "scenes/19"
+msgid "Valhalla Medical Facility "
+msgstr ""
+
+msgctxt "scenes/20"
+msgid "Union Station"
+msgstr ""
+
+msgctxt "scenes/21"
+msgid "Gipper Oilfield"
+msgstr ""
+
+msgctxt "scenes/22"
+msgid "The Western Whitehouse"
+msgstr ""
+
+msgctxt "scenes/23"
+msgid "Machine Commune"
+msgstr ""
+
+msgctxt "scenes/38"
+msgid "Bizarre Exterior"
+msgstr ""
+
+msgctxt "scenes/39"
+msgid "Bizarre Interior"
+msgstr ""
+
+msgctxt "scenes/40"
+msgid "Warrens"
+msgstr ""
+
+msgctxt "scenes/44"
+msgid "Yuma County Speedway"
+msgstr ""
+
+msgctxt "scenes/45"
+msgid "Godfisher Windfarm"
+msgstr ""
+
+msgctxt "scenes/46"
+msgid "Scar Collector Mine"
+msgstr ""
+
+msgctxt "scenes/47"
+msgid "The Black Hole"
+msgstr ""
+
+msgctxt "scenes/48"
+msgid "Mountain Pass"
+msgstr ""
+
+msgctxt "scenes/49"
+msgid "Paint Mines"
+msgstr ""
+
+msgctxt "scenes/50"
+msgid "Black Forest"
+msgstr ""
+
+msgctxt "scenes/51"
+msgid "Merchant Outpost"
+msgstr ""
+
+msgctxt "scenes/52"
+msgid "Isolated Garage"
+msgstr ""
+
+msgctxt "scenes/53"
+msgid "Knox Bison Ranch"
+msgstr ""
+
+msgctxt "scenes/54"
+msgid "Los Payasos Ambush"
+msgstr ""
+
+msgctxt "scenes/55"
+msgid "Tear Down The Wall"
+msgstr ""
+
+msgctxt "scenes/56"
+msgid "Watering Hole"
+msgstr ""
+
+msgctxt "scenes/57"
+msgid "Route 82 Ambush"
+msgstr ""
+
+msgctxt "scenes/58"
+msgid "Psychopath Hitman Encounter"
+msgstr ""
+
+msgctxt "scenes/61"
+msgid "Kidnapped Children Hideout"
+msgstr ""
+
+msgctxt "scenes/62"
+msgid "Monster Army Bunker"
+msgstr ""
+
+msgctxt "scenes/63"
+msgid "Gett Family Homestead"
+msgstr ""
+
+msgctxt "scenes/64"
+msgid "Fugitives From California"
+msgstr ""
+
+msgctxt "scenes/65"
+msgid "Backer Kym Hie"
+msgstr ""
+
+msgctxt "scenes/67"
+msgid "Clown Museum"
+msgstr ""
+
+msgctxt "scenes/68"
+msgid "Caddyshack"
+msgstr ""
+
+msgctxt "scenes/70"
+msgid "My Tire"
+msgstr ""
+
+msgctxt "scenes/71"
+msgid "BTTF Doc"
+msgstr ""
+
+msgctxt "scenes/72"
+msgid "Merchant_00"
+msgstr ""
+
+msgctxt "scenes/73"
+msgid "Merchant_01"
+msgstr ""
+
+msgctxt "scenes/74"
+msgid "Merchant_02"
+msgstr ""
+
+msgctxt "scenes/75"
+msgid "Merchant_03"
+msgstr ""
+
+msgctxt "scenes/76"
+msgid "Combat Humans "
+msgstr ""
+
+msgctxt "scenes/77"
+msgid "Combat Anumals"
+msgstr ""
+
+msgctxt "scenes/78"
+msgid "Combat Robots"
+msgstr ""
+
+msgctxt "scenes/79"
+msgid "Combat Ambush"
+msgstr ""
+
+msgctxt "scenes/80"
+msgid "Aspen"
+msgstr ""
+
+msgctxt "scenes/81"
+msgid "Aspen"
+msgstr ""
+
+msgctxt "scenes/82"
+msgid "Little Hell"
+msgstr ""
+
+msgctxt "scenes/83"
+msgid "Abandoned Camp"
+msgstr ""
+
+msgctxt "scenes/84"
+msgid "\"Snowed Inn\" Resort"
+msgstr ""
+
+msgctxt "scenes/85"
+msgid "Eleven Mile Canyon"
+msgstr ""
+
+msgctxt "scenes/86"
+msgid "Ambush Site"
+msgstr ""
+
+msgctxt "scenes/87"
+msgid "Ambush Site (Return) "
+msgstr ""
+
+msgctxt "scenes/88"
+msgid "Abandoned Oil Well "
+msgstr ""
+
+msgctxt "scenes/89"
+msgid "Ambush! "
+msgstr ""
+
+msgctxt "scenes/90"
+msgid "Abandoned Oil Well"
+msgstr ""
+
+msgctxt "scenes/91"
+msgid "Ghost Town"
+msgstr ""
+
+msgctxt "scenes/92"
+msgid "Mysterious Cave"
+msgstr ""
+
+msgctxt "scenes/93"
+msgid "Toaster Repair Academy"
+msgstr ""
+
+msgctxt "scenes/94"
+msgid "Ranger Rover Site"
+msgstr ""
+
+msgctxt "scenes/95"
+msgid "Department of Energy Site"
+msgstr ""
+
+msgctxt "scenes/96"
+msgid "Massacre Site"
+msgstr ""
+
+msgctxt "scenes/97"
+msgid "ar_TEST_Farm_AnimalCompanions"
+msgstr ""
+
+msgctxt "scenes/98"
+msgid "ar_TEST_Farm_CNPCs"
+msgstr ""
+
+msgctxt "scenes/99"
+msgid "ar_TEST_Farm_Cover"
+msgstr ""
+
+msgctxt "scenes/100"
+msgid "ar_TEST_Farm_LootContainers"
+msgstr ""
+
+msgctxt "scenes/101"
+msgid "ar_TEST_Farm_Traps"
+msgstr ""
+
+msgctxt "scenes/102"
+msgid "ar_TEST_Farm_WeaponFiringRange"
+msgstr ""
+
+msgctxt "scenes/103"
+msgid "ar_TEST_Farm_WeatherConditions"
+msgstr ""
+
+msgctxt "scenes/104"
+msgid "TEST_Farm_Interactables"
+msgstr ""
+
+msgctxt "scenes/105"
+msgid "TEST_DamFight"
+msgstr ""
+
+msgctxt "scenes/106"
+msgid "TEST_HoonHouse"
+msgstr ""
+
+msgctxt "scenes/107"
+msgid "Clown Museum"
+msgstr ""
+
+msgctxt "scenes/108"
+msgid " Flesh Trappers"
+msgstr ""
+
+msgctxt "scenes/109"
+msgid " The Standoff"
+msgstr ""
+
+msgctxt "scenes/110"
+msgid "Scorpitron"
+msgstr ""
+
+msgctxt "scenes/111"
+msgid "Hoon Homestead"
+msgstr ""
+
+msgctxt "scenes/112"
+msgid "TEST Vehicle Assault Structure"
+msgstr ""
+
+msgctxt "scenes/113"
+msgid "TEST Vehicle Alley Kill Box"
+msgstr ""
+
+msgctxt "scenes/114"
+msgid "TEST Vehicle Ambush"
+msgstr ""
+
+msgctxt "scenes/115"
+msgid "Clown Museum"
+msgstr ""
+
+msgctxt "scenes/116"
+msgid "Arapaho Caravan"
+msgstr ""
+
+msgctxt "scenes/117"
+msgid "Santa's Workshop"
+msgstr ""
+
+msgctxt "scenes/118"
+msgid "Tellurium Mine"
+msgstr ""
+
+msgctxt "scenes/119"
+msgid "Cannibal Jamboree"
+msgstr ""
+
+msgctxt "scenes/120"
+msgid "Abandoned Oil Well"
+msgstr ""
+
+msgctxt "scenes/121"
+msgid "Knox Bison Ranch"
+msgstr ""
+
+msgctxt "scenes/122"
+msgid "Knox Bison Ranch"
+msgstr ""
+
+msgctxt "scenes/123"
+msgid "Hostile Encounter"
+msgstr ""
+
+msgctxt "scenes/124"
+msgid "Roadblock"
+msgstr ""
+
+msgctxt "scenes/125"
+msgid "Colorado Springs"
+msgstr ""
+
+msgctxt "scenes/126"
+msgid "Denver"
+msgstr ""
+
+msgctxt "scenes/127"
+msgid "Aspen"
+msgstr ""
+
+msgctxt "scenes/128"
+msgid "The Bizarre"
+msgstr ""
+
+msgctxt "scenes/129"
+msgid "Yuma County"
+msgstr ""
+
+msgctxt "scenes/130"
+msgid "Displaced"
+msgstr ""
+
+msgctxt "scenes/133"
+msgid "Machine Shop"
+msgstr ""
+
+msgctxt "scenes/134"
+msgid "Sans Luxe Apartments"
+msgstr ""
+
+msgctxt "scenes/135"
+msgid "Rocky Mountains"
+msgstr ""
+
+msgctxt "scenes/136"
+msgid "Aspen Outskirts"
+msgstr ""
+
+msgctxt "scenes/137"
+msgid "Southern Dunes"
+msgstr ""
+
+msgctxt "scenes/138"
+msgid "Denver Outskirts"
+msgstr ""
+
+msgctxt "scenes/139"
+msgid "The Bizarre Outskirts"
+msgstr ""
+
+msgctxt "scenes/140"
+msgid "Eastern Plains"
+msgstr ""
+
+msgctxt "scenes/141"
+msgid "Yuma County"
+msgstr ""
+
+msgctxt "scenes/142"
+msgid "Warrens East"
+msgstr ""
+
+msgctxt "scenes/143"
+msgid "The Warrens"
+msgstr ""

@@ -1,0 +1,999 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:35+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "attributes/0"
+msgid " First test attribute entry"
+msgstr ""
+
+msgctxt "attributes/1"
+msgid "Coordination"
+msgstr ""
+
+msgctxt "attributes/2"
+msgid "Luck"
+msgstr ""
+
+msgctxt "attributes/3"
+msgid "Awareness"
+msgstr ""
+
+msgctxt "attributes/4"
+msgid "Strength"
+msgstr ""
+
+msgctxt "attributes/5"
+msgid "Speed"
+msgstr ""
+
+msgctxt "attributes/6"
+msgid "Intelligence"
+msgstr ""
+
+msgctxt "attributes/7"
+msgid "Charisma"
+msgstr ""
+
+msgctxt "attributes/8"
+msgid ""
+"Coordination is your physical condition, self-control, and health. Take care "
+"of your body and it will take care of you."
+msgstr ""
+
+msgctxt "attributes/9"
+msgid ""
+"Luck is your guardian angel. Whether you're lining up that decisive attack, "
+"dodging incoming fire, or down to your bottom dollar, sometimes the winds of "
+"fortune blow your way."
+msgstr ""
+
+msgctxt "attributes/10"
+msgid ""
+"Awareness is your sense of your surroundings. A good Ranger knows that often "
+"it's your eyes and ears that keep you alive."
+msgstr ""
+
+msgctxt "attributes/11"
+msgid ""
+"Strength is your raw physical power and ability to shrug off harm. It lets "
+"you hit harder, throw farther, and also serves as a requirement for the "
+"biggest, baddest heavy weapons and armor."
+msgstr ""
+
+msgctxt "attributes/12"
+msgid ""
+"Speed is your physical quickness and reaction time. Strike first, strike "
+"true, then get out of there."
+msgstr ""
+
+msgctxt "attributes/13"
+msgid ""
+"Intelligence is your ability to make mental connections and do tactical "
+"thinking."
+msgstr ""
+
+msgctxt "attributes/14"
+msgid ""
+"Charisma is your force of will and personality. A charismatic Ranger can "
+"unleash Strike abilities more often, learn and adapt more quickly, and can "
+"be a more effective leader."
+msgstr ""
+
+msgctxt "attributes/15"
+msgid "Take care of your body and it will take care of you."
+msgstr ""
+
+msgctxt "attributes/16"
+msgid "Even the most skilled combatants fear the lucky."
+msgstr ""
+
+msgctxt "attributes/17"
+msgid "More than anything, it's your eyes and ears that keep you alive."
+msgstr ""
+
+msgctxt "attributes/18"
+msgid "Brawn solves more problems than clever folk like to admit."
+msgstr ""
+
+msgctxt "attributes/19"
+msgid "Strike first, strike true, then get out of there."
+msgstr ""
+
+msgctxt "attributes/20"
+msgid "Are you smart enough not to brag about how smart you are?"
+msgstr ""
+
+msgctxt "attributes/21"
+msgid "With a strong enough personality, anything is possible."
+msgstr ""
+
+msgctxt "colornames/0"
+msgid "Default"
+msgstr ""
+
+msgctxt "colornames/1"
+msgid "Black"
+msgstr ""
+
+msgctxt "colornames/2"
+msgid "Maroon"
+msgstr ""
+
+msgctxt "colornames/3"
+msgid "Green"
+msgstr ""
+
+msgctxt "colornames/4"
+msgid "Olive"
+msgstr ""
+
+msgctxt "colornames/5"
+msgid "Navy"
+msgstr ""
+
+msgctxt "colornames/6"
+msgid "Purple"
+msgstr ""
+
+msgctxt "colornames/7"
+msgid "Teal"
+msgstr ""
+
+msgctxt "colornames/8"
+msgid "Silver"
+msgstr ""
+
+msgctxt "colornames/9"
+msgid "Gray"
+msgstr ""
+
+msgctxt "colornames/10"
+msgid "Red"
+msgstr ""
+
+msgctxt "colornames/11"
+msgid "Lime"
+msgstr ""
+
+msgctxt "colornames/12"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "colornames/13"
+msgid "Blue"
+msgstr ""
+
+msgctxt "colornames/14"
+msgid "Fuschia"
+msgstr ""
+
+msgctxt "colornames/15"
+msgid "Aqua"
+msgstr ""
+
+msgctxt "colornames/16"
+msgid "White"
+msgstr ""
+
+msgctxt "colornames/17"
+msgid "Brown"
+msgstr ""
+
+msgctxt "colornames/18"
+msgid "Light Blonde"
+msgstr ""
+
+msgctxt "colornames/19"
+msgid "Blonde"
+msgstr ""
+
+msgctxt "colornames/20"
+msgid "Mahogany"
+msgstr ""
+
+msgctxt "colornames/21"
+msgid "Copper"
+msgstr ""
+
+msgctxt "colornames/22"
+msgid "Auburn"
+msgstr ""
+
+msgctxt "colornames/23"
+msgid "Black"
+msgstr ""
+
+msgctxt "colornames/24"
+msgid "Dusk"
+msgstr ""
+
+msgctxt "colornames/25"
+msgid "Blue"
+msgstr ""
+
+msgctxt "colornames/26"
+msgid "Teal"
+msgstr ""
+
+msgctxt "colornames/27"
+msgid "Aqua"
+msgstr ""
+
+msgctxt "colornames/28"
+msgid "Green"
+msgstr ""
+
+msgctxt "colornames/29"
+msgid "Radioactive"
+msgstr ""
+
+msgctxt "colornames/30"
+msgid "Orange"
+msgstr ""
+
+msgctxt "colornames/31"
+msgid "Ruby"
+msgstr ""
+
+msgctxt "colornames/32"
+msgid "Hot Pink"
+msgstr ""
+
+msgctxt "colornames/33"
+msgid "Purple"
+msgstr ""
+
+msgctxt "colornames/34"
+msgid "Midnight"
+msgstr ""
+
+msgctxt "colornames/35"
+msgid "Ivory"
+msgstr ""
+
+msgctxt "colornames/36"
+msgid "Pale"
+msgstr ""
+
+msgctxt "colornames/37"
+msgid "Light"
+msgstr ""
+
+msgctxt "colornames/38"
+msgid "Tan"
+msgstr ""
+
+msgctxt "colornames/39"
+msgid "Olive"
+msgstr ""
+
+msgctxt "colornames/40"
+msgid "Bronze"
+msgstr ""
+
+msgctxt "colornames/41"
+msgid "Copper"
+msgstr ""
+
+msgctxt "colornames/42"
+msgid "Brown"
+msgstr ""
+
+msgctxt "colornames/43"
+msgid "Ebony"
+msgstr ""
+
+msgctxt "colornames/44"
+msgid "Sickly"
+msgstr ""
+
+msgctxt "colornames/45"
+msgid "Cave-Crawler"
+msgstr ""
+
+msgctxt "colornames/46"
+msgid "Mutant"
+msgstr ""
+
+msgctxt "colornames/47"
+msgid "Gray"
+msgstr ""
+
+msgctxt "colornames/48"
+msgid "Silver"
+msgstr ""
+
+msgctxt "colornames/49"
+msgid "White"
+msgstr ""
+
+msgctxt "colornames/50"
+msgid "Chestnut"
+msgstr ""
+
+msgctxt "keycodes/0"
+msgid " The first keycode text"
+msgstr ""
+
+msgctxt "keycodes/1"
+msgid "Backspace"
+msgstr ""
+
+msgctxt "keycodes/2"
+msgid "Delete"
+msgstr ""
+
+msgctxt "keycodes/3"
+msgid "Tab"
+msgstr ""
+
+msgctxt "keycodes/4"
+msgid "Clear"
+msgstr ""
+
+msgctxt "keycodes/5"
+msgid "Return"
+msgstr ""
+
+msgctxt "keycodes/6"
+msgid "Pause"
+msgstr ""
+
+msgctxt "keycodes/7"
+msgid "Escape"
+msgstr ""
+
+msgctxt "keycodes/8"
+msgid "Space"
+msgstr ""
+
+msgctxt "keycodes/9"
+msgid "Up"
+msgstr ""
+
+msgctxt "keycodes/10"
+msgid "Down"
+msgstr ""
+
+msgctxt "keycodes/11"
+msgid "Right"
+msgstr ""
+
+msgctxt "keycodes/12"
+msgid "Left"
+msgstr ""
+
+msgctxt "keycodes/13"
+msgid "Insert"
+msgstr ""
+
+msgctxt "keycodes/14"
+msgid "Home"
+msgstr ""
+
+msgctxt "keycodes/15"
+msgid "End"
+msgstr ""
+
+msgctxt "keycodes/16"
+msgid "Page Up"
+msgstr ""
+
+msgctxt "keycodes/17"
+msgid "Page Down"
+msgstr ""
+
+msgctxt "keycodes/18"
+msgid "Num Lock"
+msgstr ""
+
+msgctxt "keycodes/19"
+msgid "Caps Lock"
+msgstr ""
+
+msgctxt "keycodes/20"
+msgid "Scroll Lock"
+msgstr ""
+
+msgctxt "keycodes/21"
+msgid "Keypad Enter"
+msgstr ""
+
+msgctxt "keycodes/22"
+msgid "Keypad {0}"
+msgstr ""
+
+msgctxt "keycodes/23"
+msgid "&lt;quad class=\"{0}\"&gt;"
+msgstr ""
+
+msgctxt "keycodes/24"
+msgid "Left Alt"
+msgstr ""
+
+msgctxt "keycodes/25"
+msgid "Left Ctrl"
+msgstr ""
+
+msgctxt "keycodes/26"
+msgid "Left Cmd"
+msgstr ""
+
+msgctxt "keycodes/27"
+msgid "Left Shift"
+msgstr ""
+
+msgctxt "keycodes/28"
+msgid "Right Alt"
+msgstr ""
+
+msgctxt "keycodes/29"
+msgid "Right Ctrl"
+msgstr ""
+
+msgctxt "keycodes/30"
+msgid "Right Cmd"
+msgstr ""
+
+msgctxt "keycodes/31"
+msgid "Right Shift"
+msgstr ""
+
+msgctxt "keycodes/32"
+msgid "Left Apple"
+msgstr ""
+
+msgctxt "keycodes/33"
+msgid "Right Apple"
+msgstr ""
+
+msgctxt "options/0"
+msgid " The first options text"
+msgstr ""
+
+msgctxt "options/1"
+msgid "Conversation Camera Zoom"
+msgstr ""
+
+msgctxt "options/3"
+msgid "ITSATODDTEST"
+msgstr ""
+
+msgctxt "scenedescriptions/8"
+msgid ""
+"The old Peterson Air Force Base, decaying and deserted for decades. Now it's "
+"the new home of the Desert Rangers in Colorado."
+msgstr ""
+
+msgctxt "scenedescriptions/9"
+msgid ""
+"The old Peterson Air Force Base, decaying and deserted for decades. Now it's "
+"the new home of the Desert Rangers in Colorado."
+msgstr ""
+
+msgctxt "scenedescriptions/10"
+msgid ""
+"Colorado Springs is the largest and most modern city in Colorado. The "
+"downtown area has shops and services of every kind."
+msgstr ""
+
+msgctxt "scenedescriptions/11"
+msgid ""
+"The Little Vegas was opened by Faran Brygo as a tribute to Las Vegas, the "
+"town he had to leave behind. It is a bar, restaurant, casino and brothel."
+msgstr ""
+
+msgctxt "scenedescriptions/12"
+msgid ""
+"Once a national landmark known for its towering rock formations, it is now "
+"an experimental solar-powered produce garden."
+msgstr ""
+
+msgctxt "scenedescriptions/13"
+msgid ""
+"Formerly the United States Air Force Academy, the campus was famed for its "
+"high-peaked chapel, which still stands today."
+msgstr ""
+
+msgctxt "scenedescriptions/14"
+msgid ""
+"Once the home of the Airforce Academy's science department, now strange "
+"cults and stranger phenomena reside here."
+msgstr ""
+
+msgctxt "scenedescriptions/15"
+msgid ""
+"Home to the Patriarch's Palace, Broadmoor Heights is the wealthiest, most "
+"desirable neighborhood in Colorado Springs.  "
+msgstr ""
+
+msgctxt "scenedescriptions/16"
+msgid ""
+"Formerly a luxury hotel, the Palace is where the Patriarch lives and "
+"conducts the business of Colorado. It is also occasionally the home of his "
+"children."
+msgstr ""
+
+msgctxt "scenedescriptions/17"
+msgid ""
+"A survivalist bunker, built to survive the apocalypse and what came after."
+msgstr ""
+
+msgctxt "scenedescriptions/18"
+msgid ""
+"The rubble strewn streets of Denver, the mile high city. The Colorado State "
+"Capitol Building still stands among the towering ruins."
+msgstr ""
+
+msgctxt "scenedescriptions/20"
+msgid ""
+"A grand, old building from an age long gone, even before the apocalypse. "
+"Rumors are that its cellars hold secrets."
+msgstr ""
+
+msgctxt "scenedescriptions/23"
+msgid ""
+"The Denver International Airport was a major transportation hub before the "
+"apocalypse. Now it is the Machine Commune, a collective of thinking machines."
+msgstr ""
+
+msgctxt "scenedescriptions/38"
+msgid ""
+"A pre-war mall and once the headquarters of the savage Monster Army, now an "
+"indoor market and regional trading hub."
+msgstr ""
+
+msgctxt "scenedescriptions/39"
+msgid ""
+"The market area of the Bizarre. Goods of all kinds are on sale here, as well "
+"as delicious food and quality entertainment."
+msgstr ""
+
+msgctxt "scenedescriptions/40"
+msgid ""
+"The tunnels under the Bizarre. Long abandoned, sinister tenants have "
+"recently appeared."
+msgstr ""
+
+msgctxt "scenedescriptions/44"
+msgid ""
+"A long abandoned race-track, now used as the muster point for the plains "
+"gangs intending to raid Colorado Springs."
+msgstr ""
+
+msgctxt "scenedescriptions/45"
+msgid ""
+"A towering mesa with a thicket of decrepit old wind turbines that is now "
+"sacred ground to the Godfishers."
+msgstr ""
+
+msgctxt "scenedescriptions/46"
+msgid ""
+"A hole in the ground out of which the slaves of the Scar Collectors pull old "
+"pre-war tech, which their masters then sell."
+msgstr ""
+
+msgctxt "scenedescriptions/48"
+msgid "A vehicle approches from the other direction."
+msgstr ""
+
+msgctxt "scenedescriptions/49"
+msgid ""
+"An area of colorful canyons, the clay of which was long ago used to make "
+"paint and pottery."
+msgstr ""
+
+msgctxt "scenedescriptions/53"
+msgid ""
+"A prosperous ranch where the Knox family have raised Bison for food and "
+"trade for generations. "
+msgstr ""
+
+msgctxt "scenedescriptions/62"
+msgid ""
+"The original home of the Monster Army, long since abandoned in favor of the "
+"Bizarre."
+msgstr ""
+
+msgctxt "scenedescriptions/63"
+msgid "An isolated family homestead. It is eerily quiet."
+msgstr ""
+
+msgctxt "scenedescriptions/65"
+msgid ""
+"These are the coordinates Gonzalez told you the fleeing sisters were heading "
+"to. There's not much here. All you see are ruins."
+msgstr ""
+
+msgctxt "scenedescriptions/67"
+msgid ""
+"Once a humble clown-themed roadside attraction. After the apocalypse, it "
+"became the holiest of holy sites for the villainous Payasos."
+msgstr ""
+
+msgctxt "scenedescriptions/80"
+msgid ""
+"This old ski resort used to be the favored get-a-way of the Hundred Families "
+"elite. That was before the psychotic Victory Buchanan and his crew of "
+"drugged out Breathers showed up."
+msgstr ""
+
+msgctxt "scenedescriptions/81"
+msgid ""
+"This old ski resort used to be the favored get-a-way of the Hundred Families "
+"elite. That was before the psychotic Victory Buchanan and his crew of "
+"drugged out Breathers showed up."
+msgstr ""
+
+msgctxt "scenedescriptions/82"
+msgid ""
+"The old ski lodge of the Aspen resort, turned into Victory Buchanan's "
+"mountain-top retreat, where he 'entertains' his guests."
+msgstr ""
+
+msgctxt "scenedescriptions/83"
+msgid "Looks like someone left in a hurry..."
+msgstr ""
+
+msgctxt "scenedescriptions/84"
+msgid ""
+"Before the bombs fell, this was a popular vacation retreat. Now it's home "
+"only to wild animals. Or is it?"
+msgstr ""
+
+msgctxt "scenedescriptions/85"
+msgid ""
+"Since the bombs fell, this canyon has mysteriously lengthened to 13 miles."
+msgstr ""
+
+msgctxt "scenedescriptions/86"
+msgid ""
+"A deeply frozen, old reservoir with a dam at the east end. Snowdrifts and "
+"boulders mar its surface."
+msgstr ""
+
+msgctxt "scenedescriptions/90"
+msgid " Abandoned Oil Well Desc"
+msgstr ""
+
+msgctxt "scenedescriptions/91"
+msgid "The skeletal remains of an abandoned exurb."
+msgstr ""
+
+msgctxt "scenedescriptions/92"
+msgid "A cave deep in the heart of a mountain."
+msgstr ""
+
+msgctxt "scenedescriptions/93"
+msgid "The shining bastion of the ancient art of Toaster Repair."
+msgstr ""
+
+msgctxt "scenedescriptions/94"
+msgid "A location specified by the Ranger Rover's tracking beacon."
+msgstr ""
+
+msgctxt "scenedescriptions/95"
+msgid "An old government research facility hidden in the mountains."
+msgstr ""
+
+msgctxt "scenedescriptions/96"
+msgid "You can see blood and viscera staining the road ahead of you."
+msgstr ""
+
+msgctxt "scenedescriptions/97"
+msgid " Hungry Refugees"
+msgstr ""
+
+msgctxt "scenedescriptions/98"
+msgid " Four-way Standoff"
+msgstr ""
+
+msgctxt "scenedescriptions/99"
+msgid ""
+"A large but rustic shack, made to house the multi-generational Hoon family, "
+"and their goats."
+msgstr ""
+
+msgctxt "scenedescriptions/103"
+msgid ""
+"Once a humble clown-themed roadside attraction. After the apocalypse it "
+"became the holiest of holy sites for the villainous Payasos."
+msgstr ""
+
+msgctxt "scenedescriptions/104"
+msgid ""
+"A wrecked caravan in the middle of a sleepy suburban street. The trucks have "
+"been shot and smashed up and looted."
+msgstr ""
+
+msgctxt "scenedescriptions/105"
+msgid ""
+"A charming, little fake village that used to be a Christmas-themed tourist "
+"trap before the apocalypse."
+msgstr ""
+
+msgctxt "scenedescriptions/106"
+msgid "A cabin, in a canyon, near a mine. "
+msgstr ""
+
+msgctxt "scenedescriptions/107"
+msgid ""
+"An old quarry carved out of a canyon. The current residents have fortified "
+"the entrance. The smell of cooking meat is in the wind."
+msgstr ""
+
+msgctxt "scenedescriptions/108"
+msgid ""
+"An ancient town, reclaimed by a foggy forest, which hides the houses that it "
+"destroyed."
+msgstr ""
+
+msgctxt "scenedescriptions/110"
+msgid ""
+"A prosperous ranch where the Knox family have raised Bison for food and "
+"trade for generations. "
+msgstr ""
+
+msgctxt "scenedescriptions/111"
+msgid ""
+"A prosperous ranch where the Knox family have raised Bison for food and "
+"trade for generations. "
+msgstr ""
+
+msgctxt "scenedescriptions/112"
+msgid " Encounter Desc"
+msgstr ""
+
+msgctxt "scenedescriptions/113"
+msgid ""
+"There is roadblock ahead. The looming silhouettes of robots block your path."
+msgstr ""
+
+msgctxt "scenedescriptions/114"
+msgid ""
+"MacTavish's machine shop, funded by Faran Brygo, repairs and manufactures "
+"heaters, vehicles, and other devices used around Colorado Springs."
+msgstr ""
+
+msgctxt "scenedescriptions/115"
+msgid "The Sans Luxe Apartments: if you lived here, you'd probably be sad!"
+msgstr ""
+
+msgctxt "test/0"
+msgid " Test First In Game Text"
+msgstr ""
+
+msgctxt "test/1"
+msgid " Test Second In Game Text"
+msgstr ""
+
+msgctxt "test/2"
+msgid ""
+" Test Third In Game Text.  Extra words for test. And even more. More still."
+msgstr ""
+
+msgctxt "test/3"
+msgid " Intact object TEST TEXT"
+msgstr ""
+
+msgctxt "test/4"
+msgid " Damaged object TEST TEXT"
+msgstr ""
+
+msgctxt "test/5"
+msgid " Destroyed object  TEST TEXT"
+msgstr ""
+
+msgctxt "test/6"
+msgid "Area Transition"
+msgstr ""
+
+msgctxt "test/7"
+msgid "Would you like to travel to {0}?"
+msgstr ""
+
+msgctxt "test/8"
+msgid "Formula Incomplete"
+msgstr ""
+
+msgctxt "test/9"
+msgid "Formula Complete"
+msgstr ""
+
+msgctxt "test/10"
+msgid " [empty]"
+msgstr ""
+
+msgctxt "test/11"
+msgid ""
+"Interrogation tape - Marshals interrogating a Dorsey. Interrogator probably "
+"should be Lupinski, but could be Daisy. They're trying to find out how the "
+"Dorseys got into the city. The Dorsey prisoner should say that the gates "
+"were left open, but he doesn't know who did it. Then we should hear him "
+"getting beaten up a little. Still swears he doesn't know. They had orders "
+"from Nelius to take as many of the Hundred Families hostage as they could, "
+"especially Percival Wesson and his family. Then they were to assault the "
+"palace and kill the Patriarch. Really, he says, that's all he knows. Then we "
+"hear him getting beaten up again - badly. This tape should be found in the "
+"evidence room in a locked chest or box.Interrogation tape - Marshals "
+"interrogating a Dorsey. Interrogator probably should be Lupinski, but could "
+"be Daisy. They're trying to find out how the Dorseys got into the city. The "
+"Dorsey prisoner should say that the gates were left open, but he doesn't "
+"know who did it. Then we should hear him getting beaten up a little. Still "
+"swears he doesn't know. They had orders from Nelius to take as many of the "
+"Hundred Families hostage as they could, especially Percival Wesson and his "
+"family. Then they were to assault the palace and kill the Patriarch. Really, "
+"he says, that's all he knows. Then we hear him getting beaten up again - "
+"badly. This tape should be found in the evidence room in a locked chest or "
+"box.Interrogation tape - Marshals interrogating a Dorsey. Interrogator "
+"probably should be Lupinski, but could be Daisy. They're trying to find out "
+"how the Dorseys got into the city. The Dorsey prisoner should say that the "
+"gates were left open, but he doesn't know who did it. Then we should hear "
+"him getting beaten up a little. Still swears he doesn't know. They had "
+"orders from Nelius to take as many of the Hundred Families hostage as they "
+"could, especially Percival Wesson and his family. Then they were to assault "
+"the palace and kill the Patriarch. Really, he says, that's all he knows. "
+"Then we hear him getting beaten up again - "
+msgstr ""
+
+msgctxt "worldmap/0"
+msgid " Description Text"
+msgstr ""
+
+msgctxt "worldmap/1"
+msgid "Wild Animal Attack!"
+msgstr ""
+
+msgctxt "worldmap/2"
+msgid "Breather Ambush!"
+msgstr ""
+
+msgctxt "worldmap/3"
+msgid "Godfisher Ambush!"
+msgstr ""
+
+msgctxt "worldmap/4"
+msgid "Mountain Folk Ambush!"
+msgstr ""
+
+msgctxt "worldmap/5"
+msgid "Payaso Ambush!"
+msgstr ""
+
+msgctxt "worldmap/6"
+msgid "Scar Collector Ambush!"
+msgstr ""
+
+msgctxt "worldmap/7"
+msgid "Scavenger Bot Ambush!"
+msgstr ""
+
+msgctxt "worldmap/8"
+msgid "Mutant Bison Attack!"
+msgstr ""
+
+msgctxt "worldmap/9"
+msgid " A giant bison charges down the road!"
+msgstr ""
+
+msgctxt "worldmap/10"
+msgid " Breather Ambush!"
+msgstr ""
+
+msgctxt "worldmap/11"
+msgid " A Breather scouting party controls this road."
+msgstr ""
+
+msgctxt "worldmap/12"
+msgid " A Breather salvage party leaps out from the ruins!"
+msgstr ""
+
+msgctxt "worldmap/13"
+msgid " Dorsey Ambush!"
+msgstr ""
+
+msgctxt "worldmap/14"
+msgid " A Dorsey roadblock appears ahead!"
+msgstr ""
+
+msgctxt "worldmap/15"
+msgid " A Dorsey patrol guards the road!"
+msgstr ""
+
+msgctxt "worldmap/16"
+msgid " Godfisher Ambush!"
+msgstr ""
+
+msgctxt "worldmap/17"
+msgid " A Godfisher warband is camped ahead!"
+msgstr ""
+
+msgctxt "worldmap/18"
+msgid " Godfisher fanatics spotted us down the road!"
+msgstr ""
+
+msgctxt "worldmap/19"
+msgid " A Godfisher hunting party spots appears from the ruins!"
+msgstr ""
+
+msgctxt "worldmap/20"
+msgid " Mountain Folk Ambush!"
+msgstr ""
+
+msgctxt "worldmap/21"
+msgid " Degenerate locals block the pass!"
+msgstr ""
+
+msgctxt "worldmap/22"
+msgid " Degenerate locals spring out of the ruins up ahead!"
+msgstr ""
+
+msgctxt "worldmap/23"
+msgid " Payaso Ambush!"
+msgstr ""
+
+msgctxt "worldmap/24"
+msgid " Clowns with guns appear in the foothills ahead!"
+msgstr ""
+
+msgctxt "worldmap/25"
+msgid " A clown car blocks the narrow pass ahead!"
+msgstr ""
+
+msgctxt "worldmap/26"
+msgid " Payasos block the road through the ruins."
+msgstr ""
+
+msgctxt "worldmap/27"
+msgid " Scar Collector Ambush!"
+msgstr ""
+
+msgctxt "worldmap/28"
+msgid " A Scar Collector warparty approaches from the other direction!"
+msgstr ""
+
+msgctxt "worldmap/29"
+msgid " A Scar Collector roadblock appears on the pass ahead!"
+msgstr ""
+
+msgctxt "worldmap/30"
+msgid " A Scar Collector hunting camp lies in the ruins ahead!"
+msgstr ""
+
+msgctxt "worldmap/31"
+msgid " Scavenger Bot Ambush!"
+msgstr ""
+
+msgctxt "worldmap/32"
+msgid " Scavenger Bots rush down from the pass ahead!"
+msgstr ""
+
+msgctxt "worldmap/33"
+msgid " Scavenger Bots appear in the ruins ahead!"
+msgstr ""
+
+msgctxt "worldmap/34"
+msgid "Downtown Colorado Springs"
+msgstr ""
+
+msgctxt "worldmap/35"
+msgid "Ranger Headquarters"
+msgstr ""
+
+msgctxt "worldmap/36"
+msgid "Roadblock"
+msgstr ""
+
+msgctxt "worldmap/37"
+msgid "Two large structures block your way."
+msgstr ""

@@ -1,0 +1,614 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:11+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "derivedstats/0"
+msgid "CON"
+msgstr ""
+
+msgctxt "derivedstats/1"
+msgid "Combat Speed"
+msgstr ""
+
+msgctxt "derivedstats/2"
+msgid "Hit Chance"
+msgstr ""
+
+msgctxt "derivedstats/3"
+msgid "Critical Chance"
+msgstr ""
+
+msgctxt "derivedstats/4"
+msgid "Critical Damage"
+msgstr ""
+
+msgctxt "derivedstats/5"
+msgid "Action Points (Max)"
+msgstr ""
+
+msgctxt "derivedstats/6"
+msgid "Action Points"
+msgstr ""
+
+msgctxt "derivedstats/7"
+msgid "Evasion"
+msgstr ""
+
+msgctxt "derivedstats/8"
+msgid "Perception"
+msgstr ""
+
+msgctxt "derivedstats/9"
+msgid "Quick Slots"
+msgstr ""
+
+msgctxt "derivedstats/10"
+msgid "Armor"
+msgstr ""
+
+msgctxt "derivedstats/11"
+msgid "Crit Resistance"
+msgstr ""
+
+msgctxt "derivedstats/12"
+msgid ""
+"Constitution (CON) is the amount of damage you can take. When it drops to "
+"zero, you'll be down for the count."
+msgstr ""
+
+msgctxt "derivedstats/13"
+msgid "Determines how far you can move during combat per each Action Point."
+msgstr ""
+
+msgctxt "derivedstats/14"
+msgid ""
+"How often your attacks land. Hit Chance is primarily influenced by your "
+"Attributes, Skills, and current weapon. It is reduced by your target's "
+"Evasion, Cover bonuses, and your distance from them."
+msgstr ""
+
+msgctxt "derivedstats/15"
+msgid ""
+"Your chance to hit an enemy's weak point and inflict a Critical Hit when "
+"attacking."
+msgstr ""
+
+msgctxt "derivedstats/16"
+msgid ""
+"How much extra damage you'll do when you get a Critical Hit on a target."
+msgstr ""
+
+msgctxt "derivedstats/17"
+msgid ""
+"The total number you can have at any one time, including those you save from "
+"a previous combat turn or gain through other bonuses."
+msgstr ""
+
+msgctxt "derivedstats/18"
+msgid ""
+"How many actions you can perform in combat. Different actions (attacking, "
+"moving, reloading, and more) have different AP costs."
+msgstr ""
+
+msgctxt "derivedstats/19"
+msgid ""
+"How effectively you avoid enemy attacks. The higher this number, the more "
+"their swings and bullets will miss their mark."
+msgstr ""
+
+msgctxt "derivedstats/20"
+msgid ""
+"How easily you can spot hidden objects in the world, such as traps and "
+"alarms."
+msgstr ""
+
+msgctxt "derivedstats/21"
+msgid "How many usable items this character can equip at a time."
+msgstr ""
+
+msgctxt "derivedstats/22"
+msgid ""
+"Represents your protection from normal sources of damage. Higher Armor "
+"reduces damage received, unless the attacker's Penetration meets or exceeds "
+"your Armor."
+msgstr ""
+
+msgctxt "derivedstats/23"
+msgid ""
+"Determines your ability to shrug off Critical Hits. If resisted, a Critical "
+"Hit is deflected does no damage."
+msgstr ""
+
+msgctxt "derivedstats/24"
+msgid "Strike Rate"
+msgstr ""
+
+msgctxt "derivedstats/25"
+msgid ""
+"How quickly you build up your Strike Meter. When your meter is full, you can "
+"unleash a special ability."
+msgstr ""
+
+msgctxt "derivedstats/26"
+msgid "Experience Bonus"
+msgstr ""
+
+msgctxt "derivedstats/27"
+msgid ""
+"How quick a learner you are. The higher this number, the more Experience "
+"Points you will earn, and the faster you will level up."
+msgstr ""
+
+msgctxt "derivedstats/28"
+msgid "CON Per Level"
+msgstr ""
+
+msgctxt "derivedstats/29"
+msgid "Bonus amount of CON received for each level-up."
+msgstr ""
+
+msgctxt "derivedstats/30"
+msgid "Leadership Range"
+msgstr ""
+
+msgctxt "derivedstats/31"
+msgid ""
+"How far the effects of Leadership apply. The higher this number, the farther "
+"away squad members can be from you and still receive their effects."
+msgstr ""
+
+msgctxt "derivedstats/32"
+msgid "Melee Damage Bonus"
+msgstr ""
+
+msgctxt "derivedstats/33"
+msgid "Bonus to damage when using melee weapons."
+msgstr ""
+
+msgctxt "derivedstats/34"
+msgid "Ranged Damage Bonus"
+msgstr ""
+
+msgctxt "derivedstats/35"
+msgid "Bonus to damage when using ranged weapons."
+msgstr ""
+
+msgctxt "derivedstats/36"
+msgid "Normal Damage Bonus"
+msgstr ""
+
+msgctxt "derivedstats/37"
+msgid "Bonus to normal damage dealt by this character."
+msgstr ""
+
+msgctxt "derivedstats/38"
+msgid "Energy Damage Bonus"
+msgstr ""
+
+msgctxt "derivedstats/39"
+msgid "Bonus to energy damage dealt by this character."
+msgstr ""
+
+msgctxt "derivedstats/40"
+msgid "Fire Damage Bonus"
+msgstr ""
+
+msgctxt "derivedstats/41"
+msgid "Bonus to fire damage dealt by this character."
+msgstr ""
+
+msgctxt "derivedstats/42"
+msgid "Cold Damage Bonus"
+msgstr ""
+
+msgctxt "derivedstats/43"
+msgid "Bonus to cold damage dealt by this character."
+msgstr ""
+
+msgctxt "derivedstats/44"
+msgid "Explosive Damage Bonus"
+msgstr ""
+
+msgctxt "derivedstats/45"
+msgid "Bonus to explosive damage dealt by this character."
+msgstr ""
+
+msgctxt "derivedstats/47"
+msgid "Penetration"
+msgstr ""
+
+msgctxt "derivedstats/48"
+msgid ""
+"Determines the amount of a target's Armor that your attacks will bypass. "
+"Matching or exceeding an enemy's Armor will deal full damage."
+msgstr ""
+
+msgctxt "derivedstats/49"
+msgid "Throwing Range"
+msgstr ""
+
+msgctxt "derivedstats/50"
+msgid "Determines how far you can chuck Grenades and other throwable items."
+msgstr ""
+
+msgctxt "derivedstats/51"
+msgid "Fire Resistance"
+msgstr ""
+
+msgctxt "derivedstats/52"
+msgid "Determines how resistant this character is to Fire Damage."
+msgstr ""
+
+msgctxt "derivedstats/53"
+msgid "Cold Resistance"
+msgstr ""
+
+msgctxt "derivedstats/54"
+msgid "Determines how resistant this character is to Cold Damage."
+msgstr ""
+
+msgctxt "derivedstats/55"
+msgid "Energy Resistance"
+msgstr ""
+
+msgctxt "derivedstats/56"
+msgid "Determines how resistant this character is to Energy Damage."
+msgstr ""
+
+msgctxt "derivedstats/57"
+msgid "Explosive Resistance"
+msgstr ""
+
+msgctxt "derivedstats/58"
+msgid "Determines how resistant this character is to Explosive Damage."
+msgstr ""
+
+msgctxt "derivedstats/59"
+msgid "Detection Time"
+msgstr ""
+
+msgctxt "derivedstats/60"
+msgid "Determines how long it takes for enemies to detect you."
+msgstr ""
+
+msgctxt "derivedstats/61"
+msgid "Initiative"
+msgstr ""
+
+msgctxt "derivedstats/62"
+msgid ""
+"Determines your chances of getting the first combat turn if an enemy detects "
+"you."
+msgstr ""
+
+msgctxt "derivedstats/63"
+msgid "Status Effect Resistance"
+msgstr ""
+
+msgctxt "derivedstats/64"
+msgid ""
+"Determines your chance to shrug off the penalties and damage dealt by "
+"negative Status Effects."
+msgstr ""
+
+msgctxt "derivedstats/65"
+msgid "Sneak Attack Damage"
+msgstr ""
+
+msgctxt "derivedstats/66"
+msgid ""
+"Determines bonus damage dealt to unaware targets you attack out of combat."
+msgstr ""
+
+msgctxt "derivedstats/67"
+msgid "Healing Bonus"
+msgstr ""
+
+msgctxt "derivedstats/68"
+msgid "Determines how much better the effects of healing are on you."
+msgstr ""
+
+msgctxt "derivedstats/69"
+msgid "Radiation Resistance"
+msgstr ""
+
+msgctxt "derivedstats/70"
+msgid ""
+"The level of radiation this character can mitigate. This will either reduce "
+"or completely eliminate the effects."
+msgstr ""
+
+msgctxt "derivedstats/71"
+msgid "Damage vs. Animals"
+msgstr ""
+
+msgctxt "derivedstats/72"
+msgid "Bonus to damage dealt when attacking animals."
+msgstr ""
+
+msgctxt "derivedstats/73"
+msgid "Damage vs. Humans"
+msgstr ""
+
+msgctxt "derivedstats/74"
+msgid "Bonus to damage dealt when attacking humans."
+msgstr ""
+
+msgctxt "derivedstats/75"
+msgid "Damage vs. Mutants"
+msgstr ""
+
+msgctxt "derivedstats/76"
+msgid "Bonus to damage dealt when attacking mutants."
+msgstr ""
+
+msgctxt "derivedstats/77"
+msgid "Damage vs. Robots"
+msgstr ""
+
+msgctxt "derivedstats/78"
+msgid "Bonus to damage dealt when attacking robots."
+msgstr ""
+
+msgctxt "derivedstats/79"
+msgid "Damage vs. Synth"
+msgstr ""
+
+msgctxt "derivedstats/80"
+msgid "Bonus to damage dealt when attacking synths."
+msgstr ""
+
+msgctxt "derivedstats/81"
+msgid "Damage vs. Vehicles"
+msgstr ""
+
+msgctxt "derivedstats/82"
+msgid "Bonus to damage dealt when attacking vehicles."
+msgstr ""
+
+msgctxt "derivedstats/83"
+msgid "Hit Chance Bonus"
+msgstr ""
+
+msgctxt "derivedstats/84"
+msgid "Impact Damage"
+msgstr ""
+
+msgctxt "derivedstats/85"
+msgid ""
+"How much damage the vehicle deals when running into enemies and objects. "
+"This base value is multiplied by the Impact Multipler stat for each grid "
+"space traveled."
+msgstr ""
+
+msgctxt "derivedstats/86"
+msgid "Impact Multiplier"
+msgstr ""
+
+msgctxt "derivedstats/87"
+msgid ""
+"How much damage the vehicle deals when running into enemies and objects. "
+"This multiplies the base Impact Damage for each grid space traveled."
+msgstr ""
+
+msgctxt "derivedstats/88"
+msgid "Downed Time"
+msgstr ""
+
+msgctxt "derivedstats/89"
+msgid ""
+"Determines how many additional combat turns you can cling to life while "
+"Downed, before you become Incapacitated."
+msgstr ""
+
+msgctxt "derivedstats/90"
+msgid "World Map Speed"
+msgstr ""
+
+msgctxt "derivedstats/91"
+msgid "Determines how quickly the Kodiak travels on the World Map."
+msgstr ""
+
+msgctxt "derivedstats/94"
+msgid "Beneficial Companion Rogue Action Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/95"
+msgid "Mission Reward Bonus <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/96"
+msgid "Lucky Crit Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/97"
+msgid "Lucky Mega Crit Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/98"
+msgid "Lucky Evade Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/99"
+msgid "Lucky Crit Resist Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/100"
+msgid "Lucky Double Healing Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/101"
+msgid "Lucky Double Money Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/102"
+msgid "Lucky Double Scrap Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/103"
+msgid ""
+"Equip Items Requiring <color=#B2B4B7>{0}</color> Strength Without Penalties"
+msgstr ""
+
+msgctxt "derivedstats/104"
+msgid "Gain <color=#B2B4B7>+{0}</color> Skill Point(s)"
+msgstr ""
+
+msgctxt "derivedstats/105"
+msgid "Disarm Alarms (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/106"
+msgid "Tame Animals (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/107"
+msgid "Sell Value: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/108"
+msgid "Buy Cost: <color=#B2B4B7>-{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/109"
+msgid "Hack Computers (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/110"
+msgid ""
+"Disarm Land Mines and Traps (difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/111"
+msgid "Healing Item Effectiveness: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/112"
+msgid "Healing When Reviving Allies: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/113"
+msgid "Use Healing Items Requiring <color=#B2B4B7>{0}</color> First Aid"
+msgstr ""
+
+msgctxt "derivedstats/114"
+msgid "Nearby Allies Gain: <color=#B2B4B7>+{0}% Hit Chance</color>"
+msgstr ""
+
+msgctxt "derivedstats/115"
+msgid "Ally Bonus on Boss Kill: <color=#B2B4B7>+{0}% Damage</color>"
+msgstr ""
+
+msgctxt "derivedstats/116"
+msgid "Ally Bonus on Multi-Kill: <color=#B2B4B7>+{0}% Crit Chance</color>"
+msgstr ""
+
+msgctxt "derivedstats/117"
+msgid "Ally Bonus on Revive: <color=#B2B4B7>+{0}% CON Healed</color>"
+msgstr ""
+
+msgctxt "derivedstats/118"
+msgid "Pick Locks (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/119"
+msgid "Crack Safes (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/120"
+msgid ""
+"Fix Generators and Machines (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/121"
+msgid "Healing when repairing vehicles: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/122"
+msgid "Repair Toasters (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/123"
+msgid "Install Weapon Mods (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/124"
+msgid "Use Items Requiring <color=#B2B4B7>{0}</color> Weird Science"
+msgstr ""
+
+msgctxt "derivedstats/125"
+msgid ""
+"Succeed at Hard Ass Skill Checks (Difficulty <color=#B2B4B7>{0}</color> or "
+"less)"
+msgstr ""
+
+msgctxt "derivedstats/126"
+msgid ""
+"Succeed at Kiss Ass Skill Checks (Difficulty <color=#B2B4B7>{0}</color> or "
+"less)"
+msgstr ""
+
+msgctxt "derivedstats/127"
+msgid "Install Armor Mods (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/128"
+msgid ""
+"Avoid World Map Encounters (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/129"
+msgid "Repair Kit Effectiveness: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/130"
+msgid "Hack Robots (Difficulty <color=#B2B4B7>{0}</color> or less)"
+msgstr ""
+
+msgctxt "derivedstats/131"
+msgid "Field Stripping Scrap: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/132"
+msgid "Lucky Action Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/133"
+msgid "Animal Companion Damage: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/134"
+msgid "Energy Crit Chance vs. Conductive Enemies: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/135"
+msgid "Energy Crit Damage vs. Conductive Enemies: <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/136"
+msgid "Use Items Requiring <color=#B2B4B7>{0}</color> Mechanics"
+msgstr ""
+
+msgctxt "derivedstats/137"
+msgid "Critical Heal Chance <color=#B2B4B7>+{0}%</color>"
+msgstr ""
+
+msgctxt "derivedstats/138"
+msgid "Critical Heal Bonus <color=#B2B4B7>+{0}X</color>"
+msgstr ""
+
+msgctxt "derivedstats/139"
+msgid ""
+"Damage represents how much CON will be depleted on successfully attacking a "
+"target. Can be reduced by Armor and other forms of damage resistance."
+msgstr ""

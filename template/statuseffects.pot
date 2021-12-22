@@ -1,0 +1,2100 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:11+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "statuseffects/0"
+msgid " The first status effect text"
+msgstr ""
+
+msgctxt "statuseffects/1"
+msgid " Test description 1"
+msgstr ""
+
+msgctxt "statuseffects/2"
+msgid " Test Status Effect 2"
+msgstr ""
+
+msgctxt "statuseffects/3"
+msgid " Test Poison"
+msgstr ""
+
+msgctxt "statuseffects/4"
+msgid " This is a poisonous poison!"
+msgstr ""
+
+msgctxt "statuseffects/5"
+msgid "Crippled"
+msgstr ""
+
+msgctxt "statuseffects/6"
+msgid "Your aim's been mangled up real good."
+msgstr ""
+
+msgctxt "statuseffects/7"
+msgid "Bleeding"
+msgstr ""
+
+msgctxt "statuseffects/8"
+msgid ""
+"You've got a few extra holes in you.\\n"
+"\\n"
+"<color=#983B24>-12% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/9"
+msgid "Shellshock"
+msgstr ""
+
+msgctxt "statuseffects/10"
+msgid ""
+"Ever since you came back from the brink, you've had trouble keeping it "
+"together.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Injury Kit or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/11"
+msgid "Shattered Shoulder"
+msgstr ""
+
+msgctxt "statuseffects/12"
+msgid ""
+"You can't chuck enemies over your shoulder like before.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Injury Kit or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/13"
+msgid "Gouged Eye"
+msgstr ""
+
+msgctxt "statuseffects/14"
+msgid ""
+"At least you're not totally blind.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Injury Kit or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/15"
+msgid "Lame Leg"
+msgstr ""
+
+msgctxt "statuseffects/16"
+msgid ""
+"Now you just walk all weird.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Injury Kit or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/17"
+msgid "Chills"
+msgstr ""
+
+msgctxt "statuseffects/18"
+msgid ""
+"S-s-stupid s-shivers. Y-you c-c-can't even h-hold your w-weapon straight.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Injury Kit or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/19"
+msgid "Poisoned"
+msgstr ""
+
+msgctxt "statuseffects/20"
+msgid "Looking green there, buddy."
+msgstr ""
+
+msgctxt "statuseffects/21"
+msgid "Venom"
+msgstr ""
+
+msgctxt "statuseffects/22"
+msgid ""
+"Your time on this earth ticks away.\\n"
+"\\n"
+"<color=#983B24>Can be removed by Antidote or Doctor NPC\\n"
+"\\n"
+"-5% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/23"
+msgid "Burning"
+msgstr ""
+
+msgctxt "statuseffects/24"
+msgid ""
+"Too hot to handle!\\n"
+"\\n"
+"<color=#983B24>-15% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/25"
+msgid "Frozen"
+msgstr ""
+
+msgctxt "statuseffects/26"
+msgid "You caught a cold."
+msgstr ""
+
+msgctxt "statuseffects/27"
+msgid "Slowed"
+msgstr ""
+
+msgctxt "statuseffects/28"
+msgid "Like a fish in a barrel."
+msgstr ""
+
+msgctxt "statuseffects/29"
+msgid "Stunned"
+msgstr ""
+
+msgctxt "statuseffects/30"
+msgid "Ooh... pretty stars!"
+msgstr ""
+
+msgctxt "statuseffects/31"
+msgid "Internal Bleeding"
+msgstr ""
+
+msgctxt "statuseffects/32"
+msgid ""
+"There's something going on in there, and it ain't good.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Injury Kit or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/35"
+msgid "Inspired"
+msgstr ""
+
+msgctxt "statuseffects/36"
+msgid "Everyone needs a little pick-me-up now and then."
+msgstr ""
+
+msgctxt "statuseffects/37"
+msgid "Marked"
+msgstr ""
+
+msgctxt "statuseffects/38"
+msgid "You've got a bead drawn on you."
+msgstr ""
+
+msgctxt "statuseffects/39"
+msgid "Blood Loss"
+msgstr ""
+
+msgctxt "statuseffects/40"
+msgid "You're leaking out all over the place."
+msgstr ""
+
+msgctxt "statuseffects/41"
+msgid "Terrified"
+msgstr ""
+
+msgctxt "statuseffects/42"
+msgid "You're overwhelmed with fear."
+msgstr ""
+
+msgctxt "statuseffects/43"
+msgid "Emboldened"
+msgstr ""
+
+msgctxt "statuseffects/44"
+msgid "There's nothing you can't do!"
+msgstr ""
+
+msgctxt "statuseffects/45"
+msgid "Rowdy"
+msgstr ""
+
+msgctxt "statuseffects/46"
+msgid "What'd you say about my mum?!"
+msgstr ""
+
+msgctxt "statuseffects/47"
+msgid "Dex"
+msgstr ""
+
+msgctxt "statuseffects/48"
+msgid "You feel like you're moving at a million miles an hour."
+msgstr ""
+
+msgctxt "statuseffects/49"
+msgid "Focus"
+msgstr ""
+
+msgctxt "statuseffects/50"
+msgid "Everything is crystal clear."
+msgstr ""
+
+msgctxt "statuseffects/51"
+msgid "Rhino"
+msgstr ""
+
+msgctxt "statuseffects/52"
+msgid "You're ready to take on the world!"
+msgstr ""
+
+msgctxt "statuseffects/53"
+msgid "Smarts"
+msgstr ""
+
+msgctxt "statuseffects/54"
+msgid "You're seeing possibilities you never knew existed."
+msgstr ""
+
+msgctxt "statuseffects/55"
+msgid "Twitch"
+msgstr ""
+
+msgctxt "statuseffects/56"
+msgid "How can anyone sit still at a time like this?"
+msgstr ""
+
+msgctxt "statuseffects/57"
+msgid "Sharp"
+msgstr ""
+
+msgctxt "statuseffects/58"
+msgid "Goes down smooth and gives you the <i>edge</i> you need."
+msgstr ""
+
+msgctxt "statuseffects/59"
+msgid "Fried"
+msgstr ""
+
+msgctxt "statuseffects/60"
+msgid "Woah... ungh. Man... slow down. You're <i>really</i> harshin' me here."
+msgstr ""
+
+msgctxt "statuseffects/61"
+msgid "Hunted"
+msgstr ""
+
+msgctxt "statuseffects/62"
+msgid "You're an animal's best friend."
+msgstr ""
+
+msgctxt "statuseffects/63"
+msgid "Lit Fuse"
+msgstr ""
+
+msgctxt "statuseffects/64"
+msgid "She's gonna blow!"
+msgstr ""
+
+msgctxt "statuseffects/65"
+msgid "Bloodlust"
+msgstr ""
+
+msgctxt "statuseffects/66"
+msgid "The fury of battle compels you."
+msgstr ""
+
+msgctxt "statuseffects/67"
+msgid "Shocked"
+msgstr ""
+
+msgctxt "statuseffects/68"
+msgid ""
+"Pzzzzzap!\\n"
+"\\n"
+"<color=#983B24>-10% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/69"
+msgid "Psychoactive Gas"
+msgstr ""
+
+msgctxt "statuseffects/70"
+msgid "Everything is... like... woah."
+msgstr ""
+
+msgctxt "statuseffects/71"
+msgid "Clown Trots"
+msgstr ""
+
+msgctxt "statuseffects/72"
+msgid "Damaged Armor"
+msgstr ""
+
+msgctxt "statuseffects/73"
+msgid ""
+"Your protection's not so effective anymore.\\n"
+"\\n"
+"<color=#CA3429>-50% Armor</color>"
+msgstr ""
+
+msgctxt "statuseffects/74"
+msgid "Combat Rush"
+msgstr ""
+
+msgctxt "statuseffects/75"
+msgid "Your adrenaline is pumping."
+msgstr ""
+
+msgctxt "statuseffects/76"
+msgid "Pressure Cooker"
+msgstr ""
+
+msgctxt "statuseffects/77"
+msgid "It's getting hot in here."
+msgstr ""
+
+msgctxt "statuseffects/78"
+msgid "Overcharged"
+msgstr ""
+
+msgctxt "statuseffects/79"
+msgid ""
+"Your weapon's bursting at the seams!\\n"
+"\\n"
+"<color=#96C55F>Next attack deals bonus Energy, Cold, or Fire damage</color>"
+"\\n"
+"<color=#983B24>5% chance for your weapon to blow up in your face</color>"
+msgstr ""
+
+msgctxt "statuseffects/80"
+msgid "Lit Up"
+msgstr ""
+
+msgctxt "statuseffects/81"
+msgid "It's party time!"
+msgstr ""
+
+msgctxt "statuseffects/82"
+msgid "Primed"
+msgstr ""
+
+msgctxt "statuseffects/83"
+msgid "Destroyed Armor"
+msgstr ""
+
+msgctxt "statuseffects/84"
+msgid ""
+"You feel naked.\\n"
+"\\n"
+"<color=#CA3429>-75% Armor</color>"
+msgstr ""
+
+msgctxt "statuseffects/85"
+msgid "Immobilized"
+msgstr ""
+
+msgctxt "statuseffects/86"
+msgid "Can't... move..."
+msgstr ""
+
+msgctxt "statuseffects/89"
+msgid "Combat Stim"
+msgstr ""
+
+msgctxt "statuseffects/90"
+msgid "These drugs are the state-sponsored kind."
+msgstr ""
+
+msgctxt "statuseffects/91"
+msgid "Enraged"
+msgstr ""
+
+msgctxt "statuseffects/92"
+msgid "Entered beast mode."
+msgstr ""
+
+msgctxt "statuseffects/93"
+msgid "Mind Terror"
+msgstr ""
+
+msgctxt "statuseffects/94"
+msgid "You are living in a dimension of horrors."
+msgstr ""
+
+msgctxt "statuseffects/95"
+msgid "Psychotropic Invigoration"
+msgstr ""
+
+msgctxt "statuseffects/96"
+msgid "The Breather's gases dull pain and increase resistance to damage."
+msgstr ""
+
+msgctxt "statuseffects/97"
+msgid "Hallucinogenic Trance"
+msgstr ""
+
+msgctxt "statuseffects/98"
+msgid ""
+"The Breathers' gas calms your nerves and provides a substantial bonus to "
+"ranged attacks."
+msgstr ""
+
+msgctxt "statuseffects/99"
+msgid "Narcotic Fury"
+msgstr ""
+
+msgctxt "statuseffects/100"
+msgid "Sabotaged"
+msgstr ""
+
+msgctxt "statuseffects/101"
+msgid "I'm tellin' y'all, it's sabotage!"
+msgstr ""
+
+msgctxt "statuseffects/102"
+msgid "Netted"
+msgstr ""
+
+msgctxt "statuseffects/103"
+msgid "You're all tied up."
+msgstr ""
+
+msgctxt "statuseffects/104"
+msgid "Rallied"
+msgstr ""
+
+msgctxt "statuseffects/105"
+msgid "You've been rallied into action."
+msgstr ""
+
+msgctxt "statuseffects/106"
+msgid "Demoralized"
+msgstr ""
+
+msgctxt "statuseffects/107"
+msgid "You've been berated into submission."
+msgstr ""
+
+msgctxt "statuseffects/108"
+msgid "Irradiated"
+msgstr ""
+
+msgctxt "statuseffects/109"
+msgid ""
+"Should that be glowing?\\n"
+"\\n"
+"<color=#CA3429>Can be removed by No-Glo or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/110"
+msgid "Concealed"
+msgstr ""
+
+msgctxt "statuseffects/111"
+msgid "You're out of sight."
+msgstr ""
+
+msgctxt "statuseffects/112"
+msgid "Mental Shadow"
+msgstr ""
+
+msgctxt "statuseffects/113"
+msgid "Your mind is clouded."
+msgstr ""
+
+msgctxt "statuseffects/114"
+msgid "Blizzard"
+msgstr ""
+
+msgctxt "statuseffects/115"
+msgid "You're in the thick of it."
+msgstr ""
+
+msgctxt "statuseffects/116"
+msgid "Flurry"
+msgstr ""
+
+msgctxt "statuseffects/117"
+msgid "Swirling snowfall all around."
+msgstr ""
+
+msgctxt "statuseffects/118"
+msgid "Freezing Rain"
+msgstr ""
+
+msgctxt "statuseffects/119"
+msgid "Wet <i>and</i> cold. It just keeps getting better."
+msgstr ""
+
+msgctxt "statuseffects/120"
+msgid "Hailstorm"
+msgstr ""
+
+msgctxt "statuseffects/121"
+msgid "Hellish hail hazards!"
+msgstr ""
+
+msgctxt "statuseffects/122"
+msgid "Icewind"
+msgstr ""
+
+msgctxt "statuseffects/123"
+msgid "This cold cuts to the bone."
+msgstr ""
+
+msgctxt "statuseffects/124"
+msgid "Light Snow"
+msgstr ""
+
+msgctxt "statuseffects/125"
+msgid "Just enough to get in your eyes."
+msgstr ""
+
+msgctxt "statuseffects/126"
+msgid "Sabotaged"
+msgstr ""
+
+msgctxt "statuseffects/127"
+msgid "Targeted"
+msgstr ""
+
+msgctxt "statuseffects/128"
+msgid "The Meson Cannon has you in its sights."
+msgstr ""
+
+msgctxt "statuseffects/129"
+msgid "Charging"
+msgstr ""
+
+msgctxt "statuseffects/130"
+msgid "Charging up the Meson Cannon."
+msgstr ""
+
+msgctxt "statuseffects/131"
+msgid "Force Field"
+msgstr ""
+
+msgctxt "statuseffects/132"
+msgid "Proteted by a strange energy field."
+msgstr ""
+
+msgctxt "statuseffects/133"
+msgid "Glitched"
+msgstr ""
+
+msgctxt "statuseffects/134"
+msgid "This robot has had its circuits flipped, turning friend into foe."
+msgstr ""
+
+msgctxt "statuseffects/135"
+msgid "Charmed"
+msgstr ""
+
+msgctxt "statuseffects/136"
+msgid "This animal has been turned against its own pack."
+msgstr ""
+
+msgctxt "statuseffects/137"
+msgid "Twisted Wrist"
+msgstr ""
+
+msgctxt "statuseffects/138"
+msgid ""
+"Your wrist is a-twist... ed.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Injury Kit or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/139"
+msgid "Well Fed"
+msgstr ""
+
+msgctxt "statuseffects/140"
+msgid "Nothing like a good meal to give you a little extra energy."
+msgstr ""
+
+msgctxt "statuseffects/141"
+msgid "Damage Resistance"
+msgstr ""
+
+msgctxt "statuseffects/142"
+msgid "You're better-than-new."
+msgstr ""
+
+msgctxt "statuseffects/143"
+msgid "Medic Pack"
+msgstr ""
+
+msgctxt "statuseffects/144"
+msgid ""
+"You're on the mend.\\n"
+"\\n"
+"<color=#96C55F>+35% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/145"
+msgid "Blinded"
+msgstr ""
+
+msgctxt "statuseffects/146"
+msgid "You can't see shit."
+msgstr ""
+
+msgctxt "statuseffects/147"
+msgid "Under Control"
+msgstr ""
+
+msgctxt "statuseffects/148"
+msgid "This robot has been taken control of."
+msgstr ""
+
+msgctxt "statuseffects/149"
+msgid "Painmaster"
+msgstr ""
+
+msgctxt "statuseffects/150"
+msgid "You are a living wall."
+msgstr ""
+
+msgctxt "statuseffects/151"
+msgid "Healing Cloud"
+msgstr ""
+
+msgctxt "statuseffects/152"
+msgid "The Gift's blessing confers healing."
+msgstr ""
+
+msgctxt "statuseffects/153"
+msgid "Divine Inspiration"
+msgstr ""
+
+msgctxt "statuseffects/154"
+msgid "Leadership"
+msgstr ""
+
+msgctxt "statuseffects/155"
+msgid "With a leader nearby, you'll get your shit together."
+msgstr ""
+
+msgctxt "statuseffects/156"
+msgid "Ranger Armory"
+msgstr ""
+
+msgctxt "statuseffects/157"
+msgid ""
+"The Ranger HQ Armory has enough supplies and equipment to aid in simple "
+"weaponsmithing tasks."
+msgstr ""
+
+msgctxt "statuseffects/158"
+msgid "Upgraded Ranger Armory"
+msgstr ""
+
+msgctxt "statuseffects/160"
+msgid "Science Lab"
+msgstr ""
+
+msgctxt "statuseffects/161"
+msgid ""
+"Irv's lab setup is the perfect place to try all sorts of weird experiments."
+msgstr ""
+
+msgctxt "statuseffects/162"
+msgid "Black Thaw"
+msgstr ""
+
+msgctxt "statuseffects/163"
+msgid ""
+"It'll be a while before you thaw out.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Antidote or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/164"
+msgid "Freezer Burn"
+msgstr ""
+
+msgctxt "statuseffects/165"
+msgid ""
+"You play with fire, you're gonna get burned.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Antidote or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/166"
+msgid "Rocky Mountain Oyster"
+msgstr ""
+
+msgctxt "statuseffects/167"
+msgid ""
+"Something's rocky alright.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Antidote or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/168"
+msgid "Denver Rot"
+msgstr ""
+
+msgctxt "statuseffects/169"
+msgid ""
+"What happens in Denver apparently doesn't stay in Denver.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Antidote or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/170"
+msgid "Ice Pox"
+msgstr ""
+
+msgctxt "statuseffects/171"
+msgid ""
+"You're under the weather, bigtime.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Antidote or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/172"
+msgid "The Stink"
+msgstr ""
+
+msgctxt "statuseffects/173"
+msgid ""
+"Ain't nothin' covering you up.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by Antidote or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/174"
+msgid "Lightning Strikes Twice"
+msgstr ""
+
+msgctxt "statuseffects/175"
+msgid "Like fire from the sky."
+msgstr ""
+
+msgctxt "statuseffects/176"
+msgid "Magic Fingers"
+msgstr ""
+
+msgctxt "statuseffects/177"
+msgid "A little finesse with merchants, care of Tarjan."
+msgstr ""
+
+msgctxt "statuseffects/178"
+msgid "Cunning of Tarjan"
+msgstr ""
+
+msgctxt "statuseffects/179"
+msgid ""
+"A sliver of Tarjan's mad cunning lets you see beyond your material "
+"circumstances."
+msgstr ""
+
+msgctxt "statuseffects/180"
+msgid "Heads"
+msgstr ""
+
+msgctxt "statuseffects/181"
+msgid ""
+"It's a bull run! Your trader's luck grants you double damage on your next "
+"attack."
+msgstr ""
+
+msgctxt "statuseffects/182"
+msgid "System Crash"
+msgstr ""
+
+msgctxt "statuseffects/183"
+msgid "This robot's systems have been knocked offline."
+msgstr ""
+
+msgctxt "statuseffects/184"
+msgid "Hologram"
+msgstr ""
+
+msgctxt "statuseffects/185"
+msgid "Light imitating life!"
+msgstr ""
+
+msgctxt "statuseffects/186"
+msgid "Tails"
+msgstr ""
+
+msgctxt "statuseffects/187"
+msgid ""
+"Looks like you're down on your luck. Your next attack only does half damage."
+msgstr ""
+
+msgctxt "statuseffects/188"
+msgid "Trauma"
+msgstr ""
+
+msgctxt "statuseffects/189"
+msgid ""
+"Being cybernetically modified without adequate training has left your body "
+"in a severe state of trauma. It will recover over time, but not without its "
+"share of scars left behind."
+msgstr ""
+
+msgctxt "statuseffects/190"
+msgid "Poison"
+msgstr ""
+
+msgctxt "statuseffects/191"
+msgid "Crazed"
+msgstr ""
+
+msgctxt "statuseffects/192"
+msgid ""
+"This creature's brainwaves have been scrambled. They can't tell friend from "
+"foe."
+msgstr ""
+
+msgctxt "statuseffects/193"
+msgid "Diseased"
+msgstr ""
+
+msgctxt "statuseffects/194"
+msgid "You're in no condition to be out and about."
+msgstr ""
+
+msgctxt "statuseffects/195"
+msgid "Gas Overdose"
+msgstr ""
+
+msgctxt "statuseffects/196"
+msgid "The Breathers' gas damages your nerves and causes asphyxiation."
+msgstr ""
+
+msgctxt "statuseffects/197"
+msgid "Ace in the Hole"
+msgstr ""
+
+msgctxt "statuseffects/198"
+msgid "You sure went all-in with that one."
+msgstr ""
+
+msgctxt "statuseffects/199"
+msgid "Shuffled"
+msgstr ""
+
+msgctxt "statuseffects/200"
+msgid "You got dealt a hand alright."
+msgstr ""
+
+msgctxt "statuseffects/201"
+msgid "Royal Flush"
+msgstr ""
+
+msgctxt "statuseffects/202"
+msgid "That was some coronation."
+msgstr ""
+
+msgctxt "statuseffects/203"
+msgid "Bad Beat"
+msgstr ""
+
+msgctxt "statuseffects/204"
+msgid "You've been very naughty."
+msgstr ""
+
+msgctxt "statuseffects/205"
+msgid "Dealer's Choice"
+msgstr ""
+
+msgctxt "statuseffects/206"
+msgid "You've been dealt perfection itself."
+msgstr ""
+
+msgctxt "statuseffects/207"
+msgid "Kicker"
+msgstr ""
+
+msgctxt "statuseffects/208"
+msgid "You're top of the barnyard."
+msgstr ""
+
+msgctxt "statuseffects/209"
+msgid "Hot Streak"
+msgstr ""
+
+msgctxt "statuseffects/210"
+msgid "Let it ride, champ. Let it ride."
+msgstr ""
+
+msgctxt "statuseffects/211"
+msgid "Shrunk"
+msgstr ""
+
+msgctxt "statuseffects/212"
+msgid "Everything's cuter when it's smaller."
+msgstr ""
+
+msgctxt "statuseffects/213"
+msgid "Limber"
+msgstr ""
+
+msgctxt "statuseffects/214"
+msgid "You're feeling extra mobile."
+msgstr ""
+
+msgctxt "statuseffects/215"
+msgid "Calmed Nerves"
+msgstr ""
+
+msgctxt "statuseffects/216"
+msgid "You're in a heightened state of calm."
+msgstr ""
+
+msgctxt "statuseffects/217"
+msgid "Energetic"
+msgstr ""
+
+msgctxt "statuseffects/218"
+msgid "You've got a real spring in your step."
+msgstr ""
+
+msgctxt "statuseffects/219"
+msgid "Irradiated"
+msgstr ""
+
+msgctxt "statuseffects/220"
+msgid ""
+"You're glowing bright and feeling terrible.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/221"
+msgid "Weakness"
+msgstr ""
+
+msgctxt "statuseffects/222"
+msgid ""
+"You're feeling light-headed.<color=#CA3429>\\n"
+"\\n"
+"Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/223"
+msgid "Nausea"
+msgstr ""
+
+msgctxt "statuseffects/224"
+msgid ""
+"You're feeling queasy and nauseous.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/225"
+msgid "Scale Skin"
+msgstr ""
+
+msgctxt "statuseffects/226"
+msgid ""
+"Your skin has become dry and scaly, capable of sustaining great blows.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/227"
+msgid "Immobilized"
+msgstr ""
+
+msgctxt "statuseffects/228"
+msgid "You can't move."
+msgstr ""
+
+msgctxt "statuseffects/229"
+msgid "Consumed"
+msgstr ""
+
+msgctxt "statuseffects/230"
+msgid "You've been consumed by a mass of flesh."
+msgstr ""
+
+msgctxt "statuseffects/231"
+msgid "Webbed Toes"
+msgstr ""
+
+msgctxt "statuseffects/232"
+msgid "Charged Up"
+msgstr ""
+
+msgctxt "statuseffects/233"
+msgid "Something big is coming up."
+msgstr ""
+
+msgctxt "statuseffects/234"
+msgid "Third Eye"
+msgstr ""
+
+msgctxt "statuseffects/235"
+msgid ""
+"Now you know what it means when they say someone's got eyes on the back of "
+"their head.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/236"
+msgid ""
+"Who knew being a fish-person would have its upsides?\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/237"
+msgid "Animal Reflexes"
+msgstr ""
+
+msgctxt "statuseffects/238"
+msgid ""
+"Your reaction times are heightened significantly beyond human levels.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/239"
+msgid "Explosive Bolt"
+msgstr ""
+
+msgctxt "statuseffects/240"
+msgid "Clock's ticking, and there's nowhere to hide."
+msgstr ""
+
+msgctxt "statuseffects/241"
+msgid "Damaged Weapon"
+msgstr ""
+
+msgctxt "statuseffects/242"
+msgid "Now that just ain't gonna do."
+msgstr ""
+
+msgctxt "statuseffects/243"
+msgid "Leader Boss Kill"
+msgstr ""
+
+msgctxt "statuseffects/244"
+msgid "Your leader defeated a BAMF, now they're a BAMF - and your team's hero!"
+msgstr ""
+
+msgctxt "statuseffects/245"
+msgid "Leader Multi-Kill"
+msgstr ""
+
+msgctxt "statuseffects/246"
+msgid ""
+"Your leader took out multiple enemies in a single attack, boosting party "
+"morale."
+msgstr ""
+
+msgctxt "statuseffects/247"
+msgid "Leader Revival"
+msgstr ""
+
+msgctxt "statuseffects/248"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+2% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/249"
+msgid "Distracted"
+msgstr ""
+
+msgctxt "statuseffects/250"
+msgid "Hey, asshole, look over here!"
+msgstr ""
+
+msgctxt "statuseffects/251"
+msgid "Damaged Weapon"
+msgstr ""
+
+msgctxt "statuseffects/252"
+msgid "Damage is substantially reduced."
+msgstr ""
+
+msgctxt "statuseffects/253"
+msgid "Damaged Armor"
+msgstr ""
+
+msgctxt "statuseffects/254"
+msgid "Armor has been significantly damaged."
+msgstr ""
+
+msgctxt "statuseffects/255"
+msgid "Damaged Wheels"
+msgstr ""
+
+msgctxt "statuseffects/256"
+msgid "Movement speed has been severely reduced."
+msgstr ""
+
+msgctxt "statuseffects/257"
+msgid "Damaged Hydraulics"
+msgstr ""
+
+msgctxt "statuseffects/258"
+msgid "Hydraulic systems are damaged."
+msgstr ""
+
+msgctxt "statuseffects/259"
+msgid "Damaged Plating"
+msgstr ""
+
+msgctxt "statuseffects/260"
+msgid "Armor plating has been severely reduced."
+msgstr ""
+
+msgctxt "statuseffects/261"
+msgid "Damaged CPU"
+msgstr ""
+
+msgctxt "statuseffects/262"
+msgid "This robot has been knocked haywire."
+msgstr ""
+
+msgctxt "statuseffects/263"
+msgid "Berserker Rage"
+msgstr ""
+
+msgctxt "statuseffects/264"
+msgid "Avenge your fallen brothers and sisters!"
+msgstr ""
+
+msgctxt "statuseffects/265"
+msgid "Viking Funeral"
+msgstr ""
+
+msgctxt "statuseffects/266"
+msgid "Your fury has gone to the great big mead hall in the sky."
+msgstr ""
+
+msgctxt "statuseffects/267"
+msgid "Drunk-Fu"
+msgstr ""
+
+msgctxt "statuseffects/268"
+msgid "You are a menace on the battlefield. As well as polite society."
+msgstr ""
+
+msgctxt "statuseffects/269"
+msgid "Emergency Response"
+msgstr ""
+
+msgctxt "statuseffects/270"
+msgid "Man down!"
+msgstr ""
+
+msgctxt "statuseffects/271"
+msgid "Concentration"
+msgstr ""
+
+msgctxt "statuseffects/272"
+msgid "You are deep in focus."
+msgstr ""
+
+msgctxt "statuseffects/273"
+msgid "This Servitor Bot is experiencing a malfunction."
+msgstr ""
+
+msgctxt "statuseffects/274"
+msgid "Janky"
+msgstr ""
+
+msgctxt "statuseffects/275"
+msgid "Defending"
+msgstr ""
+
+msgctxt "statuseffects/276"
+msgid "You're hunkered down."
+msgstr ""
+
+msgctxt "statuseffects/277"
+msgid "Two-Pump Chump"
+msgstr ""
+
+msgctxt "statuseffects/278"
+msgid "Go get 'em, tiger!"
+msgstr ""
+
+msgctxt "statuseffects/279"
+msgid "Tuckered Out"
+msgstr ""
+
+msgctxt "statuseffects/280"
+msgid "You're running on empty."
+msgstr ""
+
+msgctxt "statuseffects/281"
+msgid "Hungover"
+msgstr ""
+
+msgctxt "statuseffects/282"
+msgid "Ugh... why does everything have to be so damn <i>loud?</i>"
+msgstr ""
+
+msgctxt "statuseffects/283"
+msgid "Jittery"
+msgstr ""
+
+msgctxt "statuseffects/284"
+msgid "N-no, e-e-e-everything is perfectly f-fine."
+msgstr ""
+
+msgctxt "statuseffects/285"
+msgid "Ultra-Morphine"
+msgstr ""
+
+msgctxt "statuseffects/286"
+msgid ""
+"You can't feel a thing!\\n"
+"\\n"
+"<color=#96C55F>+75% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/287"
+msgid "Fortified"
+msgstr ""
+
+msgctxt "statuseffects/288"
+msgid "Reinforced and ready for action."
+msgstr ""
+
+msgctxt "statuseffects/289"
+msgid "Hypocritic Oath"
+msgstr ""
+
+msgctxt "statuseffects/290"
+msgid "\"Do no harm\" is really more of a guideline than a rule."
+msgstr ""
+
+msgctxt "statuseffects/291"
+msgid "Striking Distance"
+msgstr ""
+
+msgctxt "statuseffects/292"
+msgid ""
+"Carrying two melee weapons just makes you more aerodynamic. It's physics."
+msgstr ""
+
+msgctxt "statuseffects/293"
+msgid "Tender Loving Care"
+msgstr ""
+
+msgctxt "statuseffects/294"
+msgid ""
+"A well-maintained set of armor is like a good friend. A friend that'll take "
+"a bullet for you."
+msgstr ""
+
+msgctxt "statuseffects/295"
+msgid "Toasty"
+msgstr ""
+
+msgctxt "statuseffects/296"
+msgid ""
+"Make 'em feel the heat.\\n"
+"\\n"
+"<color=#96C55F>Your next attack applies Burning</color>"
+msgstr ""
+
+msgctxt "statuseffects/297"
+msgid "Overclocked"
+msgstr ""
+
+msgctxt "statuseffects/298"
+msgid "Someone get the thermal compound and mineral oil, stat!"
+msgstr ""
+
+msgctxt "statuseffects/299"
+msgid "Vengeful Bond"
+msgstr ""
+
+msgctxt "statuseffects/300"
+msgid "Fluffy? Fluffy!? FLUFFYYY!!!"
+msgstr ""
+
+msgctxt "statuseffects/301"
+msgid "Shrug It Off"
+msgstr ""
+
+msgctxt "statuseffects/302"
+msgid "More of 'em? Bring it on!"
+msgstr ""
+
+msgctxt "statuseffects/303"
+msgid "Engulfed"
+msgstr ""
+
+msgctxt "statuseffects/304"
+msgid "There is no escape from the flames."
+msgstr ""
+
+msgctxt "statuseffects/305"
+msgid "Move Up"
+msgstr ""
+
+msgctxt "statuseffects/306"
+msgid "Hustle, solider! Claim that foothold!"
+msgstr ""
+
+msgctxt "statuseffects/307"
+msgid "Steady Shot"
+msgstr ""
+
+msgctxt "statuseffects/308"
+msgid "Locked. Loaded. Ready to unleash hell."
+msgstr ""
+
+msgctxt "statuseffects/309"
+msgid "Reckless"
+msgstr ""
+
+msgctxt "statuseffects/310"
+msgid "No cover? No problem."
+msgstr ""
+
+msgctxt "statuseffects/311"
+msgid "Chicken Quicken"
+msgstr ""
+
+msgctxt "statuseffects/312"
+msgid "You're cock of the walk."
+msgstr ""
+
+msgctxt "statuseffects/313"
+msgid "Rooster Booster"
+msgstr ""
+
+msgctxt "statuseffects/314"
+msgid "Hittin' Kitten"
+msgstr ""
+
+msgctxt "statuseffects/315"
+msgid "This kitty's got claws!"
+msgstr ""
+
+msgctxt "statuseffects/316"
+msgid "Cat's Paw Claw"
+msgstr ""
+
+msgctxt "statuseffects/317"
+msgid "Plump Rump"
+msgstr ""
+
+msgctxt "statuseffects/318"
+msgid "A little extra belly fat never hurt anyone."
+msgstr ""
+
+msgctxt "statuseffects/319"
+msgid "Big Pig"
+msgstr ""
+
+msgctxt "statuseffects/320"
+msgid "Slick Chick"
+msgstr ""
+
+msgctxt "statuseffects/321"
+msgid "Don't let 'em ruffle your feathers."
+msgstr ""
+
+msgctxt "statuseffects/322"
+msgid "Bobbin' Robin"
+msgstr ""
+
+msgctxt "statuseffects/323"
+msgid "Foxy Moxy"
+msgstr ""
+
+msgctxt "statuseffects/324"
+msgid "It takes a cunning sort to pull a squad together."
+msgstr ""
+
+msgctxt "statuseffects/325"
+msgid "Vulpine Shine"
+msgstr ""
+
+msgctxt "statuseffects/326"
+msgid "Bun Bun Run Run"
+msgstr ""
+
+msgctxt "statuseffects/327"
+msgid ""
+"Keep your wits out there. You don't want to become someone's lucky rabbit's "
+"paw."
+msgstr ""
+
+msgctxt "statuseffects/328"
+msgid "Hare Flair"
+msgstr ""
+
+msgctxt "statuseffects/329"
+msgid "Amok Buck"
+msgstr ""
+
+msgctxt "statuseffects/330"
+msgid "Show 'em your horns!"
+msgstr ""
+
+msgctxt "statuseffects/331"
+msgid "Rack Attack"
+msgstr ""
+
+msgctxt "statuseffects/332"
+msgid "Gone Fawn"
+msgstr ""
+
+msgctxt "statuseffects/333"
+msgid "You know the right times to turn tail."
+msgstr ""
+
+msgctxt "statuseffects/334"
+msgid "Down-Low Doe"
+msgstr ""
+
+msgctxt "statuseffects/335"
+msgid "Blood Pursuit"
+msgstr ""
+
+msgctxt "statuseffects/336"
+msgid ""
+"This Bloodbeast has caught the scent of a Bleeding target, and has gone into "
+"a killing frenzy."
+msgstr ""
+
+msgctxt "statuseffects/337"
+msgid "Devotion"
+msgstr ""
+
+msgctxt "statuseffects/338"
+msgid "Faith gives you strength!"
+msgstr ""
+
+msgctxt "statuseffects/339"
+msgid "Overload"
+msgstr ""
+
+msgctxt "statuseffects/340"
+msgid "Shakes"
+msgstr ""
+
+msgctxt "statuseffects/341"
+msgid ""
+"You can't hold your hands straight.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/342"
+msgid "Hardened Skeleton"
+msgstr ""
+
+msgctxt "statuseffects/343"
+msgid ""
+"Your bones have hardened and thickened.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/344"
+msgid "Hyper-Intelligence"
+msgstr ""
+
+msgctxt "statuseffects/345"
+msgid ""
+"You're seeing possibilities you never knew existed.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/346"
+msgid "Flesh Pocket"
+msgstr ""
+
+msgctxt "statuseffects/347"
+msgid ""
+"Gross, but surprisingly functional.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/348"
+msgid "Extra Elbow"
+msgstr ""
+
+msgctxt "statuseffects/349"
+msgid ""
+"Takes being double-jointed to a whole other level.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/350"
+msgid "Chromatic Skin"
+msgstr ""
+
+msgctxt "statuseffects/351"
+msgid ""
+"You're just a tiny bit more chameleon.\\n"
+"\\n"
+"<color=#CA3429>Can only be removed by No-Glo</color>"
+msgstr ""
+
+msgctxt "statuseffects/352"
+msgid "Frenzied"
+msgstr ""
+
+msgctxt "statuseffects/353"
+msgid ""
+"This thrall has been driven into a mad frenzy.\\n"
+"\\n"
+"<color=#96C55F>Upon being Whipped by a Scar Collector Overlord, attacks any "
+"nearby hostiles until death</color>"
+msgstr ""
+
+msgctxt "statuseffects/354"
+msgid "Tactical Analysis"
+msgstr ""
+
+msgctxt "statuseffects/355"
+msgid "Pizepi's battlefield knowledge is providing you an edge."
+msgstr ""
+
+msgctxt "statuseffects/356"
+msgid "Combo 2x"
+msgstr ""
+
+msgctxt "statuseffects/357"
+msgid "Wax on, wax off."
+msgstr ""
+
+msgctxt "statuseffects/358"
+msgid "Turbocharger"
+msgstr ""
+
+msgctxt "statuseffects/359"
+msgid "Pedal to the metal."
+msgstr ""
+
+msgctxt "statuseffects/360"
+msgid "Knocked Down"
+msgstr ""
+
+msgctxt "statuseffects/361"
+msgid "You've fallen and you can't get up."
+msgstr ""
+
+msgctxt "statuseffects/362"
+msgid "Flyin' High"
+msgstr ""
+
+msgctxt "statuseffects/363"
+msgid "Combo 3x"
+msgstr ""
+
+msgctxt "statuseffects/364"
+msgid "Combo 1x"
+msgstr ""
+
+msgctxt "statuseffects/365"
+msgid "Combo 4x"
+msgstr ""
+
+msgctxt "statuseffects/366"
+msgid "Combo 5x"
+msgstr ""
+
+msgctxt "statuseffects/367"
+msgid "Combo 6x"
+msgstr ""
+
+msgctxt "statuseffects/368"
+msgid "Combo 7x"
+msgstr ""
+
+msgctxt "statuseffects/369"
+msgid "Combo 8x"
+msgstr ""
+
+msgctxt "statuseffects/370"
+msgid "Combo 9x"
+msgstr ""
+
+msgctxt "statuseffects/371"
+msgid "Combo 10x"
+msgstr ""
+
+msgctxt "statuseffects/372"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+20% chance to critically hit and +50% critical damage vs. this target when "
+"using Brawling attacks.</color>\n"
+msgstr ""
+
+msgctxt "statuseffects/373"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+40% chance to critically hit and +75% critical damage vs. this target when "
+"using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/374"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+60% chance to critically hit and +100% critical damage vs. this target when "
+"using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/375"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+80% chance to critically hit and +125% critical damage vs. this target when "
+"using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/376"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+100% chance to critically hit and +150% critical damage vs. this target "
+"when using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/377"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+120% chance to critically hit and +175% critical damage vs. this target "
+"when using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/378"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+140% chance to critically hit and +200% critical damage vs. this target "
+"when using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/379"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+160% chance to critically hit and +225% critical damage vs. this target "
+"when using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/380"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+180% chance to critically hit and +250% critical damage vs. this target "
+"when using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/381"
+msgid ""
+"Wax on, wax off.<color=#96C55F>\n"
+"\n"
+"+200% chance to critically hit and +300% critical damage vs. this target "
+"when using Brawling attacks.\n"
+"</color>"
+msgstr ""
+
+msgctxt "statuseffects/382"
+msgid "Overhealed"
+msgstr ""
+
+msgctxt "statuseffects/383"
+msgid ""
+"You're better than new.\n"
+"\n"
+msgstr ""
+
+msgctxt "statuseffects/384"
+msgid "Reinforced"
+msgstr ""
+
+msgctxt "statuseffects/385"
+msgid "Stormer"
+msgstr ""
+
+msgctxt "statuseffects/386"
+msgid ""
+"Lay down the lead!\\n"
+"\\n"
+"<color=#96C55F>Next Submachine Gun attack costs no AP</color>"
+msgstr ""
+
+msgctxt "statuseffects/387"
+msgid "Pursuit"
+msgstr ""
+
+msgctxt "statuseffects/388"
+msgid "They can run, but so can you."
+msgstr ""
+
+msgctxt "statuseffects/389"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+4% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/390"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+6% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/391"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+8% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/392"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+10% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/393"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+12% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/394"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+14% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/395"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+16% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/396"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+18% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/397"
+msgid ""
+"Your leader saved someone from the brink, boosting nearby squad members' "
+"willpower.\\n"
+"\\n"
+"<color=#96C55F>+20% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/398"
+msgid "Suppressed"
+msgstr ""
+
+msgctxt "statuseffects/399"
+msgid "You've got 'em pinned."
+msgstr ""
+
+msgctxt "statuseffects/400"
+msgid "Pupper Upper"
+msgstr ""
+
+msgctxt "statuseffects/401"
+msgid "Humie Zoomies"
+msgstr ""
+
+msgctxt "statuseffects/402"
+msgid "Quicker than a dog after a stick."
+msgstr ""
+
+msgctxt "statuseffects/403"
+msgid "Bear Hair"
+msgstr ""
+
+msgctxt "statuseffects/404"
+msgid "No-Welt Pelt"
+msgstr ""
+
+msgctxt "statuseffects/405"
+msgid "Fur your protection."
+msgstr ""
+
+msgctxt "statuseffects/406"
+msgid "Tough Enough"
+msgstr ""
+
+msgctxt "statuseffects/407"
+msgid "Diesel Weasel"
+msgstr ""
+
+msgctxt "statuseffects/408"
+msgid "Honey Badger don't care."
+msgstr ""
+
+msgctxt "statuseffects/409"
+msgid "Killy Billy"
+msgstr ""
+
+msgctxt "statuseffects/410"
+msgid "Ram Jam"
+msgstr ""
+
+msgctxt "statuseffects/411"
+msgid "There's a reason they're called rams."
+msgstr ""
+
+msgctxt "statuseffects/412"
+msgid "Night Bite"
+msgstr ""
+
+msgctxt "statuseffects/413"
+msgid "Pack Attack"
+msgstr ""
+
+msgctxt "statuseffects/414"
+msgid "Strike like a wolf in the dark."
+msgstr ""
+
+msgctxt "statuseffects/415"
+msgid "Spiny Heinie"
+msgstr ""
+
+msgctxt "statuseffects/416"
+msgid "Spike Strike"
+msgstr ""
+
+msgctxt "statuseffects/417"
+msgid "Snkkt!"
+msgstr ""
+
+msgctxt "statuseffects/418"
+msgid "No Slicin' Bison"
+msgstr ""
+
+msgctxt "statuseffects/419"
+msgid "Tuffalo Buffalo"
+msgstr ""
+
+msgctxt "statuseffects/420"
+msgid "Why hide when you've got a thick hide?"
+msgstr ""
+
+msgctxt "statuseffects/421"
+msgid "Counter-Offensive"
+msgstr ""
+
+msgctxt "statuseffects/422"
+msgid ""
+"Don't bring a knife to a gunfight.\\n"
+"\\n"
+"\n"
+"\n"
+"<color=#96C55F>Deal +25% damage with Handguns or Shotguns to the melee enemy "
+"that attacked you</color>"
+msgstr ""
+
+msgctxt "statuseffects/423"
+msgid ""
+"Righteous fury burns below the surface.\\n"
+"\\n"
+"<color=#96C55F>Below 50% CON, gains +4 AP, +100% Armor, and +100% "
+"Damage.</color>"
+msgstr ""
+
+msgctxt "statuseffects/424"
+msgid "Spiked"
+msgstr ""
+
+msgctxt "statuseffects/425"
+msgid ""
+"Ouch! Watch where you stick that thing!\\n"
+"\\n"
+"<color=#CA3429>Melee attackers take damage on hit</color>"
+msgstr ""
+
+msgctxt "statuseffects/426"
+msgid "Conductive"
+msgstr ""
+
+msgctxt "statuseffects/427"
+msgid ""
+"They brought the metal, now you bring the lightning.\\n"
+"\\n"
+"<color=#96C55F>Energy attacks made on this target have a higher Crit Chance "
+"and Crit Damage, based on the attacker's Weird Science skill.</color>"
+msgstr ""
+
+msgctxt "statuseffects/428"
+msgid ""
+"There ain't nothing funny about what's going on in you right now.\\n"
+"\\n"
+"<color=#CA3429>Can be removed by Antidote or Doctor NPC</color>"
+msgstr ""
+
+msgctxt "statuseffects/429"
+msgid "Serial Killer"
+msgstr ""
+
+msgctxt "statuseffects/430"
+msgid ""
+"It's a killing spree!\\n"
+"\\n"
+"<color=#96C55F>On next kill, gain +3 AP</color>"
+msgstr ""
+
+msgctxt "statuseffects/431"
+msgid "HOOOOORN!"
+msgstr ""
+
+msgctxt "statuseffects/432"
+msgid "What did you say?!"
+msgstr ""
+
+msgctxt "statuseffects/433"
+msgid "Explosive Charges"
+msgstr ""
+
+msgctxt "statuseffects/434"
+msgid "Concentrated Power"
+msgstr ""
+
+msgctxt "statuseffects/435"
+msgid ""
+"\"Here's my strategy on the Cold War: We win, they lose.\" - Ronald Reagan"
+msgstr ""
+
+msgctxt "statuseffects/438"
+msgid "Crouched"
+msgstr ""
+
+msgctxt "statuseffects/439"
+msgid ""
+"You've lowered your stance.\n"
+"\n"
+"<color=#8CDBFF>Lasts until next move</color>"
+msgstr ""
+
+msgctxt "statuseffects/440"
+msgid "Under Pressure"
+msgstr ""
+
+msgctxt "statuseffects/441"
+msgid "Hard to aim when you've got an enemy all up in your face."
+msgstr ""
+
+msgctxt "statuseffects/442"
+msgid "Threatening"
+msgstr ""
+
+msgctxt "statuseffects/443"
+msgid ""
+"So intimidating they'll throw off your aim.\n"
+"\n"
+"<color=#CA3429>Adjacent characters suffer -50% Hit Chance</color>"
+msgstr ""
+
+msgctxt "statuseffects/444"
+msgid "Cowering"
+msgstr ""
+
+msgctxt "statuseffects/445"
+msgid "This Companion's having a rough go of it right now."
+msgstr ""
+
+msgctxt "statuseffects/446"
+msgid "Stun Resistance"
+msgstr ""
+
+msgctxt "statuseffects/447"
+msgid "This character cannot be Stunned again for 1 turn."
+msgstr ""
+
+msgctxt "statuseffects/448"
+msgid "Power Armor Shielding"
+msgstr ""
+
+msgctxt "statuseffects/449"
+msgid ""
+"Liberty's power armor generates a protective shield for a short duration, "
+"protecting her from assassination. The shield loses power, and eventually "
+"dissipates, with each of Liberty's attack."
+msgstr ""
+
+msgctxt "statuseffects/450"
+msgid "Weakened Power Armor Shielding"
+msgstr ""
+
+msgctxt "statuseffects/451"
+msgid ""
+"Liberty's power armor is generating a weakened protective shield for a short "
+"duration, protecting her from assassination. The shield loses power, and "
+"eventually dissipates, after each of Liberty's attacks."
+msgstr ""
+
+msgctxt "statuseffects/492"
+msgid "Scrappy Tabby"
+msgstr ""
+
+msgctxt "statuseffects/493"
+msgid "Don't bring a gun to a cat fight."
+msgstr ""
+
+msgctxt "statuseffects/494"
+msgid "Frontline Feline"
+msgstr ""
+
+msgctxt "statuseffects/495"
+msgid "You're ready to pounce."
+msgstr ""
+
+msgctxt "statuseffects/599"
+msgid "Horny"
+msgstr ""
+
+msgctxt "statuseffects/600"
+msgid "You're hornier than a goat in rutting season!"
+msgstr ""
+
+msgctxt "statuseffects/709"
+msgid ""
+"Lay down the lead!\\n"
+"\\n"
+"<color=#96C55F>Next Assault Rifle or Submachine Gun attack costs no "
+"AP.</color>"
+msgstr ""

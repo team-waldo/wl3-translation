@@ -1,0 +1,1039 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:11+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "poi/0"
+msgid "Statue of Reagan"
+msgstr ""
+
+msgctxt "poi/1"
+msgid " <i> Edit </i>"
+msgstr ""
+
+msgctxt "poi/2"
+msgid "Union Station"
+msgstr ""
+
+msgctxt "poi/3"
+msgid "Highway I-25"
+msgstr ""
+
+msgctxt "poi/4"
+msgid "Ruins"
+msgstr ""
+
+msgctxt "poi/5"
+msgid "Western White House"
+msgstr ""
+
+msgctxt "poi/6"
+msgid "The Mechanic's Garage"
+msgstr ""
+
+msgctxt "poi/7"
+msgid "Demolition Derby Arena"
+msgstr ""
+
+msgctxt "poi/8"
+msgid "Gang Compound"
+msgstr ""
+
+msgctxt "poi/9"
+msgid "Slave Pen"
+msgstr ""
+
+msgctxt "poi/10"
+msgid "Observation Tower"
+msgstr ""
+
+msgctxt "poi/11"
+msgid "Gate Checkpoint"
+msgstr ""
+
+msgctxt "poi/13"
+msgid "Parking Lot"
+msgstr ""
+
+msgctxt "poi/14"
+msgid "Helipad"
+msgstr ""
+
+msgctxt "poi/15"
+msgid "Soldier Bunks"
+msgstr ""
+
+msgctxt "poi/16"
+msgid "Garage"
+msgstr ""
+
+msgctxt "poi/17"
+msgid "Parts Storage Room"
+msgstr ""
+
+msgctxt "poi/18"
+msgid "Repair Shop"
+msgstr ""
+
+msgctxt "poi/19"
+msgid "Decontamination Room"
+msgstr ""
+
+msgctxt "poi/20"
+msgid "Security"
+msgstr ""
+
+msgctxt "poi/21"
+msgid "Computer Control Room"
+msgstr ""
+
+msgctxt "poi/22"
+msgid "A.I. Robotics"
+msgstr ""
+
+msgctxt "poi/23"
+msgid "Lab E.E.T. 1"
+msgstr ""
+
+msgctxt "poi/24"
+msgid "Lab E.E.T. 2"
+msgstr ""
+
+msgctxt "poi/25"
+msgid "Lab E.E.T. 3"
+msgstr ""
+
+msgctxt "poi/26"
+msgid "Observation Room A"
+msgstr ""
+
+msgctxt "poi/27"
+msgid "Observation Room B"
+msgstr ""
+
+msgctxt "poi/28"
+msgid "Training Area"
+msgstr ""
+
+msgctxt "poi/29"
+msgid "Cafeteria"
+msgstr ""
+
+msgctxt "poi/30"
+msgid "Cryogenics Room"
+msgstr ""
+
+msgctxt "poi/31"
+msgid "Hospital Lobby"
+msgstr ""
+
+msgctxt "poi/32"
+msgid "Drug Storeroom"
+msgstr ""
+
+msgctxt "poi/33"
+msgid "Detention Block AA-23"
+msgstr ""
+
+msgctxt "poi/34"
+msgid "Cell 2187"
+msgstr ""
+
+msgctxt "poi/35"
+msgid "Evaluation Room"
+msgstr ""
+
+msgctxt "poi/36"
+msgid "Operation Room"
+msgstr ""
+
+msgctxt "poi/37"
+msgid "Morgue"
+msgstr ""
+
+msgctxt "poi/38"
+msgid "Secret Lab"
+msgstr ""
+
+msgctxt "poi/39"
+msgid "DNA Storage"
+msgstr ""
+
+msgctxt "poi/40"
+msgid "Residential Hub"
+msgstr ""
+
+msgctxt "poi/41"
+msgid "Reservoir Tanks"
+msgstr ""
+
+msgctxt "poi/42"
+msgid "Guard Checkpoint"
+msgstr ""
+
+msgctxt "poi/43"
+msgid "Ops Planning Room"
+msgstr ""
+
+msgctxt "poi/44"
+msgid "Special Ops Center"
+msgstr ""
+
+msgctxt "poi/45"
+msgid "Interrogation Room"
+msgstr ""
+
+msgctxt "poi/46"
+msgid "Pacification Planning Room"
+msgstr ""
+
+msgctxt "poi/47"
+msgid "War Room"
+msgstr ""
+
+msgctxt "poi/48"
+msgid "Crash Site"
+msgstr ""
+
+msgctxt "poi/49"
+msgid "Equipment"
+msgstr ""
+
+msgctxt "poi/50"
+msgid "Scavengers"
+msgstr ""
+
+msgctxt "poi/51"
+msgid "Eviscerated Rangers"
+msgstr ""
+
+msgctxt "poi/52"
+msgid "Dam Entrance"
+msgstr ""
+
+msgctxt "poi/53"
+msgid "Passage to Eleven Mile Canyon"
+msgstr ""
+
+msgctxt "poi/54"
+msgid "Old Fire Lookout Tower\\n"
+msgstr ""
+
+msgctxt "poi/67"
+msgid "Broadcast Location"
+msgstr ""
+
+msgctxt "poi/68"
+msgid "Human Outreach Gift Shop"
+msgstr ""
+
+msgctxt "poi/69"
+msgid "Service Road"
+msgstr ""
+
+msgctxt "poi/70"
+msgid "Main Road"
+msgstr ""
+
+msgctxt "poi/71"
+msgid "Snowed Inn Valley"
+msgstr ""
+
+msgctxt "poi/72"
+msgid "Barracks"
+msgstr ""
+
+msgctxt "poi/73"
+msgid "Frozen House"
+msgstr ""
+
+msgctxt "poi/74"
+msgid "Abandoned Bunker"
+msgstr ""
+
+msgctxt "poi/75"
+msgid "Armory"
+msgstr ""
+
+msgctxt "poi/76"
+msgid "Circle of April"
+msgstr ""
+
+msgctxt "poi/77"
+msgid "TEMP-REMOVE ME"
+msgstr ""
+
+msgctxt "poi/78"
+msgid "Commune Art Exhibits"
+msgstr ""
+
+msgctxt "poi/79"
+msgid "West Catwalk"
+msgstr ""
+
+msgctxt "poi/80"
+msgid "Tech Concourse"
+msgstr ""
+
+msgctxt "poi/81"
+msgid "Restrooms"
+msgstr ""
+
+msgctxt "poi/82"
+msgid "Abandoned Hangars"
+msgstr ""
+
+msgctxt "poi/83"
+msgid "Highway"
+msgstr ""
+
+msgctxt "poi/84"
+msgid "Abandoned RV Campground"
+msgstr ""
+
+msgctxt "poi/85"
+msgid "Hoon Homestead"
+msgstr ""
+
+msgctxt "poi/86"
+msgid "Outflow Control Station"
+msgstr ""
+
+msgctxt "poi/87"
+msgid "Snowed Inn Resort"
+msgstr ""
+
+msgctxt "poi/88"
+msgid "Suicide Site"
+msgstr ""
+
+msgctxt "poi/89"
+msgid "Outflow Pipe"
+msgstr ""
+
+msgctxt "poi/90"
+msgid "Canyon Exit"
+msgstr ""
+
+msgctxt "poi/91"
+msgid "Frozen Pump Station"
+msgstr ""
+
+msgctxt "poi/92"
+msgid "Sealed Bunker"
+msgstr ""
+
+msgctxt "poi/93"
+msgid "Air Traffic Control"
+msgstr ""
+
+msgctxt "poi/94"
+msgid "East Catwalk"
+msgstr ""
+
+msgctxt "poi/95"
+msgid ""
+"Secret Passage to \\n"
+"Old Survivalist Bunker"
+msgstr ""
+
+msgctxt "poi/96"
+msgid "Arcade"
+msgstr ""
+
+msgctxt "poi/97"
+msgid "Greenhouse"
+msgstr ""
+
+msgctxt "poi/98"
+msgid "SAL"
+msgstr ""
+
+msgctxt "poi/99"
+msgid "Restrooms"
+msgstr ""
+
+msgctxt "poi/100"
+msgid "Oil Field"
+msgstr ""
+
+msgctxt "poi/101"
+msgid "Patriarch's Palace"
+msgstr ""
+
+msgctxt "poi/102"
+msgid "Buchanan Monument"
+msgstr ""
+
+msgctxt "poi/103"
+msgid "Wesson Estate"
+msgstr ""
+
+msgctxt "poi/104"
+msgid "Ward Estate"
+msgstr ""
+
+msgctxt "poi/105"
+msgid "Church of the Final Deluge"
+msgstr ""
+
+msgctxt "poi/106"
+msgid "104"
+msgstr ""
+
+msgctxt "poi/107"
+msgid "Larra Buchanan's Grave"
+msgstr ""
+
+msgctxt "poi/108"
+msgid "'X'"
+msgstr ""
+
+msgctxt "poi/109"
+msgid "Bar"
+msgstr ""
+
+msgctxt "poi/110"
+msgid "Hidden Bunker"
+msgstr ""
+
+msgctxt "poi/111"
+msgid "Train Platform"
+msgstr ""
+
+msgctxt "poi/112"
+msgid "Train Platform"
+msgstr ""
+
+msgctxt "poi/113"
+msgid "Radio Beacon"
+msgstr ""
+
+msgctxt "poi/114"
+msgid "Sacred Server Room"
+msgstr ""
+
+msgctxt "poi/115"
+msgid "Restricted Zone"
+msgstr ""
+
+msgctxt "poi/116"
+msgid "West Ruins"
+msgstr ""
+
+msgctxt "poi/117"
+msgid "Denver Blast Crater"
+msgstr ""
+
+msgctxt "poi/118"
+msgid "East Ruins"
+msgstr ""
+
+msgctxt "poi/119"
+msgid "Reservoir Trail"
+msgstr ""
+
+msgctxt "poi/120"
+msgid "Dam Overlook"
+msgstr ""
+
+msgctxt "poi/121"
+msgid "Dam Access"
+msgstr ""
+
+msgctxt "poi/122"
+msgid "Reservoir Campgrounds"
+msgstr ""
+
+msgctxt "poi/123"
+msgid "Welcome Lodge"
+msgstr ""
+
+msgctxt "poi/124"
+msgid "Construction Yard"
+msgstr ""
+
+msgctxt "poi/125"
+msgid "Bunker"
+msgstr ""
+
+msgctxt "poi/126"
+msgid "Gauntlet"
+msgstr ""
+
+msgctxt "poi/127"
+msgid "Gondola"
+msgstr ""
+
+msgctxt "poi/128"
+msgid "Garden of the Gods"
+msgstr ""
+
+msgctxt "poi/129"
+msgid "Brygo's Little Vegas"
+msgstr ""
+
+msgctxt "poi/130"
+msgid "Marshals' Station"
+msgstr ""
+
+msgctxt "poi/131"
+msgid "Broadmoor Heights"
+msgstr ""
+
+msgctxt "poi/132"
+msgid "Pillory Square"
+msgstr ""
+
+msgctxt "poi/133"
+msgid "MacTavish's Machine Shop"
+msgstr ""
+
+msgctxt "poi/134"
+msgid "Casady's Fine Clothes"
+msgstr ""
+
+msgctxt "poi/135"
+msgid "Colorado Heritage Museum"
+msgstr ""
+
+msgctxt "poi/136"
+msgid "Sans Luxe Apartments"
+msgstr ""
+
+msgctxt "poi/137"
+msgid "Market Square"
+msgstr ""
+
+msgctxt "poi/138"
+msgid "Iron Thunder Arapaho Garage"
+msgstr ""
+
+msgctxt "poi/139"
+msgid "To Ranger Headquarters"
+msgstr ""
+
+msgctxt "poi/140"
+msgid "Central Computer - War Room"
+msgstr ""
+
+msgctxt "poi/141"
+msgid "Security Console - Garage"
+msgstr ""
+
+msgctxt "poi/142"
+msgid "Security Console - Armory"
+msgstr ""
+
+msgctxt "poi/143"
+msgid "Security Console - Brig"
+msgstr ""
+
+msgctxt "poi/144"
+msgid "Faran Brygo's Office"
+msgstr ""
+
+msgctxt "poi/145"
+msgid "Nightclub Brothel"
+msgstr ""
+
+msgctxt "poi/146"
+msgid "Grave"
+msgstr ""
+
+msgctxt "poi/147"
+msgid "Homestead"
+msgstr ""
+
+msgctxt "poi/148"
+msgid "Bunker"
+msgstr ""
+
+msgctxt "poi/149"
+msgid "Arapaho Caravan"
+msgstr ""
+
+msgctxt "poi/150"
+msgid "Lobby"
+msgstr ""
+
+msgctxt "poi/151"
+msgid "Security Room"
+msgstr ""
+
+msgctxt "poi/152"
+msgid "Guest Suites"
+msgstr ""
+
+msgctxt "poi/153"
+msgid "Lab"
+msgstr ""
+
+msgctxt "poi/154"
+msgid "Cold Storage"
+msgstr ""
+
+msgctxt "poi/155"
+msgid "Pool"
+msgstr ""
+
+msgctxt "poi/156"
+msgid "Patriarch's Wing"
+msgstr ""
+
+msgctxt "poi/157"
+msgid "Patriarch's Suite"
+msgstr ""
+
+msgctxt "poi/158"
+msgid "Basement"
+msgstr ""
+
+msgctxt "poi/159"
+msgid "Vault"
+msgstr ""
+
+msgctxt "poi/160"
+msgid "Sauna"
+msgstr ""
+
+msgctxt "poi/161"
+msgid "Pool Storage"
+msgstr ""
+
+msgctxt "poi/162"
+msgid "Bellamy Ward's Workshop"
+msgstr ""
+
+msgctxt "poi/163"
+msgid "Big Top"
+msgstr ""
+
+msgctxt "poi/164"
+msgid "Lobby"
+msgstr ""
+
+msgctxt "poi/165"
+msgid "Utility Room"
+msgstr ""
+
+msgctxt "poi/166"
+msgid "Union Station Entryway"
+msgstr ""
+
+msgctxt "poi/167"
+msgid "Cave"
+msgstr ""
+
+msgctxt "poi/168"
+msgid "Isaac Reed's Camp"
+msgstr ""
+
+msgctxt "poi/169"
+msgid "Mass Grave"
+msgstr ""
+
+msgctxt "poi/170"
+msgid "Private Party"
+msgstr ""
+
+msgctxt "poi/171"
+msgid "Main Hall"
+msgstr ""
+
+msgctxt "poi/172"
+msgid "Back Room"
+msgstr ""
+
+msgctxt "poi/173"
+msgid "Cells"
+msgstr ""
+
+msgctxt "poi/174"
+msgid "Security Station"
+msgstr ""
+
+msgctxt "poi/175"
+msgid "Breakroom"
+msgstr ""
+
+msgctxt "poi/176"
+msgid "Laboratory"
+msgstr ""
+
+msgctxt "poi/177"
+msgid "Garage"
+msgstr ""
+
+msgctxt "poi/178"
+msgid "Comms Room"
+msgstr ""
+
+msgctxt "poi/179"
+msgid "Santa's Workshop"
+msgstr ""
+
+msgctxt "poi/180"
+msgid "Santa's House"
+msgstr ""
+
+msgctxt "poi/181"
+msgid "Santa's Shed"
+msgstr ""
+
+msgctxt "poi/182"
+msgid "Safe Warrens"
+msgstr ""
+
+msgctxt "poi/183"
+msgid "Chapel"
+msgstr ""
+
+msgctxt "poi/184"
+msgid "Prison Block"
+msgstr ""
+
+msgctxt "poi/185"
+msgid "Playground"
+msgstr ""
+
+msgctxt "poi/186"
+msgid "Diner"
+msgstr ""
+
+msgctxt "poi/187"
+msgid "Parking Lot"
+msgstr ""
+
+msgctxt "poi/188"
+msgid "Food Court"
+msgstr ""
+
+msgctxt "poi/189"
+msgid "Weapon Shop"
+msgstr ""
+
+msgctxt "poi/190"
+msgid "Armor Shop"
+msgstr ""
+
+msgctxt "poi/191"
+msgid "Theatre"
+msgstr ""
+
+msgctxt "poi/192"
+msgid "Medical Station"
+msgstr ""
+
+msgctxt "poi/193"
+msgid "Cabinet of Curiosities"
+msgstr ""
+
+msgctxt "poi/194"
+msgid "Flab's Joint"
+msgstr ""
+
+msgctxt "poi/195"
+msgid "Bulb's Shack"
+msgstr ""
+
+msgctxt "poi/196"
+msgid "Tellurium Mine"
+msgstr ""
+
+msgctxt "poi/197"
+msgid "Memorial Park"
+msgstr ""
+
+msgctxt "poi/198"
+msgid "Workshop"
+msgstr ""
+
+msgctxt "poi/199"
+msgid "Market Square"
+msgstr ""
+
+msgctxt "poi/200"
+msgid "Museum"
+msgstr ""
+
+msgctxt "poi/201"
+msgid "Hydroponics"
+msgstr ""
+
+msgctxt "poi/202"
+msgid "Lounge"
+msgstr ""
+
+msgctxt "poi/203"
+msgid "Gallery"
+msgstr ""
+
+msgctxt "poi/204"
+msgid "Makeshift Hospital"
+msgstr ""
+
+msgctxt "poi/205"
+msgid "Makeshift Jail"
+msgstr ""
+
+msgctxt "poi/206"
+msgid "Storage (Flooded)"
+msgstr ""
+
+msgctxt "poi/207"
+msgid "Ventilation Ducts"
+msgstr ""
+
+msgctxt "poi/208"
+msgid "Electrical Room"
+msgstr ""
+
+msgctxt "poi/209"
+msgid "Water Recyclers"
+msgstr ""
+
+msgctxt "poi/210"
+msgid "Entrance Hall"
+msgstr ""
+
+msgctxt "poi/211"
+msgid "Throne Room"
+msgstr ""
+
+msgctxt "poi/212"
+msgid "Makeshift Barracks"
+msgstr ""
+
+msgctxt "poi/213"
+msgid "Makeshift Breakroom"
+msgstr ""
+
+msgctxt "poi/214"
+msgid "Private Wing"
+msgstr ""
+
+msgctxt "poi/215"
+msgid "Dining Room"
+msgstr ""
+
+msgctxt "poi/216"
+msgid "Trophy Gallery"
+msgstr ""
+
+msgctxt "poi/217"
+msgid "Victory's Room"
+msgstr ""
+
+msgctxt "poi/218"
+msgid "Valor's Room"
+msgstr ""
+
+msgctxt "poi/219"
+msgid "Liberty's Room"
+msgstr ""
+
+msgctxt "poi/220"
+msgid "Hidden Cache"
+msgstr ""
+
+msgctxt "poi/221"
+msgid "Hopefuls Camp"
+msgstr ""
+
+msgctxt "poi/222"
+msgid "Bizarre Entrance"
+msgstr ""
+
+msgctxt "poi/223"
+msgid "Parking Garage"
+msgstr ""
+
+msgctxt "poi/224"
+msgid "Dealership Hideout"
+msgstr ""
+
+msgctxt "poi/225"
+msgid "Smuggler's Camp"
+msgstr ""
+
+msgctxt "poi/226"
+msgid "Greenhouse"
+msgstr ""
+
+msgctxt "poi/227"
+msgid "Toy Warehouse"
+msgstr ""
+
+msgctxt "poi/228"
+msgid "Dentist Office"
+msgstr ""
+
+msgctxt "poi/229"
+msgid "Meat Clown"
+msgstr ""
+
+msgctxt "poi/230"
+msgid "Meat Clown"
+msgstr ""
+
+msgctxt "poi/231"
+msgid "Alaska Surprise"
+msgstr ""
+
+msgctxt "poi/232"
+msgid "Bone Pit"
+msgstr ""
+
+msgctxt "poi/233"
+msgid "Bone Pit"
+msgstr ""
+
+msgctxt "poi/234"
+msgid "Godfisher Shrine Entrance"
+msgstr ""
+
+msgctxt "poi/235"
+msgid "Godfisher Shrine Summit"
+msgstr ""
+
+msgctxt "poi/236"
+msgid "Entrance"
+msgstr ""
+
+msgctxt "poi/237"
+msgid "Altar"
+msgstr ""
+
+msgctxt "poi/238"
+msgid "Entrance Lobby"
+msgstr ""
+
+msgctxt "poi/239"
+msgid "Basement"
+msgstr ""
+
+msgctxt "poi/240"
+msgid "Control Room"
+msgstr ""
+
+msgctxt "poi/241"
+msgid "Screening Room"
+msgstr ""
+
+msgctxt "poi/242"
+msgid "Burrow"
+msgstr ""
+
+msgctxt "poi/243"
+msgid "The Company Store"
+msgstr ""
+
+msgctxt "poi/244"
+msgid "Command Habitat"
+msgstr ""
+
+msgctxt "poi/245"
+msgid "Science Habitat"
+msgstr ""
+
+msgctxt "poi/246"
+msgid "Living Habitat"
+msgstr ""
+
+msgctxt "poi/247"
+msgid "Mine Entrance"
+msgstr ""
+
+msgctxt "poi/248"
+msgid "Security Habitat"
+msgstr ""
+
+msgctxt "poi/249"
+msgid "Ruined Building"
+msgstr ""
+
+msgctxt "poi/250"
+msgid "Garage"
+msgstr ""
+
+msgctxt "poi/251"
+msgid "Armory"
+msgstr ""
+
+msgctxt "poi/252"
+msgid "Med Bay"
+msgstr ""
+
+msgctxt "poi/253"
+msgid "War Room"
+msgstr ""
+
+msgctxt "poi/254"
+msgid "Museum"
+msgstr ""
+
+msgctxt "poi/255"
+msgid "Mess Hall"
+msgstr ""
+
+msgctxt "poi/256"
+msgid "Barracks"
+msgstr ""
+
+msgctxt "poi/257"
+msgid "Brig"
+msgstr ""
+
+msgctxt "poi/258"
+msgid "Cannibal Compound"
+msgstr ""
+
+msgctxt "poi/259"
+msgid "Shanty"
+msgstr ""
+
+msgctxt "poi/260"
+msgid "Ramp"
+msgstr ""
+
+msgctxt "poi/261"
+msgid "Cabin"
+msgstr ""
+
+msgctxt "poi/262"
+msgid "Gate"
+msgstr ""
+
+msgctxt "poi/263"
+msgid "Front Gate"
+msgstr ""
+
+msgctxt "poi/264"
+msgid "Ballerinas"
+msgstr ""
+
+msgctxt "poi/265"
+msgid "Museum Gallery"
+msgstr ""
+
+msgctxt "poi/266"
+msgid "Rosie Wong's Apartment"
+msgstr ""
+
+msgctxt "poi/267"
+msgid "Frank Pappas's Apartment"
+msgstr ""
+
+msgctxt "poi/268"
+msgid "Irv's Apartment"
+msgstr ""

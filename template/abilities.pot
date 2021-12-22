@@ -1,0 +1,2314 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 04:11+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "abilities/0"
+msgid " Direct Ability"
+msgstr ""
+
+msgctxt "abilities/1"
+msgid " This is a direct ability."
+msgstr ""
+
+msgctxt "abilities/2"
+msgid " Perk Ability"
+msgstr ""
+
+msgctxt "abilities/3"
+msgid " This is an ability granted by a perk. Nifty!"
+msgstr ""
+
+msgctxt "abilities/4"
+msgid "Inspire"
+msgstr ""
+
+msgctxt "abilities/5"
+msgid ""
+"Cheer an ally on, granting them +2 AP, +10% Hit Chance and +10% Critical "
+"Chance for 1 turn."
+msgstr ""
+
+msgctxt "abilities/6"
+msgid "Mark Target"
+msgstr ""
+
+msgctxt "abilities/7"
+msgid ""
+"Reduces an enemy's Evasion by -15%. Marked targets also take +50% damage "
+"from Precision Strikes."
+msgstr ""
+
+msgctxt "abilities/8"
+msgid "Bleeding Strike"
+msgstr ""
+
+msgctxt "abilities/9"
+msgid ""
+"An aggressive Bladed attack that deals an extra +100% damage and inflicts "
+"Bleeding, but has -20% Hit Chance. Targets that are Burning receive +200% "
+"damage."
+msgstr ""
+
+msgctxt "abilities/10"
+msgid " Inspirational Item Ability"
+msgstr ""
+
+msgctxt "abilities/11"
+msgid " This ability is granted by an item. This is somehow inspiring."
+msgstr ""
+
+msgctxt "abilities/12"
+msgid " Zappy Item Ability"
+msgstr ""
+
+msgctxt "abilities/13"
+msgid ""
+" This ability is granted by an item. It's not particularly inspiring, but it "
+"does make your enemies get dead."
+msgstr ""
+
+msgctxt "abilities/14"
+msgid "Snowball"
+msgstr ""
+
+msgctxt "abilities/15"
+msgid ""
+"Throw at a target character to leave them just a little bit colder. Heads up!"
+msgstr ""
+
+msgctxt "abilities/16"
+msgid "Frag Grenade"
+msgstr ""
+
+msgctxt "abilities/17"
+msgid "Throw to deal Explosive damage to anyone in the affected area."
+msgstr ""
+
+msgctxt "abilities/18"
+msgid "Molotov Cocktail"
+msgstr ""
+
+msgctxt "abilities/19"
+msgid ""
+"Throw to create a firey hazard that damages and inflicts Burning on anyone "
+"in the affected area."
+msgstr ""
+
+msgctxt "abilities/20"
+msgid "Cryo Grenade"
+msgstr ""
+
+msgctxt "abilities/21"
+msgid ""
+"Throw to inflict Frozen on anyone in the affected area, reducing their AP by "
+"-3 for 2 turns."
+msgstr ""
+
+msgctxt "abilities/22"
+msgid "EMP Grenade"
+msgstr ""
+
+msgctxt "abilities/23"
+msgid ""
+"Throw to inflict Shock on anyone in the affected area, dealing -10% CON "
+"damage and -2 AP for 1 turn. Robots also have a 50% chance to become "
+"Glitched, causing them to attack allies for 3 turns."
+msgstr ""
+
+msgctxt "abilities/24"
+msgid "Plasma Grenade"
+msgstr ""
+
+msgctxt "abilities/25"
+msgid "Throw to deal significant Energy damage to anyone in the affected area."
+msgstr ""
+
+msgctxt "abilities/26"
+msgid "Gas Grenade"
+msgstr ""
+
+msgctxt "abilities/27"
+msgid "Throw to create a cloud of gas that Poisons anyone in the area."
+msgstr ""
+
+msgctxt "abilities/28"
+msgid "Stun Grenade"
+msgstr ""
+
+msgctxt "abilities/29"
+msgid ""
+"Throw a Stun Grenade at a target, Stunning any human or animal targets in "
+"the area."
+msgstr ""
+
+msgctxt "abilities/30"
+msgid "Headshot"
+msgstr ""
+
+msgctxt "abilities/31"
+msgid "Smoke Grenade"
+msgstr ""
+
+msgctxt "abilities/32"
+msgid ""
+"Throw a Smoke Grenade, creating a cloud that obscures all characters inside "
+"it."
+msgstr ""
+
+msgctxt "abilities/33"
+msgid " Test Heal"
+msgstr ""
+
+msgctxt "abilities/35"
+msgid "Howl"
+msgstr ""
+
+msgctxt "abilities/36"
+msgid ""
+"Inflicts Fear on all enemies in a radius around the user, reducing their AP."
+msgstr ""
+
+msgctxt "abilities/37"
+msgid "Arm Shot"
+msgstr ""
+
+msgctxt "abilities/38"
+msgid "Shoot an enemy's weapon hand, reducing their Hit Chance."
+msgstr ""
+
+msgctxt "abilities/39"
+msgid "Battle Cry"
+msgstr ""
+
+msgctxt "abilities/40"
+msgid "Embolden"
+msgstr ""
+
+msgctxt "abilities/41"
+msgid "Embolden an ally, temporarily boosting their Action Points."
+msgstr ""
+
+msgctxt "abilities/42"
+msgid "Close Quarters"
+msgstr ""
+
+msgctxt "abilities/43"
+msgid "Smack a target with the butt of your weapon."
+msgstr ""
+
+msgctxt "abilities/44"
+msgid "Stunning Blow"
+msgstr ""
+
+msgctxt "abilities/45"
+msgid ""
+"A focused Blunt attack that Stuns the target enemy, but has -15% Hit Chance. "
+"Frozen enemies take an extra +100% damage."
+msgstr ""
+
+msgctxt "abilities/46"
+msgid "Cripple"
+msgstr ""
+
+msgctxt "abilities/47"
+msgid "Attack a target's knee, leaving it Slowed temporarily."
+msgstr ""
+
+msgctxt "abilities/48"
+msgid "Bladestorm"
+msgstr ""
+
+msgctxt "abilities/49"
+msgid ""
+"A spinning Bladed strike which damages all targets in an area around the "
+"user. Targets that are Stunned take +100% damage."
+msgstr ""
+
+msgctxt "abilities/50"
+msgid "Kaboom"
+msgstr ""
+
+msgctxt "abilities/51"
+msgid ""
+"Self-destruct, taking yourself and everyone else all around down with you."
+msgstr ""
+
+msgctxt "abilities/52"
+msgid "Bones Cigarettes "
+msgstr ""
+
+msgctxt "abilities/53"
+msgid "For when a craving strikes you."
+msgstr ""
+
+msgctxt "abilities/54"
+msgid "Styx Cigarettes "
+msgstr ""
+
+msgctxt "abilities/55"
+msgid "Red Rooster Cigarettes "
+msgstr ""
+
+msgctxt "abilities/56"
+msgid "Coffin Nails Cigarettes "
+msgstr ""
+
+msgctxt "abilities/57"
+msgid "Boors"
+msgstr ""
+
+msgctxt "abilities/58"
+msgid "For when a craving strikes you."
+msgstr ""
+
+msgctxt "abilities/59"
+msgid ""
+"Shoot an enemy's head, gaining a major bonus to damage and Critical Chance. "
+"Requires target is Marked to be used."
+msgstr ""
+
+msgctxt "abilities/60"
+msgid "Hunter's Prey"
+msgstr ""
+
+msgctxt "abilities/61"
+msgid ""
+"Marks a target as this enemy's prey. Inreases Critical Chance on attacks "
+"made towards them."
+msgstr ""
+
+msgctxt "abilities/62"
+msgid "Close Shave"
+msgstr ""
+
+msgctxt "abilities/63"
+msgid "Cut up a single target, leaving them Bleeding."
+msgstr ""
+
+msgctxt "abilities/64"
+msgid "Light Fuse"
+msgstr ""
+
+msgctxt "abilities/65"
+msgid "Light a target's fuse, priming it for destruction."
+msgstr ""
+
+msgctxt "abilities/66"
+msgid "Suicide Bomb"
+msgstr ""
+
+msgctxt "abilities/67"
+msgid "Bloodlust"
+msgstr ""
+
+msgctxt "abilities/68"
+msgid ""
+"The lust for blood flows through you. Go into a battle frenzy that lasts 3 "
+"turns. Gain +150% Critical Damage, and targets which have no Armor receive "
+"automatic Critical Hits."
+msgstr ""
+
+msgctxt "abilities/69"
+msgid "Stomp"
+msgstr ""
+
+msgctxt "abilities/70"
+msgid "Stomps a target, Stunning them for 1 turn."
+msgstr ""
+
+msgctxt "abilities/71"
+msgid "Psychoactive Gas"
+msgstr ""
+
+msgctxt "abilities/72"
+msgid ""
+"Unleashes a gas cloud that addles the minds of those inside it, reducing "
+"their Action Points."
+msgstr ""
+
+msgctxt "abilities/73"
+msgid "Medic Pack"
+msgstr ""
+
+msgctxt "abilities/74"
+msgid "Repair Kit"
+msgstr ""
+
+msgctxt "abilities/75"
+msgid "Puncturing Shot"
+msgstr ""
+
+msgctxt "abilities/76"
+msgid ""
+"Fires an Assault Rifle attack that punctures through multiple enemies, "
+"hitting anyone in its path. Deals +100% damage vs. Stunned targets."
+msgstr ""
+
+msgctxt "abilities/77"
+msgid "Spray 'N' Pray"
+msgstr ""
+
+msgctxt "abilities/78"
+msgid ""
+"Tears up an enemy with twice as many SMG bullets as your normal attack, but "
+"has -25% Hit Chance."
+msgstr ""
+
+msgctxt "abilities/79"
+msgid "Bullet Dance"
+msgstr ""
+
+msgctxt "abilities/80"
+msgid ""
+"Spin in a circle, firing off your entire clip around you in a radius. Deals +"
+"100% damage against targets which are Shocked or Burning."
+msgstr ""
+
+msgctxt "abilities/81"
+msgid "Mortar Blast"
+msgstr ""
+
+msgctxt "abilities/82"
+msgid ""
+"Target an area with your Rocket Launcher and fire into the air. The rocket "
+"falls down, bombarding the area below for +100% damage 1 turn later."
+msgstr ""
+
+msgctxt "abilities/83"
+msgid "Shockwave"
+msgstr ""
+
+msgctxt "abilities/84"
+msgid ""
+"Fires a specially-tuned Energy Weapon attack which Shocks all targets in an "
+"area of effect cone for 2 turns."
+msgstr ""
+
+msgctxt "abilities/85"
+msgid "Energy Blast"
+msgstr ""
+
+msgctxt "abilities/86"
+msgid ""
+"Fires a powerful blast of energy which deals the weapon's damage over an "
+"area-of-effect radius."
+msgstr ""
+
+msgctxt "abilities/87"
+msgid "Combat Rush"
+msgstr ""
+
+msgctxt "abilities/88"
+msgid "Gain +1 Movement Distance for 1 turn."
+msgstr ""
+
+msgctxt "abilities/89"
+msgid "Shredder Shot"
+msgstr ""
+
+msgctxt "abilities/90"
+msgid ""
+"Fires a Shotgun shell that inflicts Bleeding on anyone hit. Deals +100% "
+"damage against targets with Armor Damage."
+msgstr ""
+
+msgctxt "abilities/91"
+msgid "Execute"
+msgstr ""
+
+msgctxt "abilities/92"
+msgid ""
+"Executes a single target for +100% Damage. Can only be used on enemies who "
+"are within melee range. Targets who have been Slowed or Stunned take +200% "
+"Damage instead."
+msgstr ""
+
+msgctxt "abilities/93"
+msgid "Frag Mine"
+msgstr ""
+
+msgctxt "abilities/94"
+msgid ""
+"An explosive Frag Mine which can be placed on the ground. Detonates when "
+"stepped on."
+msgstr ""
+
+msgctxt "abilities/95"
+msgid "Cryo Mine"
+msgstr ""
+
+msgctxt "abilities/96"
+msgid ""
+"A Cryo Mine which can be placed on the ground. Detonates when stepped on, "
+"Freezing any targets in an area around it."
+msgstr ""
+
+msgctxt "abilities/97"
+msgid "EMP Mine"
+msgstr ""
+
+msgctxt "abilities/98"
+msgid ""
+"An EMP Mine which can be placed on the ground. Detonates when stepped on, "
+"Shocking any targets in an area nearby. Deals bonus damage to robots, "
+"synths, and vehicles."
+msgstr ""
+
+msgctxt "abilities/99"
+msgid "Fire Mine"
+msgstr ""
+
+msgctxt "abilities/100"
+msgid ""
+"A Fire Mine which can be placed on the ground. Detonates when stepped on, "
+"creating a flammable area on the ground that Burns any humans and animals "
+"standing in it. Robots, synths and vehicles are immune to Burning effects."
+msgstr ""
+
+msgctxt "abilities/101"
+msgid "Plasma Mine"
+msgstr ""
+
+msgctxt "abilities/102"
+msgid ""
+"An explosive Plasma Mine which can be placed on the ground. Detonates when "
+"stepped on, dealing significant amounts of EMP damage to any targets in the "
+"area."
+msgstr ""
+
+msgctxt "abilities/103"
+msgid "Gas Mine"
+msgstr ""
+
+msgctxt "abilities/104"
+msgid ""
+"A Gas Mine which can be placed on the ground. Detonates when stepped on, "
+"unleashing a gas cloud that Poisons anyone inside it. Robots, synths and "
+"vehicles are immune to Poison."
+msgstr ""
+
+msgctxt "abilities/105"
+msgid "Maul"
+msgstr ""
+
+msgctxt "abilities/106"
+msgid "Mauls a target, shredding its Armor."
+msgstr ""
+
+msgctxt "abilities/107"
+msgid "Roar"
+msgstr ""
+
+msgctxt "abilities/108"
+msgid "Let out a mighty roar, Slowing targets in an area nearby."
+msgstr ""
+
+msgctxt "abilities/109"
+msgid "Blade Vortex"
+msgstr ""
+
+msgctxt "abilities/110"
+msgid "A spinning strike which damages all targets in an area around the user."
+msgstr ""
+
+msgctxt "abilities/111"
+msgid "Light Show"
+msgstr ""
+
+msgctxt "abilities/112"
+msgid "A bright light show that reduces Evasion of targets nearby."
+msgstr ""
+
+msgctxt "abilities/113"
+msgid "Prime"
+msgstr ""
+
+msgctxt "abilities/114"
+msgid "Primes self for detonation."
+msgstr ""
+
+msgctxt "abilities/115"
+msgid "Detonate"
+msgstr ""
+
+msgctxt "abilities/116"
+msgid "Self-destructs, damaging all targets nearby."
+msgstr ""
+
+msgctxt "abilities/117"
+msgid "Head"
+msgstr ""
+
+msgctxt "abilities/118"
+msgid "<i> Edit </i>"
+msgstr ""
+
+msgctxt "abilities/119"
+msgid ""
+"Deals +25% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Deals +75% bonus damage."
+msgstr ""
+
+msgctxt "abilities/120"
+msgid "Body"
+msgstr ""
+
+msgctxt "abilities/121"
+msgid "Deals +35% bonus damage, and reduces the target's Armor by 75%."
+msgstr ""
+
+msgctxt "abilities/122"
+msgid "Legs"
+msgstr ""
+
+msgctxt "abilities/123"
+msgid ""
+"Reduces the target's Combat Speed by 0.8.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Inflicts Bleeding on the target."
+msgstr ""
+
+msgctxt "abilities/124"
+msgid "Arms"
+msgstr ""
+
+msgctxt "abilities/125"
+msgid ""
+"Reduces the target's Hit Chance by 25%.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Deals +50% bonus damage and reduces the "
+"target's damage by 25%."
+msgstr ""
+
+msgctxt "abilities/126"
+msgid "Rage"
+msgstr ""
+
+msgctxt "abilities/127"
+msgid ""
+"Become enraged, gaining a huge bonus to Critical Chance and Action Points."
+msgstr ""
+
+msgctxt "abilities/128"
+msgid "Laser Array"
+msgstr ""
+
+msgctxt "abilities/129"
+msgid "Fires a wide-angle beam of lasers at targets in a radius around it."
+msgstr ""
+
+msgctxt "abilities/130"
+msgid "Mind Terror"
+msgstr ""
+
+msgctxt "abilities/131"
+msgid ""
+"Unleashes a psychic assault on a target enemy, reducing their Action Points."
+msgstr ""
+
+msgctxt "abilities/132"
+msgid "Psychotropic Invigoration"
+msgstr ""
+
+msgctxt "abilities/133"
+msgid "Inhales gases. Dulls pain and provides resistance to damage."
+msgstr ""
+
+msgctxt "abilities/134"
+msgid "Hallucinogenic Trance"
+msgstr ""
+
+msgctxt "abilities/135"
+msgid ""
+"Inhales gases. Calms neves, stabilizing aim and improving ranged "
+"effectiveness."
+msgstr ""
+
+msgctxt "abilities/136"
+msgid "Narcotic Fury"
+msgstr ""
+
+msgctxt "abilities/137"
+msgid ""
+"Inhales gases, sending self into a chemically-induced rage that increases "
+"speed and actions taken."
+msgstr ""
+
+msgctxt "abilities/138"
+msgid "Sabotage"
+msgstr ""
+
+msgctxt "abilities/139"
+msgid "Sabotage an enemy vehicle, reducing its combat effectiveness."
+msgstr ""
+
+msgctxt "abilities/140"
+msgid "Net"
+msgstr ""
+
+msgctxt "abilities/141"
+msgid "Throws a net at a target, temporarily immobilizing them."
+msgstr ""
+
+msgctxt "abilities/142"
+msgid "Attack a target's arm, leaving less able to attack effectively."
+msgstr ""
+
+msgctxt "abilities/143"
+msgid "Rally"
+msgstr ""
+
+msgctxt "abilities/144"
+msgid "Provide a +2 AP bonus to allies in a radius around you."
+msgstr ""
+
+msgctxt "abilities/145"
+msgid "Demoralize"
+msgstr ""
+
+msgctxt "abilities/146"
+msgid ""
+"Insult your enemies, distracting them and reducing their Hit Chance by -20% "
+"and Critical Chance by -25%."
+msgstr ""
+
+msgctxt "abilities/147"
+msgid "Test Boast Anim"
+msgstr ""
+
+msgctxt "abilities/148"
+msgid "Test Throw Anim"
+msgstr ""
+
+msgctxt "abilities/149"
+msgid "Lightning Blast"
+msgstr ""
+
+msgctxt "abilities/150"
+msgid "Unleash a powerful blast of lightning in an area."
+msgstr ""
+
+msgctxt "abilities/151"
+msgid "Leg Bite"
+msgstr ""
+
+msgctxt "abilities/152"
+msgid "EMP Burst"
+msgstr ""
+
+msgctxt "abilities/153"
+msgid "Damages and Shocks any targets in an area around the user."
+msgstr ""
+
+msgctxt "abilities/154"
+msgid "OptiLaser"
+msgstr ""
+
+msgctxt "abilities/155"
+msgid "Fires a laser blast from your cybernetic eye, hitting multiple targets."
+msgstr ""
+
+msgctxt "abilities/156"
+msgid "Grapple Launcher"
+msgstr ""
+
+msgctxt "abilities/157"
+msgid "Launch a grappling hook at a target, pulling them towards you."
+msgstr ""
+
+msgctxt "abilities/158"
+msgid "Firestorm"
+msgstr ""
+
+msgctxt "abilities/159"
+msgid ""
+"Set an area of the ground on fire, Burning and damaging anyone who stands "
+"inside it."
+msgstr ""
+
+msgctxt "abilities/160"
+msgid "Irradiate"
+msgstr ""
+
+msgctxt "abilities/161"
+msgid "Creates a radiation cloud at a spot on the ground."
+msgstr ""
+
+msgctxt "abilities/162"
+msgid "Slug Shot"
+msgstr ""
+
+msgctxt "abilities/163"
+msgid "Fire an attack that has increased range, but a reduced firing cone."
+msgstr ""
+
+msgctxt "abilities/164"
+msgid "Blood Pursuit"
+msgstr ""
+
+msgctxt "abilities/165"
+msgid "Fires several spines in a cone area in front of the user."
+msgstr ""
+
+msgctxt "abilities/166"
+msgid "Poison Spine"
+msgstr ""
+
+msgctxt "abilities/167"
+msgid "Fires a toxic spine that poisons the target it hits."
+msgstr ""
+
+msgctxt "abilities/168"
+msgid "Rabid Bite"
+msgstr ""
+
+msgctxt "abilities/169"
+msgid "Bites a target, Poisoning them."
+msgstr ""
+
+msgctxt "abilities/170"
+msgid "Gas Cloud"
+msgstr ""
+
+msgctxt "abilities/171"
+msgid "Detonates, leaving behind toxins that Poison anyone in the area."
+msgstr ""
+
+msgctxt "abilities/172"
+msgid "Flame Pinwheel"
+msgstr ""
+
+msgctxt "abilities/173"
+msgid ""
+"Throw a spinning flame emitter on the ground, Burning anyone who is in its "
+"area."
+msgstr ""
+
+msgctxt "abilities/174"
+msgid "Mental Shadow"
+msgstr ""
+
+msgctxt "abilities/175"
+msgid ""
+"Clouds the minds of targets in an area of effect radius, significantly "
+"reducing Hit Chance of targets inside."
+msgstr ""
+
+msgctxt "abilities/176"
+msgid "Radiation Grenade"
+msgstr ""
+
+msgctxt "abilities/177"
+msgid ""
+"Unleashes a cloud of radiation, weakening any targets caught in the area."
+msgstr ""
+
+msgctxt "abilities/178"
+msgid "Earthquake"
+msgstr ""
+
+msgctxt "abilities/179"
+msgid "Smash the ground below you, Stunning any targets nearby."
+msgstr ""
+
+msgctxt "abilities/180"
+msgid "Pressure Cooker"
+msgstr ""
+
+msgctxt "abilities/181"
+msgid ""
+"Superheat an enemy's vehicle with your Flamethrower. Deals 40% of the "
+"vehicle's CON in Fire Damage over the next 2 turns, and prevents the vehicle "
+"from taking any actions."
+msgstr ""
+
+msgctxt "abilities/182"
+msgid "Rocket Pod"
+msgstr ""
+
+msgctxt "abilities/183"
+msgid "Fire off a rocket pod, damaging all targets in an area."
+msgstr ""
+
+msgctxt "abilities/184"
+msgid "Napalm Cannon"
+msgstr ""
+
+msgctxt "abilities/185"
+msgid "Fires a stream of napalm, Burning any targets in front of the vehicle."
+msgstr ""
+
+msgctxt "abilities/186"
+msgid "Clowncealment"
+msgstr ""
+
+msgctxt "abilities/187"
+msgid "Lock On"
+msgstr ""
+
+msgctxt "abilities/188"
+msgid "Lock on to a target, then charge up and fire a huge Meson Blast at it."
+msgstr ""
+
+msgctxt "abilities/189"
+msgid "Charging Up"
+msgstr ""
+
+msgctxt "abilities/190"
+msgid "Charging Meson Cannon."
+msgstr ""
+
+msgctxt "abilities/191"
+msgid "Meson Blast"
+msgstr ""
+
+msgctxt "abilities/192"
+msgid "Fire!"
+msgstr ""
+
+msgctxt "abilities/193"
+msgid "Force Field"
+msgstr ""
+
+msgctxt "abilities/194"
+msgid "Projects a force field around the M3 RATT, protecting it from harm."
+msgstr ""
+
+msgctxt "abilities/195"
+msgid "Laser Blast"
+msgstr ""
+
+msgctxt "abilities/196"
+msgid "A powerful laser blast which leaves the ground burning in its wake."
+msgstr ""
+
+msgctxt "abilities/197"
+msgid "Charm Animal"
+msgstr ""
+
+msgctxt "abilities/198"
+msgid "Persuade a friendly animal to follow you."
+msgstr ""
+
+msgctxt "abilities/199"
+msgid "Hack Robot"
+msgstr ""
+
+msgctxt "abilities/200"
+msgid "Hack a target robot, temporarily converting it to your side."
+msgstr ""
+
+msgctxt "abilities/201"
+msgid "Tame Predator"
+msgstr ""
+
+msgctxt "abilities/202"
+msgid "Temporarily turn a hostile animal against its own kind."
+msgstr ""
+
+msgctxt "abilities/203"
+msgid "Red Fang"
+msgstr ""
+
+msgctxt "abilities/204"
+msgid "Gnaws a target, inflicting Bleeding on it."
+msgstr ""
+
+msgctxt "abilities/205"
+msgid "Suppressing Fire"
+msgstr ""
+
+msgctxt "abilities/206"
+msgid ""
+"A Heavy MG attack that consumes twice as many bullets. Enemies in the area "
+"take minor damage and are Suppressed, losing -0.8 Combat Speed and -20% Hit "
+"Chance for 2 turns. Deals +300% damage vs. Demoralized targets."
+msgstr ""
+
+msgctxt "abilities/207"
+msgid "Shaolin Surprise"
+msgstr ""
+
+msgctxt "abilities/208"
+msgid ""
+"A crippling Brawling attack that penetrates through the target's defenses. "
+"For every 1 combo meter built up, provides +2 Armor Penetration and +10 "
+"Damage. After use, it resets your Combo Meter. Deals +100% damage to "
+"Demoralized targets."
+msgstr ""
+
+msgctxt "abilities/209"
+msgid "Extreme Combo"
+msgstr ""
+
+msgctxt "abilities/210"
+msgid "Don't stop just because you heard a few bones snapping."
+msgstr ""
+
+msgctxt "abilities/211"
+msgid "Final Execution"
+msgstr ""
+
+msgctxt "abilities/212"
+msgid ""
+"Snap a human target's neck, dealing huge damage to them. Requires that "
+"target has been Stunned."
+msgstr ""
+
+msgctxt "abilities/213"
+msgid "Destructive Shutdown"
+msgstr ""
+
+msgctxt "abilities/214"
+msgid ""
+"Detonates a robot you have hacked, destroying it and significantly damaging "
+"anyone nearby."
+msgstr ""
+
+msgctxt "abilities/215"
+msgid "Leg Stomp"
+msgstr ""
+
+msgctxt "abilities/216"
+msgid "Smashes the ground and creates a damaging shockwave."
+msgstr ""
+
+msgctxt "abilities/217"
+msgid "Remote Detonation"
+msgstr ""
+
+msgctxt "abilities/218"
+msgid "Destroys a target robot ally, damaging any targets near it."
+msgstr ""
+
+msgctxt "abilities/219"
+msgid "Remote Command"
+msgstr ""
+
+msgctxt "abilities/220"
+msgid "Painmaster"
+msgstr ""
+
+msgctxt "abilities/221"
+msgid ""
+"Master your pain. Temporarily gain significant Armor, but lose Combat Speed."
+msgstr ""
+
+msgctxt "abilities/222"
+msgid "Concealing Haze"
+msgstr ""
+
+msgctxt "abilities/223"
+msgid "Unleash a cloud of haze that obscures allies inside it."
+msgstr ""
+
+msgctxt "abilities/224"
+msgid "Healing Cloud"
+msgstr ""
+
+msgctxt "abilities/225"
+msgid "Unleash a cloud of haze that revitalizes Breathers inside it."
+msgstr ""
+
+msgctxt "abilities/226"
+msgid "Voice of the Gipper"
+msgstr ""
+
+msgctxt "abilities/227"
+msgid "Psychic Projection"
+msgstr ""
+
+msgctxt "abilities/228"
+msgid "Launches a harmful psychic duplicate at the target."
+msgstr ""
+
+msgctxt "abilities/229"
+msgid "Revive"
+msgstr ""
+
+msgctxt "abilities/230"
+msgid "Revives a downed ally."
+msgstr ""
+
+msgctxt "abilities/231"
+msgid "Optical Blast"
+msgstr ""
+
+msgctxt "abilities/232"
+msgid "Fires an energy blast at a target."
+msgstr ""
+
+msgctxt "abilities/233"
+msgid "Suppressing Fire"
+msgstr ""
+
+msgctxt "abilities/234"
+msgid "Blazing Lead"
+msgstr ""
+
+msgctxt "abilities/235"
+msgid ""
+"Fire a burst of bullets in a narrow cone in front of you, dealing extra "
+"damage to anyone caught in the torrent."
+msgstr ""
+
+msgctxt "abilities/236"
+msgid "Coin Flip"
+msgstr ""
+
+msgctxt "abilities/237"
+msgid "Scalpel-Laser"
+msgstr ""
+
+msgctxt "abilities/238"
+msgid ""
+"BUDDY fires a narrow, long-range laser beam at a target, cutting them open."
+msgstr ""
+
+msgctxt "abilities/239"
+msgid "Vivisection"
+msgstr ""
+
+msgctxt "abilities/240"
+msgid ""
+"BUDDY uses his built-in cutting plades to tear open a target in melee range."
+msgstr ""
+
+msgctxt "abilities/241"
+msgid "Trick Shot"
+msgstr ""
+
+msgctxt "abilities/242"
+msgid ""
+"Fire a Handgun attack that has -50% Hit Chance. If this attack hits, you "
+"gain an instant +3 AP and your Strike Meter is instantly filled. Deals +100% "
+"damage vs. Marked targets."
+msgstr ""
+
+msgctxt "abilities/243"
+msgid "Leg Swipe"
+msgstr ""
+
+msgctxt "abilities/244"
+msgid "Attacks all targets in front of the Spider Bot with its legs."
+msgstr ""
+
+msgctxt "abilities/245"
+msgid " Test Animation Ability"
+msgstr ""
+
+msgctxt "abilities/246"
+msgid " Use this ability to test the animation assigned to it."
+msgstr ""
+
+msgctxt "abilities/247"
+msgid "Overcharge"
+msgstr ""
+
+msgctxt "abilities/248"
+msgid ""
+"Charge your weapon, empowering it to deal bonus Energy, Cold, or Fire damage "
+"on its next attack. Your weapon has a 5% chance of blowing up in your face. "
+msgstr ""
+
+msgctxt "abilities/249"
+msgid "Repair"
+msgstr ""
+
+msgctxt "abilities/250"
+msgid "Coin Flip"
+msgstr ""
+
+msgctxt "abilities/251"
+msgid ""
+"You've got a trader's luck. Flip a coin, granting a bonus to Critical Chance "
+"on your next attack."
+msgstr ""
+
+msgctxt "abilities/252"
+msgid "Cerebral Uplink"
+msgstr ""
+
+msgctxt "abilities/253"
+msgid ""
+"Targets an enemy robot or synth and inhibits their systems, temporarily "
+"stunning them."
+msgstr ""
+
+msgctxt "abilities/254"
+msgid "Flamethrower"
+msgstr ""
+
+msgctxt "abilities/255"
+msgid "Fires a blast of searing flame, cooking opponents alive."
+msgstr ""
+
+msgctxt "abilities/256"
+msgid "Lightning Ball"
+msgstr ""
+
+msgctxt "abilities/257"
+msgid ""
+"Launches a ball of lightning onto a spot on the ground, Shocking anyone who "
+"stands near it."
+msgstr ""
+
+msgctxt "abilities/258"
+msgid "Radiation Blast"
+msgstr ""
+
+msgctxt "abilities/259"
+msgid "Full Auto"
+msgstr ""
+
+msgctxt "abilities/260"
+msgid ""
+"Let loose with a 6-round burst at a target enemy. Each bullet does normal "
+"damage but has a -20% Chance to Hit penalty."
+msgstr ""
+
+msgctxt "abilities/261"
+msgid "Double Barrel"
+msgstr ""
+
+msgctxt "abilities/262"
+msgid ""
+"Turn 'em into a blood sausage. Fires off 3 shots in quick succession. Each "
+"shot deals 75% of its normal damage, but comes with a -30% Chance to Hit "
+"penalty."
+msgstr ""
+
+msgctxt "abilities/263"
+msgid "Auto Fire"
+msgstr ""
+
+msgctxt "abilities/264"
+msgid "Shotgun Gauntlet"
+msgstr ""
+
+msgctxt "abilities/265"
+msgid ""
+"Cordite fires his implanted shotgun at an enemy, turning them into a fine "
+"red mist. Attacking an unarmored target has a +25% Critical Chance bonus."
+msgstr ""
+
+msgctxt "abilities/266"
+msgid "Heal"
+msgstr ""
+
+msgctxt "abilities/267"
+msgid "Fire"
+msgstr ""
+
+msgctxt "abilities/268"
+msgid "It's too hot to handle."
+msgstr ""
+
+msgctxt "abilities/269"
+msgid "Defrost"
+msgstr ""
+
+msgctxt "abilities/270"
+msgid "Bison Dung"
+msgstr ""
+
+msgctxt "abilities/271"
+msgid ""
+"Throw to create a cloud of gas that Poisons anyone in the area. Water can't "
+"wash away the humiliation."
+msgstr ""
+
+msgctxt "abilities/272"
+msgid ""
+"Drink to gain +25% Melee Damage for 36 turns, but suffer -2 AP for 60 turns "
+"afterwards."
+msgstr ""
+
+msgctxt "abilities/273"
+msgid "Drink to... well, someone's gotta be the designated driver."
+msgstr ""
+
+msgctxt "abilities/274"
+msgid ""
+"Smoke to gain +10% Crit Chance for 36 turns, but suffer -10% Hit Chance for "
+"60 turns afterwards."
+msgstr ""
+
+msgctxt "abilities/275"
+msgid "Use to gain +2 AP and +15% Hit Chance for 6 turns."
+msgstr ""
+
+msgctxt "abilities/276"
+msgid "Eat to restore CON."
+msgstr ""
+
+msgctxt "abilities/277"
+msgid "Eat to restore CON. But should you?"
+msgstr ""
+
+msgctxt "abilities/278"
+msgid "Eat to restore CON, and gain +1 AP for 90 turns."
+msgstr ""
+
+msgctxt "abilities/279"
+msgid "Use to remove any Injuries the target character has."
+msgstr ""
+
+msgctxt "abilities/280"
+msgid "Use to restore CON. Amount healed increases with First Aid skill level."
+msgstr ""
+
+msgctxt "abilities/281"
+msgid ""
+"Use to restore a moderate amount of CON. Continues healing for a duration "
+"after initial use."
+msgstr ""
+
+msgctxt "abilities/282"
+msgid ""
+"Use to restore a moderate amount of CON. Boosts the target's Armor for a "
+"duration after initial use."
+msgstr ""
+
+msgctxt "abilities/283"
+msgid ""
+"Use to restore CON. Requires no skills to use, but receives no benefit from "
+"knowledge of Medicine."
+msgstr ""
+
+msgctxt "abilities/284"
+msgid ""
+"Use to restore CON. Amount repaired increases with Engineering skill level. "
+"Can only be used on vehicles and robots."
+msgstr ""
+
+msgctxt "abilities/285"
+msgid "Use to remove Poison status."
+msgstr ""
+
+msgctxt "abilities/286"
+msgid "Use to remove Bleeding status."
+msgstr ""
+
+msgctxt "abilities/287"
+msgid "Use to remove the effects of drug withdrawal."
+msgstr ""
+
+msgctxt "abilities/288"
+msgid ""
+"Use to feel like you could kiss the sky. Your momma will be disappointed."
+msgstr ""
+
+msgctxt "abilities/289"
+msgid ""
+"Throw to create a persistent smoke cloud that Conceals anyone standing "
+"within it, significantly increasing their Evasion."
+msgstr ""
+
+msgctxt "abilities/290"
+msgid "Eliminate"
+msgstr ""
+
+msgctxt "abilities/291"
+msgid "Deploy Sawpup"
+msgstr ""
+
+msgctxt "abilities/292"
+msgid ""
+"Deploys a robotic Sawpup follower that will assist in combat. Self-destructs "
+"after combat has ended."
+msgstr ""
+
+msgctxt "abilities/293"
+msgid "Deploy Machine Turret"
+msgstr ""
+
+msgctxt "abilities/294"
+msgid ""
+"Deploys a robotic Machine Turret that will attack your enemies. Self-"
+"destructs after combat has ended."
+msgstr ""
+
+msgctxt "abilities/295"
+msgid "Rupture"
+msgstr ""
+
+msgctxt "abilities/296"
+msgid "Bloodshriek"
+msgstr ""
+
+msgctxt "abilities/297"
+msgid ""
+"Use to restore CON for a distant target. Amount healed increases with First "
+"Aid skill level."
+msgstr ""
+
+msgctxt "abilities/298"
+msgid ""
+"Use to restore CON each turn, for 3 turns. Amount healed increases with "
+"First Aid skill level."
+msgstr ""
+
+msgctxt "abilities/299"
+msgid ""
+"All damage received is reduced to 0. After 3 turns, the user receives 50% of "
+"the damage they sustained during that time."
+msgstr ""
+
+msgctxt "abilities/300"
+msgid "Smoke to take the edge off. Not great for your health."
+msgstr ""
+
+msgctxt "abilities/301"
+msgid "Restores CON over several combat turns."
+msgstr ""
+
+msgctxt "abilities/302"
+msgid ""
+"Use to restore CON per turn over 3 turns, but suffer Internal Bleeding "
+"afterwards."
+msgstr ""
+
+msgctxt "abilities/303"
+msgid "Deploy First Aid Station"
+msgstr ""
+
+msgctxt "abilities/304"
+msgid ""
+"Deploys a portable First Aid Station. Restores +25% CON per turn to anyone "
+"standing around it. Lasts 3 turns."
+msgstr ""
+
+msgctxt "abilities/305"
+msgid ""
+"Use to restore CON to a distant target. Amount healed increases with "
+"Medicine skill level."
+msgstr ""
+
+msgctxt "abilities/306"
+msgid "Deploy Ice Spike"
+msgstr ""
+
+msgctxt "abilities/307"
+msgid ""
+"Deploys an Ice Spike that inflicts Frozen and Slowed on enemies in a radius "
+"around it. Lasts 3 turns."
+msgstr ""
+
+msgctxt "abilities/308"
+msgid ""
+"Shrinks a target character. Reduces their current CON significantly, but "
+"boosts their Evasion. "
+msgstr ""
+
+msgctxt "abilities/309"
+msgid "Bottle Throw"
+msgstr ""
+
+msgctxt "abilities/310"
+msgid "Scotchmo throws his empty Squeezins bottle at a target, Stunning them."
+msgstr ""
+
+msgctxt "abilities/311"
+msgid "Pink Elephants"
+msgstr ""
+
+msgctxt "abilities/312"
+msgid "Whuz... whuzza... by the Great Hobo! They're here agaaaaiiiin!"
+msgstr ""
+
+msgctxt "abilities/313"
+msgid "Summon Pikas"
+msgstr ""
+
+msgctxt "abilities/314"
+msgid "Summons a horde of pikalopes."
+msgstr ""
+
+msgctxt "abilities/315"
+msgid "Thrash"
+msgstr ""
+
+msgctxt "abilities/316"
+msgid "Thrashes around, damaging anything standing in front."
+msgstr ""
+
+msgctxt "abilities/317"
+msgid "Split"
+msgstr ""
+
+msgctxt "abilities/318"
+msgid "Splits into multiple smaller parts."
+msgstr ""
+
+msgctxt "abilities/319"
+msgid "Laser Ring"
+msgstr ""
+
+msgctxt "abilities/320"
+msgid "Charge Up"
+msgstr ""
+
+msgctxt "abilities/321"
+msgid "Deploy Slicer Dicer"
+msgstr ""
+
+msgctxt "abilities/322"
+msgid ""
+"Deploys a robotic Slicer Dicer follower that will assist in combat. Self-"
+"destructs after combat has ended."
+msgstr ""
+
+msgctxt "abilities/323"
+msgid "Deploy Discobot"
+msgstr ""
+
+msgctxt "abilities/324"
+msgid ""
+"Deploys a Discobot follower that will assist in combat. Self-destructs after "
+"combat has ended."
+msgstr ""
+
+msgctxt "abilities/325"
+msgid "Deploy Decoy"
+msgstr ""
+
+msgctxt "abilities/326"
+msgid ""
+"Deploys a decoy that enemies will attack instead of you. Self-destructs "
+"after combat has ended."
+msgstr ""
+
+msgctxt "abilities/327"
+msgid "Deploy Thumper"
+msgstr ""
+
+msgctxt "abilities/328"
+msgid ""
+"Deploys a thumper device on the ground. After 3 turns, summons a Waste Worm "
+"from the depths to fight for you."
+msgstr ""
+
+msgctxt "abilities/329"
+msgid "Summon Waste Worm"
+msgstr ""
+
+msgctxt "abilities/330"
+msgid "Summons a fearsome Waste Worm from the depths."
+msgstr ""
+
+msgctxt "abilities/331"
+msgid "Deploy Elemental Projector"
+msgstr ""
+
+msgctxt "abilities/332"
+msgid ""
+"Deploys an Elemental Projector that applies random harmful effects to "
+"enemies nearby."
+msgstr ""
+
+msgctxt "abilities/333"
+msgid "Use to revive all Incapacitated squad members."
+msgstr ""
+
+msgctxt "abilities/334"
+msgid "Distract"
+msgstr ""
+
+msgctxt "abilities/335"
+msgid "Insults a group of enemies, Distracting and reducing their AP."
+msgstr ""
+
+msgctxt "abilities/336"
+msgid "Panic"
+msgstr ""
+
+msgctxt "abilities/337"
+msgid ""
+"Jodie hadn't killed a soul before coming to Colorado. Sometimes, the stress "
+"of combat will get to her."
+msgstr ""
+
+msgctxt "abilities/338"
+msgid "Flame Tank"
+msgstr ""
+
+msgctxt "abilities/339"
+msgid ""
+"Deals +35% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Blows up the target's tank, killing them "
+"and unleashing a fiery explosion."
+msgstr ""
+
+msgctxt "abilities/340"
+msgid "Gas Tank"
+msgstr ""
+
+msgctxt "abilities/341"
+msgid ""
+"Deals +35% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Blows up the target's tank, killing them "
+"and unleashing a poisonous cloud of gas."
+msgstr ""
+
+msgctxt "abilities/342"
+msgid ""
+"Deals +35% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Punches through to the gas tank, blowing "
+"it to smithereens."
+msgstr ""
+
+msgctxt "abilities/343"
+msgid "Chassis"
+msgstr ""
+
+msgctxt "abilities/344"
+msgid "Severely reduces the target's Armor."
+msgstr ""
+
+msgctxt "abilities/345"
+msgid "Turret"
+msgstr ""
+
+msgctxt "abilities/346"
+msgid ""
+"Damages the vehicle's weaponry, reducing its damage output significantly."
+msgstr ""
+
+msgctxt "abilities/347"
+msgid "Treads"
+msgstr ""
+
+msgctxt "abilities/348"
+msgid "Reduces its movement speed significantly."
+msgstr ""
+
+msgctxt "abilities/349"
+msgid "Gas Capsule"
+msgstr ""
+
+msgctxt "abilities/350"
+msgid "Detonates the target's explosive payload."
+msgstr ""
+
+msgctxt "abilities/351"
+msgid "Explosives"
+msgstr ""
+
+msgctxt "abilities/352"
+msgid "Plating"
+msgstr ""
+
+msgctxt "abilities/353"
+msgid "Severely reduces the target's Armor."
+msgstr ""
+
+msgctxt "abilities/354"
+msgid "CPU"
+msgstr ""
+
+msgctxt "abilities/355"
+msgid ""
+"Deals +15% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Causes the target to go berserk and "
+"attack its allies."
+msgstr ""
+
+msgctxt "abilities/356"
+msgid "Reduces the target's movement speed considerably."
+msgstr ""
+
+msgctxt "abilities/357"
+msgid "Blades"
+msgstr ""
+
+msgctxt "abilities/358"
+msgid "Significantly reduces the damage the target deals."
+msgstr ""
+
+msgctxt "abilities/359"
+msgid "Cryo Blast"
+msgstr ""
+
+msgctxt "abilities/360"
+msgid "Fires a blast of cold energy that freezes any targets in front of it."
+msgstr ""
+
+msgctxt "abilities/361"
+msgid "Hydraulics"
+msgstr ""
+
+msgctxt "abilities/362"
+msgid ""
+"Reduces the target's Combat Speed by 0.8.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Inflicts Shocked on the target."
+msgstr ""
+
+msgctxt "abilities/363"
+msgid "Purges the effects of radiation, including mutations."
+msgstr ""
+
+msgctxt "abilities/364"
+msgid "Precision Strike: Turret"
+msgstr ""
+
+msgctxt "abilities/365"
+msgid "<i>Edit</i>"
+msgstr ""
+
+msgctxt "abilities/366"
+msgid "Supersonic Blast"
+msgstr ""
+
+msgctxt "abilities/367"
+msgid "Launch a projectile that penetrates through multiple targets in a row."
+msgstr ""
+
+msgctxt "abilities/368"
+msgid "Cluster Bomb"
+msgstr ""
+
+msgctxt "abilities/369"
+msgid ""
+"Fire a pod into the air that bursts into several explosives. The explosives "
+"rain down on targets below."
+msgstr ""
+
+msgctxt "abilities/370"
+msgid "Deploy Laser Turret"
+msgstr ""
+
+msgctxt "abilities/371"
+msgid ""
+"Deploys a robotic Laser Turret that will attack your enemies. Self-destructs "
+"after combat has ended."
+msgstr ""
+
+msgctxt "abilities/372"
+msgid "Pustule"
+msgstr ""
+
+msgctxt "abilities/373"
+msgid ""
+"Deals +35% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Pops the target's pustule, killing them "
+"and unleashing a poisonous cloud of gas."
+msgstr ""
+
+msgctxt "abilities/374"
+msgid "Throat"
+msgstr ""
+
+msgctxt "abilities/375"
+msgid ""
+"Deals +50% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Sends the target into a rage, causing it "
+"to attack its allies."
+msgstr ""
+
+msgctxt "abilities/376"
+msgid "Photon Vortex"
+msgstr ""
+
+msgctxt "abilities/377"
+msgid "Mild Photon Vortex\n"
+msgstr ""
+
+msgctxt "abilities/378"
+msgid "Defend"
+msgstr ""
+
+msgctxt "abilities/379"
+msgid ""
+"Hunker down and protect yourself from attack. Use all remaining AP, gaining +"
+"5% Evasion for each spent."
+msgstr ""
+
+msgctxt "abilities/380"
+msgid "Missile Salvo"
+msgstr ""
+
+msgctxt "abilities/381"
+msgid "Prepare"
+msgstr ""
+
+msgctxt "abilities/382"
+msgid "End your turn, and carry over up to 2 unused AP to your next turn. "
+msgstr ""
+
+msgctxt "abilities/383"
+msgid "Thundering Strike"
+msgstr ""
+
+msgctxt "abilities/384"
+msgid ""
+"Charge up this ability with each successful attack. Leap up and slam the "
+"ground, sending out a stunning shockwave around you."
+msgstr ""
+
+msgctxt "abilities/385"
+msgid "Nuke Strike"
+msgstr ""
+
+msgctxt "abilities/386"
+msgid ""
+"Charge up this ability with each successful attack. Fire a nuclear missile "
+"that leaves behind a cloud of radiation."
+msgstr ""
+
+msgctxt "abilities/387"
+msgid "Torrent Strike"
+msgstr ""
+
+msgctxt "abilities/388"
+msgid ""
+"Charge up this ability with each successful attack. Fire a torrent of death "
+"in a wide area."
+msgstr ""
+
+msgctxt "abilities/389"
+msgid "Rad Burst"
+msgstr ""
+
+msgctxt "abilities/390"
+msgid "Power Attack"
+msgstr ""
+
+msgctxt "abilities/391"
+msgid "Deadly Combo"
+msgstr ""
+
+msgctxt "abilities/392"
+msgid "Howitzer"
+msgstr ""
+
+msgctxt "abilities/393"
+msgid ""
+"Fire a cannon shell that sets the ground ablaze, damaging any targets in its "
+"field of fire."
+msgstr ""
+
+msgctxt "abilities/394"
+msgid "Devotion"
+msgstr ""
+
+msgctxt "abilities/395"
+msgid ""
+"Through faith, all things are possible. Especially crushing your enemies!"
+msgstr ""
+
+msgctxt "abilities/396"
+msgid "Frost Blast"
+msgstr ""
+
+msgctxt "abilities/397"
+msgid "Fire a wave of cryo energy, flash-freezing anyone in its path."
+msgstr ""
+
+msgctxt "abilities/398"
+msgid "Harvest"
+msgstr ""
+
+msgctxt "abilities/399"
+msgid "Cut a swathe of carnage in a wide area of effect."
+msgstr ""
+
+msgctxt "abilities/400"
+msgid "Divine Inspiration"
+msgstr ""
+
+msgctxt "abilities/401"
+msgid ""
+"Your faith is an inspiration to your friends. It gives them the strength to "
+"crush their enemies!"
+msgstr ""
+
+msgctxt "abilities/402"
+msgid "Shockwave"
+msgstr ""
+
+msgctxt "abilities/403"
+msgid ""
+"Lets out a pulse that instantly destroys any cover or objects in its area, "
+"but leaves enemies unscathed."
+msgstr ""
+
+msgctxt "abilities/404"
+msgid "Caltrop Launcher"
+msgstr ""
+
+msgctxt "abilities/405"
+msgid ""
+"Launches caltrops that blanket a targeted area, damaging and Slowing anyone "
+"walking over them. Lasts 3 turns."
+msgstr ""
+
+msgctxt "abilities/406"
+msgid "Goat Cannon"
+msgstr ""
+
+msgctxt "abilities/407"
+msgid "Unleashes some serious headbutting on your enemies."
+msgstr ""
+
+msgctxt "abilities/408"
+msgid "Electronic Countermeasures"
+msgstr ""
+
+msgctxt "abilities/409"
+msgid ""
+"Causes chaos among enemy robots. In addition to dealing Energy Damage, has a "
+"chance to Shock, Hack, or instantly overload and destroy them."
+msgstr ""
+
+msgctxt "abilities/410"
+msgid "Whip"
+msgstr ""
+
+msgctxt "abilities/411"
+msgid "Whips a target into a frenzy."
+msgstr ""
+
+msgctxt "abilities/412"
+msgid "Electric Field"
+msgstr ""
+
+msgctxt "abilities/413"
+msgid ""
+"Fires a magnetically-charged blast that leaves a lightning ball behind. "
+"Anyone who goes near it takes Energy damage. Lasts 3 turns."
+msgstr ""
+
+msgctxt "abilities/414"
+msgid "Repair"
+msgstr ""
+
+msgctxt "abilities/415"
+msgid "Repairs a wrecked vehicle."
+msgstr ""
+
+msgctxt "abilities/416"
+msgid "Tail"
+msgstr ""
+
+msgctxt "abilities/417"
+msgid ""
+"Reduces the target's Combat Speed by 0.8.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Immobilizes the target."
+msgstr ""
+
+msgctxt "abilities/418"
+msgid "Hunt"
+msgstr ""
+
+msgctxt "abilities/419"
+msgid "Marks a target enemy, dropping their Evasion."
+msgstr ""
+
+msgctxt "abilities/420"
+msgid "Love Tap"
+msgstr ""
+
+msgctxt "abilities/421"
+msgid "Smacks someone with the butt of the equipped weapon, Stunning them."
+msgstr ""
+
+msgctxt "abilities/422"
+msgid "Declamation"
+msgstr ""
+
+msgctxt "abilities/423"
+msgid "Cordite proclaims his destiny, Demoralizing anyone standing nearby."
+msgstr ""
+
+msgctxt "abilities/424"
+msgid "Tactical Analysis"
+msgstr ""
+
+msgctxt "abilities/425"
+msgid ""
+"Pizepi analyzes the battlefield, giving all squad members nearby a bonus."
+msgstr ""
+
+msgctxt "abilities/426"
+msgid "Rant"
+msgstr ""
+
+msgctxt "abilities/427"
+msgid ""
+"Vic yells out demeaning, crazed insults, Demoralizing both friendlies and "
+"squad members in a radius around himself."
+msgstr ""
+
+msgctxt "abilities/428"
+msgid "Burrow"
+msgstr ""
+
+msgctxt "abilities/429"
+msgid ""
+"Tunnel underground and reposition to a new location. Damages anyone nearby "
+"upon emerging."
+msgstr ""
+
+msgctxt "abilities/430"
+msgid "Ice Burrow"
+msgstr ""
+
+msgctxt "abilities/432"
+msgid "Radiation Cloud"
+msgstr ""
+
+msgctxt "abilities/433"
+msgid ""
+"Emits a deadly cloud of radiation around the user, Irradiating anyone inside "
+"it."
+msgstr ""
+
+msgctxt "abilities/434"
+msgid ""
+"Activates an extra-fast boost mode that increases travel speed on the World "
+"Map."
+msgstr ""
+
+msgctxt "abilities/435"
+msgid "Laser"
+msgstr ""
+
+msgctxt "abilities/436"
+msgid "A deadly beam of energy."
+msgstr ""
+
+msgctxt "abilities/437"
+msgid "Leap"
+msgstr ""
+
+msgctxt "abilities/438"
+msgid ""
+"Leaps into the air and falls to a new position on the battlefield. Anyone "
+"standing nearby is damaged."
+msgstr ""
+
+msgctxt "abilities/439"
+msgid ""
+"Throw at a target character to leave them wondering when their life turned "
+"wrong."
+msgstr ""
+
+msgctxt "abilities/440"
+msgid "Nuke"
+msgstr ""
+
+msgctxt "abilities/441"
+msgid ""
+"Deals +35% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Detonates the target's nuke, unleashing "
+"a massive nuclear explosion."
+msgstr ""
+
+msgctxt "abilities/442"
+msgid ""
+"Deals +35% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Detonates the target's explosives, "
+"damaging anything nearby."
+msgstr ""
+
+msgctxt "abilities/443"
+msgid "Drill"
+msgstr ""
+
+msgctxt "abilities/444"
+msgid "Shock Prod"
+msgstr ""
+
+msgctxt "abilities/445"
+msgid "Battery"
+msgstr ""
+
+msgctxt "abilities/446"
+msgid ""
+"Deals +25% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Unleashes a surge of electrical energy "
+"that Shocks anyone nearby."
+msgstr ""
+
+msgctxt "abilities/447"
+msgid "Lead Spray"
+msgstr ""
+
+msgctxt "abilities/448"
+msgid "Throw to bring someone down a peg."
+msgstr ""
+
+msgctxt "abilities/449"
+msgid "Throw to unleash a harmless shower of confetti."
+msgstr ""
+
+msgctxt "abilities/450"
+msgid "Emits a blast of electrical energy around the wearer."
+msgstr ""
+
+msgctxt "abilities/451"
+msgid "Incendiary Shell"
+msgstr ""
+
+msgctxt "abilities/452"
+msgid "Ice Shell"
+msgstr ""
+
+msgctxt "abilities/453"
+msgid "Toxic Shell"
+msgstr ""
+
+msgctxt "abilities/454"
+msgid "Plasma Shell"
+msgstr ""
+
+msgctxt "abilities/455"
+msgid "Heavy Attack"
+msgstr ""
+
+msgctxt "abilities/456"
+msgid ""
+"Throw your weight around. A powerful attack that has +70% Critical Chance, "
+"but -40% Hit Chance."
+msgstr ""
+
+msgctxt "abilities/457"
+msgid "Sucker Punch"
+msgstr ""
+
+msgctxt "abilities/458"
+msgid ""
+"Take 'em off guard. A quick attack that has +40% Hit Chance, but -50% damage."
+msgstr ""
+
+msgctxt "abilities/459"
+msgid "Center Mass"
+msgstr ""
+
+msgctxt "abilities/460"
+msgid ""
+"Take 'em down clean. A reliable attack that has +20% Hit Chance, but -100% "
+"Critical Chance and -33% damage."
+msgstr ""
+
+msgctxt "abilities/461"
+msgid "Risky Shot"
+msgstr ""
+
+msgctxt "abilities/462"
+msgid ""
+"Go for broke. An unreliable attack that has +70% Critical Chance, but -40% "
+"Hit Chance."
+msgstr ""
+
+msgctxt "abilities/463"
+msgid "Single Shot"
+msgstr ""
+
+msgctxt "abilities/464"
+msgid "Make each bullet count. Fires a single shot with +30% Hit Chance."
+msgstr ""
+
+msgctxt "abilities/465"
+msgid "Unload"
+msgstr ""
+
+msgctxt "abilities/466"
+msgid ""
+"Leave nothing behind. A brazen attack that fires twice as many times, but "
+"has -35% Hit Chance."
+msgstr ""
+
+msgctxt "abilities/467"
+msgid ""
+"Double your fun. Fires two times in a row and has +17% wider spread, but "
+"with -45% Hit Chance."
+msgstr ""
+
+msgctxt "abilities/468"
+msgid "Point Blank"
+msgstr ""
+
+msgctxt "abilities/469"
+msgid ""
+"Turn 'em into a blood sausage. Hits a single target at point blank range, "
+"but deals +100% damage."
+msgstr ""
+
+msgctxt "abilities/470"
+msgid "Drug Tank"
+msgstr ""
+
+msgctxt "abilities/471"
+msgid ""
+"Deals +35% bonus damage.\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Blows up the target's tank, killing them "
+"and causing anyone nearby to overdose on Breather gas."
+msgstr ""
+
+msgctxt "abilities/472"
+msgid ""
+"Use to feel like you could kiss the sky. Your momma will be disappointed. "
+"Gain +15% Critical Chance for 36 turns, but suffer -10% Evasion for 720 "
+"turns afterwards."
+msgstr ""
+
+msgctxt "abilities/473"
+msgid ""
+"Use to feel like you could kiss the sky. Your momma will be disappointed. "
+"Gain +8 Armor for 36 turns, but suffer -10% Evasion for 720 turns afterwards."
+msgstr ""
+
+msgctxt "abilities/474"
+msgid ""
+"Use to feel like you could kiss the sky. Your momma will be disappointed. "
+"Gain +3 AP for 36 turns, but suffer -10% Evasion for 720 turns afterwards."
+msgstr ""
+
+msgctxt "abilities/475"
+msgid ""
+"Use to feel like you could kiss the sky. Your momma will be disappointed. "
+"Gain +5 Perception and +15% Strike charge rate for 36 turns, but suffer -10% "
+"Evasion for 720 turns afterwards."
+msgstr ""
+
+msgctxt "abilities/476"
+msgid ""
+"Use to feel like you could kiss the sky. Your momma will be disappointed. "
+"Gain +25% Evasion for 36 turns, but suffer -10% Evasion for 720 turns "
+"afterwards."
+msgstr ""
+
+msgctxt "abilities/477"
+msgid "Reckless Attack"
+msgstr ""
+
+msgctxt "abilities/478"
+msgid ""
+"More pain, more gain. An indiscriminate attack that does +25% damage, but "
+"hits everyone nearby - including you."
+msgstr ""
+
+msgctxt "abilities/479"
+msgid "Snap Shot"
+msgstr ""
+
+msgctxt "abilities/480"
+msgid ""
+"They'll never see it coming. An extremely quick attack that only costs 1 AP, "
+"but has -60% Hit Chance."
+msgstr ""
+
+msgctxt "abilities/481"
+msgid "Use to restore CON. Amount healed increases with First Aid skill level."
+msgstr ""
+
+msgctxt "abilities/482"
+msgid "Use to restore CON. Amount healed increases with First Aid skill level."
+msgstr ""
+
+msgctxt "abilities/483"
+msgid ""
+"Use to restore CON per turn over 3 turns. Amount healed increases with First "
+"Aid skill level."
+msgstr ""
+
+msgctxt "abilities/484"
+msgid ""
+"Use to restore CON. Amount repaired increases with Mechanics skill level."
+msgstr ""
+
+msgctxt "abilities/485"
+msgid "Fire to restore CON. Can only be used on mechanical targets."
+msgstr ""
+
+msgctxt "abilities/486"
+msgid "Use to annoy everyone around you. Constantly."
+msgstr ""
+
+msgctxt "abilities/487"
+msgid "Throw to inflict Bleeding on anyone in the affected area."
+msgstr ""
+
+msgctxt "abilities/493"
+msgid "Grenade Launcher"
+msgstr ""
+
+msgctxt "abilities/494"
+msgid "Fires a grenade that deals Explosive damage in a small area."
+msgstr ""
+
+msgctxt "abilities/496"
+msgid ""
+"Make each shell count. Fires a single shot with +30% Hit Chance, but -50% "
+"spread."
+msgstr ""
+
+msgctxt "abilities/497"
+msgid "Try it and see!"
+msgstr ""
+
+msgctxt "abilities/498"
+msgid "Cower"
+msgstr ""
+
+msgctxt "abilities/552"
+msgid ""
+"Drink to gain +100% Melee Damage for 36 turns, but suffer -4 AP for 360 "
+"turns afterwards."
+msgstr ""
+
+msgctxt "abilities/553"
+msgid ""
+"Throw to damage and inflict disease on everyone in the target area. But the "
+"memory will last a lifetime."
+msgstr ""
+
+msgctxt "abilities/554"
+msgid "Use to play a random song... and PARTY. DOWN."
+msgstr ""
+
+msgctxt "abilities/555"
+msgid ""
+"Deploy a robotic chicken follower that will run at enemies and self-destruct."
+msgstr ""
+
+msgctxt "abilities/556"
+msgid "Bayonet Slash"
+msgstr ""
+
+msgctxt "abilities/557"
+msgid ""
+"A powerful melee finishing move. Deals +100% damage to Bleeding targets."
+msgstr ""
+
+msgctxt "abilities/585"
+msgid ""
+"Fires an Assault Rifle attack that punctures through multiple enemies, "
+"hitting anyone in its path. Deals +100% damage vs. targets that are Stunned "
+"or have Damaged Armor."
+msgstr ""
