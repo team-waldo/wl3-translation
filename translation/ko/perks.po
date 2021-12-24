@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2021-12-25 07:24+0000\n"
-"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -60,15 +60,15 @@ msgstr ""
 
 msgctxt "perks/8"
 msgid "+1 AP for killing an enemy."
-msgstr ""
+msgstr "적 처치 시 AP +1."
 
 msgctxt "perks/9"
 msgid "No Quirk"
-msgstr ""
+msgstr "기벽 없음"
 
 msgctxt "perks/10"
 msgid "You are a relatively unexceptional person."
-msgstr ""
+msgstr "당신은 비교적 평범한 사람입니다."
 
 #, fuzzy
 msgctxt "perks/11"
@@ -81,6 +81,8 @@ msgid ""
 "nothing for your powers of persuasion, people are generally inclined to let "
 "you get your way just to get rid of you faster."
 msgstr ""
+"당신은 언제나 기분이 좋지 않습니다. 이런 특성은 당신에게 뛰어난 언변 실력을 주진 않지만, 사람들은 당장이라도 당신을 눈앞에서 "
+"치워버리고 싶은 마음에 당신이 하는 행동을 제지하지 않는 편입니다."
 
 #, fuzzy
 msgctxt "perks/13"
@@ -102,7 +104,7 @@ msgstr ""
 
 msgctxt "perks/15"
 msgid "Raised in the Circus"
-msgstr ""
+msgstr "서커스 출신"
 
 #, fuzzy
 msgctxt "perks/16"
@@ -123,7 +125,7 @@ msgstr ""
 
 msgctxt "perks/17"
 msgid "Animal Training"
-msgstr ""
+msgstr "동물 훈련"
 
 #, fuzzy
 msgctxt "perks/18"
