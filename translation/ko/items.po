@@ -1,128 +1,129 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-12-25 07:24+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "items/0"
 msgid " The first item text"
-msgstr ""
+msgstr " The first item text"
 
 msgctxt "items/1"
 msgid " Test Rifle"
-msgstr ""
+msgstr " Test Rifle"
 
 msgctxt "items/2"
 msgid " Test Handgun"
-msgstr ""
+msgstr " Test Handgun"
 
 msgctxt "items/3"
 msgid " Test Blunt Weapon"
-msgstr ""
+msgstr " Test Blunt Weapon"
 
 msgctxt "items/4"
 msgid " Test Sniper Rifle"
-msgstr ""
+msgstr " Test Sniper Rifle"
 
 msgctxt "items/5"
 msgid " Test Ranger Pants"
-msgstr ""
+msgstr " Test Ranger Pants"
 
 msgctxt "items/6"
 msgid " Test Ranger Shirt"
-msgstr ""
+msgstr " Test Ranger Shirt"
 
 msgctxt "items/7"
 msgid "9mm Ammo"
-msgstr ""
+msgstr "9mm 탄약"
 
 msgctxt "items/8"
 msgid "7.62mm Ammo"
-msgstr ""
+msgstr "7.62mm 탄약"
 
 msgctxt "items/9"
 msgid "Shotgun Shells"
-msgstr ""
+msgstr "샷건 셸"
 
 msgctxt "items/10"
 msgid ".45 Ammo"
-msgstr ""
+msgstr ".45 탄약"
 
 msgctxt "items/11"
 msgid ".30-06 Ammo"
-msgstr ""
+msgstr ".30-06 탄약"
 
 msgctxt "items/12"
 msgid " Test Shotgun"
-msgstr ""
+msgstr " Test Shotgun"
 
 msgctxt "items/13"
 msgid " Test SMG"
-msgstr ""
+msgstr " Test SMG"
 
 msgctxt "items/14"
 msgid " Test Rocket Launcher"
-msgstr ""
+msgstr " Test Rocket Launcher"
 
 msgctxt "items/15"
 msgid "Rocket"
-msgstr ""
+msgstr "로켓"
 
 msgctxt "items/16"
 msgid " Test Bladed Weapon"
-msgstr ""
+msgstr " Test Bladed Weapon"
 
 msgctxt "items/17"
 msgid " Test Grenade"
-msgstr ""
+msgstr " Test Grenade"
 
 msgctxt "items/18"
 msgid " Test Energy Weapon"
-msgstr ""
+msgstr " Test Energy Weapon"
 
 msgctxt "items/19"
 msgid "Energy Cells"
-msgstr ""
+msgstr "에너지 셀"
 
 msgctxt "items/20"
 msgid " Test Heavy Machine Gun"
-msgstr ""
+msgstr " Test Heavy Machine Gun"
 
 msgctxt "items/21"
 msgid "5.56mm Ammo"
-msgstr ""
+msgstr "5.56mm 탄약"
 
 msgctxt "items/22"
 msgid " Test Brawling Weapon"
-msgstr ""
+msgstr " Test Brawling Weapon"
 
 msgctxt "items/23"
 msgid "Test Light Armor"
-msgstr ""
+msgstr "Test Light Armor"
 
 msgctxt "items/24"
 msgid "Test Heavy Armor"
-msgstr ""
+msgstr "Test Heavy Armor"
 
 msgctxt "items/25"
 msgid "Fangs"
-msgstr ""
+msgstr "송곳니"
 
 msgctxt "items/26"
 msgid "Claws"
-msgstr ""
+msgstr "발톱"
 
 msgctxt "items/27"
 msgid "Spitfire"
-msgstr ""
+msgstr "스핏파이어"
 
 msgctxt "items/28"
 msgid ""
@@ -142,73 +143,73 @@ msgstr ""
 
 msgctxt "items/31"
 msgid " Test Quest Item"
-msgstr ""
+msgstr " Test Quest Item"
 
 msgctxt "items/32"
 msgid "Sturdy Key"
-msgstr ""
+msgstr "튼튼한 열쇠"
 
 msgctxt "items/33"
 msgid "Pressure Relief Valve"
-msgstr ""
+msgstr "압력 배출 밸브"
 
 msgctxt "items/34"
 msgid "This key is heavy and unpolished. It hasn't been used in a long time."
-msgstr ""
+msgstr "무겁고 더러운 열쇠입니다. 오랫동안 사용되지 않은 것 같습니다."
 
 msgctxt "items/35"
 msgid "A temperature pressure relief valve."
-msgstr ""
+msgstr "압력 배출 밸브입니다."
 
 msgctxt "items/36"
 msgid "Compressor"
-msgstr ""
+msgstr "압축기"
 
 msgctxt "items/37"
 msgid ""
 "An artifact from the distant past, capable of reducing the volume of air to "
 "increase its pressure."
-msgstr ""
+msgstr "먼 과거의 유물로, 기체의 부피를 줄여 압력을 높이는 장치입니다."
 
 msgctxt "items/38"
 msgid " A short description of a quest item."
-msgstr ""
+msgstr " A short description of a quest item."
 
 msgctxt "items/39"
 msgid " A longer description of a quest item."
-msgstr ""
+msgstr " A longer description of a quest item."
 
 msgctxt "items/40"
 msgid " Test Flamethrower"
-msgstr ""
+msgstr " Test Flamethrower"
 
 msgctxt "items/44"
 msgid " Detonator"
-msgstr ""
+msgstr " 기폭장치"
 
 msgctxt "items/45"
 msgid " A remote detonator."
-msgstr ""
+msgstr " 원격 기폭장치입니다."
 
 msgctxt "items/48"
 msgid "20mm Turret"
-msgstr ""
+msgstr "20mm 포탑"
 
 msgctxt "items/49"
 msgid "Elevator"
-msgstr ""
+msgstr "엘리베이터"
 
 msgctxt "items/50"
 msgid "Tongue"
-msgstr ""
+msgstr "혀"
 
 msgctxt "items/51"
 msgid " Rocket Turret"
-msgstr ""
+msgstr " 로켓 포탑"
 
 msgctxt "items/52"
 msgid "Flash Suppressor"
-msgstr ""
+msgstr "소염기"
 
 msgctxt "items/53"
 msgid "Underbarrel Light"
@@ -216,27 +217,27 @@ msgstr ""
 
 msgctxt "items/54"
 msgid "Melee Handle"
-msgstr ""
+msgstr "근접 무기 손잡이"
 
 msgctxt "items/55"
 msgid "Melee Weight"
-msgstr ""
+msgstr "근접 무기 무게추"
 
 msgctxt "items/56"
 msgid "Scope"
-msgstr ""
+msgstr "망원 조준경"
 
 msgctxt "items/57"
 msgid "Shotgun Choke"
-msgstr ""
+msgstr "샷건 초크"
 
 msgctxt "items/58"
 msgid "Silencer"
-msgstr ""
+msgstr "소음기"
 
 msgctxt "items/59"
 msgid "It makes flashes less flashy."
-msgstr ""
+msgstr "총구 섬광을 줄여줍니다."
 
 msgctxt "items/60"
 msgid "This basic underbarrel mod makes it easier to sight down targets."
@@ -244,7 +245,7 @@ msgstr ""
 
 msgctxt "items/61"
 msgid "Get a grip."
-msgstr ""
+msgstr "잡기 편합니다."
 
 msgctxt "items/62"
 msgid "You might not be more accurate, but you'll definitely hit harder."
@@ -252,7 +253,7 @@ msgstr ""
 
 msgctxt "items/63"
 msgid "See! The amazing abilities of magnified optics!"
-msgstr ""
+msgstr "보라! 이 놀라운 광학 조준경의 능력을!"
 
 msgctxt "items/64"
 msgid "In spite of the name, this actually helps you to <i>not</i> choke."
@@ -264,31 +265,31 @@ msgstr ""
 
 msgctxt "items/66"
 msgid "Barrel"
-msgstr ""
+msgstr "총열"
 
 msgctxt "items/67"
 msgid "Scope"
-msgstr ""
+msgstr "조준경"
 
 msgctxt "items/68"
 msgid "Under Barrel"
-msgstr ""
+msgstr "하부총열"
 
 msgctxt "items/69"
 msgid "Magazine"
-msgstr ""
+msgstr "탄창"
 
 msgctxt "items/70"
 msgid "Handle"
-msgstr ""
+msgstr "손잡이"
 
 msgctxt "items/71"
 msgid "Weight"
-msgstr ""
+msgstr "무게추"
 
 msgctxt "items/72"
 msgid "Choke"
-msgstr ""
+msgstr "초크"
 
 msgctxt "items/73"
 msgid " General Journal"
