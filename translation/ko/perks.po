@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2021-12-25 07:24+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-12-28 02:57+0000\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -179,63 +179,75 @@ msgctxt "perks/27"
 msgid "Antiques Appraiser"
 msgstr "골동품 감정사"
 
+#, fuzzy
 msgctxt "perks/28"
 msgid "Naturally, an item is worth a lot more in its original packaging..."
-msgstr ""
+msgstr "본디, 물건이란 때론 겉모습보다 더욱 값진 가치를 지니기도 한답니다..."
 
+#, fuzzy
 msgctxt "perks/29"
 msgid "Penny Pincher"
-msgstr ""
+msgstr "구두쇠"
 
+#, fuzzy
 msgctxt "perks/30"
 msgid ""
 "It's all on sale! You buy in bulk to get the best deals on the essentials."
-msgstr ""
+msgstr "할인 행사 진행 중! 당신은 필수품을 최상의 가격으로 구매하기 위해 대량구매를 하는 성격입니다."
 
+#, fuzzy
 msgctxt "perks/31"
 msgid "Five Finger Discount"
-msgstr ""
+msgstr "좀도둑질"
 
+#, fuzzy
 msgctxt "perks/32"
 msgid ""
 "Sometimes people don't wanna pay up. That's okay. You take your cut anyway."
-msgstr ""
+msgstr "우린 가끔 물건을 구매할 때 돈이 아깝다는 생각하기도 합니다. 괜찮아요. 당신은 알아서 잘 챙길 테니까요."
 
+#, fuzzy
 msgctxt "perks/33"
 msgid "Pursuit"
-msgstr ""
+msgstr "추격"
 
+#, fuzzy
 msgctxt "perks/34"
 msgid ""
 "With a blade, you're going to have to move fast and exploit every possible "
 "opening."
-msgstr ""
+msgstr "검을 들기로 결심했다면, 당신은 재빠르게 움직여 모든 경우의 수를 파악해 나아가야만 합니다."
 
 msgctxt "perks/35"
 msgid "Relentless"
 msgstr ""
 
+#, fuzzy
 msgctxt "perks/36"
 msgid ""
 "If you attack the same target three times in a row, on the third attack, you "
 "automatically make a free bonus attack directly after the third."
-msgstr ""
+msgstr "동일한 목표를 총 세 번 연속 공격하면, 마지막 세 번째 공격을 실행할 때 자동으로 추가 공격이 즉시 발동합니다."
 
+#, fuzzy
 msgctxt "perks/37"
 msgid "Hack 'N' Slash"
-msgstr ""
+msgstr "핵 '앤' 슬래시"
 
+#, fuzzy
 msgctxt "perks/38"
 msgid "You couldn't stop yourself if you wanted to."
-msgstr ""
+msgstr "멈추고 싶어도 멈출 수 없을 겁니다."
 
+#, fuzzy
 msgctxt "perks/39"
 msgid "Shrug It Off"
-msgstr ""
+msgstr "둔감함"
 
+#, fuzzy
 msgctxt "perks/40"
 msgid "The bigger the crowd, the harder it will be for them to hit you."
-msgstr ""
+msgstr "군중의 수가 많아질수록, 적은 당신을 공격하기 힘들어질 것입니다."
 
 msgctxt "perks/41"
 msgid "Ferocious Combo"
@@ -248,92 +260,117 @@ msgid ""
 "per level."
 msgstr ""
 
+#, fuzzy
 msgctxt "perks/43"
 msgid "Bloodsport"
-msgstr ""
+msgstr "유혈 스포츠"
 
+#, fuzzy
 msgctxt "perks/44"
 msgid "It's like tee ball, but with more skull fragments."
-msgstr ""
+msgstr "이건 티볼 같은 스포츠일 뿐입니다, 뼛조각이 날아다니는 것만 빼면 말이죠."
 
+#, fuzzy
 msgctxt "perks/45"
 msgid "Electric Leakage"
-msgstr ""
+msgstr "전류 방출"
 
+#, fuzzy
 msgctxt "perks/46"
 msgid "This may void the warranty on your robot's power supply."
-msgstr ""
+msgstr "소지하고 있는 로봇의 전원 공급 장치 보증에 불이익이 생길 수 있습니다."
 
+#, fuzzy
 msgctxt "perks/47"
 msgid "Overclock"
-msgstr ""
+msgstr "오버클럭"
 
+#, fuzzy
 msgctxt "perks/48"
 msgid "Crank that x86 clock up to 66 MHz and then LOOK OUT!"
-msgstr ""
+msgstr "이제 x86 클럭을 66 MHz로 올리겠습니다, 다치지 않게 조심하세요!"
 
+#, fuzzy
 msgctxt "perks/49"
 msgid "Targeting Override"
-msgstr ""
+msgstr "타겟 재지정"
 
+#, fuzzy
 msgctxt "perks/50"
 msgid "Override side effect: all bleeps are permanently replaced with bloops."
-msgstr ""
+msgstr "재지정의 부작용으로, 영구히 로봇이 내는 작동 소리가 삐릿에서 빠릿하게 바뀝니다."
 
+#, fuzzy
 msgctxt "perks/51"
 msgid "Blast Radius"
-msgstr ""
+msgstr "광범위 폭파"
 
+#, fuzzy
 msgctxt "perks/52"
 msgid ""
 "Maximizing blast radii is all about math and optimizing detonations. But to "
 "regular people it's just \"filling the room with more kaboom.\""
 msgstr ""
+"폭발의 범위를 늘리는 위해선 최적하고 정확하게 폭발을 계산해야 합니다. 하지만 보통의 사람들은 이 철저한 수학을 보며 이렇게 말합니다. "
+"\"대충 콰광 하는 것들을 꾹꾹 눌러 담은 거잖아.\""
 
+#, fuzzy
 msgctxt "perks/53"
 msgid "Bomb Recovery"
-msgstr ""
+msgstr "폭탄 회수"
 
+#, fuzzy
 msgctxt "perks/54"
 msgid "If you know what you're doing, enemy ordnance is just another tool."
-msgstr ""
+msgstr "적과의 싸움에서 무엇이 필요한 행동인지 정확히 알고 있다면, 적의 무기는 나의 도구일 뿐입니다."
 
+#, fuzzy
 msgctxt "perks/55"
 msgid "Duck and Cover"
-msgstr ""
+msgstr "감싸고 엎드리기"
 
+#, fuzzy
 msgctxt "perks/56"
 msgid ""
 "There's a famous two-step defense against oncoming fireballs, and no one "
 "actually does it."
 msgstr ""
+"예로부터 저 멀리 불덩이가 날아올 때 나 자신을 보호하기 위해 실행하는 유명한 행동지침이 하나 있습니다. 그 누구도 실제 행동으로 옮기는 "
+"걸 본 적은 없지만요."
 
+#, fuzzy
 msgctxt "perks/57"
 msgid "Minesweeper"
-msgstr ""
+msgstr "지뢰청소부"
 
+#, fuzzy
 msgctxt "perks/58"
 msgid "You no longer set off mines when walking over them."
-msgstr ""
+msgstr "이제 지뢰를 밟더라도 지뢰가 터지지 않습니다."
 
+#, fuzzy
 msgctxt "perks/59"
 msgid "Trigger Happy"
-msgstr ""
+msgstr "발사광"
 
 msgctxt "perks/60"
 msgid "Once they pop, you just can't stop."
 msgstr ""
 
+#, fuzzy
 msgctxt "perks/61"
 msgid "Microwave Research"
-msgstr ""
+msgstr "마이크로파 공학"
 
+#, fuzzy
 msgctxt "perks/62"
 msgid ""
 "After sticking a lot of silverware in a lot of microwaves, you’ve figured "
 "out how to weaponize the excitement of matter - and you’ve ruined all your "
 "silverware."
 msgstr ""
+"당신은 마이크로파를 연구하기 위해 금속 식기를 전자레인지에 수없이 넣은 결과, 드디어 이 흥미로운 파장을 무기화하는 데에 성공했습니다. "
+"물론 집에 있던 식기들은 전부 못쓰게 됐지만요."
 
 msgctxt "perks/63"
 msgid "Conductive Beams"
