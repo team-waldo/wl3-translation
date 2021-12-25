@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2021-12-28 02:57+0000\n"
-"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -218,9 +218,10 @@ msgid ""
 "opening."
 msgstr "검을 들기로 결심했다면, 당신은 재빠르게 움직여 모든 경우의 수를 파악해 나아가야만 합니다."
 
+#, fuzzy
 msgctxt "perks/35"
 msgid "Relentless"
-msgstr ""
+msgstr "집요함"
 
 #, fuzzy
 msgctxt "perks/36"
@@ -353,9 +354,10 @@ msgctxt "perks/59"
 msgid "Trigger Happy"
 msgstr "발사광"
 
+#, fuzzy
 msgctxt "perks/60"
 msgid "Once they pop, you just can't stop."
-msgstr ""
+msgstr "한번 쏘기 시작하면 도무지 멈출수가 없습니다."
 
 #, fuzzy
 msgctxt "perks/61"
