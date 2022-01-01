@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-02 13:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "perks/94"
 msgid "Weapon experts just know what to look for when they find a gun."
-msgstr ""
+msgstr "무기 전문가들은 어디를 살펴봐야 무기를 찾을 수 있는지 본능적으로 알 수 있습니다."
 
 msgctxt "perks/95"
 msgid "Quick Reflexes"
@@ -562,15 +562,15 @@ msgstr "속도는 전투의 핵심 요소입니다. 쉬지 않고 진격하면 �
 
 msgctxt "perks/103"
 msgid "Safecracking"
-msgstr ""
+msgstr "금고따기"
 
 msgctxt "perks/104"
 msgid "You can now pick the locks on safes."
-msgstr ""
+msgstr "이제 금고의 자물쇠를 딸 수 있습니다."
 
 msgctxt "perks/105"
 msgid "Emergency Response"
-msgstr ""
+msgstr "긴급 대응"
 
 msgctxt "perks/106"
 msgid ""
@@ -588,7 +588,7 @@ msgstr ""
 
 msgctxt "perks/109"
 msgid "Hypocritic Oath"
-msgstr ""
+msgstr "히포크라테스 선서"
 
 msgctxt "perks/110"
 msgid "First, do no harm. Then go forth and kick ass."
@@ -596,7 +596,7 @@ msgstr ""
 
 msgctxt "perks/111"
 msgid "Overhealing"
-msgstr ""
+msgstr "과다치유"
 
 msgctxt "perks/112"
 msgid "Patch 'em up and give 'em a little something for the road."
@@ -604,7 +604,7 @@ msgstr "치료도 해주고 여정에 도움이 될 만한 자그마한 선물�
 
 msgctxt "perks/113"
 msgid "Physical Therapy"
-msgstr ""
+msgstr "물리 치료"
 
 msgctxt "perks/114"
 msgid ""
@@ -624,7 +624,7 @@ msgstr ""
 
 msgctxt "perks/117"
 msgid "Big Game Hunter"
-msgstr ""
+msgstr "대물 사냥꾼"
 
 msgctxt "perks/118"
 msgid "Tip: this also works on small, defenseless animals."
@@ -632,7 +632,7 @@ msgstr "힌트: 해당 특성은 작고 무해한 동물에도 적용됩니다."
 
 msgctxt "perks/119"
 msgid "Explorer's Instinct"
-msgstr ""
+msgstr "탐험가의 직감"
 
 msgctxt "perks/120"
 msgid ""
@@ -642,7 +642,7 @@ msgstr "야생에서 오랜 시간을 보내다 보면 도시 촌놈들이 중�
 
 msgctxt "perks/121"
 msgid "Clear Cover"
-msgstr ""
+msgstr "엄폐물 처리"
 
 #, fuzzy
 msgctxt "perks/122"
@@ -653,7 +653,7 @@ msgstr "산탄총이 엄폐물에 +50%의 추가 피해를 줍니다. 엄폐물�
 
 msgctxt "perks/123"
 msgid "Devastation"
-msgstr ""
+msgstr "황폐화"
 
 msgctxt "perks/124"
 msgid "Pack them all together, then unleash the thunder."
@@ -671,7 +671,7 @@ msgstr ""
 
 msgctxt "perks/127"
 msgid "Concentration"
-msgstr ""
+msgstr "집중"
 
 msgctxt "perks/128"
 msgid ""
@@ -709,7 +709,7 @@ msgstr ""
 
 msgctxt "perks/135"
 msgid "Combat Senses"
-msgstr ""
+msgstr "전투 감각"
 
 msgctxt "perks/136"
 msgid "Gain +25% Evasion while you are Flanking an enemy."
@@ -744,35 +744,35 @@ msgstr "당신은 아침 식사를 절대 남기지 않습니다."
 
 msgctxt "perks/143"
 msgid "Heating Element"
-msgstr ""
+msgstr "열선"
 
 msgctxt "perks/144"
 msgid "Toasters have taught you a lot about thermodynamics."
-msgstr ""
+msgstr "토스터를 수리하면서 열역학을 깨우쳤습니다."
 
 msgctxt "perks/145"
 msgid "Toaster Expert"
-msgstr ""
+msgstr "토스터 전문가"
 
 msgctxt "perks/146"
 msgid ""
 "Putting a toaster back together is like putting a piece of the pre-war world "
 "back together."
-msgstr ""
+msgstr "토스터를 수리하는 것은 전쟁 전 시대의 잔재를 복구하는 것과 비슷합니다."
 
 msgctxt "perks/147"
 msgid "Toasty"
-msgstr ""
+msgstr "바삭하게"
 
 msgctxt "perks/148"
 msgid ""
 "No amount of butter-knife scraping is going to help your enemies once you're "
 "through."
-msgstr ""
+msgstr "적들이 너무 바싹 구워져서 버터나이프로 아무리 긁어내도 소용이 없을 겁니다."
 
 msgctxt "perks/149"
 msgid "Expert Disassembler"
-msgstr ""
+msgstr "분해 전문가"
 
 msgctxt "perks/150"
 msgid ""
@@ -841,7 +841,7 @@ msgstr ""
 
 msgctxt "perks/164"
 msgid "Pyromaniac"
-msgstr ""
+msgstr "방화광"
 
 msgctxt "perks/165"
 msgid ""
@@ -849,6 +849,8 @@ msgid ""
 "level. Your love for the flame is an obsession that sometimes... "
 "<i>backfires?</i>"
 msgstr ""
+"대부분의 콜로라도 사람들은 따뜻한 걸 좋아하지만, 당신은 좀 과합니다. 불꽃에 대한 사랑이 너무 큰 나머지, 스스로 불타 버릴지도 "
+"모릅니다."
 
 msgctxt "perks/166"
 msgid "Way of the Squeezins"
