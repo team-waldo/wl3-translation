@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2021-12-28 02:57+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2022-01-02 13:57+0000\n"
+"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -250,16 +250,20 @@ msgctxt "perks/40"
 msgid "The bigger the crowd, the harder it will be for them to hit you."
 msgstr "군중의 수가 많아질수록, 적은 당신을 공격하기 힘들어질 것입니다."
 
+#, fuzzy
 msgctxt "perks/41"
 msgid "Ferocious Combo"
-msgstr ""
+msgstr "흉악함"
 
+#, fuzzy
 msgctxt "perks/42"
 msgid ""
 "Increases the bonuses of Combo strikes. Combo now builds +2% Critical Chance "
 "and +4% Critical Damage per level, and also builds +0.1 Movement Distance "
 "per level."
 msgstr ""
+"연계 공격에 추가효과가 적용됩니다. 해당 특성을 가지고 있을 경우 치명타 확률이 +2% 증가하며 레벨당 치명타 피해가 +4% 증가합니다. "
+"또한 레벨당 이동거리가 +0.1 증가합니다."
 
 #, fuzzy
 msgctxt "perks/43"
@@ -376,89 +380,99 @@ msgstr ""
 
 msgctxt "perks/63"
 msgid "Conductive Beams"
-msgstr ""
+msgstr "전도성 광선"
 
 msgctxt "perks/64"
 msgid "It feels good to melt people with solid scientific principles."
-msgstr ""
+msgstr "과학적 원리를 활용해 누군가를 녹이는 것은 언제나 기분 좋은 일이죠."
 
 msgctxt "perks/65"
 msgid "Double Impact"
-msgstr ""
+msgstr "과잉 화력"
 
 msgctxt "perks/66"
 msgid ""
 "One random bullet in every one of your Handgun clips is overpressurized, and "
 "deals double damage."
-msgstr ""
+msgstr "권총의 탄창에 장전된 탄약 중 한 발을 두 배의 피해를 줄 수 있는 강력한 탄약으로 바꿔줍니다."
 
 msgctxt "perks/67"
 msgid "Counter-Offensive"
-msgstr ""
+msgstr "앙갚음"
 
 msgctxt "perks/68"
 msgid "Don't bring a knife to a gunfight."
-msgstr ""
+msgstr "총싸움에 칼이 웬말인가요."
 
+#, fuzzy
 msgctxt "perks/69"
 msgid "Draw!"
-msgstr ""
+msgstr "드로우!"
 
 msgctxt "perks/70"
 msgid ""
 "In a firefight, every second matters. Hit 'em before they know what happened."
-msgstr ""
+msgstr "총격전에서는 일분일초가 소중합니다. 적이 알아차리기도 전에 쏘는 것이 중요하죠."
 
+#, fuzzy
 msgctxt "perks/71"
 msgid "High Impact"
-msgstr ""
+msgstr "고화력"
 
+#, fuzzy
 msgctxt "perks/72"
 msgid "It's fun to have a weapon that can make the enemy disappear entirely."
-msgstr ""
+msgstr "적을 사라지게 만들 수 있는 무기를 사용하는 것은 즐거운 일입니다."
 
+#, fuzzy
 msgctxt "perks/73"
 msgid "Immobilizing Burst"
-msgstr ""
+msgstr "제압사격"
 
 msgctxt "perks/74"
 msgid "Targets hit by Heavy Machine Guns have a 25% chance of being Slowed."
-msgstr ""
+msgstr "중기관총에 피해 입은 적은 25%의 확률 느려짐 효과를 받습니다."
 
+#, fuzzy
 msgctxt "perks/75"
 msgid "Steady Shot"
-msgstr ""
+msgstr "안정된 사격"
 
+#, fuzzy
 msgctxt "perks/76"
 msgid "If you hunker down, even a heavy MG can be tamed."
-msgstr ""
+msgstr "안정된 자세로 사격한다면 중기관총의 반동 또한 조절할 수 있습니다."
 
+#, fuzzy
 msgctxt "perks/77"
 msgid "Terrorizer"
-msgstr ""
+msgstr "난장판"
 
+#, fuzzy
 msgctxt "perks/78"
 msgid ""
 "Remember that kid who always tried to fry bugs with a magnifying glass? "
 "Yeah, that was you."
-msgstr ""
+msgstr "운동장 구석에서 돋보기로 벌레를 태우는 친구가 한 명은 꼭 있었죠. 네, 바로 당신이 그 사람입니다."
 
 msgctxt "perks/79"
 msgid "Fortify"
-msgstr ""
+msgstr "장갑 강화"
 
+#, fuzzy
 msgctxt "perks/80"
 msgid ""
 "Upon repairing player vehicle or friendly robots, it gets a temporary buff."
-msgstr ""
+msgstr "플레이어의 차량이나 동료 로봇이 수리를 받으면 일시적인 추가 효과를 받습니다."
 
 msgctxt "perks/81"
 msgid "Reinforced Plating"
-msgstr ""
+msgstr "보강된 장갑판"
 
+#, fuzzy
 msgctxt "perks/82"
 msgid "Adapting hardware for combat is a true wasteland tradition."
-msgstr ""
+msgstr "장비를 전투용으로 개조하는 것은 웨이스트랜드의 전통입니다."
 
 msgctxt "perks/83"
 msgid "Repair Cover"
@@ -470,37 +484,38 @@ msgstr ""
 
 msgctxt "perks/85"
 msgid "Structural Weakness"
-msgstr ""
+msgstr "구조적 약점"
 
 msgctxt "perks/86"
 msgid "If you can put 'em together, you can take 'em apart."
-msgstr ""
+msgstr "조립이 가능하다면 분해 또한 가능하겠죠."
 
 msgctxt "perks/87"
 msgid "Hardened"
-msgstr ""
+msgstr "튼튼함"
 
+#, fuzzy
 msgctxt "perks/88"
 msgid "You eat bullets for breakfast."
-msgstr ""
+msgstr "당신에게 총알은 아침 식사에 불과합니다."
 
 msgctxt "perks/89"
 msgid "Healthy"
-msgstr ""
+msgstr "건강함"
 
 msgctxt "perks/90"
 msgid "Take care of your body and your body will take care of you."
-msgstr ""
+msgstr "당신의 몸을 잘 챙기면 몸이 당신을 잘 챙겨줄 것입니다."
 
 msgctxt "perks/91"
 msgid "Deep Pockets"
-msgstr ""
+msgstr "깊은 주머니"
 
 msgctxt "perks/92"
 msgid ""
 "If anyone asks where you stow all your stuff, maybe it's better if you don't "
 "tell them."
-msgstr ""
+msgstr "만약 당신이 그 많은 물건을 어디에 숨겨두냐는 질문을 받는다면 대답하지 않는 것이 더 나을 수도 있습니다."
 
 msgctxt "perks/93"
 msgid "Powder Packer"
@@ -512,19 +527,20 @@ msgstr ""
 
 msgctxt "perks/95"
 msgid "Quick Reflexes"
-msgstr ""
+msgstr "빠른 반사신경"
 
 msgctxt "perks/96"
 msgid "Sometimes you feel like you can almost see things before they happen."
-msgstr ""
+msgstr "당신은 종종 생각하기도 전에 몸이 반응하곤 합니다."
 
+#, fuzzy
 msgctxt "perks/97"
 msgid "Wide Spread"
-msgstr ""
+msgstr "광각 사격"
 
 msgctxt "perks/98"
 msgid "More gain, more pain."
-msgstr ""
+msgstr "더 넓게, 더 고통스럽게"
 
 msgctxt "perks/99"
 msgid "Weathered"
@@ -532,17 +548,17 @@ msgstr ""
 
 msgctxt "perks/100"
 msgid "After a few bumps and bruises, you stop feelin' the pain so much."
-msgstr ""
+msgstr "이곳저곳 부딪히고 멍들었던 당신의 몸은 고통에 둔감해졌습니다."
 
 msgctxt "perks/101"
 msgid "Stormer"
-msgstr ""
+msgstr "돌격병"
 
 msgctxt "perks/102"
 msgid ""
 "Combat is all about momentum. Keep pushing forward and you'll punch right "
 "through."
-msgstr ""
+msgstr "속도는 전투의 핵심 요소입니다. 쉬지 않고 진격하면 적을 돌파할 수 있죠."
 
 msgctxt "perks/103"
 msgid "Safecracking"
@@ -560,7 +576,7 @@ msgctxt "perks/106"
 msgid ""
 "You'd do anything for the team. If one of them goes down, you leap into "
 "action."
-msgstr ""
+msgstr "당신은 팀원을 위해서라면 무엇이든 하는 사람입니다. 누군가에게 도움이 필요하다면 언제든지 달려가죠."
 
 msgctxt "perks/107"
 msgid "Fine Forager"
@@ -584,7 +600,7 @@ msgstr ""
 
 msgctxt "perks/112"
 msgid "Patch 'em up and give 'em a little something for the road."
-msgstr ""
+msgstr "치료도 해주고 여정에 도움이 될 만한 자그마한 선물도 줍니다."
 
 msgctxt "perks/113"
 msgid "Physical Therapy"
@@ -612,7 +628,7 @@ msgstr ""
 
 msgctxt "perks/118"
 msgid "Tip: this also works on small, defenseless animals."
-msgstr ""
+msgstr "힌트: 해당 특성은 작고 무해한 동물에도 적용됩니다."
 
 msgctxt "perks/119"
 msgid "Explorer's Instinct"
@@ -622,17 +638,18 @@ msgctxt "perks/120"
 msgid ""
 "Once you've spent enough time in the wild, you start to get a sense of where "
 "dumb city folk stash their valuables."
-msgstr ""
+msgstr "야생에서 오랜 시간을 보내다 보면 도시 촌놈들이 중요한 물건을 어디에 숨겨놓는지 직감할 수 있게 됩니다."
 
 msgctxt "perks/121"
 msgid "Clear Cover"
 msgstr ""
 
+#, fuzzy
 msgctxt "perks/122"
 msgid ""
 "Shotgun attacks deal +50% Damage vs. Cover. If the attack destroys Cover "
 "enemies are behind, then any enemies who were taking cover are Slowed."
-msgstr ""
+msgstr "산탄총이 엄폐물에 +50%의 추가 피해를 줍니다. 엄폐물이 파괴되면 엄폐물 뒤에 숨어있던 적이 느려짐 효과를 받습니다."
 
 msgctxt "perks/123"
 msgid "Devastation"
@@ -640,7 +657,7 @@ msgstr ""
 
 msgctxt "perks/124"
 msgid "Pack them all together, then unleash the thunder."
-msgstr ""
+msgstr "한곳에 몰아넣은 다음 방아쇠를 당기세요."
 
 msgctxt "perks/125"
 msgid "Flush 'Em Out"
@@ -659,29 +676,30 @@ msgstr ""
 msgctxt "perks/128"
 msgid ""
 "Stop. Become about just one action. Wait for your moment, and make it count."
-msgstr ""
+msgstr "숨을 멈추고 하나의 행동에 집중하세요. 올바른 때를 기다렸다 신중하게 방아쇠를 당기세요."
 
 msgctxt "perks/129"
 msgid "Chain Ambush"
-msgstr ""
+msgstr "연속 기습"
 
+#, fuzzy
 msgctxt "perks/130"
 msgid ""
 "You watch the battlefield like a hawk. Nothing gets by you without a hole in "
 "its head."
-msgstr ""
+msgstr "매의 눈으로 전장을 바라보세요. 당신의 눈에 들어온 모든 사람의 머리에는 총알구멍이 생길 것입니다."
 
 msgctxt "perks/131"
 msgid "Masterful Precision"
-msgstr ""
+msgstr "뛰어난 정밀도"
 
 msgctxt "perks/132"
 msgid "You are a surgeon, and your sniper rifle is your instrument."
-msgstr ""
+msgstr "당신은 외과 의사입니다. 그리고 저격총은 당신의 수술 도구죠."
 
 msgctxt "perks/133"
 msgid "Gopher Hunter"
-msgstr ""
+msgstr "두더지 사냥꾼"
 
 msgctxt "perks/134"
 msgid ""
@@ -718,11 +736,11 @@ msgstr ""
 
 msgctxt "perks/141"
 msgid "Breakfast Bandit"
-msgstr ""
+msgstr "아침식사 약탈꾼"
 
 msgctxt "perks/142"
 msgid "You never let a morning meal go to waste."
-msgstr ""
+msgstr "당신은 아침 식사를 절대 남기지 않습니다."
 
 msgctxt "perks/143"
 msgid "Heating Element"
@@ -760,65 +778,66 @@ msgctxt "perks/150"
 msgid ""
 "Strip it down to the screws, and then keep those, because even screws are "
 "valuable."
-msgstr ""
+msgstr "마지막 나사까지 전부 분해하고 챙기세요. 작은 나사 하나하나 모두 소중하기 때문이죠."
 
 msgctxt "perks/151"
 msgid "Tender Loving Care"
-msgstr ""
+msgstr "정성스러운 관리"
 
 msgctxt "perks/152"
 msgid ""
 "It's amazing what armor can do when you fix the bullet holes once in a while."
-msgstr ""
+msgstr "방어구에 생긴 총알구멍을 가끔 수리해주면 정말 놀라운 효과를 볼 수 있습니다."
 
 msgctxt "perks/153"
 msgid "Scrounger's Touch"
-msgstr ""
+msgstr "거지근성"
 
 msgctxt "perks/154"
 msgid "You never know what you're going to find when you take a weapon apart."
-msgstr ""
+msgstr "무기를 분해했을 때 무엇을 얻게 될지 아무도 모릅니다."
 
 msgctxt "perks/155"
 msgid "Ability Perk"
-msgstr ""
+msgstr "능력 특성"
 
 msgctxt "perks/156"
 msgid "Tuned Up"
-msgstr ""
+msgstr "조율 완료"
 
 msgctxt "perks/157"
 msgid "Ralphy's been able to get your weapons working better than ever."
-msgstr ""
+msgstr "랄피는 지금까지 당신의 무기가 잘 작동하도록 관리해줬습니다."
 
 msgctxt "perks/158"
 msgid "Biotech Serum"
-msgstr ""
+msgstr "생명공학 혈청"
 
 msgctxt "perks/159"
 msgid ""
 "Megan Silver provided you something to put a little spring in your step."
-msgstr ""
+msgstr "메건 실버는 당신의 발걸음을 가볍게 만들어줄 만한 무언가를 제공합니다."
 
 msgctxt "perks/160"
 msgid "Vehicular Combat"
-msgstr ""
+msgstr "차량 전투"
 
 msgctxt "perks/161"
 msgid ""
 "Randy Gett's mechanical insight gave you some ideas about how you can best "
 "take out enemy vehicles."
-msgstr ""
+msgstr "랜디 겟의 기계에 대한 통찰력 덕분에 당신은 어떻게 해야 적의 차량에 수월하게 대항할 수 있는지 알게 되었습니다."
 
 msgctxt "perks/162"
 msgid "Lone Wolf"
-msgstr ""
+msgstr "외로운 늑대"
 
 msgctxt "perks/163"
 msgid ""
 "When you were on your own, only your reflexes kept you alive. Now you've got "
 "allies, but you still gotta go your own way."
 msgstr ""
+"당신이 혼자 있을 때 믿을 만한 건 당신의 반사신경뿐이었습니다. 비록 지금은 동맹이 있지만, 당신은 여전히 혼자 행동할 것입니다."
 
 msgctxt "perks/164"
 msgid "Pyromaniac"
@@ -833,7 +852,7 @@ msgstr ""
 
 msgctxt "perks/166"
 msgid "Way of the Squeezins"
-msgstr ""
+msgstr "스퀴진 주도가"
 
 msgctxt "perks/167"
 msgid ""
@@ -841,30 +860,35 @@ msgid ""
 "the form stagger unpredictably and strike with wild rage. They are not, "
 "however, popular neighbors."
 msgstr ""
+"웨이스트랜드에서는 다양한 종류의 취권이 생겨났습니다. 이 무술의 전문가들은 비틀거리는 움직임으로 예상치 못한 공격을 맹렬하게 하죠. "
+"하지만 그들은 이웃 사람들에게 그다지 인기 있는 사람은 아닙니다."
 
 msgctxt "perks/168"
 msgid "Blunderer"
-msgstr ""
+msgstr "얼간이"
 
 msgctxt "perks/169"
 msgid ""
 "People like teasing you about \"dumb strength\" and the \"smart application "
 "of force\". You like squeezing those people until one of their bones breaks."
 msgstr ""
+"사람들은 당신의 \"무식하게 강한 힘\"과 \"힘을 잘 쓰는 방법\"에 대해 당신을 놀리는 것을 좋아합니다. 그리고 당신은 그런 사람들의 "
+"뼈가 가루가 될 때까지 으깨는 것을 좋아하죠."
 
 msgctxt "perks/170"
 msgid "Poindexter"
-msgstr ""
+msgstr "책벌레"
 
 msgctxt "perks/171"
 msgid ""
 "This might be the worst period in history to be a physically-underdeveloped "
 "brainiac, but knowledge will always be power."
 msgstr ""
+"어쩌면 지금은 역사상 육체적으로 빈약한 몸을 가지기 가장 안 좋은 시기일 수도 있습니다. 하지만 지식은 언제나 힘이 될 것입니다."
 
 msgctxt "perks/172"
 msgid "Prospector"
-msgstr ""
+msgstr "탐광자"
 
 msgctxt "perks/173"
 msgid ""
@@ -872,10 +896,12 @@ msgid ""
 "a pick or a pan along with, so long as you keep fishin' up them yella "
 "nuggets!"
 msgstr ""
+"이런 맙소사! 당신, 금광열이 올랐군요! 당신이 계속해서 그 누런 금 조각을 꺼내준다면 사람들은 당신이 곡괭이와 접시를 들고 다니는 것을 "
+"신경 쓰지 않을 것입니다!"
 
 msgctxt "perks/174"
 msgid "Animal Lover"
-msgstr ""
+msgstr "동물 애호가"
 
 msgctxt "perks/175"
 msgid ""
@@ -883,10 +909,13 @@ msgid ""
 "you. However, you're often so attached to them that you are overcome with "
 "severe emotional distress any time you're separated from your animal."
 msgstr ""
+"당신은 삶의 많은 부분을 동물에 헌신했습니다. 당신은 동물을 사랑하고 동물도 당신을 사랑하죠. 하지만 당신은 동물에 너무나도 집착한 "
+"나머지 당신의 동물과 함께 있지 않으면 심각한 정신적 고통에 시달리곤 합니다."
 
+#, fuzzy
 msgctxt "perks/176"
 msgid "Doomsday Prepper"
-msgstr ""
+msgstr "종말에 대비하라"
 
 msgctxt "perks/177"
 msgid ""
