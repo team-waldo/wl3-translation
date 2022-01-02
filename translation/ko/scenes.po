@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-03 14:57+0000\n"
-"Last-Translator: cosgenio <cosgenio@gmail.com>\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -379,7 +379,7 @@ msgstr ""
 
 msgctxt "scenes/110"
 msgid "Scorpitron"
-msgstr ""
+msgstr "스콜피트론"
 
 msgctxt "scenes/111"
 msgid "Hoon Homestead"
@@ -492,11 +492,12 @@ msgstr ""
 
 msgctxt "scenes/140"
 msgid "Eastern Plains"
-msgstr ""
+msgstr "동부 평야"
 
+#, fuzzy
 msgctxt "scenes/141"
 msgid "Yuma County"
-msgstr ""
+msgstr "유마 카운티(임시)"
 
 msgctxt "scenes/142"
 msgid "Warrens East"
