@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-02 13:57+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2022-01-03 14:57+0000\n"
+"Last-Translator: cosgenio <cosgenio@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -765,9 +765,10 @@ msgid ""
 "Are you sure you want to load this game? You will lose any unsaved changes."
 msgstr "이 파일을 불러오시겠습니까? 저장하지 않은 변경사항들을 잃게 됩니다."
 
+#, fuzzy
 msgctxt "gui/186"
 msgid "Sign-in change detected. Returning to main menu."
-msgstr ""
+msgstr "서명 변경이 탐지되었습니다. 메인 메뉴로 돌아갑니다."
 
 msgctxt "gui/187"
 msgid "Please reconnect your controller."
@@ -3441,41 +3442,42 @@ msgstr "기술 책"
 
 msgctxt "gui/820"
 msgid "Animal Tamed"
-msgstr ""
+msgstr "길들인 동물"
 
 msgctxt "gui/821"
 msgid "Dam Facilities"
-msgstr ""
+msgstr "댐 시설"
 
 msgctxt "gui/822"
 msgid "<color=#5b6a6f>[{0}]</color>"
-msgstr ""
+msgstr "<color=#5b6a6f>[{0}]</color>"
 
 msgctxt "gui/823"
 msgid "Permanently increases {0} by {1}."
-msgstr ""
+msgstr "{0} 가 {1} 만큼 영구적으로 증가함."
 
 msgctxt "gui/824"
 msgid "Can only be used once."
-msgstr ""
+msgstr "한번만 사용 될 수 있습니다."
 
 msgctxt "gui/825"
 msgid "Light Armor"
-msgstr ""
+msgstr "경갑"
 
 msgctxt "gui/826"
 msgid "Heavy Armor"
-msgstr ""
+msgstr "중갑"
 
 msgctxt "gui/827"
 msgid "{0} ({1} AP)"
-msgstr ""
+msgstr "{0} ({1} 행동력)"
 
+#, fuzzy
 msgctxt "gui/828"
 msgid ""
 "To keep your new recruits loyal to the Ranger cause, you will have to "
 "maintain the reputation of the organization in Colorado."
-msgstr ""
+msgstr "새로운 신병들이 레인저의 대의에 대한 충성심을 유지하도록 하려면 콜로라도에서 조직의 평판을 유지해야 합니다."
 
 msgctxt "gui/829"
 msgid ""
@@ -3486,51 +3488,51 @@ msgstr ""
 
 msgctxt "gui/830"
 msgid "{0} wants to trade with you."
-msgstr ""
+msgstr "{0} 이(가) 당신과 거래하기를 원합니다."
 
 msgctxt "gui/831"
 msgid "Accept"
-msgstr ""
+msgstr "수락"
 
 msgctxt "gui/832"
 msgid "Deny"
-msgstr ""
+msgstr "거부"
 
 msgctxt "gui/833"
 msgid "<color={1}>{0}</color> Healing"
-msgstr ""
+msgstr "<color={1}>{0}</color> 치유"
 
 msgctxt "gui/834"
 msgid "<color={2}>{0}-{1}</color> Healing"
-msgstr ""
+msgstr "<color={2}>{0}-{1}</color> 치유"
 
 msgctxt "gui/835"
 msgid "On Use:"
-msgstr ""
+msgstr "사용 시:"
 
 msgctxt "gui/836"
 msgid "On Success:"
-msgstr ""
+msgstr "성공 시:"
 
 msgctxt "gui/837"
 msgid "On Failure:"
-msgstr ""
+msgstr "실패 시:"
 
 msgctxt "gui/838"
 msgid "Applies {0}"
-msgstr ""
+msgstr "{0} 적용"
 
 msgctxt "gui/839"
 msgid "Removes {0}"
-msgstr ""
+msgstr "{0} 제거"
 
 msgctxt "gui/840"
 msgid "<color={1}>Ammo Capacity:</color> {0}"
-msgstr ""
+msgstr "<color={1}>탄약 용량:</color> {0}"
 
 msgctxt "gui/841"
 msgid "{0}% chance to crit (x{1})"
-msgstr ""
+msgstr "치명타 확률 {0}% (x{1})"
 
 msgctxt "gui/842"
 msgid "{0}% chance to apply {1}"
@@ -3542,23 +3544,23 @@ msgstr ""
 
 msgctxt "gui/844"
 msgid "1 second remaining."
-msgstr ""
+msgstr "1초 남음."
 
 msgctxt "gui/845"
 msgid "{0} seconds remaining."
-msgstr ""
+msgstr "{0} 초 남음."
 
 msgctxt "gui/846"
 msgid "{0} Base Hit Chance"
-msgstr ""
+msgstr "{0} 기본 명중률"
 
 msgctxt "gui/847"
 msgid "Healing: {0}% of Max CON"
-msgstr ""
+msgstr "치유: 최대 체력의 {0}%"
 
 msgctxt "gui/848"
 msgid "Healing: {0}-{1}% of Max CON"
-msgstr ""
+msgstr "치유: 최대 체력의 {0}-{1}%"
 
 msgctxt "gui/849"
 msgid "Damage: {0}% of Max CON"
@@ -3586,15 +3588,15 @@ msgstr ""
 
 msgctxt "gui/855"
 msgid "Min Damage"
-msgstr ""
+msgstr "최소 공격력"
 
 msgctxt "gui/856"
 msgid "Max Damage"
-msgstr ""
+msgstr "최대 공격력"
 
 msgctxt "gui/857"
 msgid "Magazine Size"
-msgstr ""
+msgstr "탄창 크기"
 
 msgctxt "gui/858"
 msgid "Rounds Per Attack"
@@ -3666,7 +3668,7 @@ msgstr ""
 
 msgctxt "gui/875"
 msgid "Jackpot!"
-msgstr ""
+msgstr "잭팟!"
 
 msgctxt "gui/876"
 msgid "Currently Busy"
@@ -3690,15 +3692,15 @@ msgstr ""
 
 msgctxt "gui/881"
 msgid "On"
-msgstr ""
+msgstr "켜기"
 
 msgctxt "gui/882"
 msgid "Off"
-msgstr ""
+msgstr "끄기"
 
 msgctxt "gui/883"
 msgid "Requires Freezer Key"
-msgstr ""
+msgstr "냉동고 열쇠 필요"
 
 msgctxt "gui/884"
 msgid "Requires Sauna Maintenance Key"
@@ -3758,35 +3760,35 @@ msgstr ""
 
 msgctxt "gui/898"
 msgid "Highlight Nearby Objects"
-msgstr ""
+msgstr "근처 물건 강조"
 
 msgctxt "gui/899"
 msgid "Load Last Save"
-msgstr ""
+msgstr "마지막 저장 불러오기"
 
 msgctxt "gui/900"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 msgctxt "gui/901"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 msgctxt "gui/902"
 msgid "Examine"
-msgstr ""
+msgstr "조사"
 
 msgctxt "gui/903"
 msgid "Activate"
-msgstr ""
+msgstr "활성화"
 
 msgctxt "gui/904"
 msgid "Deactivate"
-msgstr ""
+msgstr "비활성화"
 
 msgctxt "gui/905"
 msgid "Owned By {0}"
-msgstr ""
+msgstr "{0} 이(가) 소유함"
 
 msgctxt "gui/906"
 msgid "Item Gained"
@@ -3794,7 +3796,7 @@ msgstr ""
 
 msgctxt "gui/907"
 msgid "Money Gained"
-msgstr ""
+msgstr "돈 획득"
 
 msgctxt "gui/908"
 msgid "{0} Reputation {1}{2}"
@@ -3810,15 +3812,15 @@ msgstr ""
 
 msgctxt "gui/911"
 msgid "Fame Increased"
-msgstr ""
+msgstr "명성 상승"
 
 msgctxt "gui/912"
 msgid "New Companion"
-msgstr ""
+msgstr "새 동료"
 
 msgctxt "gui/913"
 msgid "Leg Armor"
-msgstr ""
+msgstr "다리 방어구"
 
 msgctxt "gui/914"
 msgid "Face"
@@ -3834,19 +3836,19 @@ msgstr ""
 
 msgctxt "gui/917"
 msgid "Requires Employee Lounge Key"
-msgstr ""
+msgstr "직원용 라운지 열쇠 필요"
 
 msgctxt "gui/918"
 msgid "Requires Gift Shop Key"
-msgstr ""
+msgstr "기념품 가게 열쇠 필요"
 
 msgctxt "gui/919"
 msgid "Attack with your current weapon."
-msgstr ""
+msgstr "현재 무기로 공격."
 
 msgctxt "gui/920"
 msgid "Reload your current weapon."
-msgstr ""
+msgstr "현재 무기 재장전."
 
 msgctxt "gui/921"
 msgid "Voice"
@@ -3854,11 +3856,11 @@ msgstr ""
 
 msgctxt "gui/922"
 msgid "Select Character Background"
-msgstr ""
+msgstr "캐릭터 배경 선택"
 
 msgctxt "gui/923"
 msgid "Switch to your other equipped weapon."
-msgstr ""
+msgstr "장착한 다른 무기로 전환합니다."
 
 msgctxt "gui/924"
 msgid ""
@@ -3868,11 +3870,11 @@ msgstr ""
 
 msgctxt "gui/925"
 msgid "End your current combat turn."
-msgstr ""
+msgstr "당신의 현재 전투 턴을 끝냅니다."
 
 msgctxt "gui/927"
 msgid "Doctor"
-msgstr ""
+msgstr "의사"
 
 msgctxt "gui/928"
 msgid "Dossier"
@@ -3880,27 +3882,27 @@ msgstr ""
 
 msgctxt "gui/929"
 msgid "Wardrobe"
-msgstr ""
+msgstr "벽장"
 
 msgctxt "gui/930"
 msgid "Armor Color"
-msgstr ""
+msgstr "방어구 색"
 
 msgctxt "gui/931"
 msgid "Requires Gondola Building Key"
-msgstr ""
+msgstr "곤돌라 건물 열쇠 필요"
 
 msgctxt "gui/933"
 msgid "Trap Detected"
-msgstr ""
+msgstr "함정 발견"
 
 msgctxt "gui/934"
 msgid "Ends Turn"
-msgstr ""
+msgstr "턴 종료"
 
 msgctxt "gui/935"
 msgid "Select Characters"
-msgstr ""
+msgstr "캐릭터 선택"
 
 msgctxt "gui/936"
 msgid ""
@@ -3963,9 +3965,10 @@ msgctxt "gui/948"
 msgid "Select Previous"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/949"
 msgid "Creepy Doll Discovered"
-msgstr ""
+msgstr "오싹한 인형 발견"
 
 msgctxt "gui/950"
 msgid "Character Background"
@@ -3993,7 +3996,7 @@ msgstr ""
 
 msgctxt "gui/959"
 msgid "Cassette Tape Discovered"
-msgstr ""
+msgstr "카세트 테이프 발견"
 
 msgctxt "gui/960"
 msgid "Young Rangers"
@@ -4053,7 +4056,7 @@ msgstr ""
 
 msgctxt "gui/968"
 msgid "Cassette Tapes"
-msgstr ""
+msgstr "카세트 테이프"
 
 msgctxt "gui/969"
 msgid "Creepy Dolls"
@@ -6218,7 +6221,7 @@ msgstr ""
 
 msgctxt "gui/1521"
 msgid "Main Menu."
-msgstr ""
+msgstr "메인 메뉴."
 
 msgctxt "gui/1522"
 msgid "Group Highlighted: Continue."
@@ -7302,7 +7305,7 @@ msgctxt "gui/1793"
 msgid ""
 "Wasteland 3 install is incomplete. You can wait for this content or return "
 "to the main menu."
-msgstr ""
+msgstr "Wasteland 3 설치가 진행 중입니다. 완료를 기다리거나 메인 메뉴로 돌아갈 수 있습니다."
 
 msgctxt "gui/1794"
 msgid "BBQ"
@@ -8068,7 +8071,7 @@ msgstr ""
 
 msgctxt "gui/1982"
 msgid "Healing"
-msgstr ""
+msgstr "치유"
 
 msgctxt "gui/1983"
 msgid "Armor"
@@ -8858,7 +8861,7 @@ msgctxt "gui/2172"
 msgid ""
 "Please return to the main menu, or sign back in as the previous user to "
 "continue playing"
-msgstr ""
+msgstr "메인 메뉴로 돌아가거나 이전 사용자로 다시 로그인 하여 계속 플레이 하십시오"
 
 msgctxt "gui/2173"
 msgid "Abilities + Items"
@@ -9311,7 +9314,7 @@ msgstr ""
 msgctxt "gui/2284"
 msgid ""
 "Other player is taking too long. Do you want to go back to the main menu?"
-msgstr ""
+msgstr "다른 플레이어의 로딩이 오래 걸립니다. 메인 메뉴로 돌아가겠습니까?"
 
 msgctxt "gui/2285"
 msgid "Next Page"
@@ -10725,7 +10728,7 @@ msgstr ""
 
 msgctxt "gui/2645"
 msgid "Cassette Tape"
-msgstr ""
+msgstr "카세트 테이프"
 
 msgctxt "gui/2649"
 msgid "({0}h {1}m ago)"
@@ -10836,7 +10839,7 @@ msgstr ""
 
 msgctxt "gui/2678"
 msgid "Return to main menu."
-msgstr ""
+msgstr "메인 메뉴로 돌아가기."
 
 msgctxt "gui/2679"
 msgid "The last living character can't be removed from the squad."
