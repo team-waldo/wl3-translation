@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2022-01-02 13:57+0000\n"
+"Last-Translator: cosgenio <cosgenio@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "statuseffects/0"
 msgid " The first status effect text"
@@ -34,7 +35,7 @@ msgstr ""
 
 msgctxt "statuseffects/5"
 msgid "Crippled"
-msgstr ""
+msgstr "불구"
 
 msgctxt "statuseffects/6"
 msgid "Your aim's been mangled up real good."
@@ -42,14 +43,18 @@ msgstr ""
 
 msgctxt "statuseffects/7"
 msgid "Bleeding"
-msgstr ""
+msgstr "출혈"
 
+#, fuzzy
 msgctxt "statuseffects/8"
 msgid ""
 "You've got a few extra holes in you.\\n"
 "\\n"
 "<color=#983B24>-12% CON per turn</color>"
 msgstr ""
+"몸에 구멍이 몇개 추가되었다.\\n"
+"\\n"
+"<color=#983B24>턴당 -12% 체력</color>"
 
 msgctxt "statuseffects/9"
 msgid "Shellshock"
@@ -65,7 +70,7 @@ msgstr ""
 
 msgctxt "statuseffects/11"
 msgid "Shattered Shoulder"
-msgstr ""
+msgstr "산산조각난 어깨"
 
 msgctxt "statuseffects/12"
 msgid ""
@@ -107,13 +112,14 @@ msgid ""
 "<color=#CA3429>Can only be removed by Injury Kit or Doctor NPC</color>"
 msgstr ""
 
+#, fuzzy
 msgctxt "statuseffects/19"
 msgid "Poisoned"
-msgstr ""
+msgstr "중독됨"
 
 msgctxt "statuseffects/20"
 msgid "Looking green there, buddy."
-msgstr ""
+msgstr "녹색으로 보이네, 친구."
 
 msgctxt "statuseffects/21"
 msgid "Venom"
@@ -165,7 +171,7 @@ msgstr ""
 
 msgctxt "statuseffects/31"
 msgid "Internal Bleeding"
-msgstr ""
+msgstr "내출혈"
 
 msgctxt "statuseffects/32"
 msgid ""
@@ -184,7 +190,7 @@ msgstr ""
 
 msgctxt "statuseffects/37"
 msgid "Marked"
-msgstr ""
+msgstr "조준됨"
 
 msgctxt "statuseffects/38"
 msgid "You've got a bead drawn on you."
@@ -232,11 +238,11 @@ msgstr ""
 
 msgctxt "statuseffects/49"
 msgid "Focus"
-msgstr ""
+msgstr "집중"
 
 msgctxt "statuseffects/50"
 msgid "Everything is crystal clear."
-msgstr ""
+msgstr "모든 것이 명료하다."
 
 msgctxt "statuseffects/51"
 msgid "Rhino"
