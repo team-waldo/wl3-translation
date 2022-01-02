@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2021-12-25 07:24+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2022-01-02 13:57+0000\n"
+"Last-Translator: cosgenio <cosgenio@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "gui/3"
 msgid "Radio"
-msgstr ""
+msgstr "라디오"
 
 msgctxt "gui/4"
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 msgctxt "gui/5"
 msgid "Examine"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "gui/12"
 msgid "Trade"
-msgstr ""
+msgstr "거래"
 
 msgctxt "gui/13"
 msgid "Ready"
@@ -79,7 +79,7 @@ msgstr ""
 
 msgctxt "gui/16"
 msgid "New Mission"
-msgstr ""
+msgstr "새로운 임무"
 
 msgctxt "gui/17"
 msgid "Mission Updated"
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "gui/34"
 msgid "Okay"
-msgstr ""
+msgstr "확인"
 
 msgctxt "gui/35"
 msgid "Cancel"
@@ -179,7 +179,7 @@ msgstr "SFX 볼륨"
 
 msgctxt "gui/41"
 msgid "Controls"
-msgstr ""
+msgstr "조작"
 
 msgctxt "gui/42"
 msgid "Gameplay"
@@ -291,7 +291,7 @@ msgstr "텍스트 크기"
 
 msgctxt "gui/69"
 msgid "Save and Close"
-msgstr ""
+msgstr "저장 후 닫기"
 
 msgctxt "gui/70"
 msgid "Are you sure you wish to exit? You will lose all unsaved changes."
@@ -299,19 +299,19 @@ msgstr ""
 
 msgctxt "gui/71"
 msgid "Return to Game"
-msgstr ""
+msgstr "게임으로 돌아가기"
 
 msgctxt "gui/72"
 msgid "Quicksave"
-msgstr ""
+msgstr "빠른 저장"
 
 msgctxt "gui/73"
 msgid "Quickload"
-msgstr ""
+msgstr "빠른 불러오기"
 
 msgctxt "gui/74"
 msgid "Save Game"
-msgstr ""
+msgstr "저장하기"
 
 msgctxt "gui/75"
 msgid "Load Game"
@@ -367,7 +367,7 @@ msgstr "지도"
 
 msgctxt "gui/88"
 msgid "Mission Log"
-msgstr ""
+msgstr "임무 일지"
 
 msgctxt "gui/89"
 msgid "Rookie"
@@ -423,11 +423,11 @@ msgstr "전술 모드 전환"
 
 msgctxt "gui/102"
 msgid "Multiplayer Chat"
-msgstr ""
+msgstr "멀티플레이어 채팅"
 
 msgctxt "gui/103"
 msgid "Mission Notifications"
-msgstr ""
+msgstr "임무 알림"
 
 msgctxt "gui/104"
 msgid "Combat Text"
@@ -439,7 +439,7 @@ msgstr ""
 
 msgctxt "gui/106"
 msgid "Status Effects"
-msgstr ""
+msgstr "상태 효과"
 
 msgctxt "gui/107"
 msgid "Experience Points"
@@ -453,13 +453,14 @@ msgctxt "gui/109"
 msgid ""
 "When you see this symbol displayed in the corner of your screen, do not turn "
 "off the Xbox One."
-msgstr ""
+msgstr "이 문양이 화면 모서리에 표시될 경우 Xbox One를 종료하지 마십시오."
 
+#, fuzzy
 msgctxt "gui/110"
 msgid ""
 "When you see this symbol displayed in the corner of your screen, do not turn "
 "off the PlayStation®4 system."
-msgstr ""
+msgstr "이 문양이 화면 모서리에 표시될 경우 PlayStation®4를 종료하지 마십시오."
 
 msgctxt "gui/111"
 msgid "Please sign in to the PlayStation™Network."
@@ -501,15 +502,15 @@ msgstr ""
 
 msgctxt "gui/120"
 msgid "Reload"
-msgstr ""
+msgstr "재장전"
 
 msgctxt "gui/121"
 msgid "Switch Fire Mode"
-msgstr ""
+msgstr "발사 모드 전환"
 
 msgctxt "gui/122"
 msgid "Switch Weapons"
-msgstr ""
+msgstr "무기 전환"
 
 msgctxt "gui/123"
 msgid "Show Active Missions"
@@ -521,19 +522,19 @@ msgstr ""
 
 msgctxt "gui/125"
 msgid "Primary Missions"
-msgstr ""
+msgstr "주 임무"
 
 msgctxt "gui/126"
 msgid "Secondary Missions"
-msgstr ""
+msgstr "보조 임무"
 
 msgctxt "gui/127"
 msgid "In Progress"
-msgstr ""
+msgstr "진행 중"
 
 msgctxt "gui/128"
 msgid "Completed"
-msgstr ""
+msgstr "완료"
 
 msgctxt "gui/129"
 msgid "No Entries"
@@ -541,11 +542,11 @@ msgstr ""
 
 msgctxt "gui/130"
 msgid "Attributes"
-msgstr ""
+msgstr "능력치"
 
 msgctxt "gui/131"
 msgid "Skills"
-msgstr ""
+msgstr "기술"
 
 msgctxt "gui/132"
 msgid "Health"
@@ -573,7 +574,7 @@ msgstr ""
 
 msgctxt "gui/138"
 msgid "Action Points"
-msgstr ""
+msgstr "행동력"
 
 msgctxt "gui/139"
 msgid "Damage"
@@ -581,11 +582,11 @@ msgstr ""
 
 msgctxt "gui/140"
 msgid "Critical Chance"
-msgstr ""
+msgstr "치명타 확률"
 
 msgctxt "gui/141"
 msgid "Armor"
-msgstr ""
+msgstr "방어력"
 
 msgctxt "gui/142"
 msgid "Evasion"
@@ -609,7 +610,7 @@ msgstr ""
 
 msgctxt "gui/147"
 msgid "Alarm Disarmed"
-msgstr ""
+msgstr "경보 해제됨"
 
 msgctxt "gui/148"
 msgid "Trap Disarmed"
@@ -657,7 +658,7 @@ msgstr "덮어쓰기"
 
 msgctxt "gui/159"
 msgid "Overwrite Saved Game?"
-msgstr ""
+msgstr "저장된 파일을 덮어쓰시겠습니까?"
 
 msgctxt "gui/160"
 msgid "Are you sure you want to overwrite this saved game?"
@@ -729,11 +730,11 @@ msgstr ""
 
 msgctxt "gui/177"
 msgid "Equip"
-msgstr ""
+msgstr "착용"
 
 msgctxt "gui/178"
 msgid "Unequip"
-msgstr ""
+msgstr "해제"
 
 msgctxt "gui/179"
 msgid "Use Item"
@@ -753,7 +754,7 @@ msgstr ""
 
 msgctxt "gui/183"
 msgid "Perks"
-msgstr ""
+msgstr "특성"
 
 msgctxt "gui/184"
 msgid "Delete"
@@ -762,7 +763,7 @@ msgstr ""
 msgctxt "gui/185"
 msgid ""
 "Are you sure you want to load this game? You will lose any unsaved changes."
-msgstr ""
+msgstr "이 파일을 불러오시겠습니까? 저장하지 않은 변경사항들을 잃게 됩니다."
 
 msgctxt "gui/186"
 msgid "Sign-in change detected. Returning to main menu."
@@ -796,7 +797,7 @@ msgstr ""
 
 msgctxt "gui/193"
 msgid "Confirm"
-msgstr ""
+msgstr "확인"
 
 msgctxt "gui/194"
 msgid "Weaponsmith"
@@ -820,11 +821,11 @@ msgstr ""
 
 msgctxt "gui/199"
 msgid "Range"
-msgstr ""
+msgstr "사정거리"
 
 msgctxt "gui/200"
 msgid "Hit Chance"
-msgstr ""
+msgstr "명중률"
 
 msgctxt "gui/201"
 msgid "Critical Damage"
@@ -892,15 +893,15 @@ msgstr ""
 
 msgctxt "gui/217"
 msgid "Buy"
-msgstr ""
+msgstr "구매"
 
 msgctxt "gui/218"
 msgid "Sell"
-msgstr ""
+msgstr "판매"
 
 msgctxt "gui/219"
 msgid "Trade Failed"
-msgstr ""
+msgstr "거래 실패"
 
 msgctxt "gui/220"
 msgid "You cannot afford this item."
@@ -918,7 +919,7 @@ msgstr ""
 
 msgctxt "gui/223"
 msgid "Enter Area"
-msgstr ""
+msgstr "지역 진입"
 
 msgctxt "gui/224"
 msgid "Choose Entrance"
@@ -934,15 +935,15 @@ msgstr ""
 
 msgctxt "gui/227"
 msgid "Usable in Combat"
-msgstr ""
+msgstr "전투 중 사용 가능"
 
 msgctxt "gui/228"
 msgid "Usable in Exploration"
-msgstr ""
+msgstr "탐험 중 사용 가능"
 
 msgctxt "gui/229"
 msgid "Usable in Combat or Exploration"
-msgstr ""
+msgstr "전투 중이나 탐험 중 사용 가능"
 
 msgctxt "gui/230"
 msgid "Ambushing"
@@ -986,15 +987,15 @@ msgstr ""
 
 msgctxt "gui/240"
 msgid "Level Up!"
-msgstr ""
+msgstr "레벨 업!"
 
 msgctxt "gui/241"
 msgid "Create Custom Character"
-msgstr ""
+msgstr "사용자 지정 캐릭터 생성"
 
 msgctxt "gui/242"
 msgid "Select Ranger"
-msgstr ""
+msgstr "레인저 선택"
 
 msgctxt "gui/243"
 msgid "{0} healed {1} CON."
@@ -1018,7 +1019,7 @@ msgstr ""
 
 msgctxt "gui/248"
 msgid "Portrait"
-msgstr ""
+msgstr "초상화"
 
 msgctxt "gui/249"
 msgid "Customize Appearance"
@@ -1034,24 +1035,24 @@ msgstr ""
 
 msgctxt "gui/252"
 msgid "Gender"
-msgstr ""
+msgstr "성별"
 
 msgctxt "gui/253"
 msgid "Age"
-msgstr ""
+msgstr "나이"
 
 msgctxt "gui/254"
 msgid "Attribute Points Remaining:"
-msgstr ""
+msgstr "남은 능력치 점수:"
 
 msgctxt "gui/255"
 msgid "Skill Points:"
-msgstr ""
+msgstr "기술 점수:"
 
 msgctxt "gui/256"
 msgid ""
 "Are you sure you wish to leave character creation? You will lose all changes."
-msgstr ""
+msgstr "정말 캐릭터 생성을 취소하시겠습니까? 모든 변경사항들을 잃게 됩니다."
 
 msgctxt "gui/257"
 msgid "Lock cameras to isometric views?"
@@ -1063,19 +1064,21 @@ msgstr ""
 
 msgctxt "gui/259"
 msgid "Select Quirk"
-msgstr ""
+msgstr "기벽 선택"
 
 msgctxt "gui/260"
 msgid "Quirk"
-msgstr ""
+msgstr "기벽"
 
+#, fuzzy
 msgctxt "gui/261"
 msgid "+"
-msgstr ""
+msgstr "+"
 
+#, fuzzy
 msgctxt "gui/262"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 msgctxt "gui/263"
 msgid "{2}: <color={3}>{0}{1}</color>"
@@ -1087,11 +1090,11 @@ msgstr ""
 
 msgctxt "gui/265"
 msgid "{0} turns remaining"
-msgstr ""
+msgstr "{0} 턴 남음"
 
 msgctxt "gui/266"
 msgid "One turn remaining"
-msgstr ""
+msgstr "1 턴 남음"
 
 msgctxt "gui/267"
 msgid "Read"
@@ -1115,31 +1118,31 @@ msgstr ""
 
 msgctxt "gui/272"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "gui/273"
 msgid "Broken"
-msgstr ""
+msgstr "부서짐"
 
 msgctxt "gui/274"
 msgid "Unlocked"
-msgstr ""
+msgstr "잠금 해제됨"
 
 msgctxt "gui/275"
 msgid "Repaired"
-msgstr ""
+msgstr "수리됨"
 
 msgctxt "gui/276"
 msgid "Requires Power"
-msgstr ""
+msgstr "동력 필요"
 
 msgctxt "gui/277"
 msgid "Powered Up"
-msgstr ""
+msgstr "동력 공급됨"
 
 msgctxt "gui/278"
 msgid "Powered Down"
-msgstr ""
+msgstr "동력 끊김"
 
 msgctxt "gui/279"
 msgid "Secure"
@@ -1147,11 +1150,11 @@ msgstr ""
 
 msgctxt "gui/280"
 msgid "Hacked"
-msgstr ""
+msgstr "해킹됨"
 
 msgctxt "gui/285"
 msgid "Combat Grid"
-msgstr ""
+msgstr "전투 격자"
 
 msgctxt "gui/286"
 msgid "Accessed"
@@ -1163,19 +1166,19 @@ msgstr ""
 
 msgctxt "gui/288"
 msgid "Edit"
-msgstr ""
+msgstr "수정"
 
 msgctxt "gui/289"
 msgid "Create Ranger"
-msgstr ""
+msgstr "레인저 생성"
 
 msgctxt "gui/290"
 msgid "Cannot Edit Other Player's Character"
-msgstr ""
+msgstr "다른 플레이어의 캐릭터를 수정할 수 없습니"
 
 msgctxt "gui/291"
 msgid "Create New Character"
-msgstr ""
+msgstr "새 캐릭터 생성"
 
 msgctxt "gui/292"
 msgid "Engine's busted."
@@ -1215,15 +1218,15 @@ msgstr ""
 
 msgctxt "gui/302"
 msgid "Not Enough AP"
-msgstr ""
+msgstr "행동력 부족"
 
 msgctxt "gui/303"
 msgid "Out of Ammo"
-msgstr ""
+msgstr "탄약 떨어짐"
 
 msgctxt "gui/304"
 msgid "You cannot leave the area during combat."
-msgstr ""
+msgstr "전투 중에는 구역을 벗어날 수 없습니다."
 
 msgctxt "gui/305"
 msgid "You cannot leave the area while a player is in a conversation."
@@ -1247,7 +1250,7 @@ msgstr ""
 
 msgctxt "gui/310"
 msgid "Skip Intro Movies"
-msgstr ""
+msgstr "인트로 영상 건너뛰기"
 
 msgctxt "gui/311"
 msgid "Weapon Jammed"
@@ -1255,7 +1258,7 @@ msgstr ""
 
 msgctxt "gui/312"
 msgid "Can't Attack Target"
-msgstr ""
+msgstr "대상 공격 불가"
 
 msgctxt "gui/313"
 msgid "{0} AP"
@@ -1263,19 +1266,19 @@ msgstr ""
 
 msgctxt "gui/314"
 msgid "Pick Lock"
-msgstr ""
+msgstr "자물쇠 따기"
 
 msgctxt "gui/315"
 msgid "Repair"
-msgstr ""
+msgstr "수리"
 
 msgctxt "gui/316"
 msgid "Repair Toaster"
-msgstr ""
+msgstr "토스터 수리"
 
 msgctxt "gui/317"
 msgid "Disarm Alarm"
-msgstr ""
+msgstr "경보 해제"
 
 msgctxt "gui/318"
 msgid "Hack Computer"
@@ -1283,7 +1286,7 @@ msgstr ""
 
 msgctxt "gui/319"
 msgid "Disarm Explosive"
-msgstr ""
+msgstr "폭탄 해체"
 
 msgctxt "gui/320"
 msgid "Exit to {0}"
@@ -1291,7 +1294,7 @@ msgstr ""
 
 msgctxt "gui/321"
 msgid "Characters"
-msgstr ""
+msgstr "캐릭터"
 
 msgctxt "gui/322"
 msgid "Points of Interest"
@@ -1299,7 +1302,7 @@ msgstr ""
 
 msgctxt "gui/323"
 msgid "Client Disconnected"
-msgstr ""
+msgstr "클라이언트 연결 끊김"
 
 msgctxt "gui/324"
 msgid "You have been disconnected from the host."
@@ -1307,15 +1310,15 @@ msgstr ""
 
 msgctxt "gui/325"
 msgid "The client has been disconnected."
-msgstr ""
+msgstr "클라이언트의 연결이 끊겼습니다."
 
 msgctxt "gui/326"
 msgid "Attempt to Reconnect"
-msgstr ""
+msgstr "재연결 시도"
 
 msgctxt "gui/327"
 msgid "{0} - Impossible"
-msgstr ""
+msgstr "{0} - 불가능"
 
 msgctxt "gui/328"
 msgid "Requires {0}"
@@ -1327,11 +1330,11 @@ msgstr ""
 
 msgctxt "gui/330"
 msgid "Select Game"
-msgstr ""
+msgstr "게임 선택"
 
 msgctxt "gui/331"
 msgid "New Game"
-msgstr ""
+msgstr "새로운 게임"
 
 msgctxt "gui/332"
 msgid "[PH]The Frozen Lake"
@@ -1343,11 +1346,11 @@ msgstr ""
 
 msgctxt "gui/334"
 msgid "Edge Scrolling"
-msgstr ""
+msgstr "가장자리 스크롤"
 
 msgctxt "gui/335"
 msgid "Edge Scroll Speed"
-msgstr ""
+msgstr "가장자리 스크롤 속도"
 
 msgctxt "gui/336"
 msgid "Follow Look Ahead"
@@ -1363,11 +1366,11 @@ msgstr ""
 
 msgctxt "gui/339"
 msgid "Disable Tutorials"
-msgstr ""
+msgstr "튜토리얼 비활성화"
 
 msgctxt "gui/340"
 msgid "Invite Friend"
-msgstr ""
+msgstr "친구 초대"
 
 msgctxt "gui/341"
 msgid "Look-At Camera"
@@ -1379,23 +1382,23 @@ msgstr ""
 
 msgctxt "gui/343"
 msgid "Invalid Target"
-msgstr ""
+msgstr "적합하지 않은 대상"
 
 msgctxt "gui/344"
 msgid "Out of Range"
-msgstr ""
+msgstr "사거리 밖"
 
 msgctxt "gui/345"
 msgid "Target Blocked"
-msgstr ""
+msgstr "대상이 가려짐"
 
 msgctxt "gui/346"
 msgid "Not Enough AP"
-msgstr ""
+msgstr "행동력 부족"
 
 msgctxt "gui/347"
 msgid "Out of Ammo"
-msgstr ""
+msgstr "탄약 떨어짐"
 
 msgctxt "gui/348"
 msgid "Weapon Jammed"
@@ -1415,7 +1418,7 @@ msgstr ""
 
 msgctxt "gui/352"
 msgid "Highlight Fill"
-msgstr ""
+msgstr "내부 강조"
 
 msgctxt "gui/353"
 msgid "Talk"
@@ -1431,7 +1434,7 @@ msgstr ""
 
 msgctxt "gui/356"
 msgid "No Targets In Range"
-msgstr ""
+msgstr "범위 안에 대상이 없음"
 
 msgctxt "gui/357"
 msgid "Requires Safecracker Tool"
@@ -1451,7 +1454,7 @@ msgstr ""
 
 msgctxt "gui/361"
 msgid "Chest Armor"
-msgstr ""
+msgstr "가슴 방어구"
 
 msgctxt "gui/362"
 msgid "Utility"
@@ -1459,11 +1462,11 @@ msgstr ""
 
 msgctxt "gui/363"
 msgid "Weapon 1"
-msgstr ""
+msgstr "무기 1"
 
 msgctxt "gui/364"
 msgid "Weapon 2"
-msgstr ""
+msgstr "무기 2"
 
 msgctxt "gui/365"
 msgid "Cybernetic Arms"
@@ -1491,11 +1494,11 @@ msgstr ""
 
 msgctxt "gui/371"
 msgid "Combat Medic"
-msgstr ""
+msgstr "의무병"
 
 msgctxt "gui/372"
 msgid "Hacker"
-msgstr ""
+msgstr "해커"
 
 msgctxt "gui/373"
 msgid "Infiltrator"
@@ -1503,19 +1506,19 @@ msgstr ""
 
 msgctxt "gui/374"
 msgid "Mechanic"
-msgstr ""
+msgstr "기계공"
 
 msgctxt "gui/375"
 msgid "Inventor"
-msgstr ""
+msgstr "발명가"
 
 msgctxt "gui/376"
 msgid "Survivalist"
-msgstr ""
+msgstr "생존주의자"
 
 msgctxt "gui/377"
 msgid "Sniper"
-msgstr ""
+msgstr "저격수"
 
 msgctxt "gui/378"
 msgid "Modder"
@@ -1523,23 +1526,23 @@ msgstr ""
 
 msgctxt "gui/379"
 msgid "Trader"
-msgstr ""
+msgstr "상인"
 
 msgctxt "gui/380"
 msgid "Commander"
-msgstr ""
+msgstr "사령관"
 
 msgctxt "gui/381"
 msgid "Enforcer"
-msgstr ""
+msgstr "집행자"
 
 msgctxt "gui/382"
 msgid "Brawler"
-msgstr ""
+msgstr "싸움꾼"
 
 msgctxt "gui/383"
 msgid "Explosives Expert"
-msgstr ""
+msgstr "폭발물 전문가"
 
 msgctxt "gui/384"
 msgid "Driver"
@@ -1555,15 +1558,15 @@ msgstr ""
 
 msgctxt "gui/387"
 msgid "Gunslinger"
-msgstr ""
+msgstr "살인청부업자"
 
 msgctxt "gui/388"
 msgid "Psychopath"
-msgstr ""
+msgstr "사이코패스"
 
 msgctxt "gui/389"
 msgid "Starting Skills"
-msgstr ""
+msgstr "시작 기술"
 
 msgctxt "gui/390"
 msgid "Overview"
@@ -1571,15 +1574,15 @@ msgstr ""
 
 msgctxt "gui/391"
 msgid "Appearance"
-msgstr ""
+msgstr "외모"
 
 msgctxt "gui/392"
 msgid "Background"
-msgstr ""
+msgstr "배경"
 
 msgctxt "gui/393"
 msgid "Portrait"
-msgstr ""
+msgstr "초상화"
 
 msgctxt "gui/394"
 msgid "Specialization"
@@ -1587,19 +1590,19 @@ msgstr ""
 
 msgctxt "gui/395"
 msgid "Male"
-msgstr ""
+msgstr "남성"
 
 msgctxt "gui/396"
 msgid "Female"
-msgstr ""
+msgstr "여성"
 
 msgctxt "gui/397"
 msgid "Hair"
-msgstr ""
+msgstr "머리카락"
 
 msgctxt "gui/398"
 msgid "Face"
-msgstr ""
+msgstr "얼굴"
 
 msgctxt "gui/399"
 msgid "Beard"
@@ -1607,39 +1610,39 @@ msgstr ""
 
 msgctxt "gui/400"
 msgid "Jacket"
-msgstr ""
+msgstr "외투"
 
 msgctxt "gui/401"
 msgid "Pants"
-msgstr ""
+msgstr "바지"
 
 msgctxt "gui/402"
 msgid "Hair Color"
-msgstr ""
+msgstr "머리색"
 
 msgctxt "gui/403"
 msgid "Skin Color"
-msgstr ""
+msgstr "피부색"
 
 msgctxt "gui/404"
 msgid "Color 1"
-msgstr ""
+msgstr "색 1"
 
 msgctxt "gui/405"
 msgid "Color 2"
-msgstr ""
+msgstr "색 2"
 
 msgctxt "gui/406"
 msgid "Physique"
-msgstr ""
+msgstr "체격"
 
 msgctxt "gui/407"
 msgid "Hands"
-msgstr ""
+msgstr "손"
 
 msgctxt "gui/408"
 msgid "Feet"
-msgstr ""
+msgstr "발"
 
 msgctxt "gui/409"
 msgid "Effects"
@@ -1651,7 +1654,7 @@ msgstr ""
 
 msgctxt "gui/411"
 msgid "Religion"
-msgstr ""
+msgstr "종교"
 
 msgctxt "gui/412"
 msgid "Vice"
@@ -1663,7 +1666,7 @@ msgstr ""
 
 msgctxt "gui/414"
 msgid "African"
-msgstr ""
+msgstr "아프리카인"
 
 msgctxt "gui/415"
 msgid "Middle Eastern"
@@ -1683,11 +1686,11 @@ msgstr ""
 
 msgctxt "gui/419"
 msgid "Hispanic"
-msgstr ""
+msgstr "히스패닉"
 
 msgctxt "gui/420"
 msgid "Native American"
-msgstr ""
+msgstr "아메리카 원주민"
 
 msgctxt "gui/421"
 msgid "Mixed"
@@ -1699,43 +1702,43 @@ msgstr ""
 
 msgctxt "gui/423"
 msgid "Buddhist"
-msgstr ""
+msgstr "불교"
 
 msgctxt "gui/424"
 msgid "Christian"
-msgstr ""
+msgstr "기독교"
 
 msgctxt "gui/425"
 msgid "Hindu"
-msgstr ""
+msgstr "힌두교"
 
 msgctxt "gui/426"
 msgid "Indigenous"
-msgstr ""
+msgstr "토착 신앙"
 
 msgctxt "gui/427"
 msgid "Jewish"
-msgstr ""
+msgstr "유대교"
 
 msgctxt "gui/428"
 msgid "Mormon"
-msgstr ""
+msgstr "모르몬교"
 
 msgctxt "gui/429"
 msgid "Muslim"
-msgstr ""
+msgstr "무슬림"
 
 msgctxt "gui/430"
 msgid "Sikh"
-msgstr ""
+msgstr "시크교"
 
 msgctxt "gui/431"
 msgid "Gambling"
-msgstr ""
+msgstr "도박"
 
 msgctxt "gui/432"
 msgid "Smoking"
-msgstr ""
+msgstr "담배"
 
 msgctxt "gui/433"
 msgid "Booze"
@@ -1743,7 +1746,7 @@ msgstr ""
 
 msgctxt "gui/434"
 msgid "Drugs"
-msgstr ""
+msgstr "마약"
 
 msgctxt "gui/435"
 msgid "Hostile Encounter"
@@ -1799,27 +1802,27 @@ msgstr ""
 
 msgctxt "gui/448"
 msgid "Remove From Squad"
-msgstr ""
+msgstr "분대에서 제외"
 
 msgctxt "gui/449"
 msgid "Are you sure you wish to remove {0} from the squad?"
-msgstr ""
+msgstr "정말 {0} 을(를) 분대서 제외 하시겠습니까?"
 
 msgctxt "gui/450"
 msgid "Purchase Perk"
-msgstr ""
+msgstr "특성 구매"
 
 msgctxt "gui/451"
 msgid "Are you sure you wish to purchase {0}?"
-msgstr ""
+msgstr "정말 {0} 을(를) 구매 하시겠습니까?"
 
 msgctxt "gui/452"
 msgid "Failed"
-msgstr ""
+msgstr "실패"
 
 msgctxt "gui/453"
 msgid "European"
-msgstr ""
+msgstr "유럽인"
 
 msgctxt "gui/454"
 msgid "The other player is currently busy."
@@ -1831,15 +1834,16 @@ msgstr ""
 
 msgctxt "gui/456"
 msgid "Trade Complete"
-msgstr ""
+msgstr "거래 성공"
 
 msgctxt "gui/457"
 msgid "Trade Accepted"
-msgstr ""
+msgstr "거래 승낙됨"
 
+#, fuzzy
 msgctxt "gui/458"
 msgid "Church of the Final Deluge"
-msgstr ""
+msgstr "마지막 델루지의 교회"
 
 msgctxt "gui/459"
 msgid "Pacific Islander"
@@ -1857,19 +1861,19 @@ msgstr ""
 
 msgctxt "gui/462"
 msgid "Always"
-msgstr ""
+msgstr "항상"
 
 msgctxt "gui/463"
 msgid "Exploration Only"
-msgstr ""
+msgstr "탐험 시에만"
 
 msgctxt "gui/464"
 msgid "Combat"
-msgstr ""
+msgstr "전투시"
 
 msgctxt "gui/465"
 msgid "Never"
-msgstr ""
+msgstr "비활성화"
 
 msgctxt "gui/466"
 msgid "Level {0}"
@@ -1879,15 +1883,15 @@ msgctxt "gui/467"
 msgid ""
 "Warning! Leaving now will affect missions that are still in progress in this "
 "area."
-msgstr ""
+msgstr "경고! 지금 떠나면 현재 구역에서 진행중인 임무에 영향을 미칩니다."
 
 msgctxt "gui/468"
 msgid "Brightness"
-msgstr ""
+msgstr "밝기"
 
 msgctxt "gui/469"
 msgid "Contrast"
-msgstr ""
+msgstr "대비"
 
 msgctxt "gui/470"
 msgid "Saturation"
@@ -1895,11 +1899,11 @@ msgstr ""
 
 msgctxt "gui/471"
 msgid "Reset Preferences"
-msgstr ""
+msgstr "설정 초기화"
 
 msgctxt "gui/472"
 msgid "Are you sure you want to revert these settings to their default values?"
-msgstr ""
+msgstr "정말 설정값들을 초기화 하고 기본 값으로 되돌리시겠습니까?"
 
 msgctxt "gui/473"
 msgid "Flow engaged "
@@ -1915,13 +1919,13 @@ msgstr "난이도 선택"
 
 msgctxt "gui/476"
 msgid "You may customize these options in the Options Menu later if you wish."
-msgstr ""
+msgstr "나중에 이 설정을을 옵션 메뉴에서 바꿀 수 있습니다."
 
 msgctxt "gui/477"
 msgid ""
 "For players more interested in story than combat, a less lethal sub-zero "
 "hellscape."
-msgstr ""
+msgstr "전투보다 이야기에 흥미가 있는 플레이어에게. 보다 덜 치명적인 영하의 지옥."
 
 msgctxt "gui/478"
 msgid ""
@@ -1933,7 +1937,7 @@ msgctxt "gui/479"
 msgid ""
 "For veteran strategy game players seeking a challenge, a cruel and "
 "unforgiving world. "
-msgstr ""
+msgstr "전략 게임에 능숙하고 도전을 원하는 플레이어에게. 잔혹하고 힘든 세상. "
 
 msgctxt "gui/480"
 msgid ""
@@ -1954,11 +1958,12 @@ msgstr ""
 
 msgctxt "gui/483"
 msgid "No Target Selected"
-msgstr ""
+msgstr "대상이 선택되지 않음"
 
+#, fuzzy
 msgctxt "gui/484"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "gui/485"
 msgid "x{0}"
@@ -1970,15 +1975,15 @@ msgstr ""
 
 msgctxt "gui/487"
 msgid "Show Stats"
-msgstr ""
+msgstr "상세 수치 보기"
 
 msgctxt "gui/488"
 msgid "Hide Stats"
-msgstr ""
+msgstr "상세 수치 숨기기"
 
 msgctxt "gui/489"
 msgid "Abilties Unlocked"
-msgstr ""
+msgstr "능력 해제됨"
 
 msgctxt "gui/490"
 msgid "Level {0}: {1}"
@@ -2010,23 +2015,24 @@ msgstr ""
 
 msgctxt "gui/497"
 msgid "Manage Squad"
-msgstr ""
+msgstr "분대 관리"
 
 msgctxt "gui/498"
 msgid "Current Player"
-msgstr ""
+msgstr "현재 플레이어"
 
 msgctxt "gui/499"
 msgid "Other Player"
-msgstr ""
+msgstr "다른 플레이어"
 
 msgctxt "gui/500"
 msgid "Starting Characters"
-msgstr ""
+msgstr "시작 캐릭터"
 
+#, fuzzy
 msgctxt "gui/501"
 msgid "Do you want to start with premade characters, or create your own?"
-msgstr ""
+msgstr "존재하는 캐릭터로 시작 하겠습니까, 아니면 자신만의 캐릭터를 만들겠습니까?"
 
 msgctxt "gui/502"
 msgid "Premade Characters"
@@ -2034,7 +2040,7 @@ msgstr ""
 
 msgctxt "gui/503"
 msgid "Custom Characters"
-msgstr ""
+msgstr "사용자 지정 캐릭터"
 
 msgctxt "gui/504"
 msgid "Move Squad Member"
@@ -2042,11 +2048,11 @@ msgstr ""
 
 msgctxt "gui/505"
 msgid "Junk"
-msgstr ""
+msgstr "쓰레기"
 
 msgctxt "gui/506"
 msgid "Ding!"
-msgstr ""
+msgstr "딩동!"
 
 msgctxt "gui/507"
 msgid "Taoist"
@@ -2056,17 +2062,18 @@ msgctxt "gui/508"
 msgid "Jain"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/509"
 msgid "Cult of the Mushroom Cloud"
-msgstr ""
+msgstr "버섯 구름 광신도"
 
 msgctxt "gui/510"
 msgid "Immune"
-msgstr ""
+msgstr "면역"
 
 msgctxt "gui/511"
 msgid "Legend"
-msgstr ""
+msgstr "범례"
 
 msgctxt "gui/512"
 msgid "Squad Member"
@@ -2074,15 +2081,15 @@ msgstr ""
 
 msgctxt "gui/513"
 msgid "Friendly NPC"
-msgstr ""
+msgstr "우호적 NPC"
 
 msgctxt "gui/514"
 msgid "Hostile NPC"
-msgstr ""
+msgstr "적대적 NPC"
 
 msgctxt "gui/515"
 msgid "Merchant"
-msgstr ""
+msgstr "상인"
 
 msgctxt "gui/516"
 msgid "Point of Interest"
@@ -2092,9 +2099,10 @@ msgctxt "gui/517"
 msgid "Level Exit"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/518"
 msgid "Kodiak"
-msgstr ""
+msgstr "코디악"
 
 msgctxt "gui/519"
 msgid "Waypoint"
@@ -2106,7 +2114,7 @@ msgstr ""
 
 msgctxt "gui/521"
 msgid "Summon Vehicle"
-msgstr ""
+msgstr "차량 소환"
 
 msgctxt "gui/522"
 msgid "Are you sure you wish to travel to this waypoint in your vehicle?"
@@ -2114,7 +2122,7 @@ msgstr ""
 
 msgctxt "gui/523"
 msgid "Feature Unavailable"
-msgstr ""
+msgstr "사용할 수 없는 기능입니다"
 
 msgctxt "gui/524"
 msgid ""
@@ -2124,7 +2132,7 @@ msgstr ""
 
 msgctxt "gui/525"
 msgid "Random Name"
-msgstr ""
+msgstr "무작위 이름"
 
 msgctxt "gui/526"
 msgid "Game Credits"
@@ -2136,7 +2144,7 @@ msgstr ""
 
 msgctxt "gui/528"
 msgid "AP"
-msgstr ""
+msgstr "행동력"
 
 msgctxt "gui/529"
 msgid "Player Join Checkpoint"
@@ -2160,15 +2168,15 @@ msgstr ""
 
 msgctxt "gui/534"
 msgid "Auto Switch Character"
-msgstr ""
+msgstr "캐릭터 자동 전환"
 
 msgctxt "gui/535"
 msgid "Auto Switch Character at Low AP"
-msgstr ""
+msgstr "행동력이 적은 캐릭터 자동 전환"
 
 msgctxt "gui/536"
 msgid "Auto End Turn"
-msgstr ""
+msgstr "자동 턴 종료"
 
 msgctxt "gui/537"
 msgid "Movement Mode"
@@ -2184,35 +2192,36 @@ msgstr ""
 
 msgctxt "gui/540"
 msgid "Starting Your Turn"
-msgstr ""
+msgstr "당신의 턴"
 
 msgctxt "gui/541"
 msgid "Starting Other Player's Turn"
-msgstr ""
+msgstr "다른 플레이어의 턴"
 
 msgctxt "gui/542"
 msgid "Starting Friendly Turn"
-msgstr ""
+msgstr "아군의 턴"
 
 msgctxt "gui/543"
 msgid "Starting Enemy's Turn"
-msgstr ""
+msgstr "적의 턴"
 
 msgctxt "gui/544"
 msgid "Researcher"
-msgstr ""
+msgstr "연구자"
 
 msgctxt "gui/546"
 msgid "Self"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/547"
 msgid "The Mechanic's Garage"
-msgstr ""
+msgstr "기계공의 차고"
 
 msgctxt "gui/548"
 msgid "Slave Pen"
-msgstr ""
+msgstr "노예 우리"
 
 msgctxt "gui/549"
 msgid "Savage Council Gate"
@@ -2228,15 +2237,15 @@ msgstr ""
 
 msgctxt "gui/552"
 msgid "Customize Vehicle"
-msgstr ""
+msgstr "차량 개조"
 
 msgctxt "gui/553"
 msgid "Bumper"
-msgstr ""
+msgstr "범퍼"
 
 msgctxt "gui/554"
 msgid "Armor Plating"
-msgstr ""
+msgstr "장갑"
 
 msgctxt "gui/555"
 msgid "Hood Ornament"
@@ -2248,7 +2257,7 @@ msgstr ""
 
 msgctxt "gui/557"
 msgid "Horn"
-msgstr ""
+msgstr "경적"
 
 msgctxt "gui/558"
 msgid "Utility"
@@ -2256,7 +2265,7 @@ msgstr ""
 
 msgctxt "gui/559"
 msgid "Vehicle Color"
-msgstr ""
+msgstr "차량 색"
 
 msgctxt "gui/560"
 msgid "Paths to Windfarm and Mine"
@@ -2268,7 +2277,7 @@ msgstr ""
 
 msgctxt "gui/562"
 msgid "Simultaneous Enemy Movement"
-msgstr ""
+msgstr "적군 행동 동시 진행"
 
 msgctxt "gui/563"
 msgid "Simultaneous Enemy Movement Rank"
@@ -2276,7 +2285,7 @@ msgstr ""
 
 msgctxt "gui/564"
 msgid "Civilian"
-msgstr ""
+msgstr "민간인"
 
 msgctxt "gui/565"
 msgid "Cannon Fodder"
@@ -2296,31 +2305,33 @@ msgstr ""
 
 msgctxt "gui/569"
 msgid "Vehicle"
-msgstr ""
+msgstr "차량"
 
 msgctxt "gui/570"
 msgid "Requirement not met."
-msgstr ""
+msgstr "요구사항을 충족하지 못했습니다."
 
 msgctxt "gui/571"
 msgid "Colorado [World Map]"
-msgstr ""
+msgstr "콜로라도 [전체 지도]"
 
 msgctxt "gui/572"
 msgid "Western White House"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/573"
 msgid "Gipper Gate"
-msgstr ""
+msgstr "기퍼 입구"
 
 msgctxt "gui/575"
 msgid "Hard-Head Gate"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/576"
 msgid "Union Station"
-msgstr ""
+msgstr "유니온 정거장"
 
 msgctxt "gui/577"
 msgid "Machine Commune"
@@ -2332,15 +2343,15 @@ msgstr ""
 
 msgctxt "gui/580"
 msgid "Perk Points Remaining:"
-msgstr ""
+msgstr "남은 특성 점수:"
 
 msgctxt "gui/581"
 msgid "Game Saved"
-msgstr ""
+msgstr "게임 저장됨"
 
 msgctxt "gui/582"
 msgid "Cannot Leave Area"
-msgstr ""
+msgstr "구역을 벗어날 수 없습니다"
 
 msgctxt "gui/583"
 msgid "Could not find the target game session."
@@ -2348,11 +2359,12 @@ msgstr ""
 
 msgctxt "gui/584"
 msgid "Error"
-msgstr ""
+msgstr "오류"
 
+#, fuzzy
 msgctxt "gui/585"
 msgid "- {0}"
-msgstr ""
+msgstr "- {0}"
 
 msgctxt "gui/586"
 msgid "Travel"
@@ -2360,11 +2372,11 @@ msgstr ""
 
 msgctxt "gui/587"
 msgid "The other player has control of the vehicle."
-msgstr ""
+msgstr "다른 플레이어가 차량을 조종하고 있습니다."
 
 msgctxt "gui/588"
 msgid "Vehicle Part Unlocked: {0}"
-msgstr ""
+msgstr "차량 부품 해제됨: {0}"
 
 msgctxt "gui/589"
 msgid "{0} used!"
@@ -2372,7 +2384,7 @@ msgstr ""
 
 msgctxt "gui/590"
 msgid "Failed to create the game session."
-msgstr ""
+msgstr "게임 세션 생성 실패."
 
 msgctxt "gui/591"
 msgid "Please reconnect the DUALSHOCK®4 wireless controller for user {0}"
@@ -2380,7 +2392,7 @@ msgstr ""
 
 msgctxt "gui/592"
 msgid "Giving default equipment to this character..."
-msgstr ""
+msgstr "해당 캐릭터에게 기본 장비를 지급하고 있습니다..."
 
 msgctxt "gui/593"
 msgid "This character already has an animal follower."
@@ -2392,11 +2404,11 @@ msgstr ""
 
 msgctxt "gui/595"
 msgid "Anti-Aliasing"
-msgstr ""
+msgstr "안티애일리어싱"
 
 msgctxt "gui/596"
 msgid "You do not have permission for online play"
-msgstr ""
+msgstr "온라인 플레이를 할 권한이 없습니다"
 
 msgctxt "gui/597"
 msgid "Failed to sucessfully check online permissions"
@@ -2408,7 +2420,7 @@ msgstr ""
 
 msgctxt "gui/600"
 msgid "Parking Garage"
-msgstr ""
+msgstr "주차장"
 
 msgctxt "gui/601"
 msgid "Frozen Outskirts"
@@ -2416,23 +2428,23 @@ msgstr ""
 
 msgctxt "gui/602"
 msgid "Head"
-msgstr ""
+msgstr "머리"
 
 msgctxt "gui/603"
 msgid "Body"
-msgstr ""
+msgstr "가슴"
 
 msgctxt "gui/604"
 msgid "Arms"
-msgstr ""
+msgstr "팔"
 
 msgctxt "gui/605"
 msgid "Legs"
-msgstr ""
+msgstr "다리"
 
 msgctxt "gui/606"
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgctxt "gui/607"
 msgid "Chassis"
@@ -2448,7 +2460,7 @@ msgstr ""
 
 msgctxt "gui/610"
 msgid "Engine"
-msgstr ""
+msgstr "엔진"
 
 msgctxt "gui/611"
 msgid "Plating"
@@ -2460,7 +2472,7 @@ msgstr ""
 
 msgctxt "gui/613"
 msgid "Wheels"
-msgstr ""
+msgstr "바퀴"
 
 msgctxt "gui/614"
 msgid "Welcome Lodge"
@@ -2468,7 +2480,7 @@ msgstr ""
 
 msgctxt "gui/615"
 msgid "Construction Yard"
-msgstr ""
+msgstr "공사장"
 
 msgctxt "gui/616"
 msgid "Midhill Plaza"
@@ -2484,15 +2496,15 @@ msgstr ""
 
 msgctxt "gui/619"
 msgid "Tunnel Entrance"
-msgstr ""
+msgstr "터널 입구"
 
 msgctxt "gui/620"
 msgid "Tunnel Midpoint"
-msgstr ""
+msgstr "터널 중심"
 
 msgctxt "gui/621"
 msgid "Tunnel Exit"
-msgstr ""
+msgstr "터널 출구"
 
 msgctxt "gui/622"
 msgid "Exit to World Map"
@@ -2500,7 +2512,7 @@ msgstr ""
 
 msgctxt "gui/623"
 msgid "Texture Quality"
-msgstr ""
+msgstr "텍스쳐 품질"
 
 msgctxt "gui/624"
 msgid "Flee"
@@ -2556,7 +2568,7 @@ msgstr ""
 
 msgctxt "gui/637"
 msgid "Neutral"
-msgstr ""
+msgstr "중립적"
 
 msgctxt "gui/638"
 msgid "Liked"
@@ -2574,9 +2586,10 @@ msgctxt "gui/641"
 msgid "Patriarch's Marshals"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/642"
 msgid "Gippers"
-msgstr ""
+msgstr "기퍼"
 
 msgctxt "gui/643"
 msgid "Wastelander Refugees"
@@ -2596,6 +2609,7 @@ msgid ""
 "America as it was before the bombs."
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/647"
 msgid ""
 "Reputation tracks how your actions have affected each faction's opinion of "
@@ -2604,6 +2618,9 @@ msgid ""
 "A police force led by Sheriff Daisy, the Marshals enforce the Patriarch's "
 "laws in Colorado Springs and - when necessary - beyond. "
 msgstr ""
+"당신의 행동들은 각각의 파벌들이 레인저에게 갖는 견해에 영향을 미치고, 평판은 이를 보여줍니다.\\n"
+"\\n"
+"보안관 데이지가 이끄는 경찰로, Marshal들은 패트리아크의 법을 콜로라도 스프링스와 - 필요하다면 - 그 너머에 집행합니다. "
 
 msgctxt "gui/648"
 msgid ""
@@ -2614,6 +2631,10 @@ msgid ""
 "call them crazy, but since they produce and refine all the oil in Colorado, "
 "everybody's got to pretend they're not."
 msgstr ""
+"당신의 행동들은 각각의 파벌들이 레인저에게 갖는 견해에 영향을 미치고, 평판은 이를 보여줍니다.\\n"
+"\\n"
+"\"신-대통령\" 로널드 레이건을 섬기는 중무장한 광신도입니다. 몇몇은 그들을 미치광이라 부르지만, 콜로라도에서 사용되는 모든 석유를 "
+"생산하고 정제하기 때문에 모두 그렇지 않은 척 해야 합니다."
 
 msgctxt "gui/649"
 msgid ""
@@ -2637,11 +2658,11 @@ msgstr ""
 
 msgctxt "gui/652"
 msgid "Launch"
-msgstr ""
+msgstr "발사"
 
 msgctxt "gui/653"
 msgid "Squad Overview"
-msgstr ""
+msgstr "분대 개요"
 
 msgctxt "gui/654"
 msgid "Active Rangers"
@@ -2653,15 +2674,15 @@ msgstr ""
 
 msgctxt "gui/656"
 msgid "Create Custom Ranger"
-msgstr ""
+msgstr "사용자 정의 레인저 생성"
 
 msgctxt "gui/657"
 msgid "Empty Slot"
-msgstr ""
+msgstr "빈 자리"
 
 msgctxt "gui/658"
 msgid "An animal of this type is already following the party"
-msgstr ""
+msgstr "이미 같은 종류의 동물이 부대와 함께 하고 있습니다"
 
 msgctxt "gui/659"
 msgid "Entrance Road"
@@ -2669,7 +2690,7 @@ msgstr ""
 
 msgctxt "gui/661"
 msgid "Hide Helmet"
-msgstr ""
+msgstr "모자 숨기기"
 
 msgctxt "gui/662"
 msgid "Item Created"
@@ -2681,7 +2702,7 @@ msgstr ""
 
 msgctxt "gui/664"
 msgid "Required Components"
-msgstr ""
+msgstr "필요한 부품"
 
 msgctxt "gui/665"
 msgid "Create Item"
@@ -2689,7 +2710,7 @@ msgstr ""
 
 msgctxt "gui/666"
 msgid "Disable"
-msgstr ""
+msgstr "비활성화"
 
 msgctxt "gui/667"
 msgid "Running"
@@ -2697,21 +2718,22 @@ msgstr ""
 
 msgctxt "gui/668"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성화됨"
 
 msgctxt "gui/669"
 msgid ""
 "You spot a brick that has a mushroom cloud drawn on it. When you touch it, "
 "the wall slides away, revealing a door."
-msgstr ""
+msgstr "당신은 버섯 구름이 그려진 벽돌을 발견했습니다. 그것을 건드리자, 벽이 옆으로 밀려나며 숨겨진 문이 드러났습니다."
 
 msgctxt "gui/670"
 msgid "Helmet"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/671"
 msgid "Requires Smuggler Camp Key"
-msgstr ""
+msgstr "밀수업자 야영지 열쇠 필요"
 
 msgctxt "gui/673"
 msgid "Scar Collector Roadblock"
@@ -2723,7 +2745,7 @@ msgstr ""
 
 msgctxt "gui/675"
 msgid "Scrapyard"
-msgstr ""
+msgstr "고철 처리장"
 
 msgctxt "gui/676"
 msgid "To Ghost Garage"
@@ -2739,51 +2761,51 @@ msgstr ""
 
 msgctxt "gui/679"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "gui/680"
 msgid "Unlocked"
-msgstr ""
+msgstr "잠금 해제됨"
 
 msgctxt "gui/681"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "gui/682"
 msgid "Unlocked"
-msgstr ""
+msgstr "잠금 해제됨"
 
 msgctxt "gui/683"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "gui/684"
 msgid "Unlocked"
-msgstr ""
+msgstr "잠금 해제됨"
 
 msgctxt "gui/685"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "gui/686"
 msgid "Unlocked"
-msgstr ""
+msgstr "잠금 해제됨"
 
 msgctxt "gui/687"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "gui/688"
 msgid "Unlocked"
-msgstr ""
+msgstr "잠금 해제됨"
 
 msgctxt "gui/689"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "gui/690"
 msgid "Unlocked"
-msgstr ""
+msgstr "잠금 해제됨"
 
 msgctxt "gui/691"
 msgid "Press a key to bind to {0}."
@@ -2993,9 +3015,10 @@ msgid ""
 "allowing its bleakness to make a cynic of her."
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/717"
 msgid "Shinto"
-msgstr ""
+msgstr "신토"
 
 msgctxt "gui/718"
 msgid "Taoist"
@@ -3003,15 +3026,15 @@ msgstr ""
 
 msgctxt "gui/719"
 msgid "Cult of the Mushroom Cloud"
-msgstr ""
+msgstr "버섯 구름 광신도"
 
 msgctxt "gui/720"
 msgid "Ranger HQ Entrance"
-msgstr ""
+msgstr "레인저 본부 입구"
 
 msgctxt "gui/721"
 msgid "Ranger HQ Garage"
-msgstr ""
+msgstr "레인저 본부 차고"
 
 msgctxt "gui/722"
 msgid "Companion Roadblock"
@@ -3027,7 +3050,7 @@ msgstr ""
 
 msgctxt "gui/725"
 msgid "This vehicle must be repaired."
-msgstr ""
+msgstr "이 차량은 수리가 필요합니다."
 
 msgctxt "gui/726"
 msgid "Brawling Weapon"
@@ -3035,39 +3058,39 @@ msgstr ""
 
 msgctxt "gui/727"
 msgid "Blunt Weapon"
-msgstr ""
+msgstr "둔기"
 
 msgctxt "gui/728"
 msgid "Bladed Weapon"
-msgstr ""
+msgstr "도검"
 
 msgctxt "gui/729"
 msgid "Handgun"
-msgstr ""
+msgstr "권총"
 
 msgctxt "gui/730"
 msgid "Shotgun"
-msgstr ""
+msgstr "산탄총"
 
 msgctxt "gui/731"
 msgid "Assault Rifle"
-msgstr ""
+msgstr "돌격소총"
 
 msgctxt "gui/732"
 msgid "Submachine Gun"
-msgstr ""
+msgstr "기관단총"
 
 msgctxt "gui/733"
 msgid "Sniper Rifle"
-msgstr ""
+msgstr "저격소총"
 
 msgctxt "gui/734"
 msgid "Energy Weapon"
-msgstr ""
+msgstr "에너지 무기"
 
 msgctxt "gui/735"
 msgid "Heavy Weapon"
-msgstr ""
+msgstr "중화기"
 
 msgctxt "gui/736"
 msgid "Uses {0}"
@@ -3075,15 +3098,15 @@ msgstr ""
 
 msgctxt "gui/737"
 msgid "9mm Ammo"
-msgstr ""
+msgstr "9 mm 탄약"
 
 msgctxt "gui/738"
 msgid ".45 Ammo"
-msgstr ""
+msgstr "45구경 탄약"
 
 msgctxt "gui/739"
 msgid "7.62mm Ammo"
-msgstr ""
+msgstr "7.62 mm 탄약"
 
 msgctxt "gui/740"
 msgid "Shotgun Shells"
@@ -3103,15 +3126,15 @@ msgstr ""
 
 msgctxt "gui/744"
 msgid "5.56mm Ammo"
-msgstr ""
+msgstr "5.56 mm 탄약"
 
 msgctxt "gui/745"
 msgid "Flamethrower Fuel"
-msgstr ""
+msgstr "화염방사기 연료"
 
 msgctxt "gui/746"
 msgid "Ammunition"
-msgstr ""
+msgstr "탄약"
 
 msgctxt "gui/747"
 msgid "Mission Critical Item"
@@ -3171,7 +3194,7 @@ msgstr ""
 
 msgctxt "gui/761"
 msgid "Combat Started"
-msgstr ""
+msgstr "전투 시작"
 
 msgctxt "gui/762"
 msgid "Entry Road"
@@ -3207,7 +3230,7 @@ msgstr ""
 
 msgctxt "gui/771"
 msgid "Ally Squad Member"
-msgstr ""
+msgstr "아군 분대원"
 
 msgctxt "gui/772"
 msgid "Multiplayer Partner Indicator"
@@ -3235,19 +3258,19 @@ msgstr ""
 
 msgctxt "gui/778"
 msgid "Hide Armor"
-msgstr ""
+msgstr "가죽 방어구"
 
 msgctxt "gui/779"
 msgid "Hide Chat Window"
-msgstr ""
+msgstr "대화창 숨기기"
 
 msgctxt "gui/780"
 msgid "Send"
-msgstr ""
+msgstr "보내기"
 
 msgctxt "gui/781"
 msgid "Exit the canyon"
-msgstr ""
+msgstr "협곡 나가기"
 
 msgctxt "gui/782"
 msgid "River Outlet"
@@ -3259,15 +3282,15 @@ msgstr ""
 
 msgctxt "gui/784"
 msgid "CON: {0}/{1}"
-msgstr ""
+msgstr "체력: {0}/{1}"
 
 msgctxt "gui/785"
 msgid "Restrict Mouse to Window"
-msgstr ""
+msgstr "커서를 윈도우 안으로 제한"
 
 msgctxt "gui/786"
 msgid "Camera Follows On Move"
-msgstr ""
+msgstr "캐릭터 이동시 카메라가 따라감"
 
 msgctxt "gui/787"
 msgid "A player-created character is required in each party."
@@ -3275,51 +3298,52 @@ msgstr ""
 
 msgctxt "gui/788"
 msgid "Learned Perks"
-msgstr ""
+msgstr "습득한 특성"
 
 msgctxt "gui/789"
 msgid "Available Perks"
-msgstr ""
+msgstr "사용가능한 특성"
 
 msgctxt "gui/790"
 msgid "Show Unavailable Perks"
-msgstr ""
+msgstr "사용 불가능한 특성 보이기"
 
 msgctxt "gui/791"
 msgid "Hide Unavailable Perks"
-msgstr ""
+msgstr "사용 불가능한 특성 숨기기"
 
 msgctxt "gui/792"
 msgid "Unavailable Perks"
-msgstr ""
+msgstr "사용 불가능한 특성"
 
 msgctxt "gui/793"
 msgid "Ranger Allegiance"
-msgstr ""
+msgstr "레인저 충성도"
 
 msgctxt "gui/794"
 msgid "Rebellious"
-msgstr ""
+msgstr "반항적인"
 
 msgctxt "gui/795"
 msgid "Disgruntled"
-msgstr ""
+msgstr "불만스러운"
 
 msgctxt "gui/796"
 msgid "Uncertain"
-msgstr ""
+msgstr "확신이 없는"
 
 msgctxt "gui/797"
 msgid "Loyal"
-msgstr ""
+msgstr "충성스러운"
 
 msgctxt "gui/798"
 msgid "Steadfast"
-msgstr ""
+msgstr "변함없는"
 
+#, fuzzy
 msgctxt "gui/799"
 msgid "Smuggler's Camp"
-msgstr ""
+msgstr "밀수업자 야영지"
 
 msgctxt "gui/800"
 msgid "Loot"
@@ -3347,7 +3371,7 @@ msgstr "영구 사망"
 
 msgctxt "gui/806"
 msgid "Reload ({0} AP)"
-msgstr ""
+msgstr "재장전 ({0} 행동력)"
 
 msgctxt "gui/807"
 msgid "Ironman Mode"
@@ -3355,7 +3379,7 @@ msgstr "철인 모드"
 
 msgctxt "gui/808"
 msgid "Hide Skill Requirements"
-msgstr ""
+msgstr "기술 요구사항 숨김"
 
 msgctxt "gui/809"
 msgid ""
@@ -3385,7 +3409,7 @@ msgctxt "gui/812"
 msgid ""
 "If enabled, skill checks you do not meet the requirements for will not show "
 "their required skill level."
-msgstr ""
+msgstr "활성화되면 기술 요구사항을 만족하지 못한 기술 선택지는 요구되는 기술 레벨을 표시하지 않습니다."
 
 msgctxt "gui/813"
 msgid "Reload ({0} AP)/Switch (Hold)"
@@ -3393,11 +3417,11 @@ msgstr ""
 
 msgctxt "gui/814"
 msgid "Auto-Reload After Combat"
-msgstr ""
+msgstr "전투 후 자동 재장전"
 
 msgctxt "gui/815"
 msgid "{0} [{1}]"
-msgstr ""
+msgstr "{0} [{1}]"
 
 msgctxt "gui/816"
 msgid "Reload/Switch (Hold)"
@@ -3413,7 +3437,7 @@ msgstr ""
 
 msgctxt "gui/819"
 msgid "Skill Book"
-msgstr ""
+msgstr "기술 책"
 
 msgctxt "gui/820"
 msgid "Animal Tamed"
