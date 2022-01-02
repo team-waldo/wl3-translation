@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-02 13:57+0000\n"
-"Last-Translator: cosgenio <cosgenio@gmail.com>\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2317,7 +2317,7 @@ msgstr "콜로라도 [전체 지도]"
 
 msgctxt "gui/572"
 msgid "Western White House"
-msgstr ""
+msgstr "서부 백악관"
 
 #, fuzzy
 msgctxt "gui/573"
@@ -2355,7 +2355,7 @@ msgstr "구역을 벗어날 수 없습니다"
 
 msgctxt "gui/583"
 msgid "Could not find the target game session."
-msgstr ""
+msgstr "대상 게임 세션을 찾을 수 없습니다."
 
 msgctxt "gui/584"
 msgid "Error"
@@ -2380,7 +2380,7 @@ msgstr "차량 부품 해제됨: {0}"
 
 msgctxt "gui/589"
 msgid "{0} used!"
-msgstr ""
+msgstr "{0} 사용됨!"
 
 msgctxt "gui/590"
 msgid "Failed to create the game session."
@@ -2528,11 +2528,11 @@ msgstr ""
 
 msgctxt "gui/627"
 msgid "Reputation"
-msgstr ""
+msgstr "평판"
 
 msgctxt "gui/628"
 msgid "Fame"
-msgstr ""
+msgstr "명성"
 
 msgctxt "gui/629"
 msgid "Unknown"
@@ -2552,19 +2552,19 @@ msgstr ""
 
 msgctxt "gui/633"
 msgid "Renowned"
-msgstr ""
+msgstr "유명함"
 
 msgctxt "gui/634"
 msgid "Fame & Reputation"
-msgstr ""
+msgstr "명성과 평판"
 
 msgctxt "gui/635"
 msgid "Hated"
-msgstr ""
+msgstr "증오함"
 
 msgctxt "gui/636"
 msgid "Disliked"
-msgstr ""
+msgstr "싫어함"
 
 msgctxt "gui/637"
 msgid "Neutral"
@@ -2572,7 +2572,7 @@ msgstr "중립적"
 
 msgctxt "gui/638"
 msgid "Liked"
-msgstr ""
+msgstr "좋아함"
 
 msgctxt "gui/639"
 msgid "Loved"
@@ -2580,7 +2580,7 @@ msgstr ""
 
 msgctxt "gui/640"
 msgid "Hundred Families"
-msgstr ""
+msgstr "백가문"
 
 msgctxt "gui/641"
 msgid "Patriarch's Marshals"
