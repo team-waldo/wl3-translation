@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-04 15:57+0000\n"
-"Last-Translator: 임창묵 <studiochanbi@gmail.com>\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2233,7 +2233,7 @@ msgstr "발각된 것 같나요? 멈춰서, 숨을 죽이고, 잠깐만 기다�
 
 msgctxt "perks/392"
 msgid "25% chance to catch on fire when using explosives."
-msgstr ""
+msgstr "폭발물을 사용할 때 25% 확률로 몸에 불이 붙습니다."
 
 msgctxt "perks/393"
 msgid "Minesweeper"
