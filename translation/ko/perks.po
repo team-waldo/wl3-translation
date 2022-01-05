@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-06 11:57+0000\n"
-"Last-Translator: 임창묵 <studiochanbi@gmail.com>\n"
+"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2480,7 +2480,7 @@ msgstr "배치된 무기가 +25%의 체력을 획득하고 +25%의 피해를 입
 
 msgctxt "perks/439"
 msgid "Disarming land mines has a 33% chance to drop a grenade"
-msgstr ""
+msgstr "지뢰를 해체하면 33%의 확률로 수류탄을 획득합니다"
 
 msgctxt "perks/440"
 msgid "Hacked robots gain +2 AP."
