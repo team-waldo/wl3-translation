@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-06 11:57+0000\n"
-"Last-Translator: 성명 <cvbx179@gmail.com>\n"
+"Last-Translator: 임창묵 <studiochanbi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2395,7 +2395,7 @@ msgstr "당신의 주먹은 허리케인 같으며, 치명적이기까지 합니
 
 msgctxt "perks/419"
 msgid "Brawling attacks cost -1 AP."
-msgstr "격투 공격이 -1 AP를 소모합니다."
+msgstr "격투 공격이 -1 행동력을 소모합니다."
 
 msgctxt "perks/420"
 msgid "Striking Distance"
@@ -2472,7 +2472,7 @@ msgstr "손재주"
 
 msgctxt "perks/437"
 msgid "You know how to get the most out of your tools."
-msgstr "당신은 도구를 최대한 활용할 수 있는 방법을 알고 있어요."
+msgstr "당신은 도구를 최대한 활용할 수 있는 방법을 알고 있습니다."
 
 msgctxt "perks/438"
 msgid "Deployables gain +25% CON and deal +25% damage."
