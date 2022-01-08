@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-07 12:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"PO-Revision-Date: 2022-01-08 15:57+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -13,42 +13,34 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#, fuzzy
 msgctxt "perks/0"
 msgid " Test Perk"
 msgstr " 시험용 특성"
 
-#, fuzzy
 msgctxt "perks/1"
 msgid " This is a test perk. It is very perky."
 msgstr " 시험용 특성입니다. 아주 실험적인 특성이죠."
 
-#, fuzzy
 msgctxt "perks/2"
 msgid " Requirement Perk"
-msgstr " 조건부 특성"
+msgstr " 조건필요 퍽"
 
-#, fuzzy
 msgctxt "perks/3"
 msgid " This is a perk with requirements."
 msgstr " 특정한 조건이 필요한 특성입니다."
 
-#, fuzzy
 msgctxt "perks/4"
 msgid " Ability Perk"
 msgstr " 능력 추가 특성"
 
-#, fuzzy
 msgctxt "perks/5"
 msgid " This perk will grant you a really cool ability."
 msgstr " 상당히 멋진 능력을 제공하는 특성입니다."
 
-#, fuzzy
 msgctxt "perks/6"
 msgid "Bloodlust"
 msgstr "피의 갈증"
 
-#, fuzzy
 msgctxt "perks/7"
 msgid ""
 "You want blood. Crave it. Need it. In battle, you can slice yourself and let "
@@ -70,7 +62,6 @@ msgctxt "perks/10"
 msgid "You are a relatively unexceptional person."
 msgstr "당신은 비교적 평범한 사람입니다."
 
-#, fuzzy
 msgctxt "perks/11"
 msgid "Grumpy"
 msgstr "괴팍함"
@@ -84,12 +75,10 @@ msgstr ""
 "당신은 언제나 기분이 좋지 않습니다. 이런 특성은 당신에게 뛰어난 언변 실력을 주진 않지만, 사람들은 당장이라도 당신을 눈앞에서 "
 "치워버리고 싶은 마음에 당신이 하는 행동을 제지하지 않는 편입니다."
 
-#, fuzzy
 msgctxt "perks/13"
 msgid "Ascetic"
 msgstr "수도승"
 
-#, fuzzy
 msgctxt "perks/14"
 msgid ""
 "You were raised by monks in a small monastic order. Regardless of your "
@@ -133,7 +122,6 @@ msgid ""
 "Right or wrong, you have an uncommon talent for teaching animals to murder."
 msgstr "옳고 그름을 따질 순 없지만, 당신은 동물에게 살해 명령을 가르칠 수 있는 보기 드문 능력을 가지고 있습니다."
 
-#, fuzzy
 msgctxt "perks/19"
 msgid "Spirit Animal"
 msgstr "영물"
