@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-06 11:57+0000\n"
-"Last-Translator: 임창묵 <studiochanbi@gmail.com>\n"
+"PO-Revision-Date: 2022-01-08 15:57+0000\n"
+"Last-Translator: Stellar <xlsksh3@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -327,15 +327,15 @@ msgstr ""
 
 msgctxt "items/86"
 msgid "Robot Room Key "
-msgstr ""
+msgstr "로봇실 열쇠 "
 
 msgctxt "items/87"
 msgid "Unlocks the robot storage room. "
-msgstr ""
+msgstr "로봇 저장실의 잠금을 풉니다. "
 
 msgctxt "items/88"
 msgid "Unlocks the robot storage room. "
-msgstr ""
+msgstr "로봇 저장실의 잠금을 풉니다. "
 
 msgctxt "items/89"
 msgid "Robot Recovery Disk "
@@ -347,15 +347,15 @@ msgstr ""
 
 msgctxt "items/91"
 msgid "Use on Robot Conrol Console. "
-msgstr ""
+msgstr "로봇 제어 콘솔에 사용됩니다. "
 
 msgctxt "items/92"
 msgid "Methane Pump"
-msgstr ""
+msgstr "메탄 펌프"
 
 msgctxt "items/93"
 msgid "Attach to the methane vent in the Cave of the Winds."
-msgstr ""
+msgstr "바람의 동굴에 있는 메탄 배출구에 부착하십시오."
 
 msgctxt "items/94"
 msgid "Winch Key"
@@ -371,23 +371,23 @@ msgstr ""
 
 msgctxt "items/97"
 msgid "Michael's Note"
-msgstr ""
+msgstr "마이클의 노트"
 
 msgctxt "items/98"
 msgid "Says - \"OOC pg 143\""
-msgstr ""
+msgstr "\"옛콜무 143쪽\"이라고 합니다."
 
 msgctxt "items/99"
 msgid "\"Outlaws of Old Colorado\""
-msgstr ""
+msgstr "\"옛 콜로라도의 무법자들\""
 
 msgctxt "items/100"
 msgid "A book about notable crimes from the frontier era."
-msgstr ""
+msgstr "개척시기의 유명한 범죄자들에 관한 책입니다."
 
 msgctxt "items/101"
 msgid "Michael's Desk"
-msgstr ""
+msgstr "마이클의 책상"
 
 msgctxt "items/102"
 msgid "Fairplay Gazette Obituary"
@@ -405,7 +405,7 @@ msgctxt "items/105"
 msgid ""
 "A collection of medical tools and equipment that can be used to perform "
 "treatment on the battlefield. Requires training in First Aid."
-msgstr ""
+msgstr "전장에서 치료를 하는데 사용될 수 있는 의료 도구와 장비들의 모음입니다. 구급법 훈련이 필요합니다."
 
 msgctxt "items/106"
 msgid ""
@@ -685,7 +685,7 @@ msgstr ""
 
 msgctxt "items/172"
 msgid "Nuclear Battery"
-msgstr ""
+msgstr "핵 배터리"
 
 msgctxt "items/173"
 msgid "Black Lung Sample"
@@ -697,17 +697,17 @@ msgstr ""
 
 msgctxt "items/175"
 msgid "Medical Supply 2"
-msgstr ""
+msgstr "의료 보급품 2"
 
 msgctxt "items/176"
 msgid "Psychoactive Gas Grenade"
-msgstr ""
+msgstr "정신작용 가스 수류탄"
 
 msgctxt "items/177"
 msgid ""
 "A specialized grenade that unleashes a burst of gas that lingers in an area. "
 "Anyone affected by it is slowed by its mind-altering effects."
-msgstr ""
+msgstr "구역에 남는 폭발가스를 방출하는 특수한 수류탄입니다. 이 수류탄에 영향받은 자는 환각작용에 의해 느려집니다."
 
 msgctxt "items/178"
 msgid "Suture Kit"
@@ -862,7 +862,7 @@ msgstr " 레이저를 쏠 수 있을 지도 모르지만, 어디에다 설치하
 
 msgctxt "items/214"
 msgid " Nancy robe"
-msgstr ""
+msgstr " 낸시 예복"
 
 msgctxt "items/215"
 msgid " Worn by the Wives of Reagan, and the height of cult-scene fashion."
@@ -1078,11 +1078,11 @@ msgstr ""
 
 msgctxt "items/270"
 msgid " Computer Room Keycard"
-msgstr ""
+msgstr " 컴퓨터실 키카드"
 
 msgctxt "items/271"
 msgid " Computer Room Keycard"
-msgstr ""
+msgstr " 컴퓨터실 키카드"
 
 msgctxt "items/272"
 msgid " D-Con Room Keycard"
@@ -1094,19 +1094,19 @@ msgstr ""
 
 msgctxt "items/274"
 msgid " Engine Room Keycard"
-msgstr ""
+msgstr " 기관실 키카드"
 
 msgctxt "items/275"
 msgid " Engine Room Keycard"
-msgstr ""
+msgstr " 기관실 키카드"
 
 msgctxt "items/276"
 msgid " Forklift Transponder"
-msgstr ""
+msgstr " 지게차 송수신기"
 
 msgctxt "items/277"
 msgid " Forklift Transponder"
-msgstr ""
+msgstr " 지게차 송수신기"
 
 msgctxt "items/278"
 msgid " Lab E.B.D. Keycard"
@@ -1206,35 +1206,35 @@ msgstr ""
 
 msgctxt "items/302"
 msgid " Morgue Keycard"
-msgstr ""
+msgstr " 영안실 키카드"
 
 msgctxt "items/303"
 msgid " Morgue Keycard"
-msgstr ""
+msgstr " 영안실 키카드"
 
 msgctxt "items/304"
 msgid " Drug Storeroom Keycard"
-msgstr ""
+msgstr " 약품 보관소 키카드"
 
 msgctxt "items/305"
 msgid " Drug Storeroom Keycard"
-msgstr ""
+msgstr " 약품 보관소 키카드"
 
 msgctxt "items/306"
 msgid " DNA Storage Keycard"
-msgstr ""
+msgstr " DNA 저장고 키카드"
 
 msgctxt "items/307"
 msgid " DNA Storage Keycard"
-msgstr ""
+msgstr " DNA 저장고 키카드"
 
 msgctxt "items/308"
 msgid "Light Cannon Turret"
-msgstr ""
+msgstr "소구경 기관포 포탑"
 
 msgctxt "items/309"
 msgid "Heavy Cannon Turret"
-msgstr ""
+msgstr "중구경 기관포 포탑"
 
 msgctxt "items/310"
 msgid "Artillery Cannon"
@@ -1242,77 +1242,77 @@ msgstr ""
 
 msgctxt "items/311"
 msgid "Light Machine Turret"
-msgstr ""
+msgstr "소구경 기관총 포탑"
 
 msgctxt "items/312"
 msgid "Heavy Machine Turret"
-msgstr ""
+msgstr "대구경 기관총 포탑"
 
 msgctxt "items/313"
 msgid "Minigun Turret"
-msgstr ""
+msgstr "미니건 포탑"
 
 msgctxt "items/314"
 msgid "Laser Turret"
-msgstr ""
+msgstr "레이저 포탑"
 
 msgctxt "items/315"
 msgid "Plasma Turret"
-msgstr ""
+msgstr "플라즈마 포탑"
 
 msgctxt "items/316"
 msgid "Fusion Turret"
-msgstr ""
+msgstr "융합 포탑"
 
 msgctxt "items/317"
 msgid " Special Ops Center Keycard"
-msgstr ""
+msgstr " 특수작전부 키카드"
 
 msgctxt "items/318"
 msgid " Special Ops Center Keycard"
-msgstr ""
+msgstr " 특수작전부 키카드"
 
 msgctxt "items/319"
 msgid " Generator Room Keycard"
-msgstr ""
+msgstr " 발전실 키카드"
 
 msgctxt "items/320"
 msgid " Generator Room Keycard"
-msgstr ""
+msgstr " 발전실 키카드"
 
 msgctxt "items/321"
 msgid " The Obliterator Mk2"
-msgstr ""
+msgstr " 말살자 Mk2"
 
 msgctxt "items/322"
 msgid ""
 " You can hardly keep from screaming \"UNLIMITED POWAAHHH\" at the top of "
 "your lungs."
-msgstr ""
+msgstr " \"언리미티드 빠와아아\"라고 목이 터져라 외치고 싶은걸 간신히 참게 될겁니다."
 
 msgctxt "items/323"
 msgid " Bulkhead Keycard"
-msgstr ""
+msgstr " 격벽 키카드"
 
 msgctxt "items/324"
 msgid " Bulkhead Keycard"
-msgstr ""
+msgstr " 격벽 키카드"
 
 msgctxt "items/325"
 msgid " Firing Chamber Keycard"
-msgstr ""
+msgstr " 연소실 키카드"
 
 msgctxt "items/326"
 msgid " Firing Chamber Keycard"
-msgstr ""
+msgstr " 연소실 키카드"
 
 msgctxt "items/327"
 msgid "VR Helmet"
-msgstr ""
+msgstr "VR 헬멧"
 
 msgctxt "items/328"
 msgid "Status Effect Tester"
-msgstr ""
+msgstr "상태 효과 테스터기"
 
 msgctxt "items/329"
 msgid "Use to apply the status effect attached to this item! Nummy."
@@ -1320,13 +1320,13 @@ msgstr ""
 
 msgctxt "items/330"
 msgid "Tinker's Head"
-msgstr ""
+msgstr "땜장이의 머리"
 
 msgctxt "items/331"
 msgid ""
 "The head of a female synth. She survived the death of Cochise only to die in "
 "Colorado."
-msgstr ""
+msgstr "여성 신스의 머리입니다. 그저 콜로라도에서 죽기위해 코치스의 죽음에서도 살아남았습니다."
 
 msgctxt "items/332"
 msgid "Test Medic Pack"
@@ -1334,11 +1334,11 @@ msgstr "Test Medic Pack"
 
 msgctxt "items/333"
 msgid "Heals 10 CON when used."
-msgstr ""
+msgstr "사용 시 10 체력을 회복합니다."
 
 msgctxt "items/334"
 msgid "Cucaracha's Corpse"
-msgstr ""
+msgstr "쿠카라차의 시체"
 
 msgctxt "items/335"
 msgid ""
@@ -1357,7 +1357,7 @@ msgstr ""
 
 msgctxt "items/338"
 msgid "Betamax Player"
-msgstr ""
+msgstr "베타맥스 플레이어"
 
 msgctxt "items/339"
 msgid ""
@@ -1367,7 +1367,7 @@ msgstr ""
 
 msgctxt "items/340"
 msgid "Betamax Tape"
-msgstr ""
+msgstr "베타맥스 테이프"
 
 msgctxt "items/341"
 msgid ""
@@ -1527,15 +1527,15 @@ msgstr "갓피셔들은 인간의 피부로 만든 연들을 하늘에 재물을
 
 msgctxt "items/376"
 msgid "Admin Office Key"
-msgstr ""
+msgstr "관리 사무실 열쇠"
 
 msgctxt "items/377"
 msgid "Employee Lounge Key"
-msgstr ""
+msgstr "직원 휴게실 열쇠"
 
 msgctxt "items/378"
 msgid "Gift Shop Key"
-msgstr ""
+msgstr "기념품점 열쇠"
 
 msgctxt "items/379"
 msgid "Gondola Building Key"
@@ -2308,7 +2308,7 @@ msgstr "사람들을 일순간에 붉은 안개로 바꿔줄 수 있는 초고�
 
 msgctxt "items/543"
 msgid "Greaser"
-msgstr ""
+msgstr "그리서"
 
 msgctxt "items/544"
 msgid "This old-school submachine gun is perfect for clearing trenches."
@@ -2546,7 +2546,7 @@ msgstr " 금이 가고 색이 바랜 아기를 닮은 인형입니다. 인형을
 
 msgctxt "items/604"
 msgid "Patriarch Wing Key"
-msgstr ""
+msgstr "패트리아크의 별관 열쇠"
 
 msgctxt "items/605"
 msgid "Picture of The Gift"
@@ -2598,7 +2598,7 @@ msgstr "누군가 이 무기를 훌륭하게 관리해왔습니다. 꼼꼼하게
 
 msgctxt "items/616"
 msgid "Pressure Cooker"
-msgstr ""
+msgstr "압력밥솥"
 
 msgctxt "items/617"
 msgid ""
@@ -2607,6 +2607,8 @@ msgid ""
 "prevent the vehicle from acting during that time as the drivers attempt to "
 "put out the fire."
 msgstr ""
+"적 차량의 창문으로 화염을 분사합니다. 불꽃과 연기가 차량의 체력 10%의 화염 피해를 다음 2턴간 입히며 운전자가 불을 끄는 동안 "
+"차량의 행동을 막습니다."
 
 msgctxt "items/618"
 msgid "Slave Pen Key"
@@ -3185,17 +3187,17 @@ msgctxt "items/744"
 msgid ""
 "These small lead rods can be attached in pairs to give melee weapons more "
 "heft and bigger swings."
-msgstr ""
+msgstr "이 작은 납봉들은 근접 무기에 더 많은 중량과 더 큰 스윙을 주기 위해 쌍으로 부착될 수 있습니다."
 
 msgctxt "items/745"
 msgid "Grand Slam Weights"
-msgstr ""
+msgstr "그랜드슬램 무게추"
 
 msgctxt "items/746"
 msgid ""
 "These spent uranium pegs weigh a lot more than they look. Anything you "
 "attach them to is going to pack a wallop."
-msgstr ""
+msgstr "이 사용후우라늄 말뚝은 보기보다 상당히 무겁습니다. 뭐든지 이걸 붙인다면 한방 먹일 수 있을겁니다."
 
 msgctxt "items/747"
 msgid "Counterforce Weights"
@@ -3209,43 +3211,44 @@ msgstr ""
 
 msgctxt "items/749"
 msgid "Tactical Grip"
-msgstr ""
+msgstr "전술 손잡이"
 
 msgctxt "items/750"
 msgid "The little plastic nubs actually do make it easier to hold your weapon."
-msgstr ""
+msgstr "이 조그마한 플라스틱 조각은 실제로 당신이 무기를 더 편하게 잡을 수 있도록 해줍니다."
 
 msgctxt "items/751"
 msgid "Tape Grip"
-msgstr ""
+msgstr "테이프 손잡이"
 
 msgctxt "items/752"
 msgid ""
 "A few wraps of industrial tape makes the grip a little more tacky in the "
 "palm."
-msgstr ""
+msgstr "약간의 산업용 테이프 몇겹으로 손잡이를 좀 더 손바닥에 진득히 달라붙게 만들 수 있습니다."
 
 msgctxt "items/753"
 msgid "Grooved Grip"
-msgstr ""
+msgstr "요철 손잡이"
 
+#, fuzzy
 msgctxt "items/754"
 msgid ""
 "Finger channels in the handle improve comfort and reduce accidental slips."
-msgstr ""
+msgstr "손잡이의 손가락 홈들이 편안함을 향상시키며 실수로 미끄러트리는 경우를 줄여줍니다."
 
 msgctxt "items/755"
 msgid "Rubber Grip"
-msgstr ""
+msgstr "고무 손잡이"
 
 msgctxt "items/756"
 msgid ""
 "If you're gonna be knockin' heads, why not be comfortable while you do it?"
-msgstr ""
+msgstr "대갈통을 두들길거라면 편하게 하는게 더 좋지 않을까요?"
 
 msgctxt "items/757"
 msgid "Overmolded Grip"
-msgstr ""
+msgstr "오버몰드 손잡이"
 
 msgctxt "items/758"
 msgid ""
@@ -3255,92 +3258,92 @@ msgstr ""
 
 msgctxt "items/759"
 msgid "Fiberglass Grip"
-msgstr ""
+msgstr "유리섬유 손잡이"
 
 msgctxt "items/760"
 msgid ""
 "This strong polymer handle is extremely light as well as impervious to "
 "bloodstains."
-msgstr ""
+msgstr "이 튼튼한 고분자 중합체 손잡이는 극도로 가벼우며 불침투성이기에 핏자국이 남지 않습니다."
 
 msgctxt "items/761"
 msgid "Nightstick"
-msgstr ""
+msgstr "야경봉"
 
 msgctxt "items/762"
 msgid ""
 "Law enforcement has clearly drifted away from the whole 'non-lethal weapon' "
 "idea."
-msgstr ""
+msgstr "법 집행은 확실히 \"비살상 무기\"란 개념에서 완전히 멀어졌습니다."
 
 msgctxt "items/763"
 msgid "Bone Crusher"
-msgstr ""
+msgstr "뼈 분쇄기"
 
 msgctxt "items/764"
 msgid ""
 "It's a crusher, made of bones, but <i>also</i> an implement for crushing "
 "bones."
-msgstr ""
+msgstr "뼈로 만들어진 분쇄기입니다. <i>또한</i> 뼈를 부수는데 사용되는 도구이기도 합니다."
 
 msgctxt "items/765"
 msgid "Road Warrior"
-msgstr ""
+msgstr "로드 워리어"
 
 msgctxt "items/766"
 msgid ""
 "Old world roads were so dangerous that auto manufacturers used to install "
 "these deadly clubs in every new vehicle."
-msgstr ""
+msgstr "구 세계의 도로는 매우 위험해서 차량 제조업체들이 이런 무시무시한 몽둥이를 모든 신차에 설치하고는 했습니다."
 
 msgctxt "items/767"
 msgid "Ace's Wrench"
-msgstr ""
+msgstr "에이스의 렌치"
 
 msgctxt "items/768"
 msgid ""
 "Well-oiled and polished, this tool is in perfect condition to tighten bolts "
 "and loosen skulls."
-msgstr ""
+msgstr "잘 기름칠되고 윤이나는 이 공구는 볼트를 조이고 뼈를 헐겁게 하는데 딱 좋은 상태입니다."
 
 msgctxt "items/769"
 msgid "Chain Flail"
-msgstr ""
+msgstr "사슬 도리깨"
 
 msgctxt "items/770"
 msgid ""
 "This improvised flail looks like it would leave more than just a bruise."
-msgstr ""
+msgstr "이 급조 도리깨는 멍보다는 더 한 것을 남길 것 같습니다."
 
 msgctxt "items/771"
 msgid "Mining Mallet"
-msgstr ""
+msgstr "채굴용 망치"
 
 msgctxt "items/772"
 msgid "This old sledge has outlived a dozen owners since the war."
-msgstr ""
+msgstr "이 낡은 슬레지해머는 전쟁 후 한 다스가량 되는 주인들보다 더 오래 살았습니다."
 
 msgctxt "items/773"
 msgid "Shock Mace"
-msgstr ""
+msgstr "충격 철퇴"
 
 msgctxt "items/774"
 msgid ""
 "Believe it or not, these weapons were born out of a prank war that got out "
 "of hand."
-msgstr ""
+msgstr "이 무기들은 수습할 수가 없는 장난 전쟁 중에 탄생했습니다. 믿거나 말거나."
 
 msgctxt "items/775"
 msgid "Makeshift Mace"
-msgstr ""
+msgstr "급조 철퇴"
 
 msgctxt "items/776"
 msgid "It gets the job done. Ain't no law against ugly."
-msgstr ""
+msgstr "이 물건은 제 할일은 다 해냅니다. 못생기지 말라는 법은 없잖습니까."
 
 msgctxt "items/777"
 msgid "Engine Block Sledge"
-msgstr ""
+msgstr "엔진블록 망치"
 
 msgctxt "items/778"
 msgid ""
@@ -3350,12 +3353,12 @@ msgstr ""
 
 msgctxt "items/779"
 msgid "Nightstick"
-msgstr ""
+msgstr "야경봉"
 
 msgctxt "items/780"
 msgid ""
 "A police-style baton. You're skeptical of its \"less than lethal\" design."
-msgstr ""
+msgstr "경찰 스타일의 바톤입니다. 당신은 \"덜 치명적\"인 디자인이라는 것에 회의적입니다."
 
 msgctxt "items/781"
 msgid "Rammer"
@@ -3365,31 +3368,32 @@ msgctxt "items/782"
 msgid ""
 "A hydraulic system amplifies the hammer's impact force. Don't drop it on "
 "your foot."
-msgstr ""
+msgstr "유압계통이 망치의 충격력을 증폭시켜줍니다. 발에 떨어뜨리지만 마세요."
 
 msgctxt "items/783"
 msgid "Hydraulic Hammer"
-msgstr ""
+msgstr "유압 망치"
 
 msgctxt "items/784"
 msgid "Plasma Hammer"
-msgstr ""
+msgstr "플라즈마 망치"
 
 msgctxt "items/785"
 msgid "Scientists finally found a way to embody <i>Fuck You</i> in a weapon."
-msgstr ""
+msgstr "과학자들이 마침내 무기에 \"니애미\"를 담을 수 있는 방법을 발견했습니다."
 
 msgctxt "items/786"
 msgid "Hand of the Patriarch"
-msgstr ""
+msgstr "패트리아크의 손"
 
 msgctxt "items/787"
 msgid "The hand of the man that united Colorado."
-msgstr ""
+msgstr "콜로라도를 통일시킨 자의 손입니다."
 
+#, fuzzy
 msgctxt "items/788"
 msgid "Bladed Ski Pole"
-msgstr ""
+msgstr "날달린 스키 막대"
 
 msgctxt "items/789"
 msgid ""
@@ -3397,15 +3401,16 @@ msgid ""
 "front, party in the back."
 msgstr ""
 
+#, fuzzy
 msgctxt "items/790"
 msgid "Ice Axe"
-msgstr ""
+msgstr "빙벽등반용 도끼"
 
 msgctxt "items/791"
 msgid ""
 "These sturdy axes are valued for their performance as a climbing tool and a "
 "lightweight weapon."
-msgstr ""
+msgstr "이 튼튼한 도끼는 등반용 도구로나 경량 무기로나 성능이 확실합니다."
 
 msgctxt "items/792"
 msgid "Fireman"
@@ -3425,11 +3430,11 @@ msgctxt "items/795"
 msgid ""
 "Something about this jagged, rusty spear makes you question the dentist's "
 "credentials."
-msgstr ""
+msgstr "이 삐죽삐죽하고 녹슨 창의 무언가는 치과의사의 자격증에 대한 의구심을 불러일으킵니다."
 
 msgctxt "items/796"
 msgid "Sickle"
-msgstr ""
+msgstr "낫"
 
 msgctxt "items/797"
 msgid "May your harvest be bountiful."
@@ -3437,7 +3442,7 @@ msgstr ""
 
 msgctxt "items/798"
 msgid "Flayer"
-msgstr ""
+msgstr "박피기"
 
 msgctxt "items/799"
 msgid "What this conjoined monstrosity lacks in grace also lacks in subtlety."
@@ -3445,25 +3450,25 @@ msgstr ""
 
 msgctxt "items/800"
 msgid "Dorsey Family Sword"
-msgstr ""
+msgstr "돌시 가문의 검"
 
 msgctxt "items/801"
 msgid ""
 "Well-balanced, honed, and deadly. There are few blades of this craftsmanship "
 "left in the world."
-msgstr ""
+msgstr "잘 균형잡히고, 연마되어 있으며, 치명적입니다. 이런 장인정신이 깃든 날붙이들은 이 세상에 얼마 남지 않았습니다."
 
 msgctxt "items/802"
 msgid "Sawsword"
-msgstr ""
+msgstr "톱날검"
 
 msgctxt "items/803"
 msgid "With the blood rinsed off, it can also be used to trim carpet edges."
-msgstr ""
+msgstr "피만 씻어낸다면 카펫 끝부분을 손질하는데 쓸 수도 있습니다."
 
 msgctxt "items/804"
 msgid "Circular Saw"
-msgstr ""
+msgstr "회전 톱"
 
 msgctxt "items/805"
 msgid ""
@@ -3473,11 +3478,11 @@ msgstr ""
 
 msgctxt "items/806"
 msgid "Asger's Axe"
-msgstr ""
+msgstr "아스게르의 도끼"
 
 msgctxt "items/807"
 msgid "A large two-handed axe wielded by Asger Odinkirk."
-msgstr ""
+msgstr "아스게르 오딘커크가 휘두르던 커다란 양날도끼입니다."
 
 msgctxt "items/808"
 msgid "Cryo Cutter"
@@ -3487,29 +3492,29 @@ msgctxt "items/809"
 msgid ""
 "Cuts and freezes meat at the same time! So convenient! Now how much would "
 "you pay?"
-msgstr ""
+msgstr "고기를 자르는 것과 냉동을 동시에! 이 얼마나 편리한지! 이제 가격을 이야기 해보실까요?"
 
 msgctxt "items/810"
 msgid "Proton Axe"
-msgstr ""
+msgstr "양성자 도끼"
 
 msgctxt "items/811"
 msgid "The light from the cutting beam causes sunburns. That seems dangerous."
-msgstr ""
+msgstr "절단빔에서 나오는 빛이 일광화상을 일으킨다고 합니다. 위험해보이네요."
 
 msgctxt "items/812"
 msgid "Chainsaw Sword"
-msgstr ""
+msgstr "전기톱 검"
 
 msgctxt "items/813"
 msgid ""
 "The ultimate evolution of the sword merged with the ultimate evolution of "
 "the chainsaw, and you own it."
-msgstr ""
+msgstr "검의 궁극적인 진화와 전기톱의 궁극적인 진화가 합쳐졌습니다. 그리고 당신 것이죠."
 
 msgctxt "items/814"
 msgid "Cold weather gear"
-msgstr ""
+msgstr "방한구"
 
 msgctxt "items/815"
 msgid "Without protection, the cold will kill you."
@@ -3517,7 +3522,7 @@ msgstr ""
 
 msgctxt "items/816"
 msgid "Pulse Gun"
-msgstr ""
+msgstr "펄스건"
 
 msgctxt "items/817"
 msgid ""
@@ -3527,7 +3532,7 @@ msgstr ""
 
 msgctxt "items/818"
 msgid "Phase Blaster"
-msgstr ""
+msgstr "위상 블래스터"
 
 msgctxt "items/819"
 msgid ""
@@ -3543,11 +3548,11 @@ msgctxt "items/821"
 msgid ""
 "Its atomic beams scour targets like a sandblaster. Gruesome when applied to "
 "faces."
-msgstr ""
+msgstr "이 무기의 원자력 빔은 모래청소기마냥 표적을 날려버립니다만, 얼굴에 응용된다면 좀 소름끼칩니다."
 
 msgctxt "items/822"
 msgid "Shock Pistol"
-msgstr ""
+msgstr "충격 권총"
 
 msgctxt "items/823"
 msgid ""
@@ -3555,10 +3560,12 @@ msgid ""
 "option. Looks less like a real gun and more like someone duct-taped a giant "
 "battery to a pistol."
 msgstr ""
+"때때로 경비원들의 비살상 옵션으로서 황무지에서 쓰이고는 합니다. 진짜 총보다는 권총에 거대한 베터리를 덕트 테이프로 감은 것 처럼 "
+"보입니다."
 
 msgctxt "items/824"
 msgid "Photon Churner"
-msgstr ""
+msgstr "광자 교반기"
 
 msgctxt "items/825"
 msgid ""
@@ -3568,27 +3575,28 @@ msgstr ""
 
 msgctxt "items/826"
 msgid "Plasma Bolter"
-msgstr ""
+msgstr "플라즈마 볼터"
 
+#, fuzzy
 msgctxt "items/827"
 msgid ""
 "This high-tech crossbow flings globs of superdense plasma. Kind of a "
 "'sun-a-pult'."
-msgstr ""
+msgstr "이 하이테크 석궁은 초고밀도의 플라즈마 방울을 쏘아냅니다. 일종의 태양 투석기죠."
 
 msgctxt "items/828"
 msgid "Neutron Projector"
-msgstr ""
+msgstr "중성자 투사기"
 
 msgctxt "items/829"
 msgid ""
 "A deadly weapon. But if you only pull the trigger halfway, it just makes the "
 "target infertile."
-msgstr ""
+msgstr "치명적인 무기입니다만, 방아쇠를 절반만 당긴다면 표적을 불임으로 만들기만 합니다."
 
 msgctxt "items/830"
 msgid "Argon Lance"
-msgstr ""
+msgstr "아르곤 랜스"
 
 msgctxt "items/831"
 msgid ""
@@ -3606,24 +3614,26 @@ msgid ""
 "with all electronics in a short range in front of it. Any robots and synths "
 "would rightly fear a weapon like this."
 msgstr ""
+"이 특수제작된 무기는 사선상의 짦은 거리에 있는 전자장비들을 교란시키는 전자기 펄스를 발사합니다. 로봇이나 신스라면 누구나 이런 무기들을 "
+"두려워할 것입니다."
 
 msgctxt "items/834"
 msgid "Pulse Rifle"
-msgstr ""
+msgstr "펄스 소총"
 
 msgctxt "items/835"
 msgid ""
 "Not every new plasma cutting tool is adapted into a weapon, but this one "
 "was. Actually, most are."
-msgstr ""
+msgstr "모든 최신 플라즈마 절단공구가 무기로 재탄생하지는 않지만 이 물건은 그렇습니다. 사실, 대부분 그렇죠."
 
 msgctxt "items/836"
 msgid "Disguised Bread"
-msgstr ""
+msgstr "가짜 빵"
 
 msgctxt "items/837"
 msgid "Fusion Launcher"
-msgstr ""
+msgstr "핵융합 발사기"
 
 msgctxt "items/838"
 msgid ""
@@ -3633,7 +3643,7 @@ msgstr ""
 
 msgctxt "items/839"
 msgid "Lightning Staff"
-msgstr ""
+msgstr "전격 지팡이"
 
 msgctxt "items/840"
 msgid ""
@@ -3643,7 +3653,7 @@ msgstr ""
 
 msgctxt "items/841"
 msgid "Photon Cannon"
-msgstr ""
+msgstr "광자포"
 
 msgctxt "items/842"
 msgid ""
@@ -3653,27 +3663,28 @@ msgstr ""
 
 msgctxt "items/843"
 msgid "Tesla Arc Projector"
-msgstr ""
+msgstr "테슬라 아크 투사기"
 
+#, fuzzy
 msgctxt "items/844"
 msgid ""
 "Unleashes bolts of lightning that fry anything standing in range. You do not "
 "want to cross these streams."
-msgstr ""
+msgstr "번개줄기를 쏟아내 범위 안에 서있는 모든 것들을 튀겨버립니다. 이런 줄기를 사이를 건너고 싶지는 않을걸요."
 
 msgctxt "items/845"
 msgid ""
 "A slice of golden brown toast. It seems someone has glued on a small fake "
 "moustache and a pair of black sun glasses."
-msgstr ""
+msgstr "금빛 갈색의 토스트 한조각입니다. 누군가가 조그마한 가짜 콧수염과 검은 선글라스 한쌍을 붙여놓은 것 같습니다."
 
 msgctxt "items/846"
 msgid "Golden Potato"
-msgstr ""
+msgstr "금빛 감자"
 
 msgctxt "items/847"
 msgid "A solid gold potato. It appears to be engraved with four small hearts."
-msgstr ""
+msgstr "단단한 금 감자입니다. 4개의 작은 하트가 음각되어 있습니다."
 
 msgctxt "items/848"
 msgid " General3 DNA"
@@ -3685,7 +3696,7 @@ msgstr ""
 
 msgctxt "items/850"
 msgid "Radiation Grenade"
-msgstr ""
+msgstr "방사성 수류탄"
 
 msgctxt "items/851"
 msgid ""
@@ -3696,79 +3707,79 @@ msgstr ""
 
 msgctxt "items/852"
 msgid "Bear Fur"
-msgstr ""
+msgstr "곰 모피"
 
 msgctxt "items/853"
 msgid "It's nice and fuzzy."
-msgstr ""
+msgstr "복슬복슬하고 좋습니다."
 
 msgctxt "items/854"
 msgid "Bear Claw"
-msgstr ""
+msgstr "곰 발톱"
 
 msgctxt "items/855"
 msgid "Hang it around your neck and you'd look like a real nature lover."
-msgstr ""
+msgstr "이걸 목에다가 걸고 다닌다면 진정한 자연 애호가처럼 보일겁니다."
 
 msgctxt "items/856"
 msgid "Bear Pelt"
-msgstr ""
+msgstr "곰 생가죽"
 
 msgctxt "items/857"
 msgid "A fine bear pelt. Can be sold for a high sum."
-msgstr ""
+msgstr "휼륭한 곰 생가죽입니다. 고액에 팔 수 있을겁니다."
 
 msgctxt "items/858"
 msgid "Dog Tooth"
-msgstr ""
+msgstr "개 이빨"
 
 msgctxt "items/859"
 msgid "It's yellow and nasty."
-msgstr ""
+msgstr "노랗고 형편없습니다."
 
 msgctxt "items/860"
 msgid "Dog Shit"
-msgstr ""
+msgstr "개 똥"
 
 msgctxt "items/861"
 msgid "You're not sure why you'd want to pick this up."
-msgstr ""
+msgstr "당신은 스스로가 대체 왜 이걸 줍는건지 알 수가 없습니다."
 
 msgctxt "items/862"
 msgid "Dog Hide"
-msgstr ""
+msgstr "개 가죽"
 
 msgctxt "items/863"
 msgid "A fine dog hide. Can fetch a nice sum if sold."
-msgstr ""
+msgstr "휼륭한 개 가죽입니다. 팔린다면 꽤 괜찮은 가격일겁니다."
 
 msgctxt "items/864"
 msgid "Pig Skin"
-msgstr ""
+msgstr "돼지 가죽"
 
 msgctxt "items/865"
 msgid "Nice and supple."
-msgstr ""
+msgstr "탄력있고 좋습니다."
 
 msgctxt "items/866"
 msgid "Pig Tail"
-msgstr ""
+msgstr "돼지 꼬리"
 
 msgctxt "items/867"
 msgid "Coiled like a spring."
-msgstr ""
+msgstr "스프링처럼 휘감겨 있습니다."
 
 msgctxt "items/868"
 msgid "Bacon"
-msgstr ""
+msgstr "베이컨"
 
 msgctxt "items/869"
 msgid "It's crispy and delicious and hellishly greasy."
-msgstr ""
+msgstr "바삭하고, 맛있고, 개같이 기름집니다."
 
 msgctxt "items/870"
 msgid "Toad Eye"
-msgstr ""
+msgstr "두꺼비 눈"
 
 msgctxt "items/871"
 msgid "Here's lookin' at you, kid."
@@ -3776,39 +3787,39 @@ msgstr ""
 
 msgctxt "items/872"
 msgid "Toad Skin"
-msgstr ""
+msgstr "두꺼비 가죽"
 
 msgctxt "items/873"
 msgid "Bumpy and icky."
-msgstr ""
+msgstr "울퉁불퉁하고 기분 나쁩니다."
 
 msgctxt "items/874"
 msgid "Toad Tongue"
-msgstr ""
+msgstr "두꺼비 혀"
 
 msgctxt "items/875"
 msgid "It's covered in nasty toad slime."
-msgstr ""
+msgstr "역겨운 두꺼비 점액질로 덮여 있습니다."
 
 msgctxt "items/876"
 msgid "Goat Horn"
-msgstr ""
+msgstr "염소 뿔"
 
 msgctxt "items/877"
 msgid "It's twisted and pointy."
-msgstr ""
+msgstr "뒤틀려 있고 뾰족합니다."
 
 msgctxt "items/878"
 msgid "Goat Hide"
-msgstr ""
+msgstr "염소 가죽"
 
 msgctxt "items/879"
 msgid "A fine goat hide. A merchant would pay a decent sum for this."
-msgstr ""
+msgstr "휼륭한 염소 가죽입니다. 상인들이 이 가죽에 괜찮은 값을 지불할 것입니다."
 
 msgctxt "items/880"
 msgid "Goat Tail"
-msgstr ""
+msgstr "염소 꼬리"
 
 msgctxt "items/881"
 msgid ""
@@ -3818,16 +3829,16 @@ msgstr ""
 
 msgctxt "items/882"
 msgid "Giant Bison Hide"
-msgstr ""
+msgstr "거대물소 가죽"
 
 msgctxt "items/883"
 msgid ""
 "The hide of a giant bison. A merchant would pay a princely sum for this."
-msgstr ""
+msgstr "거대물소의 가죽입니다. 상인들이 이 가죽에 엄청난 값을 지불할 것입니다."
 
 msgctxt "items/884"
 msgid "Giant Bison Hoof"
-msgstr ""
+msgstr "거대물소 발굽"
 
 msgctxt "items/885"
 msgid "Its owner isn't gonna be hoofin' it any longer."
@@ -3835,19 +3846,19 @@ msgstr ""
 
 msgctxt "items/886"
 msgid "Giant Bison Horn"
-msgstr ""
+msgstr "거대물소 뿔"
 
 msgctxt "items/887"
 msgid "Some say that the horn of a bison is an aphrodisiac."
-msgstr ""
+msgstr "누군가는 물소의 뿔이 정력제라고 이야기 하기도 합니다."
 
 msgctxt "items/888"
 msgid "Lion Claw"
-msgstr ""
+msgstr "사자 발톱"
 
 msgctxt "items/889"
 msgid "Lion Claw description"
-msgstr ""
+msgstr "사자 발톱 설명"
 
 msgctxt "items/890"
 msgid "Lion Fang"
@@ -3891,15 +3902,15 @@ msgstr ""
 
 msgctxt "items/900"
 msgid "Waste Wolf Paw"
-msgstr ""
+msgstr "황무지 늑대 발"
 
 msgctxt "items/901"
 msgid "Hang it from your hat."
-msgstr ""
+msgstr "모자에 매달아 보십시오."
 
 msgctxt "items/902"
 msgid "Waste Wolf Fang"
-msgstr ""
+msgstr "황무지 늑대 송곳니"
 
 msgctxt "items/903"
 msgid ""
@@ -3917,7 +3928,7 @@ msgstr ""
 
 msgctxt "items/906"
 msgid "Wolverine Fang"
-msgstr ""
+msgstr "울버린 송곳니"
 
 msgctxt "items/907"
 msgid "Chompy."
@@ -3925,25 +3936,25 @@ msgstr ""
 
 msgctxt "items/908"
 msgid "Wolverine Fur"
-msgstr ""
+msgstr "울버린 모피"
 
 msgctxt "items/909"
 msgid "It's coarse."
-msgstr ""
+msgstr "거칠거칠합니다."
 
 msgctxt "items/910"
 msgid "Wolverine Pelt"
-msgstr ""
+msgstr "울버린 생가죽"
 
 msgctxt "items/911"
 msgid ""
 "A finely skinned pelt from a wolverine. A merchant would likely pay a good "
 "fee for it."
-msgstr ""
+msgstr "울버린에게서 잘 벗겨낸 휼륭한 가죽입니다. 상인들이 좋은 값을 쳐줄겁니다."
 
 msgctxt "items/912"
 msgid "Feathers"
-msgstr ""
+msgstr "깃털"
 
 msgctxt "items/913"
 msgid "Plucked from a plume."
@@ -3951,15 +3962,15 @@ msgstr ""
 
 msgctxt "items/914"
 msgid "Bent Actuator"
-msgstr ""
+msgstr "휜 구동기"
 
 msgctxt "items/915"
 msgid "Actually, this actuator's done actuating."
-msgstr ""
+msgstr "사실, 이 구동기는 구동하기를 멈췄습니다."
 
 msgctxt "items/916"
 msgid "Crushed Heatsink"
-msgstr ""
+msgstr "박살난 방열판"
 
 msgctxt "items/917"
 msgid "This won't be cooling anything anytime soon."
@@ -3967,7 +3978,7 @@ msgstr ""
 
 msgctxt "items/918"
 msgid "Damaged Sensor"
-msgstr ""
+msgstr "손상된 센서"
 
 msgctxt "items/919"
 msgid "You don't need a sensor to know this thing's toast."
@@ -3975,47 +3986,47 @@ msgstr ""
 
 msgctxt "items/920"
 msgid "Dented License Plate"
-msgstr ""
+msgstr "찌그러진 면허증명 판"
 
 msgctxt "items/921"
 msgid "License to get wrecked."
-msgstr ""
+msgstr "면허가 취소되었습니다."
 
 msgctxt "items/922"
 msgid "Melted Capacitor"
-msgstr ""
+msgstr "녹아내린 축전기"
 
 msgctxt "items/923"
 msgid "It smells like a botched overclock."
-msgstr ""
+msgstr "잘못되버린 오버클럭의 냄새가 납니다."
 
 msgctxt "items/924"
 msgid "Shorted Control Chip"
-msgstr ""
+msgstr "단락된 컨트롤 칩"
 
 msgctxt "items/925"
 msgid "Even if you could plug this into something, it's all burnt out."
-msgstr ""
+msgstr "이걸 뭔가에 꽂는다 하더라도 이미 다 타버렸습니다."
 
 msgctxt "items/926"
 msgid "Twisted Hydraulic"
-msgstr ""
+msgstr "뒤틀린 유압장치"
 
 msgctxt "items/927"
 msgid "More twisted than your sister."
-msgstr ""
+msgstr "당신 여동생보다 더 뒤틀려 있습니다."
 
 msgctxt "items/928"
 msgid "Synth Brain"
-msgstr ""
+msgstr "신스 뇌"
 
 msgctxt "items/929"
 msgid "It looks awesome, but feels weird to the touch."
-msgstr ""
+msgstr "굉장해보입니다만 만지면 이상한 느낌이 듭니다."
 
 msgctxt "items/930"
 msgid "Synth Eye"
-msgstr ""
+msgstr "신스 눈"
 
 msgctxt "items/931"
 msgid "Looks exactly how it feels: cold and soul-piercing."
@@ -4023,7 +4034,7 @@ msgstr ""
 
 msgctxt "items/932"
 msgid "Synth Leg"
-msgstr ""
+msgstr "신스 다리"
 
 msgctxt "items/933"
 msgid "'Break a leg out there!' Heh, nailed it."
@@ -4031,7 +4042,7 @@ msgstr ""
 
 msgctxt "items/934"
 msgid "Burnt Hubcap"
-msgstr ""
+msgstr "타버린 휠캡"
 
 msgctxt "items/935"
 msgid "The hottest of rims."
@@ -4039,15 +4050,15 @@ msgstr ""
 
 msgctxt "items/936"
 msgid "Melted Ignition Box"
-msgstr ""
+msgstr "녹아내린 점화기 박스"
 
 msgctxt "items/937"
 msgid "It's cold slag."
-msgstr ""
+msgstr "차가운 잿덩어리입니다."
 
 msgctxt "items/938"
 msgid "Smashed Gearbox"
-msgstr ""
+msgstr "박살난 기어박스"
 
 msgctxt "items/939"
 msgid "This won't be doing any grinding anymore."
@@ -4055,15 +4066,15 @@ msgstr ""
 
 msgctxt "items/940"
 msgid "Smoking Spark Plug"
-msgstr ""
+msgstr "연기나는 스파크 플러그"
 
 msgctxt "items/941"
 msgid "It sparked its last spark."
-msgstr ""
+msgstr "마지막 스파크를 튀겼습니다."
 
 msgctxt "items/942"
 msgid "Totaled Tachometer"
-msgstr ""
+msgstr "전손된 속도계"
 
 msgctxt "items/943"
 msgid "It's going nowhere fast."
@@ -4071,32 +4082,32 @@ msgstr ""
 
 msgctxt "items/944"
 msgid "Wrecked Bumper"
-msgstr ""
+msgstr "망가진 범퍼"
 
 msgctxt "items/945"
 msgid "Not even duct tape can make this useful."
-msgstr ""
+msgstr "덕트 테이프조차 이걸 쓸만하게 만들 수는 없습니다."
 
 msgctxt "items/946"
 msgid "Punctured Clown Nose"
-msgstr ""
+msgstr "구멍난 광대코"
 
 msgctxt "items/947"
 msgid ""
 "Even if it wasn't damaged, you're pretty sure you wouldn't want to wear it."
-msgstr ""
+msgstr "멀쩡하더라도 당신은 이걸 입고싶지 않았을겁니다."
 
 msgctxt "items/948"
 msgid "Ripped Clown Shoe"
-msgstr ""
+msgstr "찢어진 광대 신발"
 
 msgctxt "items/949"
 msgid "In this condition, it won't be putting a squeak in your step."
-msgstr ""
+msgstr "이런 상태라면 신고 걸어다녀도 삑삑소리가 나지 않을겁니다."
 
 msgctxt "items/950"
 msgid "Tangled Clown Wig"
-msgstr ""
+msgstr "헝클어진 광대 가발"
 
 msgctxt "items/951"
 msgid "You'd try it on, but removing it could get <i>hairy</i>."
@@ -4104,7 +4115,7 @@ msgstr ""
 
 msgctxt "items/952"
 msgid "Breather Tank"
-msgstr ""
+msgstr "브리더 산소통"
 
 msgctxt "items/953"
 msgid "It's empty. No... dreams... for you!"
@@ -4112,16 +4123,16 @@ msgstr ""
 
 msgctxt "items/954"
 msgid "Breather Mask"
-msgstr ""
+msgstr "브리더 호흡기"
 
 msgctxt "items/955"
 msgid ""
 "Even without a crazy drug-fueled psycho wearing it, this thing is creepy."
-msgstr ""
+msgstr "마약으로 충전된 미친 사이코 없이도 이건 오싹해 보입니다."
 
 msgctxt "items/956"
 msgid "Breather Hose"
-msgstr ""
+msgstr "브리서 호스"
 
 msgctxt "items/957"
 msgid "You're not sure you'd want to do much siphoning through this thing."
@@ -4129,17 +4140,17 @@ msgstr ""
 
 msgctxt "items/958"
 msgid "Old Calculator"
-msgstr ""
+msgstr "오래된 계산기"
 
 msgctxt "items/959"
 msgid ""
 "A miracle of modern technology. You can type out all sorts of dirty words on "
 "it."
-msgstr ""
+msgstr "현대 기술의 기적입니다. 온갖 종류의 더러운 단어들을 입력할 수 있습니다."
 
 msgctxt "items/960"
 msgid "Uranium Pendant"
-msgstr ""
+msgstr "우라늄 펜던트"
 
 msgctxt "items/961"
 msgid "It's reassuringly warm."
@@ -4171,7 +4182,7 @@ msgstr ""
 
 msgctxt "items/968"
 msgid " Interrogation Room"
-msgstr ""
+msgstr " 취조실"
 
 msgctxt "items/969"
 msgid " Key to the interrogation room"
@@ -4179,7 +4190,7 @@ msgstr ""
 
 msgctxt "items/970"
 msgid " Special Ops Center"
-msgstr ""
+msgstr " 특수작전부"
 
 msgctxt "items/971"
 msgid " Key to Special Ops Center"
@@ -4187,7 +4198,7 @@ msgstr ""
 
 msgctxt "items/972"
 msgid "Fists"
-msgstr ""
+msgstr "주먹"
 
 msgctxt "items/973"
 msgid "Your bare hands. What more do you need?"
@@ -4195,11 +4206,11 @@ msgstr ""
 
 msgctxt "items/974"
 msgid "Fusion Turret"
-msgstr ""
+msgstr "핵융합 포탑"
 
 msgctxt "items/975"
 msgid "Delicious Meal"
-msgstr ""
+msgstr "맛있는 식사"
 
 msgctxt "items/976"
 msgid "It's hearty, tender, and good."
@@ -4207,7 +4218,7 @@ msgstr ""
 
 msgctxt "items/977"
 msgid "Mustache Wax"
-msgstr ""
+msgstr "콧수염 왁스"
 
 msgctxt "items/978"
 msgid "Wonderful waxed whiskers!"
@@ -4215,7 +4226,7 @@ msgstr ""
 
 msgctxt "items/979"
 msgid "Comb"
-msgstr ""
+msgstr "빗"
 
 msgctxt "items/980"
 msgid "Keep it neat and tidy."
@@ -4223,37 +4234,37 @@ msgstr ""
 
 msgctxt "items/981"
 msgid "Arctic Sniper"
-msgstr ""
+msgstr "극지 저격수"
 
 msgctxt "items/982"
 msgid ""
 "A famous bolt-action sniper rifle. Shots this accurate almost feel like "
 "cheating."
-msgstr ""
+msgstr "유명한 볼트액션 저격소총입니다. 이 수준의 정확성은 거의 반칙을 쓰는 것처럼 느껴질 정도입니다."
 
 msgctxt "items/983"
 msgid "Burned Book"
-msgstr ""
+msgstr "타버린 책"
 
 msgctxt "items/984"
 msgid "It's unreadable."
-msgstr ""
+msgstr "읽을 수 없습니다."
 
 msgctxt "items/985"
 msgid "Burnt Fuse"
-msgstr ""
+msgstr "타버린 퓨즈"
 
 msgctxt "items/986"
 msgid "Maybe this would be worth something, to someone, somewhere."
-msgstr ""
+msgstr "아마 무언가나 혹은 누군가에게나 아니면 어딘가에 필요할 지도 모르지요."
 
 msgctxt "items/987"
 msgid "Old Handkerchief"
-msgstr ""
+msgstr "오래된 손수건"
 
 msgctxt "items/988"
 msgid "It's worn and slightly stained."
-msgstr ""
+msgstr "헤졌고 약간 얼룩져 있습니다."
 
 msgctxt "items/989"
 msgid "Cigarette Butt"
@@ -4265,49 +4276,49 @@ msgstr ""
 
 msgctxt "items/991"
 msgid "Spent Bic Lighter"
-msgstr ""
+msgstr "다 써버린 BIC 라이터"
 
 msgctxt "items/992"
 msgid "It's just a hunk of plastic now."
-msgstr ""
+msgstr "이젠 플라스틱 덩어리일 뿐입니다."
 
 msgctxt "items/993"
 msgid "Polaroid Photo"
-msgstr ""
+msgstr "폴라로이드 사진"
 
 msgctxt "items/994"
 msgid "The picture has completely faded. So nostalgic."
-msgstr ""
+msgstr "완전히 희미해져버린 사진입니다. 참 노스텔직합니다."
 
 msgctxt "items/995"
 msgid "Casio Watch"
-msgstr ""
+msgstr "카시오 시계"
 
 msgctxt "items/996"
 msgid "Stylish, but it's long stopped working."
-msgstr ""
+msgstr "스타일리쉬 하지만 멈춘지 오래입니다."
 
 msgctxt "items/997"
 msgid "Moldy Sock"
-msgstr ""
+msgstr "곰팡이핀 양말"
 
 msgctxt "items/998"
 msgid "There's something living in there, and it ain't your foot."
-msgstr ""
+msgstr "뭔가 살고 있지만 당신 발은 아닙니다."
 
 msgctxt "items/999"
 msgid "Tin Can"
-msgstr ""
+msgstr "깡통"
 
 msgctxt "items/1000"
 msgid ""
 "You could probably still drink out of this can, but it'd come out tasting "
 "like tetanus."
-msgstr ""
+msgstr "이 캔으로 마실 수는 있지만 파상풍스러운 맛이 날겁니다."
 
 msgctxt "items/1001"
 msgid "Hotwheels Car"
-msgstr ""
+msgstr "핫휠스 미니카"
 
 msgctxt "items/1002"
 msgid "This metallic toy car dreams of open road."
@@ -4323,13 +4334,13 @@ msgstr ""
 
 msgctxt "items/1005"
 msgid "Repair Kit"
-msgstr ""
+msgstr "수리 도구"
 
 msgctxt "items/1006"
 msgid ""
 "A collection of simple mechanical parts and tools used to repairs vehicles "
 "and robots."
-msgstr ""
+msgstr "간단한 기계 부품과 차량이나 로봇을 수리하는데 사용되는 공구의 모음입니다."
 
 msgctxt "items/1007"
 msgid " Old Soldier's Journal"
@@ -4341,15 +4352,15 @@ msgstr ""
 
 msgctxt "items/1009"
 msgid "Rabbit's Paw"
-msgstr ""
+msgstr "토끼발"
 
 msgctxt "items/1010"
 msgid "Lucky for you. Maybe not so much for the rabbit."
-msgstr ""
+msgstr "행운을 불러다 줍니다. 토끼에겐 아니었나 봅니다."
 
 msgctxt "items/1011"
 msgid "Monocle"
-msgstr ""
+msgstr "단안경"
 
 msgctxt "items/1012"
 msgid "I say! Distinguished eyewear for a distinguished Ranger."
@@ -4357,13 +4368,13 @@ msgstr ""
 
 msgctxt "items/1013"
 msgid "Tactical Goggles"
-msgstr ""
+msgstr "전술 고글"
 
 msgctxt "items/1014"
 msgid ""
 "Provides advanced targeting features, and makes you feel like a real "
 "commando."
-msgstr ""
+msgstr "고급 표적획득 기능을 제공하며 진짜 특공대가 된 것 같은 기분도 제공합니다."
 
 msgctxt "items/1015"
 msgid "Fan Kicks"
@@ -4377,31 +4388,31 @@ msgstr ""
 
 msgctxt "items/1017"
 msgid "Spiked Collar"
-msgstr ""
+msgstr "가시박힌 개목걸이"
 
 msgctxt "items/1018"
 msgid "A spiked collar for a mad dog. That's you. You're the mad dog."
-msgstr ""
+msgstr "미친 개를 위한 가시박힌 개목걸이입니다. 당신 말이요. 당신이 미친개입니다."
 
 msgctxt "items/1019"
 msgid "Night Terror Plushie"
-msgstr ""
+msgstr "나이트 테러 봉제인형"
 
 msgctxt "items/1020"
 msgid "It's so cute and cuddly! ... Ew, is that slime?"
-msgstr ""
+msgstr "너무 귀엽고 꼭 안아주고 싶어! 으... 이거 점액이야?"
 
 msgctxt "items/1021"
 msgid "Backpack"
-msgstr ""
+msgstr "배낭"
 
 msgctxt "items/1022"
 msgid "This hefty pack lets you stow more of the stuff you find."
-msgstr ""
+msgstr "이 커다란 가방은 찾아낸 물건들을 더 많이 지고 다닐 수 있게 해줍니다."
 
 msgctxt "items/1023"
 msgid "Wool Cap"
-msgstr ""
+msgstr "털실 모자"
 
 msgctxt "items/1024"
 msgid "Keeps the warmth in and the cold out."
@@ -4409,52 +4420,52 @@ msgstr ""
 
 msgctxt "items/1025"
 msgid "Pliers"
-msgstr ""
+msgstr "플라이어"
 
 msgctxt "items/1026"
 msgid ""
 "A set of delicate metal pliers. Best used with a steady and coordinated hand."
-msgstr ""
+msgstr "섬세한 플라이어 세트입니다. 협응력 있고 흔들리지 않는 손과 잘 어울립니다."
 
 msgctxt "items/1027"
 msgid "Grooming Brush"
-msgstr ""
+msgstr "털손질 빗"
 
 msgctxt "items/1028"
 msgid "A fine brush that's great for untangling matted fur and hair."
-msgstr ""
+msgstr "엉켜 붙은 털이나 머리카락을 풀어내는데 좋은 휼륭한 빗입니다."
 
 msgctxt "items/1029"
 msgid "Silver Dollar Necklace"
-msgstr ""
+msgstr "은제 달러주화 목걸이"
 
 msgctxt "items/1030"
 msgid ""
 "This old silver dollar attached to a cord will show everyone that you're an "
 "expert trader."
-msgstr ""
+msgstr "이 끈에 달린 은제 달러주화는 당신이 숙련된 상인이라는걸 다른 이들에게 보여줄 것입니다."
 
 msgctxt "items/1031"
 msgid "PDA"
-msgstr ""
+msgstr "휴대용 단말기"
 
 msgctxt "items/1032"
 msgid ""
 "This device frees up your brain to focus on more important stuff, like what ("
 "or who) to have for lunch."
-msgstr ""
+msgstr "이 장치는 점심으로 뭘 먹을지(혹은 누구를 먹을지) 같이 더 중요한 일에 뇌가 더 집중할 수 있도록 해방시켜줍니다."
 
 msgctxt "items/1033"
 msgid "Defusal Kit"
-msgstr ""
+msgstr "해체 도구"
 
 msgctxt "items/1034"
 msgid "This kit has everything you need to figure out which wire to cut."
-msgstr ""
+msgstr "어떤 선을 잘라야 하는지 알아내는데 필요한 모든 것들이 들어있습니다."
 
 msgctxt "items/1035"
 msgid "Stethoscope"
-msgstr ""
+msgstr "청진기"
 
 msgctxt "items/1036"
 msgid ""
@@ -4472,7 +4483,7 @@ msgstr ""
 
 msgctxt "items/1039"
 msgid "Thief's Kit"
-msgstr ""
+msgstr "도둑의 도구"
 
 msgctxt "items/1040"
 msgid ""
@@ -4482,25 +4493,25 @@ msgstr ""
 
 msgctxt "items/1041"
 msgid "Tool Kit"
-msgstr ""
+msgstr "공구함"
 
 msgctxt "items/1042"
 msgid "This hefty kit has all the tools you'll need to perform basic repairs."
-msgstr ""
+msgstr "이 든든한 상자는 기본적인 수리를 하는데 필요한 모든 공구들을 담고 있습니다."
 
 msgctxt "items/1043"
 msgid "Binoculars"
-msgstr ""
+msgstr "쌍안경"
 
 msgctxt "items/1044"
 msgid ""
 "This pair of binoculars lets you scope out the situation from a safer "
 "distance."
-msgstr ""
+msgstr "이 쌍안경 한쌍으로 안전한 거리에서 상황을 살펴 볼 수 있습니다."
 
 msgctxt "items/1045"
 msgid "Toaster Repairman's Badge"
-msgstr ""
+msgstr "토스터 수리공의 벳지"
 
 msgctxt "items/1046"
 msgid ""
@@ -4514,7 +4525,7 @@ msgstr ""
 
 msgctxt "items/1048"
 msgid "A kit full of maintenance and repair tools for weapons and armor."
-msgstr ""
+msgstr "무기와 방어구의 수리와 유지보수를 위한 도구로 가득차 있는 공구함입니다."
 
 msgctxt "items/1049"
 msgid "Aviators"
@@ -4534,15 +4545,15 @@ msgstr ""
 
 msgctxt "items/1053"
 msgid "Everest Fungus"
-msgstr ""
+msgstr "에버레스트 균사체"
 
 msgctxt "items/1054"
 msgid "A bundle of cultivated fungus from the Everest Hotel."
-msgstr ""
+msgstr "에버레스트 호텔에서 수확된 균사체 꾸러미입니다."
 
 msgctxt "items/1055"
 msgid "Modified Tactical Rifle"
-msgstr ""
+msgstr "개조된 전술 소총"
 
 msgctxt "items/1056"
 msgid ""
@@ -4560,7 +4571,7 @@ msgstr ""
 
 msgctxt "items/1059"
 msgid "The Convincer"
-msgstr ""
+msgstr "설득자"
 
 msgctxt "items/1060"
 msgid ""
