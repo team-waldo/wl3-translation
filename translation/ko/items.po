@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-10 02:57+0000\n"
-"Last-Translator: 이정상 <lee.jeongsang@gmail.com>\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -641,13 +641,14 @@ msgctxt "items/161"
 msgid "Bite"
 msgstr "바이트"
 
+#, fuzzy
 msgctxt "items/162"
 msgid "Clownquake"
-msgstr ""
+msgstr "발구름광대"
 
 msgctxt "items/163"
 msgid "Stomps on the ground, Stunning anyone in the area around the user."
-msgstr ""
+msgstr "바닥을 힘차게 굴러, 사용자 주위에 모든 이를 기절시킵니다."
 
 msgctxt "items/164"
 msgid "Acid Spray"
@@ -659,9 +660,10 @@ msgid ""
 "caught in it."
 msgstr "사용자 전방으로 산성 줄기를 발사합니다. 산성 줄기에 닿은 사람은 중독됩니다."
 
+#, fuzzy
 msgctxt "items/166"
 msgid "Earthquake"
-msgstr ""
+msgstr "지진"
 
 msgctxt "items/167"
 msgid "[PH] Sunglasses"
@@ -671,17 +673,20 @@ msgctxt "items/168"
 msgid "[PH] A cool pair of sunglasses. Especially useful on a night op."
 msgstr "[PH] 멋진 선글라스입니다. 야간 작전에 특히 유용합니다."
 
+#, fuzzy
 msgctxt "items/169"
 msgid "[PH] Skull Gun"
-msgstr ""
+msgstr "[PH] 두개골 총"
 
+#, fuzzy
 msgctxt "items/170"
 msgid "[PH] Gunther would approve."
-msgstr ""
+msgstr "[PH] 건서가 인증합니다."
 
+#, fuzzy
 msgctxt "items/171"
 msgid "Horns"
-msgstr ""
+msgstr "호른 스프레이"
 
 msgctxt "items/172"
 msgid "Nuclear Battery"
@@ -689,11 +694,12 @@ msgstr "핵 배터리"
 
 msgctxt "items/173"
 msgid "Black Lung Sample"
-msgstr ""
+msgstr "새카만 폐의 샘플"
 
+#, fuzzy
 msgctxt "items/174"
 msgid "Black Lung Cure"
-msgstr ""
+msgstr "새카만 폐 치료제"
 
 msgctxt "items/175"
 msgid "Medical Supply 2"
@@ -737,17 +743,19 @@ msgid ""
 "acquired from substance abuse. Except shame."
 msgstr "약물 남용으로 얻게 된 안 좋은 효과들을 즉시 제거해주는 놀라운 알약입니다. 부끄러움만 빼고 말이죠."
 
+#, fuzzy
 msgctxt "items/184"
 msgid " Placeholder sellable"
-msgstr ""
+msgstr " 판매가 가능한 대체품"
 
 msgctxt "items/185"
 msgid " You can't use it, but you can sell it!"
 msgstr " 사용할 수는 없지만 팔 수는 있죠!"
 
+#, fuzzy
 msgctxt "items/186"
 msgid " Placeholder animal part"
-msgstr ""
+msgstr " 동물 부속 대체품"
 
 msgctxt "items/187"
 msgid " It doesn't smell very good."
