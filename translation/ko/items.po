@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-12 20:57+0000\n"
-"Last-Translator: Stellar <xlsksh3@naver.com>\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6353,14 +6353,14 @@ msgstr "우드슨 장군이 프라사드 소령에게 내린 공식명령서입�
 
 msgctxt "items/1484"
 msgid "The Sensuous Toaster"
-msgstr "육감적인 토스터"
+msgstr "관능적 토스터"
 
 msgctxt "items/1485"
 msgid ""
 "Crusted with evidence of enthusiastic usage, this looks like an old time sex "
 "manual - except that all the illustrations are explicit drawings of toasters."
 msgstr ""
-"열광적인 사용의 흔적으로 뒤덮여 있는 이 물건은 보기에는 구닥다리 섹스 지침서처럼 보입니다만, 모든 삽화가 노골적인 토스터 그림입니다."
+"열정적으로 사용한 흔적들로 뒤덮인 이 물건은 구닥다리 섹스 지침서처럼 보입니다만 모든 삽화가 선정적인 토스터 그림으로 채워져 있습니다."
 
 msgctxt "items/1486"
 msgid "Golden Toaster"
@@ -6425,11 +6425,11 @@ msgstr "콘센트에서 토스터까지 전력을 전달할 수 있는 금이 �
 
 msgctxt "items/1498"
 msgid "The Distinguished Annals of Toaster Repair, Vol. XIV"
-msgstr "위엄찬 토스터 수리의 연대기, 제 14 권"
+msgstr "굴지의 토스터 수리 연대기, 제14권"
 
 msgctxt "items/1499"
 msgid "A history text covering the trials and triumphs of toaster repairmen."
-msgstr "토스터 수리공의 시련과 승리에 대해 다루는 역사서입니다."
+msgstr "토스터 수리공들의 시련과 승리에 대해 다루는 역사서입니다."
 
 msgctxt "items/1500"
 msgid "Guest Suites 1 Key"
@@ -7366,13 +7366,13 @@ msgstr "방정식과 미칠듯한 악필로 뒤덮인 종이 다발입니다. �
 
 msgctxt "items/1708"
 msgid "Letter to Brother Neutrino"
-msgstr "뉴트리노 형제에게 보내는 편지"
+msgstr "뉴트리노 형에게 보내는 편지"
 
 msgctxt "items/1709"
 msgid ""
 "A dirty, folded piece of paper with the words 'Brother Neutrino' crudely "
 "written below a carefully drawn picture of a mushroom cloud."
-msgstr "공들여 그려진 버섯구름 그림 아래에 '뉴트리노 형제'란 글자가 투박하게 써져 있는 더럽고 접힌 종이 조각입니다."
+msgstr "접혀있는 더러운 종잇조각 위에는 공들여 그려진 버섯구름 그림과 그 아래 '뉴트리노 형'이란 글자가 투박하게 적혀 있습니다."
 
 msgctxt "items/1710"
 msgid "Applicator Gun"
@@ -8031,7 +8031,7 @@ msgstr ""
 msgctxt "items/1844"
 msgid ""
 "A small safe key found on the body of Ditso Gogo, a member of Los Payasos."
-msgstr "로스 파야소의 일원인 디쪼 고고의 몸에서 찾아낸 금고 열쇠입니다."
+msgstr "로스 파야소의 일원인 딧소 고고의 몸에서 찾아낸 금고 열쇠입니다."
 
 msgctxt "items/1845"
 msgid ""
@@ -8132,13 +8132,13 @@ msgstr "민간요법에서는 이걸 상처에 문지르면 \"면역력\"이 강
 
 msgctxt "items/1866"
 msgid "Tattered Logbook"
-msgstr "너덜너덜한 기록지"
+msgstr "너덜너덜한 일지"
 
 msgctxt "items/1867"
 msgid ""
 "A very old, crumbling journal, written shortly after the nuclear apocalypse. "
 "You found it in an abandoned pumping station."
-msgstr "버려진 펌프장에서 찾아낸 핵종말 직후 쓰여진 매우 오래되고 다 스러진 일지입니다."
+msgstr "버려진 펌프장에서 찾아낸 핵 종말 직후 쓰여진 매우 오래되고 다 스러진 일지입니다."
 
 msgctxt "items/1868"
 msgid "Cog Pendant"
@@ -8161,7 +8161,7 @@ msgctxt "items/1871"
 msgid ""
 "This leather bound diary is warped and faded. The pages have been smudged "
 "with mud."
-msgstr "구부러지고 색바랜 가죽장정 일기입니다. 페이지들은 진흙으로 더럽혀져 있습니다."
+msgstr "구부러지고 색이 바랜 가죽 장정 일기입니다. 페이지는 진흙으로 더럽혀져 있습니다."
 
 msgctxt "items/1872"
 msgid ""
@@ -8199,13 +8199,13 @@ msgstr "가학적인 돌시 약탈자에게서 얻은 낡은 열쇠입니다. "
 
 msgctxt "items/1878"
 msgid "Payaso Letter"
-msgstr "파야소 편지"
+msgstr "파야소 서신"
 
 msgctxt "items/1879"
 msgid ""
 "This document has a military-seeming letterhead, but it’s covered in uneven "
 "scribbling and stamped with the symbol of a clown."
-msgstr "문서의 윗 부분은 군사적인 것처럼 보이지만 난잡한 낙서들로 덮여있고 광대상징이 찍혀 있습니다."
+msgstr "군사적인 내용을 담은 문서처럼 보이지만 난잡한 낙서와 광대 모양의 도장으로 뒤덮여있습니다."
 
 msgctxt "items/1880"
 msgid "Red Locker Key"
@@ -8306,7 +8306,7 @@ msgstr "뭔가에 구멍을 많이 뚫어버리는데 적절해보이는 매우 
 
 msgctxt "items/1900"
 msgid "Old Journal"
-msgstr "오래된 일지"
+msgstr "오래된 일기"
 
 msgctxt "items/1901"
 msgid ""
@@ -8314,8 +8314,8 @@ msgid ""
 "and turns depending on the angle you look at it. On the inside of the cover "
 "is written, \"Journal of Ally Bleu.\""
 msgstr ""
-"보는 각도에 따라 선회하는 제트기가 보이는 플라스틱 홀로그램 표지의 일지입니다. 안쪽 표지에는 이렇게 써져 있습니다. \"앨리 블루의 "
-"일지.\""
+"보는 각도에 따라 선회하는 제트기가 보이는 플라스틱 홀로그램 표지의 일기입니다. 안쪽 표지에는 이렇게 쓰여 있습니다. \"앨리 블루의 "
+"일기.\""
 
 msgctxt "items/1902"
 msgid "Communist Star Ornament"
