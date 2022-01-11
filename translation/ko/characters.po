@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-10 02:57+0000\n"
+"PO-Revision-Date: 2022-01-11 04:57+0000\n"
 "Last-Translator: 임창묵 <studiochanbi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "characters/101"
 msgid "Ice Hopper"
-msgstr ""
+msgstr "아이스 호퍼"
 
 msgctxt "characters/102"
 msgid "DEBUG Long John"
@@ -423,7 +423,7 @@ msgstr ""
 
 msgctxt "characters/192"
 msgid "Octotron"
-msgstr ""
+msgstr "옥토트론"
 
 msgctxt "characters/193"
 msgid "Test Sniper Enemy"
@@ -747,7 +747,7 @@ msgstr ""
 
 msgctxt "characters/294"
 msgid "Commune Robot"
-msgstr ""
+msgstr "코뮌 로봇"
 
 msgctxt "characters/295"
 msgid "(Function) Liberator"
@@ -1643,7 +1643,7 @@ msgstr ""
 
 msgctxt "characters/546"
 msgid "Octotron"
-msgstr ""
+msgstr "옥토트론"
 
 msgctxt "characters/547"
 msgid "Factory Bot"
@@ -3987,19 +3987,19 @@ msgstr ""
 
 msgctxt "characters/1161"
 msgid "Fox"
-msgstr ""
+msgstr "여우"
 
 msgctxt "characters/1162"
 msgid "Doe"
-msgstr ""
+msgstr "암사슴"
 
 msgctxt "characters/1163"
 msgid "Stag"
-msgstr ""
+msgstr "수사슴"
 
 msgctxt "characters/1164"
 msgid "Rabbit"
-msgstr ""
+msgstr "토끼"
 
 msgctxt "characters/1165"
 msgid "Rancher"
@@ -4027,7 +4027,7 @@ msgstr ""
 
 msgctxt "characters/1172"
 msgid "Party Pal"
-msgstr ""
+msgstr "파티 친구"
 
 msgctxt "characters/1173"
 msgid "Dorsey War-bot"
@@ -4415,7 +4415,7 @@ msgstr ""
 
 msgctxt "characters/1269"
 msgid "Commune Octotron"
-msgstr ""
+msgstr "코뮌 옥토트론"
 
 msgctxt "characters/1270"
 msgid "Commune Sawdog"
