@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-12 20:57+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Last-Translator: 이정상 <lee.jeongsang@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -10915,7 +10915,7 @@ msgstr "냉기를 뿜어내 임시 엄폐물로 사용할 수 있는 얼음 블�
 
 msgctxt "items/2484"
 msgid "Decoy"
-msgstr ""
+msgstr "유인미끼"
 
 msgctxt "items/2485"
 msgid "A pop-up decoy that fools targets into attacking it."
