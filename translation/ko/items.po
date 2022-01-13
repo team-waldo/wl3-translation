@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-14 00:57+0000\n"
-"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -446,7 +446,6 @@ msgid ""
 "hundreds of shards more than their twentieth-century counterparts."
 msgstr "본질적인 모양새 자체는 같지만, 현대의 파편 수류탄은 20세기의 물건보다 더 많은 수 백 개의 파편이 터져 나옵니다."
 
-#, fuzzy
 msgctxt "items/114"
 msgid "Molotov Cocktail"
 msgstr "화염병"
@@ -457,7 +456,6 @@ msgid ""
 "with a burning rag and serve."
 msgstr "가솔린, 메탄올, 그리고 모터 오일을 병에 넣어 살살 저으세요. 고명으로 위에 연소성 천을 살며시 올리고 손님에게 드리세요."
 
-#, fuzzy
 msgctxt "items/116"
 msgid "Cryo Grenade"
 msgstr "극저온 수류탄"
@@ -6000,7 +5998,7 @@ msgstr "레인저 정찰병 하의"
 
 msgctxt "items/1399"
 msgid "Ranger Gunslinger Pants"
-msgstr "레인저 총잡히 하의"
+msgstr "레인저 총잡이 하의"
 
 msgctxt "items/1400"
 msgid "Tattered Pants"
@@ -9687,7 +9685,7 @@ msgstr ""
 
 msgctxt "items/2226"
 msgid "Scrap Helmet"
-msgstr "스크랩 헬멧"
+msgstr "고철 헬멧"
 
 msgctxt "items/2227"
 msgid ""
@@ -9698,7 +9696,7 @@ msgstr "눈 구멍 밖으로 보기가 힘들고 머리에 좀 꽉 조이지만 
 
 msgctxt "items/2228"
 msgid "Scrap Pants"
-msgstr "스크랩 다리보호구"
+msgstr "고철 다리보호구"
 
 msgctxt "items/2229"
 msgid "One of these legs definitely used to be a propane grill."
@@ -10576,7 +10574,7 @@ msgstr ""
 
 msgctxt "items/2415"
 msgid "Scrap"
-msgstr "스크랩"
+msgstr "고철"
 
 msgctxt "items/2416"
 msgid "Just a pile of junk. Who'd think there's anything valuable about this?"
