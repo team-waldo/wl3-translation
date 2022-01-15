@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-16 08:48+0000\n"
-"Last-Translator: Stellar <xlsksh3@naver.com>\n"
+"Last-Translator: Mook <studiochanbi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -11704,7 +11704,7 @@ msgctxt "items/2658"
 msgid ""
 "The label reads, \"Pico's Playtesting,\" followed by a series of numbers, "
 "each gently scratched out."
-msgstr ""
+msgstr "라벨에는 \"피코의 플레이 테스트\"라고 쓰여 있고, 그 뒤에 일련의 숫자들이 살살 지워져 있다."
 
 msgctxt "items/2659"
 msgid "SysAdmin Logs"
@@ -12493,7 +12493,7 @@ msgstr ""
 
 msgctxt "items/2843"
 msgid "When you're ready to let the sparks fly!"
-msgstr ""
+msgstr "불꽃을 날릴 준비가 되었다면!"
 
 msgctxt "items/2844"
 msgid "Nuclear Knight's Helmet"
@@ -12503,7 +12503,7 @@ msgctxt "items/2845"
 msgid ""
 "This helmet isn't guaranteed to protect you from radiation, but it can't "
 "hurt, right?"
-msgstr ""
+msgstr "이 헬멧이 방사능으로부터 보호해 주진 않지만, 나쁠 건 없겠죠?"
 
 msgctxt "items/2846"
 msgid "Linebacker Helmet"
@@ -12699,7 +12699,7 @@ msgstr "회색곰"
 
 msgctxt "items/2888"
 msgid "Forged from salvaged titanium for a superior mauling experience."
-msgstr ""
+msgstr "우수한 타격감을 위해 회수된 티타늄으로 제조되었습니다."
 
 msgctxt "items/2889"
 msgid "Old Man Winter"
@@ -12757,7 +12757,7 @@ msgstr "폴라 익스프레스"
 
 msgctxt "items/2902"
 msgid "Buy 'em a one way ticket and send them on the ride of their lifetime."
-msgstr ""
+msgstr "놈들에게 편도 티켓을 선물해서 평생 타고 가도록 해주세요."
 
 msgctxt "items/2903"
 msgid "Polished Ranger Badge"
@@ -12789,11 +12789,11 @@ msgstr "\"용이여, 용이여, 네 심장은 크고, 네 몸은 거대할지는
 
 msgctxt "items/2909"
 msgid "Snowclearer"
-msgstr ""
+msgstr "제설기"
 
 msgctxt "items/2910"
 msgid " Call Mr. Plow, that's my name! That name again is Mr. Plow!"
-msgstr ""
+msgstr " 날 '미스터 제설차'라고 불러줘! 내 이름은 '미스터 제설차'라고!"
 
 msgctxt "items/2911"
 msgid "Stock Chassis"
@@ -12803,7 +12803,7 @@ msgctxt "items/2912"
 msgid ""
 "The basic model. Reasonably durable, and okay for long-distance travel if "
 "you’re not in a big hurry. Or any hurry, really."
-msgstr ""
+msgstr "기본 모델. 내구성이 좋고, 크게 서두르지 않으면 장거리 여행도 괜찮습니다. 바쁘지 않으시다면 말이죠."
 
 msgctxt "items/2913"
 msgid "Defender Chassis"
@@ -12813,7 +12813,7 @@ msgctxt "items/2914"
 msgid ""
 "Sturdier frame design absorbs more punishment and allows for faster long-"
 "distance speeds, especially in those high-radiation zones."
-msgstr ""
+msgstr "튼튼하게 디자인된 프레임은 특히 고방사능 구역에서 가혹한 충격을 더 많이 흡수하고, 장거리를 더 빠르게 갈 수 있게 해줍니다."
 
 msgctxt "items/2915"
 msgid "Deliverer Chassis"
@@ -13090,11 +13090,11 @@ msgstr "1 시간 내로 할 수 있는 게임들에 대한 두꺼운 책입니�
 
 msgctxt "items/2967"
 msgid "Crusty Nose Ring"
-msgstr ""
+msgstr "지저분한 코걸이"
 
 msgctxt "items/2968"
 msgid "You keep telling yourself the green bits are \"just corrosion.\""
-msgstr ""
+msgstr "당신은 녹색 물질을 보고 \"그냥 녹슨 것뿐이야.\"라고 스스로에게 되뇝니다."
 
 msgctxt "items/2969"
 msgid "Sad Banana"
@@ -13574,7 +13574,7 @@ msgstr "노파심 많은 어머니가 쓴 내성적인 사람들을 위한 자�
 
 msgctxt "items/3053"
 msgid "Note in a Teenaged Scrawl"
-msgstr ""
+msgstr "10대 청소년의 글씨로 쓴 메모"
 
 msgctxt "items/3054"
 msgid ""
