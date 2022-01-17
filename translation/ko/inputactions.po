@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2022-01-17 12:57+0000\n"
+"Last-Translator: roc <woah1606@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "inputactions/0"
 msgid " The first InputAction entry text"
@@ -18,27 +19,27 @@ msgstr ""
 
 msgctxt "inputactions/1"
 msgid "Move Character"
-msgstr ""
+msgstr "캐릭터 이동"
 
 msgctxt "inputactions/2"
 msgid "Move Character"
-msgstr ""
+msgstr "캐릭터 이동"
 
 msgctxt "inputactions/3"
 msgid "Rotate Camera"
-msgstr ""
+msgstr "카메라 회전"
 
 msgctxt "inputactions/4"
 msgid "Zoom Camera"
-msgstr ""
+msgstr "카메라 줌"
 
 msgctxt "inputactions/5"
 msgid "Navigate Menus"
-msgstr ""
+msgstr "메뉴 이동"
 
 msgctxt "inputactions/6"
 msgid "Navigate Menus"
-msgstr ""
+msgstr "메뉴 이동"
 
 msgctxt "inputactions/7"
 msgid "D-Pad Horizontal"
@@ -50,11 +51,11 @@ msgstr ""
 
 msgctxt "inputactions/9"
 msgid "Submit"
-msgstr ""
+msgstr "확인"
 
 msgctxt "inputactions/10"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgctxt "inputactions/11"
 msgid "Continue"
@@ -62,11 +63,11 @@ msgstr ""
 
 msgctxt "inputactions/12"
 msgid "Select"
-msgstr ""
+msgstr "선택"
 
 msgctxt "inputactions/13"
 msgid "Interact"
-msgstr ""
+msgstr "상호작용"
 
 msgctxt "inputactions/14"
 msgid "Alternate Interact"
@@ -78,27 +79,27 @@ msgstr ""
 
 msgctxt "inputactions/16"
 msgid "End Turn"
-msgstr ""
+msgstr "턴 종료"
 
 msgctxt "inputactions/17"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 msgctxt "inputactions/18"
 msgid "Pause"
-msgstr ""
+msgstr "일시정지"
 
 msgctxt "inputactions/19"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 msgctxt "inputactions/20"
 msgid "Quicksave"
-msgstr ""
+msgstr "빠른 저장"
 
 msgctxt "inputactions/21"
 msgid "Quickload"
-msgstr ""
+msgstr "빠른 불러오기"
 
 msgctxt "inputactions/22"
 msgid "Toggle HUD"
@@ -110,11 +111,11 @@ msgstr ""
 
 msgctxt "inputactions/24"
 msgid "Attributes"
-msgstr ""
+msgstr "능력치"
 
 msgctxt "inputactions/25"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 msgctxt "inputactions/26"
 msgid "Journal"
@@ -122,35 +123,35 @@ msgstr ""
 
 msgctxt "inputactions/27"
 msgid "Map"
-msgstr ""
+msgstr "지도"
 
 msgctxt "inputactions/28"
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 msgctxt "inputactions/29"
 msgid "Select Next Character"
-msgstr ""
+msgstr "다음 캐릭터 선택"
 
 msgctxt "inputactions/30"
 msgid "Select Previous Character"
-msgstr ""
+msgstr "이전 캐릭터 선택"
 
 msgctxt "inputactions/31"
 msgid "Select Next Target"
-msgstr ""
+msgstr "다음 목표 선택"
 
 msgctxt "inputactions/32"
 msgid "Select Previous Target"
-msgstr ""
+msgstr "이전 목표 선택"
 
 msgctxt "inputactions/33"
 msgid "Next Tab"
-msgstr ""
+msgstr "다음 탭"
 
 msgctxt "inputactions/34"
 msgid "Previous Tab"
-msgstr ""
+msgstr "이전 탭"
 
 msgctxt "inputactions/35"
 msgid "Examine Item"
@@ -162,7 +163,7 @@ msgstr ""
 
 msgctxt "inputactions/37"
 msgid "Level Up"
-msgstr ""
+msgstr "레벨 업"
 
 msgctxt "inputactions/38"
 msgid "Drop Item"
@@ -174,7 +175,7 @@ msgstr ""
 
 msgctxt "inputactions/40"
 msgid "Delete Saved Game"
-msgstr ""
+msgstr "저장된 게임 삭제"
 
 msgctxt "inputactions/41"
 msgid "Talk To Squad Member"
@@ -182,19 +183,19 @@ msgstr ""
 
 msgctxt "inputactions/42"
 msgid "Show Stats"
-msgstr ""
+msgstr "스테이터스 보기"
 
 msgctxt "inputactions/43"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 msgctxt "inputactions/44"
 msgid "Next"
-msgstr ""
+msgstr "다음"
 
 msgctxt "inputactions/45"
 msgid "Quickbar {0}"
-msgstr ""
+msgstr "퀵바 {0}"
 
 msgctxt "inputactions/46"
 msgid "Restore Defaults"
@@ -202,11 +203,11 @@ msgstr ""
 
 msgctxt "inputactions/47"
 msgid "Switch Weapons"
-msgstr ""
+msgstr "무기 교체"
 
 msgctxt "inputactions/48"
 msgid "Reload"
-msgstr ""
+msgstr "재장전"
 
 msgctxt "inputactions/49"
 msgid "Switch Fire Mode"
@@ -218,15 +219,15 @@ msgstr ""
 
 msgctxt "inputactions/51"
 msgid "Select Character {0}"
-msgstr ""
+msgstr "캐릭터 선택 {0}"
 
 msgctxt "inputactions/52"
 msgid "Left Click"
-msgstr ""
+msgstr "좌클릭"
 
 msgctxt "inputactions/53"
 msgid "Right Click"
-msgstr ""
+msgstr "우클릭"
 
 msgctxt "inputactions/54"
 msgid "Middle Click"
@@ -234,27 +235,27 @@ msgstr ""
 
 msgctxt "inputactions/55"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 msgctxt "inputactions/56"
 msgid "Compare Items"
-msgstr ""
+msgstr "아이템 비교"
 
 msgctxt "inputactions/57"
 msgid "Zoom"
-msgstr ""
+msgstr "줌"
 
 msgctxt "inputactions/58"
 msgid "Zoom In"
-msgstr ""
+msgstr "줌 인"
 
 msgctxt "inputactions/59"
 msgid "Zoom Out"
-msgstr ""
+msgstr "줌 아웃"
 
 msgctxt "inputactions/60"
 msgid "Items & Abilities"
-msgstr ""
+msgstr "아이템과 능력"
 
 msgctxt "inputactions/61"
 msgid "Combat Actions"
@@ -262,15 +263,15 @@ msgstr ""
 
 msgctxt "inputactions/62"
 msgid "New Saved Game"
-msgstr ""
+msgstr "새로 저장된 게임"
 
 msgctxt "inputactions/63"
 msgid "Radio"
-msgstr ""
+msgstr "라디오"
 
 msgctxt "inputactions/64"
 msgid "Switch User"
-msgstr ""
+msgstr "사용자 변경"
 
 msgctxt "inputactions/65"
 msgid "Left Stick Left"
@@ -290,31 +291,31 @@ msgstr ""
 
 msgctxt "inputactions/69"
 msgid "Attack Mode"
-msgstr ""
+msgstr "공격 모드"
 
 msgctxt "inputactions/70"
 msgid "Toggle Group Mode"
-msgstr ""
+msgstr "그룹 모드 전환"
 
 msgctxt "inputactions/71"
 msgid "Modify Weapon"
-msgstr ""
+msgstr "무기 개조"
 
 msgctxt "inputactions/72"
 msgid "Ambush"
-msgstr ""
+msgstr "기습"
 
 msgctxt "inputactions/73"
 msgid "Enter Vehicle"
-msgstr ""
+msgstr "차량 탑승"
 
 msgctxt "inputactions/74"
 msgid "Exit Vehicle"
-msgstr ""
+msgstr "차량 하차"
 
 msgctxt "inputactions/75"
 msgid "Toggle Camera Mode"
-msgstr ""
+msgstr "카메라 모드 전환"
 
 msgctxt "inputactions/76"
 msgid "Raw button press from Right Stick"
@@ -326,15 +327,15 @@ msgstr ""
 
 msgctxt "inputactions/78"
 msgid "Snap Camera To Squad"
-msgstr ""
+msgstr "분대로 카메라 전환"
 
 msgctxt "inputactions/79"
 msgid "Rotate Camera Clockwise"
-msgstr ""
+msgstr "카메라를 시계 방향으로 회전"
 
 msgctxt "inputactions/80"
 msgid "Rotate Camera Counterclockwise"
-msgstr ""
+msgstr "카메라를 시계 반대 방향으로 회전"
 
 msgctxt "inputactions/81"
 msgid "Handbrake"
@@ -346,7 +347,7 @@ msgstr ""
 
 msgctxt "inputactions/83"
 msgid "Join Multiplayer"
-msgstr ""
+msgstr "멀티플레이어 참가"
 
 msgctxt "inputactions/84"
 msgid "PS4 Handshake"
@@ -358,7 +359,7 @@ msgstr ""
 
 msgctxt "inputactions/86"
 msgid "Customize Appearance"
-msgstr ""
+msgstr "외형 변경"
 
 msgctxt "inputactions/87"
 msgid "Select Portrait"
@@ -378,11 +379,11 @@ msgstr ""
 
 msgctxt "inputactions/91"
 msgid "Exit Vehicle (All)"
-msgstr ""
+msgstr "차량 하차 (전원)"
 
 msgctxt "inputactions/92"
 msgid "Reset Camera Angle"
-msgstr ""
+msgstr "카메라 시점 초기화"
 
 msgctxt "inputactions/93"
 msgid "Toggle Combat Grid"
@@ -394,7 +395,7 @@ msgstr ""
 
 msgctxt "inputactions/95"
 msgid "Load Multiplayer"
-msgstr ""
+msgstr "멀티플레이어 불러오기"
 
 msgctxt "inputactions/96"
 msgid "Change Formation"
@@ -402,15 +403,15 @@ msgstr ""
 
 msgctxt "inputactions/97"
 msgid "Trade"
-msgstr ""
+msgstr "거래"
 
 msgctxt "inputactions/98"
 msgid "Remove From Party"
-msgstr ""
+msgstr "파티에서 제거"
 
 msgctxt "inputactions/99"
 msgid "Loot All"
-msgstr ""
+msgstr "전부 줍기"
 
 msgctxt "inputactions/100"
 msgid "Distribute All"
@@ -430,19 +431,19 @@ msgstr ""
 
 msgctxt "inputactions/104"
 msgid "Randomize Name"
-msgstr ""
+msgstr "무작위 이름"
 
 msgctxt "inputactions/105"
 msgid "Call Car"
-msgstr ""
+msgstr "차량 호출"
 
 msgctxt "inputactions/106"
 msgid "Precision Strike"
-msgstr ""
+msgstr "정밀 타격"
 
 msgctxt "inputactions/107"
 msgid "Crafting"
-msgstr ""
+msgstr "제작"
 
 msgctxt "inputactions/108"
 msgid "Toggle Perk Visibility"
@@ -450,19 +451,19 @@ msgstr ""
 
 msgctxt "inputactions/109"
 msgid "Skills"
-msgstr ""
+msgstr "기술"
 
 msgctxt "inputactions/110"
 msgid "Perks"
-msgstr ""
+msgstr "특성"
 
 msgctxt "inputactions/111"
 msgid "Fame & Reputation"
-msgstr ""
+msgstr "명성과 평판"
 
 msgctxt "inputactions/112"
 msgid "Start Chat"
-msgstr ""
+msgstr "대화 시작"
 
 msgctxt "inputactions/113"
 msgid "Increase Value"
@@ -474,27 +475,27 @@ msgstr ""
 
 msgctxt "inputactions/115"
 msgid "Swap Characters"
-msgstr ""
+msgstr "캐릭터 변경"
 
 msgctxt "inputactions/116"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 msgctxt "inputactions/117"
 msgid "Modify Armor"
-msgstr ""
+msgstr "방어구 개조"
 
 msgctxt "inputactions/118"
 msgid "Load Game"
-msgstr ""
+msgstr "게임 불러오기"
 
 msgctxt "inputactions/119"
 msgid "Load Last Save"
-msgstr ""
+msgstr "최근 저장된 게임 불러오기"
 
 msgctxt "inputactions/120"
 msgid "Add to Group"
-msgstr ""
+msgstr "그룹에 추가"
 
 msgctxt "inputactions/121"
 msgid "Collections"
@@ -510,31 +511,31 @@ msgstr ""
 
 msgctxt "inputactions/125"
 msgid "Field Strip"
-msgstr ""
+msgstr "현장 분해"
 
 msgctxt "inputactions/126"
 msgid "Inspect"
-msgstr ""
+msgstr "조사"
 
 msgctxt "inputactions/127"
 msgid "Toggle Targeting Mode"
-msgstr ""
+msgstr "타겟팅 모드 변경"
 
 msgctxt "inputactions/128"
 msgid "Select Previous Level"
-msgstr ""
+msgstr "이전 레벨 선택"
 
 msgctxt "inputactions/129"
 msgid "Select Next Level"
-msgstr ""
+msgstr "다음 레벨 선택"
 
 msgctxt "inputactions/130"
 msgid "Select Multiplayer Game"
-msgstr ""
+msgstr "멀티플레이어 게임 선택"
 
 msgctxt "inputactions/131"
 msgid "Send Multiplayer Invite"
-msgstr ""
+msgstr "멀티플레이어 초대 보내기"
 
 msgctxt "inputactions/132"
 msgid "Final Actions"
@@ -542,27 +543,27 @@ msgstr ""
 
 msgctxt "inputactions/133"
 msgid "Show Actions"
-msgstr ""
+msgstr "행동 표기"
 
 msgctxt "inputactions/134"
 msgid "Show Items"
-msgstr ""
+msgstr "아이템 표기"
 
 msgctxt "inputactions/135"
 msgid "Vehicle Horn"
-msgstr ""
+msgstr "경적 울리기"
 
 msgctxt "inputactions/136"
 msgid "Replace"
-msgstr ""
+msgstr "교체"
 
 msgctxt "inputactions/138"
 msgid "Quick Targeting Mode"
-msgstr ""
+msgstr "빠른 타겟팅 모드"
 
 msgctxt "inputactions/139"
 msgid "Disable Tutorials"
-msgstr ""
+msgstr "튜토리얼 끄기"
 
 msgctxt "inputactions/140"
 msgid "Privacy: Private"
@@ -574,7 +575,7 @@ msgstr ""
 
 msgctxt "inputactions/142"
 msgid "Multiplayer Start Game"
-msgstr ""
+msgstr "멀티플레이어 게임 시작"
 
 msgctxt "inputactions/143"
 msgid "Direct Connect Multiplayer"
@@ -582,11 +583,11 @@ msgstr ""
 
 msgctxt "inputactions/144"
 msgid "Refresh Lobby List"
-msgstr ""
+msgstr "로비 목록 새로고침"
 
 msgctxt "inputactions/145"
 msgid "Change Lobby Sort Field"
-msgstr ""
+msgstr "로비 정렬 방식 변경"
 
 msgctxt "inputactions/146"
 msgid "Toggle Lobby List (Sort Ascending)"
@@ -602,7 +603,7 @@ msgstr ""
 
 msgctxt "inputactions/149"
 msgid "Skip Song"
-msgstr ""
+msgstr "노래 스킵"
 
 msgctxt "inputactions/151"
 msgid "Toggle Visibility"
@@ -622,7 +623,7 @@ msgstr ""
 
 msgctxt "inputactions/155"
 msgid "Untrack"
-msgstr ""
+msgstr "목적지 설정 해제"
 
 msgctxt "inputactions/156"
 msgid "Crouch Down"
@@ -632,7 +633,7 @@ msgctxt "inputactions/157"
 msgid ""
 "Take a lower stance to gain improved Hit Chance, Evasion, and Detection "
 "Time. You will automatically stand up if you begin moving."
-msgstr ""
+msgstr "자세를 낮춰 명중률, 회피율, 탐지 시간을 상승시킵니다. 이동할 때 자동으로 일어서게 됩니다."
 
 msgctxt "inputactions/158"
 msgid "Stand Up"
@@ -644,44 +645,44 @@ msgstr ""
 
 msgctxt "inputactions/160"
 msgid "<color=#CA3429>Cannot change stance while in cover</color>"
-msgstr ""
+msgstr "<color=#CA3429>엄폐중일 때는 자세를 변경할 수 없습니다</color>"
 
 msgctxt "inputactions/161"
 msgid "Adjust Brightness"
-msgstr ""
+msgstr "밝기 조정"
 
 msgctxt "inputactions/162"
 msgid " Unused"
-msgstr ""
+msgstr " 미사용"
 
 msgctxt "inputactions/163"
 msgid "Defend"
-msgstr ""
+msgstr "방어"
 
 msgctxt "inputactions/164"
 msgid "Prepare"
-msgstr ""
+msgstr "준비"
 
 msgctxt "inputactions/165"
 msgid "HUD"
-msgstr ""
+msgstr "HUD"
 
 msgctxt "inputactions/166"
 msgid "Pan Camera Up"
-msgstr ""
+msgstr "카메라 위로 이동"
 
 msgctxt "inputactions/167"
 msgid "Pan Camera Down"
-msgstr ""
+msgstr "카메라 아래로 이동"
 
 msgctxt "inputactions/168"
 msgid "Pan Camera Left"
-msgstr ""
+msgstr "카메라 왼쪽으로 이동"
 
 msgctxt "inputactions/169"
 msgid "Pan Camera Right"
-msgstr ""
+msgstr "카메라 오른쪽으로 이동"
 
 msgctxt "inputactions/170"
 msgid "Push To Talk"
-msgstr ""
+msgstr "눌러서 대화하기"
