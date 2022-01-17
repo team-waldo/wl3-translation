@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-17 12:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"Last-Translator: BaMoT <tree0074@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -51,7 +51,7 @@ msgstr "넬리우스 돌시"
 
 msgctxt "characters/18"
 msgid "Taste of Winter Sky"
-msgstr ""
+msgstr "겨울 하늘의 맛"
 
 msgctxt "characters/20"
 msgid "Growler"
@@ -81,21 +81,23 @@ msgctxt "characters/29"
 msgid "Lloyd"
 msgstr "로이드"
 
+#, fuzzy
 msgctxt "characters/30"
 msgid "Unseen Voice"
-msgstr ""
+msgstr "보이지 않는 목소리"
 
 msgctxt "characters/31"
 msgid "Incinerator Drone"
-msgstr ""
+msgstr "소각용 드론"
 
+#, fuzzy
 msgctxt "characters/32"
 msgid "Faux soldier Drone"
-msgstr ""
+msgstr "모조 병사 드론"
 
 msgctxt "characters/33"
 msgid "Caretaker Drone"
-msgstr ""
+msgstr "경비 드론"
 
 msgctxt "characters/34"
 msgid "Quid Pro Go"
