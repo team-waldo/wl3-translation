@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-18 16:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 msgctxt "gui/1"
 msgid "Yes"
-msgstr ""
+msgstr "예"
 
 msgctxt "gui/2"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 msgctxt "gui/3"
 msgid "Radio"
@@ -35,31 +35,32 @@ msgstr "메뉴"
 
 msgctxt "gui/5"
 msgid "Examine"
-msgstr ""
+msgstr "조사하기"
 
 msgctxt "gui/6"
 msgid "<color=#818A8E>Value:</color> ${0}"
-msgstr ""
+msgstr "<color=#818A8E>Value:</color> ${0}"
 
 msgctxt "gui/7"
 msgid "Currently Equipped"
-msgstr ""
+msgstr "장비함"
 
 msgctxt "gui/8"
 msgid "Cannot Be Removed"
-msgstr ""
+msgstr "제거할 수 없음"
 
 msgctxt "gui/9"
 msgid "<color={1}>Range:</color> {0}"
-msgstr ""
+msgstr "<color={1}>Range:</color> {0}"
 
 msgctxt "gui/10"
 msgid "{0}%"
-msgstr ""
+msgstr "{0}%"
 
+#, fuzzy
 msgctxt "gui/11"
 msgid "${0}"
-msgstr ""
+msgstr "${0}"
 
 msgctxt "gui/12"
 msgid "Trade"
@@ -71,11 +72,11 @@ msgstr ""
 
 msgctxt "gui/14"
 msgid "Add to Trade"
-msgstr ""
+msgstr "거래에 추가하기"
 
 msgctxt "gui/15"
 msgid "Remove From Trade"
-msgstr ""
+msgstr "거래에서 제외하기"
 
 msgctxt "gui/16"
 msgid "New Mission"
@@ -83,23 +84,23 @@ msgstr "새로운 임무"
 
 msgctxt "gui/17"
 msgid "Mission Updated"
-msgstr ""
+msgstr "임무 갱신됨"
 
 msgctxt "gui/18"
 msgid "Addendum Added"
-msgstr ""
+msgstr "부록 추가됨"
 
 msgctxt "gui/19"
 msgid "Mission Completed"
-msgstr ""
+msgstr "임무 완수됨"
 
 msgctxt "gui/20"
 msgid "Mission Failed"
-msgstr ""
+msgstr "임무 실패함"
 
 msgctxt "gui/21"
 msgid "Select Quantity"
-msgstr ""
+msgstr "수량 선택"
 
 msgctxt "gui/22"
 msgid "Game Over"
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "gui/25"
 msgid ","
-msgstr ""
+msgstr ","
 
 msgctxt "gui/26"
 msgid "In Combat"
@@ -143,11 +144,11 @@ msgstr ""
 
 msgctxt "gui/32"
 msgid "Are You Sure?"
-msgstr ""
+msgstr "확실합니까?"
 
 msgctxt "gui/33"
 msgid "Are you sure you want to drop this item?"
-msgstr ""
+msgstr "이 물품을 내려놓습니까?"
 
 msgctxt "gui/34"
 msgid "Okay"
@@ -207,19 +208,19 @@ msgstr "없음"
 
 msgctxt "gui/48"
 msgid "5 Minutes"
-msgstr "5 분"
+msgstr "5분"
 
 msgctxt "gui/49"
 msgid "10 Minutes"
-msgstr "10 분"
+msgstr "10분"
 
 msgctxt "gui/50"
 msgid "15 Minutes"
-msgstr "15 분"
+msgstr "15분"
 
 msgctxt "gui/51"
 msgid "30 Minutes"
-msgstr "30 분"
+msgstr "30분"
 
 msgctxt "gui/52"
 msgid "Language"
@@ -293,9 +294,10 @@ msgctxt "gui/69"
 msgid "Save and Close"
 msgstr "저장 후 닫기"
 
+#, fuzzy
 msgctxt "gui/70"
 msgid "Are you sure you wish to exit? You will lose all unsaved changes."
-msgstr ""
+msgstr "정말 나가시겠습니까? 저장하지 않은 진행은 전부 사라집니다."
 
 msgctxt "gui/71"
 msgid "Return to Game"
@@ -407,11 +409,11 @@ msgstr "자동저장"
 
 msgctxt "gui/98"
 msgid "Timed Autosave"
-msgstr ""
+msgstr "정기 자동저장"
 
 msgctxt "gui/99"
 msgid "Auto-Toggle Tactical Mode"
-msgstr ""
+msgstr "자동 전투 전환 모드"
 
 msgctxt "gui/100"
 msgid "Auto-Sort Inventory"
@@ -443,7 +445,7 @@ msgstr "상태 효과"
 
 msgctxt "gui/107"
 msgid "Experience Points"
-msgstr ""
+msgstr "경험치"
 
 msgctxt "gui/108"
 msgid "Chat Messages"
@@ -470,23 +472,25 @@ msgctxt "gui/112"
 msgid ""
 "You must be logged in to the PlayStation™Network.  Please sign in to "
 "continue."
-msgstr ""
+msgstr "플레이스테이션™ 네트워크에 로그인해야 합니다.  계속하려면 가입하십시오."
 
 msgctxt "gui/113"
 msgid "PlayStation®4 system"
-msgstr ""
+msgstr "플레이스테이션®4 시스템"
 
 msgctxt "gui/114"
 msgid "<color=#818A8E>AP:</color> {0}"
-msgstr ""
+msgstr "<color=#818A8E>AP:</color> {0}"
 
+#, fuzzy
 msgctxt "gui/115"
 msgid "<color={1}>{0}</color> Damage"
-msgstr ""
+msgstr "<color={1}>{0}</color> Damage"
 
+#, fuzzy
 msgctxt "gui/116"
 msgid "<color={2}>{0}-{1}</color> Damage"
-msgstr ""
+msgstr "<color={2}>{0}-{1}</color> Damage"
 
 msgctxt "gui/117"
 msgid "Single Shot"
@@ -496,9 +500,10 @@ msgctxt "gui/118"
 msgid "{0} Round Burst"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/119"
 msgid "{0}/{1}"
-msgstr ""
+msgstr "{0}/{1}"
 
 msgctxt "gui/120"
 msgid "Reload"
@@ -514,11 +519,11 @@ msgstr "무기 전환"
 
 msgctxt "gui/123"
 msgid "Show Active Missions"
-msgstr ""
+msgstr "활성화된 임무 보이기"
 
 msgctxt "gui/124"
 msgid "Show Completed Missions"
-msgstr ""
+msgstr "완료한 임무 보이기"
 
 msgctxt "gui/125"
 msgid "Primary Missions"
@@ -550,7 +555,7 @@ msgstr "기술"
 
 msgctxt "gui/132"
 msgid "Health"
-msgstr ""
+msgstr "체력"
 
 msgctxt "gui/133"
 msgid "Experience"
@@ -562,15 +567,17 @@ msgstr ""
 
 msgctxt "gui/135"
 msgid "Character Stats"
-msgstr ""
+msgstr "캐릭터 능력치"
 
+#, fuzzy
 msgctxt "gui/136"
 msgid "{0}/{1}"
-msgstr ""
+msgstr "{0}/{1}"
 
+#, fuzzy
 msgctxt "gui/137"
 msgid "XP: {0}/{1}"
-msgstr ""
+msgstr "XP: {0}/{1}"
 
 msgctxt "gui/138"
 msgid "Action Points"
@@ -578,7 +585,7 @@ msgstr "행동력"
 
 msgctxt "gui/139"
 msgid "Damage"
-msgstr ""
+msgstr "피해량"
 
 msgctxt "gui/140"
 msgid "Critical Chance"
@@ -590,19 +597,20 @@ msgstr "방어력"
 
 msgctxt "gui/142"
 msgid "Evasion"
-msgstr ""
+msgstr "회피"
 
 msgctxt "gui/143"
 msgid "Weather Resistance"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/144"
 msgid "{0}-{1}"
-msgstr ""
+msgstr "{0}-{1}"
 
 msgctxt "gui/145"
 msgid "Loot All"
-msgstr ""
+msgstr "전부 줍기"
 
 msgctxt "gui/146"
 msgid "Distribute All"
@@ -614,15 +622,15 @@ msgstr "경보 해제됨"
 
 msgctxt "gui/148"
 msgid "Trap Disarmed"
-msgstr ""
+msgstr "함정 해제됨"
 
 msgctxt "gui/149"
 msgid "Alarmed"
-msgstr ""
+msgstr "경보 발동됨"
 
 msgctxt "gui/150"
 msgid "Trapped"
-msgstr ""
+msgstr "함정 발동됨"
 
 msgctxt "gui/151"
 msgid "New Game"
@@ -658,11 +666,11 @@ msgstr "덮어쓰기"
 
 msgctxt "gui/159"
 msgid "Overwrite Saved Game?"
-msgstr "저장된 파일을 덮어쓰시겠습니까?"
+msgstr "저장된 게임에 덮어씁니까?"
 
 msgctxt "gui/160"
 msgid "Are you sure you want to overwrite this saved game?"
-msgstr ""
+msgstr "정말 이 저장된 게임에 덮어쓰시겠습니까?"
 
 msgctxt "gui/161"
 msgid "Unsupported Version"
@@ -670,15 +678,15 @@ msgstr "지원되지 않는 버전"
 
 msgctxt "gui/162"
 msgid "This saved game is not compatible with this version of the game."
-msgstr ""
+msgstr "이 저장된 게임은 현재 게임 버전과 호환되지 않습니다."
 
 msgctxt "gui/163"
 msgid "Delete Saved Game?"
-msgstr ""
+msgstr "저장된 게임을 지우시겠습니까?"
 
 msgctxt "gui/164"
 msgid "Are you sure you want to delete {0}? This cannot be undone."
-msgstr ""
+msgstr "정말 {0}을(를) 삭제하시겠습니까? 되돌릴 수 없습니다."
 
 msgctxt "gui/165"
 msgid "Autosave {0}"
@@ -1000,7 +1008,7 @@ msgstr "레인저 선택"
 
 msgctxt "gui/243"
 msgid "{0} healed {1} CON."
-msgstr ""
+msgstr "{0}이 {1}체력을 회복했습니다."
 
 msgctxt "gui/244"
 msgid "{0} used {1}."
@@ -1016,7 +1024,7 @@ msgstr ""
 
 msgctxt "gui/247"
 msgid "Customize Ranger"
-msgstr ""
+msgstr "레인저 맞춤설정"
 
 msgctxt "gui/248"
 msgid "Portrait"
