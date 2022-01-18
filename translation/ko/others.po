@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-03 14:57+0000\n"
-"Last-Translator: 성명 <cvbx179@gmail.com>\n"
+"PO-Revision-Date: 2022-01-18 16:57+0000\n"
+"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -23,59 +23,67 @@ msgstr "조율"
 
 msgctxt "attributes/2"
 msgid "Luck"
-msgstr ""
+msgstr "행운"
 
 msgctxt "attributes/3"
 msgid "Awareness"
-msgstr ""
+msgstr "인지"
 
 msgctxt "attributes/4"
 msgid "Strength"
-msgstr ""
+msgstr "근력"
 
 msgctxt "attributes/5"
 msgid "Speed"
-msgstr ""
+msgstr "속도"
 
 msgctxt "attributes/6"
 msgid "Intelligence"
-msgstr ""
+msgstr "지능"
 
 msgctxt "attributes/7"
 msgid "Charisma"
-msgstr ""
+msgstr "매력"
 
 msgctxt "attributes/8"
 msgid ""
 "Coordination is your physical condition, self-control, and health. Take care "
 "of your body and it will take care of you."
-msgstr ""
+msgstr "조율은 당신의 신체 상태, 자기 통제, 그리고 건강입니다. 당신이 당신의 몸을 챙긴다면, 몸도 당신을 챙겨줄 것 입니다."
 
+#, fuzzy
 msgctxt "attributes/9"
 msgid ""
 "Luck is your guardian angel. Whether you're lining up that decisive attack, "
 "dodging incoming fire, or down to your bottom dollar, sometimes the winds of "
 "fortune blow your way."
 msgstr ""
+"행운은 당신의 수호 천사 입니다. 당신이 중요한 공격을 시도하거나, 날아오는 총알을 피하거나, 궁지에 몰렸을 때, 행운의 바람이 당신의 "
+"길을 인도할 것 입니다."
 
+#, fuzzy
 msgctxt "attributes/10"
 msgid ""
 "Awareness is your sense of your surroundings. A good Ranger knows that often "
 "it's your eyes and ears that keep you alive."
-msgstr ""
+msgstr "인지는 주변 환경에 대한 감각입니다. 훌륭한 레인저는 당신의 귀와 눈이 당신을 살아있게 한다는 것을 알고있습니다."
 
+#, fuzzy
 msgctxt "attributes/11"
 msgid ""
 "Strength is your raw physical power and ability to shrug off harm. It lets "
 "you hit harder, throw farther, and also serves as a requirement for the "
 "biggest, baddest heavy weapons and armor."
 msgstr ""
+"근력은 당신의 원초적인 육체의 힘과 피해를 대수롭지 않게 여기는 능력입니다. 당신이 더 세게 때리고, 더 멀리 던질 수 있게 만들어주며, "
+"가장 크고 간지나는 중화기와 장비의 요건이기도 합니다."
 
+#, fuzzy
 msgctxt "attributes/12"
 msgid ""
 "Speed is your physical quickness and reaction time. Strike first, strike "
 "true, then get out of there."
-msgstr ""
+msgstr "속도는 당신의 순발력과 반응 속도입니다. 먼저 때리고, 정확히 맞추고, 거기서 빠져나오세요."
 
 msgctxt "attributes/13"
 msgid ""
@@ -83,24 +91,27 @@ msgid ""
 "thinking."
 msgstr ""
 
+#, fuzzy
 msgctxt "attributes/14"
 msgid ""
 "Charisma is your force of will and personality. A charismatic Ranger can "
 "unleash Strike abilities more often, learn and adapt more quickly, and can "
 "be a more effective leader."
 msgstr ""
+"매력은 당신의 의지와 인격입니다. 카리스마 넘치는 레인저는 타격 능력을 더 자주 발동하고, 더 빨리 배우고 적응할 수 있으며, 더 "
+"효과적인 리더가 될 수 있습니다."
 
 msgctxt "attributes/15"
 msgid "Take care of your body and it will take care of you."
-msgstr ""
+msgstr "당신이 당신의 몸을 챙긴다면, 몸도 당신을 챙겨줄 것 입니다."
 
 msgctxt "attributes/16"
 msgid "Even the most skilled combatants fear the lucky."
-msgstr ""
+msgstr "아무리 숙련된 전투원이라도 행운은 두려워합니다."
 
 msgctxt "attributes/17"
 msgid "More than anything, it's your eyes and ears that keep you alive."
-msgstr ""
+msgstr "그 무엇보다도, 당신의 눈과 귀가 당신을 살아있게 합니다."
 
 msgctxt "attributes/18"
 msgid "Brawn solves more problems than clever folk like to admit."
@@ -108,87 +119,94 @@ msgstr ""
 
 msgctxt "attributes/19"
 msgid "Strike first, strike true, then get out of there."
-msgstr ""
+msgstr "먼저 때리고, 정확히 맞추고, 거기서 빠져나오세요."
 
+#, fuzzy
 msgctxt "attributes/20"
 msgid "Are you smart enough not to brag about how smart you are?"
-msgstr ""
+msgstr "당신은 당신이 얼마나 똑똑한지 자랑하지 않을 만큼 똑똑한가요?"
 
+#, fuzzy
 msgctxt "attributes/21"
 msgid "With a strong enough personality, anything is possible."
-msgstr ""
+msgstr "충분히 강한 인격과 함께 라면, 불가능은 없습니다."
 
 msgctxt "colornames/0"
 msgid "Default"
-msgstr ""
+msgstr "기본"
 
 msgctxt "colornames/1"
 msgid "Black"
-msgstr ""
+msgstr "검정색"
 
+#, fuzzy
 msgctxt "colornames/2"
 msgid "Maroon"
-msgstr ""
+msgstr "밤색"
 
 msgctxt "colornames/3"
 msgid "Green"
-msgstr ""
+msgstr "초록색"
 
+#, fuzzy
 msgctxt "colornames/4"
 msgid "Olive"
-msgstr ""
+msgstr "올리브색"
 
 msgctxt "colornames/5"
 msgid "Navy"
-msgstr ""
+msgstr "남색"
 
 msgctxt "colornames/6"
 msgid "Purple"
-msgstr ""
+msgstr "보라색"
 
 msgctxt "colornames/7"
 msgid "Teal"
-msgstr ""
+msgstr "청록색"
 
+#, fuzzy
 msgctxt "colornames/8"
 msgid "Silver"
-msgstr ""
+msgstr "은색"
 
 msgctxt "colornames/9"
 msgid "Gray"
-msgstr ""
+msgstr "회색"
 
 msgctxt "colornames/10"
 msgid "Red"
-msgstr ""
+msgstr "빨간색"
 
+#, fuzzy
 msgctxt "colornames/11"
 msgid "Lime"
-msgstr ""
+msgstr "라임색"
 
 msgctxt "colornames/12"
 msgid "Yellow"
-msgstr ""
+msgstr "노란색"
 
 msgctxt "colornames/13"
 msgid "Blue"
-msgstr ""
+msgstr "파란색"
 
+#, fuzzy
 msgctxt "colornames/14"
 msgid "Fuschia"
-msgstr ""
+msgstr "푸시아"
 
 msgctxt "colornames/15"
 msgid "Aqua"
-msgstr ""
+msgstr "물색"
 
 msgctxt "colornames/16"
 msgid "White"
-msgstr ""
+msgstr "하얀색"
 
 msgctxt "colornames/17"
 msgid "Brown"
-msgstr ""
+msgstr "갈색"
 
 msgctxt "colornames/18"
 msgid "Light Blonde"
@@ -200,19 +218,19 @@ msgstr ""
 
 msgctxt "colornames/20"
 msgid "Mahogany"
-msgstr ""
+msgstr "마호가니색"
 
 msgctxt "colornames/21"
 msgid "Copper"
-msgstr ""
+msgstr "구리색"
 
 msgctxt "colornames/22"
 msgid "Auburn"
-msgstr ""
+msgstr "적갈색"
 
 msgctxt "colornames/23"
 msgid "Black"
-msgstr ""
+msgstr "검은색"
 
 msgctxt "colornames/24"
 msgid "Dusk"
