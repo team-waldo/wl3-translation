@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-17 12:57+0000\n"
-"Last-Translator: wonochka <kyungwonwon@naver.com>\n"
+"PO-Revision-Date: 2022-01-19 23:57+0000\n"
+"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -250,37 +250,42 @@ msgctxt "skills/43"
 msgid "115 109 97 114 116 32 110 111 116 32 110 101 114 100 121"
 msgstr ""
 
+#, fuzzy
 msgctxt "skills/44"
 msgid "You make things go BOOM. In a good way."
-msgstr ""
+msgstr "당신은 상황을 터트려버립니다. 좋은 의미로요."
 
 msgctxt "skills/45"
 msgid "In a broken-down world, the mechanics reign."
-msgstr ""
+msgstr "망가진 세상은 정비공들이 지배합니다."
 
+#, fuzzy
 msgctxt "skills/46"
 msgid "You know how to bandage, stitch, and remove a Razorback quill."
-msgstr ""
+msgstr "당신은 붕대 감고, 꿰매고, 박힌 가시를 뽑는 법을 배웠습니다."
 
 msgctxt "skills/47"
 msgid ""
 "Great leaders don't take the most risks. They get others to take the risks "
 "for them."
-msgstr ""
+msgstr "위대한 리더들은 큰 위험을 감수하지 않습니다. 그들은 다른 사람들이 그들을 위해 위험을 감수하게 합니다."
 
+#, fuzzy
 msgctxt "skills/48"
 msgid "Locks keep honest people honest. You ain't honest people."
-msgstr ""
+msgstr "자물쇠는 정직한 사람들을 정직하게 하지만, 당신은 정직한 사람이 아닙니다."
 
+#, fuzzy
 msgctxt "skills/49"
 msgid ""
 "Living in the wilderness was tough even before the climate shift, mutations, "
 "and radioactivity."
-msgstr ""
+msgstr "기후변화, 돌연변이, 방사능이 있기 전에도 황무지에서 사는 것은 힘들었습니다."
 
+#, fuzzy
 msgctxt "skills/50"
 msgid "You never know what you'll find inside those things."
-msgstr ""
+msgstr "그 안에서 뭘 발견할지는 모르는 일입니다."
 
 msgctxt "skills/51"
 msgid ""
@@ -288,31 +293,34 @@ msgid ""
 "literally with bells or whistles."
 msgstr ""
 
+#, fuzzy
 msgctxt "skills/52"
 msgid ""
 "You have to go outside the science book if you want to do the really fun "
 "stuff."
-msgstr ""
+msgstr "정말 재미있는 일을 하고 싶다면, 과학책을 덮고 밖으로 나가야 합니다."
 
 msgctxt "skills/53"
 msgid "Let me tell you what you want to hear. Please!"
 msgstr ""
 
+#, fuzzy
 msgctxt "skills/54"
 msgid "Tell me what I want to know. <i>Now</i>."
-msgstr ""
+msgstr "내가 알고 싶어 하는 걸 말해줘요. <i>지금</i>."
 
+#, fuzzy
 msgctxt "skills/55"
 msgid "Combat Skills"
-msgstr ""
+msgstr "전투 기술"
 
 msgctxt "skills/56"
 msgid "Exploration Skills"
-msgstr ""
+msgstr "탐험 기술"
 
 msgctxt "skills/57"
 msgid "Social Skills"
-msgstr ""
+msgstr "사교 기술"
 
 msgctxt "skills/58"
 msgid "Blunt Weapons"
