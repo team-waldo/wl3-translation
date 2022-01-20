@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-21 00:57+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"Last-Translator: 박수진 <97qkrtnwls@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -5293,7 +5293,7 @@ msgstr "컴퍼니 스토어에서 스카 콜렉터를 몰아냈고, 디는 원�
 
 msgctxt "mission_q1001_godsandclowns/0"
 msgid "Gods and Clowns"
-msgstr ""
+msgstr "신과 클라운"
 
 msgctxt "mission_q1001_godsandclowns/1"
 msgid ""
