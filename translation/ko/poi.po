@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-22 11:57+0000\n"
-"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
+"Last-Translator: Stellar <xlsksh3@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -675,19 +675,19 @@ msgstr ""
 
 msgctxt "poi/175"
 msgid "Breakroom"
-msgstr ""
+msgstr "휴개실"
 
 msgctxt "poi/176"
 msgid "Laboratory"
-msgstr ""
+msgstr "실험실"
 
 msgctxt "poi/177"
 msgid "Garage"
-msgstr ""
+msgstr "차고"
 
 msgctxt "poi/178"
 msgid "Comms Room"
-msgstr ""
+msgstr "통신실"
 
 msgctxt "poi/179"
 msgid "Santa's Workshop"
@@ -695,11 +695,11 @@ msgstr "산타의 작업장"
 
 msgctxt "poi/180"
 msgid "Santa's House"
-msgstr ""
+msgstr "산타의 집"
 
 msgctxt "poi/181"
 msgid "Santa's Shed"
-msgstr ""
+msgstr "산타의 창고"
 
 msgctxt "poi/182"
 msgid "Safe Warrens"
@@ -707,47 +707,47 @@ msgstr ""
 
 msgctxt "poi/183"
 msgid "Chapel"
-msgstr ""
+msgstr "예배실"
 
 msgctxt "poi/184"
 msgid "Prison Block"
-msgstr ""
+msgstr "감옥 구역"
 
 msgctxt "poi/185"
 msgid "Playground"
-msgstr ""
+msgstr "놀이터"
 
 msgctxt "poi/186"
 msgid "Diner"
-msgstr ""
+msgstr "식당"
 
 msgctxt "poi/187"
 msgid "Parking Lot"
-msgstr ""
+msgstr "주차장"
 
 msgctxt "poi/188"
 msgid "Food Court"
-msgstr ""
+msgstr "푸드코트"
 
 msgctxt "poi/189"
 msgid "Weapon Shop"
-msgstr ""
+msgstr "무기 상점"
 
 msgctxt "poi/190"
 msgid "Armor Shop"
-msgstr ""
+msgstr "방어구 상점"
 
 msgctxt "poi/191"
 msgid "Theatre"
-msgstr ""
+msgstr "극장"
 
 msgctxt "poi/192"
 msgid "Medical Station"
-msgstr ""
+msgstr "진료소"
 
 msgctxt "poi/193"
 msgid "Cabinet of Curiosities"
-msgstr ""
+msgstr "호기심의 캐비냇"
 
 msgctxt "poi/194"
 msgid "Flab's Joint"
@@ -759,7 +759,7 @@ msgstr ""
 
 msgctxt "poi/196"
 msgid "Tellurium Mine"
-msgstr ""
+msgstr "텔루륨 광산"
 
 msgctxt "poi/197"
 msgid "Memorial Park"
@@ -767,119 +767,119 @@ msgstr ""
 
 msgctxt "poi/198"
 msgid "Workshop"
-msgstr ""
+msgstr "작업소"
 
 msgctxt "poi/199"
 msgid "Market Square"
-msgstr ""
+msgstr "시장 광장"
 
 msgctxt "poi/200"
 msgid "Museum"
-msgstr ""
+msgstr "박물관"
 
 msgctxt "poi/201"
 msgid "Hydroponics"
-msgstr ""
+msgstr "수경재배실"
 
 msgctxt "poi/202"
 msgid "Lounge"
-msgstr ""
+msgstr "라운지"
 
 msgctxt "poi/203"
 msgid "Gallery"
-msgstr ""
+msgstr "전시실"
 
 msgctxt "poi/204"
 msgid "Makeshift Hospital"
-msgstr ""
+msgstr "임시 병원"
 
 msgctxt "poi/205"
 msgid "Makeshift Jail"
-msgstr ""
+msgstr "임시 감옥"
 
 msgctxt "poi/206"
 msgid "Storage (Flooded)"
-msgstr ""
+msgstr "침수된 저장고"
 
 msgctxt "poi/207"
 msgid "Ventilation Ducts"
-msgstr ""
+msgstr "통풍구"
 
 msgctxt "poi/208"
 msgid "Electrical Room"
-msgstr ""
+msgstr "전기실"
 
 msgctxt "poi/209"
 msgid "Water Recyclers"
-msgstr ""
+msgstr "물 재활용기"
 
 msgctxt "poi/210"
 msgid "Entrance Hall"
-msgstr ""
+msgstr "입구 홀"
 
 msgctxt "poi/211"
 msgid "Throne Room"
-msgstr ""
+msgstr "알현실"
 
 msgctxt "poi/212"
 msgid "Makeshift Barracks"
-msgstr ""
+msgstr "임시 막사"
 
 msgctxt "poi/213"
 msgid "Makeshift Breakroom"
-msgstr ""
+msgstr "임시 휴게실"
 
 msgctxt "poi/214"
 msgid "Private Wing"
-msgstr ""
+msgstr "개인실"
 
 msgctxt "poi/215"
 msgid "Dining Room"
-msgstr ""
+msgstr "식당"
 
 msgctxt "poi/216"
 msgid "Trophy Gallery"
-msgstr ""
+msgstr "트로피 전시실"
 
 msgctxt "poi/217"
 msgid "Victory's Room"
-msgstr ""
+msgstr "빅토리의 방"
 
 msgctxt "poi/218"
 msgid "Valor's Room"
-msgstr ""
+msgstr "발러의 방"
 
 msgctxt "poi/219"
 msgid "Liberty's Room"
-msgstr ""
+msgstr "리버티의 방"
 
 msgctxt "poi/220"
 msgid "Hidden Cache"
-msgstr ""
+msgstr "은닉처"
 
 msgctxt "poi/221"
 msgid "Hopefuls Camp"
-msgstr ""
+msgstr "희망자 야영지"
 
 msgctxt "poi/222"
 msgid "Bizarre Entrance"
-msgstr ""
+msgstr "비자르 입구"
 
 msgctxt "poi/223"
 msgid "Parking Garage"
-msgstr ""
+msgstr "주차장"
 
 msgctxt "poi/224"
 msgid "Dealership Hideout"
-msgstr ""
+msgstr "대리점 은신처"
 
 msgctxt "poi/225"
 msgid "Smuggler's Camp"
-msgstr ""
+msgstr "밀수업자의 야영지"
 
 msgctxt "poi/226"
 msgid "Greenhouse"
-msgstr ""
+msgstr "온실"
 
 msgctxt "poi/227"
 msgid "Toy Warehouse"
@@ -887,15 +887,15 @@ msgstr "장난감 창고"
 
 msgctxt "poi/228"
 msgid "Dentist Office"
-msgstr ""
+msgstr "치과의사의 사무실"
 
 msgctxt "poi/229"
 msgid "Meat Clown"
-msgstr ""
+msgstr "미트 클라운"
 
 msgctxt "poi/230"
 msgid "Meat Clown"
-msgstr ""
+msgstr "미트 클라운"
 
 msgctxt "poi/231"
 msgid "Alaska Surprise"
@@ -911,19 +911,19 @@ msgstr ""
 
 msgctxt "poi/234"
 msgid "Godfisher Shrine Entrance"
-msgstr ""
+msgstr "갓피셔 사당 입구"
 
 msgctxt "poi/235"
 msgid "Godfisher Shrine Summit"
-msgstr ""
+msgstr "갓피셔 사당 정상"
 
 msgctxt "poi/236"
 msgid "Entrance"
-msgstr ""
+msgstr "입구"
 
 msgctxt "poi/237"
 msgid "Altar"
-msgstr ""
+msgstr "재단"
 
 msgctxt "poi/238"
 msgid "Entrance Lobby"
@@ -931,15 +931,15 @@ msgstr ""
 
 msgctxt "poi/239"
 msgid "Basement"
-msgstr ""
+msgstr "지하실"
 
 msgctxt "poi/240"
 msgid "Control Room"
-msgstr ""
+msgstr "제어실"
 
 msgctxt "poi/241"
 msgid "Screening Room"
-msgstr ""
+msgstr "상영관"
 
 msgctxt "poi/242"
 msgid "Burrow"
@@ -975,35 +975,35 @@ msgstr ""
 
 msgctxt "poi/250"
 msgid "Garage"
-msgstr ""
+msgstr "차고"
 
 msgctxt "poi/251"
 msgid "Armory"
-msgstr ""
+msgstr "무기고"
 
 msgctxt "poi/252"
 msgid "Med Bay"
-msgstr ""
+msgstr "의무실"
 
 msgctxt "poi/253"
 msgid "War Room"
-msgstr ""
+msgstr "상황실"
 
 msgctxt "poi/254"
 msgid "Museum"
-msgstr ""
+msgstr "박물관"
 
 msgctxt "poi/255"
 msgid "Mess Hall"
-msgstr ""
+msgstr "식당"
 
 msgctxt "poi/256"
 msgid "Barracks"
-msgstr ""
+msgstr "막사"
 
 msgctxt "poi/257"
 msgid "Brig"
-msgstr ""
+msgstr "구금실"
 
 msgctxt "poi/258"
 msgid "Cannibal Compound"
@@ -1019,7 +1019,7 @@ msgstr ""
 
 msgctxt "poi/261"
 msgid "Cabin"
-msgstr ""
+msgstr "오두막"
 
 msgctxt "poi/262"
 msgid "Gate"
@@ -1039,12 +1039,12 @@ msgstr ""
 
 msgctxt "poi/266"
 msgid "Rosie Wong's Apartment"
-msgstr ""
+msgstr "로지 웡의 아파트"
 
 msgctxt "poi/267"
 msgid "Frank Pappas's Apartment"
-msgstr ""
+msgstr "프랭크 파파스의 방"
 
 msgctxt "poi/268"
 msgid "Irv's Apartment"
-msgstr ""
+msgstr "어브의 방"
