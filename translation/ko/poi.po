@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-12 20:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2022-01-22 11:57+0000\n"
+"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -41,21 +41,25 @@ msgctxt "poi/6"
 msgid "The Mechanic's Garage"
 msgstr "기계공의 차고"
 
+#, fuzzy
 msgctxt "poi/7"
 msgid "Demolition Derby Arena"
-msgstr ""
+msgstr "데몰리션 더비 경기장"
 
+#, fuzzy
 msgctxt "poi/8"
 msgid "Gang Compound"
-msgstr ""
+msgstr "갱단의 주둔지"
 
+#, fuzzy
 msgctxt "poi/9"
 msgid "Slave Pen"
-msgstr ""
+msgstr "노예 수용소"
 
+#, fuzzy
 msgctxt "poi/10"
 msgid "Observation Tower"
-msgstr ""
+msgstr "감시탑"
 
 msgctxt "poi/11"
 msgid "Gate Checkpoint"
@@ -63,11 +67,11 @@ msgstr ""
 
 msgctxt "poi/13"
 msgid "Parking Lot"
-msgstr ""
+msgstr "주차장"
 
 msgctxt "poi/14"
 msgid "Helipad"
-msgstr ""
+msgstr "헬기 착륙장"
 
 msgctxt "poi/15"
 msgid "Soldier Bunks"
@@ -75,27 +79,30 @@ msgstr ""
 
 msgctxt "poi/16"
 msgid "Garage"
-msgstr ""
+msgstr "차고"
 
+#, fuzzy
 msgctxt "poi/17"
 msgid "Parts Storage Room"
-msgstr ""
+msgstr "부품 보관실"
 
 msgctxt "poi/18"
 msgid "Repair Shop"
-msgstr ""
+msgstr "수리점"
 
+#, fuzzy
 msgctxt "poi/19"
 msgid "Decontamination Room"
-msgstr ""
+msgstr "제염실"
 
 msgctxt "poi/20"
 msgid "Security"
 msgstr ""
 
+#, fuzzy
 msgctxt "poi/21"
 msgid "Computer Control Room"
-msgstr ""
+msgstr "컴퓨터 제어실"
 
 msgctxt "poi/22"
 msgid "A.I. Robotics"
@@ -115,19 +122,20 @@ msgstr ""
 
 msgctxt "poi/26"
 msgid "Observation Room A"
-msgstr ""
+msgstr "관측실 A"
 
 msgctxt "poi/27"
 msgid "Observation Room B"
-msgstr ""
+msgstr "관측실 B"
 
 msgctxt "poi/28"
 msgid "Training Area"
-msgstr ""
+msgstr "훈련장"
 
+#, fuzzy
 msgctxt "poi/29"
 msgid "Cafeteria"
-msgstr ""
+msgstr "카페테리아"
 
 msgctxt "poi/30"
 msgid "Cryogenics Room"
@@ -135,15 +143,17 @@ msgstr ""
 
 msgctxt "poi/31"
 msgid "Hospital Lobby"
-msgstr ""
+msgstr "병원 로비"
 
+#, fuzzy
 msgctxt "poi/32"
 msgid "Drug Storeroom"
-msgstr ""
+msgstr "약물 저장실"
 
+#, fuzzy
 msgctxt "poi/33"
 msgid "Detention Block AA-23"
-msgstr ""
+msgstr "격리 구역 AA-23"
 
 msgctxt "poi/34"
 msgid "Cell 2187"
