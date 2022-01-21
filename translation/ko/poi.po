@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-22 11:57+0000\n"
-"Last-Translator: Stellar <xlsksh3@naver.com>\n"
+"Last-Translator: James Park <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgstr "감시탑"
 
 msgctxt "poi/11"
 msgid "Gate Checkpoint"
-msgstr ""
+msgstr "게이트 검문소"
 
 msgctxt "poi/13"
 msgid "Parking Lot"
@@ -75,7 +75,7 @@ msgstr "헬기 착륙장"
 
 msgctxt "poi/15"
 msgid "Soldier Bunks"
-msgstr ""
+msgstr "군용 침대"
 
 msgctxt "poi/16"
 msgid "Garage"
@@ -139,7 +139,7 @@ msgstr "카페테리아"
 
 msgctxt "poi/30"
 msgid "Cryogenics Room"
-msgstr ""
+msgstr "극저온실"
 
 msgctxt "poi/31"
 msgid "Hospital Lobby"
@@ -157,67 +157,67 @@ msgstr "격리 구역 AA-23"
 
 msgctxt "poi/34"
 msgid "Cell 2187"
-msgstr ""
+msgstr "수감실 2187"
 
 msgctxt "poi/35"
 msgid "Evaluation Room"
-msgstr ""
+msgstr "평가실"
 
 msgctxt "poi/36"
 msgid "Operation Room"
-msgstr ""
+msgstr "수술실"
 
 msgctxt "poi/37"
 msgid "Morgue"
-msgstr ""
+msgstr "영안실"
 
 msgctxt "poi/38"
 msgid "Secret Lab"
-msgstr ""
+msgstr "비밀 연구실"
 
 msgctxt "poi/39"
 msgid "DNA Storage"
-msgstr ""
+msgstr "DNA 저장고"
 
 msgctxt "poi/40"
 msgid "Residential Hub"
-msgstr ""
+msgstr "주거지 허브"
 
 msgctxt "poi/41"
 msgid "Reservoir Tanks"
-msgstr ""
+msgstr "저장탱크"
 
 msgctxt "poi/42"
 msgid "Guard Checkpoint"
-msgstr ""
+msgstr "검문소"
 
 msgctxt "poi/43"
 msgid "Ops Planning Room"
-msgstr ""
+msgstr "작전계획실"
 
 msgctxt "poi/44"
 msgid "Special Ops Center"
-msgstr ""
+msgstr "특수 작전 센터"
 
 msgctxt "poi/45"
 msgid "Interrogation Room"
-msgstr ""
+msgstr "취조실"
 
 msgctxt "poi/46"
 msgid "Pacification Planning Room"
-msgstr ""
+msgstr "화평공작 계획실"
 
 msgctxt "poi/47"
 msgid "War Room"
-msgstr ""
+msgstr "상황실"
 
 msgctxt "poi/48"
 msgid "Crash Site"
-msgstr ""
+msgstr "추락 현장"
 
 msgctxt "poi/49"
 msgid "Equipment"
-msgstr ""
+msgstr "장비"
 
 msgctxt "poi/50"
 msgid "Scavengers"
@@ -225,55 +225,56 @@ msgstr ""
 
 msgctxt "poi/51"
 msgid "Eviscerated Rangers"
-msgstr ""
+msgstr "내장이 드러난 레인저"
 
 msgctxt "poi/52"
 msgid "Dam Entrance"
-msgstr ""
+msgstr "댐 입구"
 
 msgctxt "poi/53"
 msgid "Passage to Eleven Mile Canyon"
-msgstr ""
+msgstr "11마일 협곡으로 가는 길"
 
 msgctxt "poi/54"
 msgid "Old Fire Lookout Tower\\n"
-msgstr ""
+msgstr "낡은 화재 감시탑\\n"
 
 msgctxt "poi/67"
 msgid "Broadcast Location"
-msgstr ""
+msgstr "방송 위치"
 
 msgctxt "poi/68"
 msgid "Human Outreach Gift Shop"
-msgstr ""
+msgstr "인간 원조 기념품 가게"
 
 msgctxt "poi/69"
 msgid "Service Road"
-msgstr ""
+msgstr "지선 도로"
 
 msgctxt "poi/70"
 msgid "Main Road"
-msgstr ""
+msgstr "간선 도로"
 
+#, fuzzy
 msgctxt "poi/71"
 msgid "Snowed Inn Valley"
-msgstr ""
+msgstr "눈 내린 여관 계곡"
 
 msgctxt "poi/72"
 msgid "Barracks"
-msgstr ""
+msgstr "병영"
 
 msgctxt "poi/73"
 msgid "Frozen House"
-msgstr ""
+msgstr "얼어붙은 집"
 
 msgctxt "poi/74"
 msgid "Abandoned Bunker"
-msgstr ""
+msgstr "방치된 벙커"
 
 msgctxt "poi/75"
 msgid "Armory"
-msgstr ""
+msgstr "무기고"
 
 msgctxt "poi/76"
 msgid "Circle of April"
@@ -285,35 +286,35 @@ msgstr ""
 
 msgctxt "poi/78"
 msgid "Commune Art Exhibits"
-msgstr ""
+msgstr "코뮌 미술 전시회"
 
 msgctxt "poi/79"
 msgid "West Catwalk"
-msgstr ""
+msgstr "서쪽 통로"
 
 msgctxt "poi/80"
 msgid "Tech Concourse"
-msgstr ""
+msgstr "기술 광장"
 
 msgctxt "poi/81"
 msgid "Restrooms"
-msgstr ""
+msgstr "화장실"
 
 msgctxt "poi/82"
 msgid "Abandoned Hangars"
-msgstr ""
+msgstr "방치된 격납고"
 
 msgctxt "poi/83"
 msgid "Highway"
-msgstr ""
+msgstr "고속도로"
 
 msgctxt "poi/84"
 msgid "Abandoned RV Campground"
-msgstr ""
+msgstr "방치된 RV 캠핑장"
 
 msgctxt "poi/85"
 msgid "Hoon Homestead"
-msgstr ""
+msgstr "훈 농장"
 
 msgctxt "poi/86"
 msgid "Outflow Control Station"
