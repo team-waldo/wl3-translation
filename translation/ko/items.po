@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-21 08:44+0000\n"
-"Last-Translator: James Park <jamespark9001@gmail.com>\n"
+"Last-Translator: Stellar <xlsksh3@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -4537,7 +4537,7 @@ msgstr "무기와 방어구의 수리와 유지보수를 위한 도구로 가득
 
 msgctxt "items/1049"
 msgid "Aviators"
-msgstr ""
+msgstr "에비에이터 선글라스"
 
 msgctxt "items/1050"
 msgid "With these intimidating sunglasses, you'll look like you mean business."
