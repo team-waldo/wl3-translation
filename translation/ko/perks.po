@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-21 00:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"PO-Revision-Date: 2022-01-22 11:57+0000\n"
+"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -134,7 +134,6 @@ msgctxt "perks/21"
 msgid "Vengeful Bond"
 msgstr "복수로 불타오르는 유대감"
 
-#, fuzzy
 msgctxt "perks/22"
 msgid "It's not wise to threaten a mama bear's cubs."
 msgstr "어미 곰의 새끼를 위협하는 건 현명하지 못한 행동입니다."
@@ -144,21 +143,19 @@ msgctxt "perks/23"
 msgid "Double Tap"
 msgstr "더블 탭"
 
-#, fuzzy
 msgctxt "perks/24"
 msgid "The first hit just opens them up for the real kill shot."
-msgstr "처음 쏜 한발은 진정한 죽음의 총알을 박아넣기 위함이었을 뿐."
+msgstr "처음 쏜 한 발은 진정한 죽음의 총알을 박아 넣기 위함이었을 뿐."
 
 #, fuzzy
 msgctxt "perks/25"
 msgid "Sure Shot"
 msgstr "일발 적중"
 
-#, fuzzy
 msgctxt "perks/26"
 msgid ""
 "It's easy to hit your mark when you're not prancing around like a ninny."
-msgstr "당신이 정신없이 나다니지만 않는다면, 목표에 정확히 총알을 박아넣는 것쯤은 간단한 일입니다."
+msgstr "당신이 정신없이 나다니지만 않는다면, 목표에 정확히 총알을 박아 넣는 것쯤은 간단한 일입니다."
 
 #, fuzzy
 msgctxt "perks/27"
@@ -593,7 +590,7 @@ msgctxt "perks/114"
 msgid ""
 "You have to do more than get them back up - you've got to give them a "
 "fighting chance."
-msgstr ""
+msgstr "치료해주는 것 만으론 부족합니다, 적을 물리칠 기회도 줘야죠."
 
 msgctxt "perks/115"
 msgid "Skinning"
