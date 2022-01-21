@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-21 00:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2022-01-21 08:44+0000\n"
+"Last-Translator: James Park <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -419,7 +419,7 @@ msgstr "1회용 체포장치"
 
 msgctxt "items/108"
 msgid " This item grants a direct attack ability."
-msgstr ""
+msgstr " 이 아이템을 사용해 직접 공격을 할 수 있습니다."
 
 msgctxt "items/109"
 msgid ""
@@ -861,7 +861,7 @@ msgstr ""
 
 msgctxt "items/212"
 msgid " Laser eye"
-msgstr ""
+msgstr " 레이저 안구"
 
 msgctxt "items/213"
 msgid " It might shoot lasers, but where would you install it?"
@@ -3940,7 +3940,7 @@ msgstr "울버린 송곳니"
 
 msgctxt "items/907"
 msgid "Chompy."
-msgstr ""
+msgstr "깨물어주고 싶네요."
 
 msgctxt "items/908"
 msgid "Wolverine Fur"
@@ -5543,11 +5543,11 @@ msgstr "스카 콜렉터 장화"
 
 msgctxt "items/1284"
 msgid "Daughter's Boots"
-msgstr ""
+msgstr "딸의 장화"
 
 msgctxt "items/1285"
 msgid "Wavy"
-msgstr "물결"
+msgstr "웨이브"
 
 msgctxt "items/1286"
 msgid "Swept Back"
@@ -5559,7 +5559,7 @@ msgstr "광인"
 
 msgctxt "items/1288"
 msgid "Parted"
-msgstr ""
+msgstr "가르마"
 
 msgctxt "items/1289"
 msgid "Tinker's Hood"
@@ -5567,11 +5567,11 @@ msgstr "땜장이의 후드"
 
 msgctxt "items/1290"
 msgid "Head 1"
-msgstr ""
+msgstr "머리 1"
 
 msgctxt "items/1291"
 msgid "Daughter's Hands"
-msgstr ""
+msgstr "딸의 손"
 
 msgctxt "items/1292"
 msgid "Bare Hands"
@@ -5687,11 +5687,11 @@ msgstr ""
 
 msgctxt "items/1320"
 msgid "Kerchief"
-msgstr ""
+msgstr "손수건"
 
 msgctxt "items/1321"
 msgid "Cap"
-msgstr ""
+msgstr "야구 모자"
 
 msgctxt "items/1322"
 msgid "Dorsey Antlers"
@@ -5857,7 +5857,7 @@ msgstr ""
 
 msgctxt "items/1362"
 msgid "Tutu"
-msgstr ""
+msgstr "발레 스커트"
 
 msgctxt "items/1363"
 msgid "Dorsey Ravager Pants"
@@ -6550,7 +6550,7 @@ msgstr "수십년의 오물로 덮혀있지만 얆고 가볍고 질이 좋습니
 
 msgctxt "items/1523"
 msgid "Sidecut"
-msgstr ""
+msgstr "사이드컷"
 
 msgctxt "items/1524"
 msgid "Hobo Shotgun"
@@ -7909,7 +7909,7 @@ msgstr "이 무기가 발사하는 반짝거리는 입자들은 몸을 통과하
 
 msgctxt "items/1816"
 msgid "Penetrator"
-msgstr ""
+msgstr "관통기"
 
 msgctxt "items/1817"
 msgid ""
@@ -9120,7 +9120,7 @@ msgstr "앞으로 나오셔서 당신의 힘을 시험해 보십시오!"
 
 msgctxt "items/2088"
 msgid "Armor"
-msgstr ""
+msgstr "갑옷"
 
 msgctxt "items/2089"
 msgid "Radical Rachel"
@@ -12230,7 +12230,7 @@ msgstr ""
 
 msgctxt "items/2781"
 msgid "FrankenTop"
-msgstr ""
+msgstr "프랑켄슈타인"
 
 msgctxt "items/2782"
 msgid "New Wave"
@@ -12925,7 +12925,7 @@ msgstr "착탄시 단순 박치기 이상의 무언가를 보여주는 염소 �
 
 msgctxt "items/2933"
 msgid "Shockwave"
-msgstr ""
+msgstr "충격파"
 
 msgctxt "items/2934"
 msgid ""
