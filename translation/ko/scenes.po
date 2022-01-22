@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-12 20:57+0000\n"
-"Last-Translator: 임창묵 <studiochanbi@gmail.com>\n"
+"PO-Revision-Date: 2022-01-22 11:57+0000\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 msgctxt "scenes/0"
 msgid "Merchant Outpost"
-msgstr ""
+msgstr "상인 정착지"
 
 msgctxt "scenes/1"
 msgid "Empty"
@@ -27,7 +27,7 @@ msgstr "HUD"
 
 msgctxt "scenes/3"
 msgid "Launcher"
-msgstr ""
+msgstr "런처"
 
 msgctxt "scenes/4"
 msgid "Lobby"
@@ -39,7 +39,7 @@ msgstr "메인 메뉴"
 
 msgctxt "scenes/6"
 msgid "Singletons"
-msgstr ""
+msgstr "싱글톤"
 
 msgctxt "scenes/7"
 msgid "Colorado"
@@ -57,14 +57,13 @@ msgctxt "scenes/10"
 msgid "Downtown Colorado Springs"
 msgstr "콜로라도 스프링스 시내"
 
-#, fuzzy
 msgctxt "scenes/11"
 msgid "Little Vegas"
 msgstr "리틀 베가스"
 
 msgctxt "scenes/12"
 msgid "Garden of the Gods"
-msgstr ""
+msgstr "신의 정원"
 
 msgctxt "scenes/13"
 msgid "Air Force Academy Ruins"
@@ -76,9 +75,8 @@ msgstr "공군 사관학교 지하"
 
 msgctxt "scenes/15"
 msgid "Broadmoor Heights"
-msgstr ""
+msgstr "브로드무어 하이츠"
 
-#, fuzzy
 msgctxt "scenes/16"
 msgid "Patriarch's Palace"
 msgstr "패트리아크의 궁전"
@@ -93,64 +91,59 @@ msgstr "덴버 폐허"
 
 msgctxt "scenes/19"
 msgid "Valhalla Medical Facility "
-msgstr ""
+msgstr "발할라 의료 시설 "
 
-#, fuzzy
 msgctxt "scenes/20"
 msgid "Union Station"
 msgstr "유니온 정거장"
 
-#, fuzzy
 msgctxt "scenes/21"
 msgid "Gipper Oilfield"
 msgstr "기퍼 유전"
 
 msgctxt "scenes/22"
 msgid "The Western Whitehouse"
-msgstr ""
+msgstr "서부 백악관"
 
 msgctxt "scenes/23"
 msgid "Machine Commune"
-msgstr ""
+msgstr "머신 코뮌"
 
 msgctxt "scenes/38"
 msgid "Bizarre Exterior"
-msgstr ""
+msgstr "비자르 외부"
 
 msgctxt "scenes/39"
 msgid "Bizarre Interior"
-msgstr ""
+msgstr "비자르 내부"
 
 msgctxt "scenes/40"
 msgid "Warrens"
 msgstr "사육장"
 
-#, fuzzy
 msgctxt "scenes/44"
 msgid "Yuma County Speedway"
 msgstr "유마 카운티 경주로"
 
-#, fuzzy
 msgctxt "scenes/45"
 msgid "Godfisher Windfarm"
 msgstr "갓피셔 풍력 발전 단지"
 
-#, fuzzy
 msgctxt "scenes/46"
 msgid "Scar Collector Mine"
 msgstr "스카 콜렉터 광산"
 
 msgctxt "scenes/47"
 msgid "The Black Hole"
-msgstr ""
+msgstr "블랙홀"
 
 msgctxt "scenes/48"
 msgid "Mountain Pass"
-msgstr ""
+msgstr "산길"
 
 msgctxt "scenes/49"
 msgid "Paint Mines"
-msgstr ""
+msgstr "염료 광산"
 
 msgctxt "scenes/50"
 msgid "Black Forest"
@@ -158,39 +151,39 @@ msgstr "검은 숲"
 
 msgctxt "scenes/51"
 msgid "Merchant Outpost"
-msgstr ""
+msgstr "상인 정착지"
 
 msgctxt "scenes/52"
 msgid "Isolated Garage"
-msgstr ""
+msgstr "외딴 차고"
 
 msgctxt "scenes/53"
 msgid "Knox Bison Ranch"
-msgstr ""
+msgstr "녹스 들소 목장"
 
 msgctxt "scenes/54"
 msgid "Los Payasos Ambush"
-msgstr ""
+msgstr "로스 파야소 매복지"
 
 msgctxt "scenes/55"
 msgid "Tear Down The Wall"
-msgstr ""
+msgstr "벽을 허물다"
 
 msgctxt "scenes/56"
 msgid "Watering Hole"
-msgstr ""
+msgstr "물웅덩이"
 
 msgctxt "scenes/57"
 msgid "Route 82 Ambush"
-msgstr ""
+msgstr "82번 국도 매복지"
 
 msgctxt "scenes/58"
 msgid "Psychopath Hitman Encounter"
-msgstr ""
+msgstr "사이코패스 암살자 조우"
 
 msgctxt "scenes/61"
 msgid "Kidnapped Children Hideout"
-msgstr ""
+msgstr "유괴된 아이들 은신처"
 
 msgctxt "scenes/62"
 msgid "Monster Army Bunker"
@@ -198,64 +191,63 @@ msgstr "몬스터 아미 벙커"
 
 msgctxt "scenes/63"
 msgid "Gett Family Homestead"
-msgstr ""
+msgstr "겟 가문 농가"
 
 msgctxt "scenes/64"
 msgid "Fugitives From California"
-msgstr ""
+msgstr "캘리포니아에서 온 도망자들"
 
 msgctxt "scenes/65"
 msgid "Backer Kym Hie"
-msgstr ""
+msgstr "김 희의 후원자"
 
-#, fuzzy
 msgctxt "scenes/67"
 msgid "Clown Museum"
 msgstr "광대 박물관"
 
 msgctxt "scenes/68"
 msgid "Caddyshack"
-msgstr ""
+msgstr "캐디쉑"
 
 msgctxt "scenes/70"
 msgid "My Tire"
-msgstr ""
+msgstr "내 타이어"
 
 msgctxt "scenes/71"
 msgid "BTTF Doc"
-msgstr ""
+msgstr "백 투 더 퓨처 박사"
 
 msgctxt "scenes/72"
 msgid "Merchant_00"
-msgstr ""
+msgstr "상인_00"
 
 msgctxt "scenes/73"
 msgid "Merchant_01"
-msgstr ""
+msgstr "상인_01"
 
 msgctxt "scenes/74"
 msgid "Merchant_02"
-msgstr ""
+msgstr "상인_02"
 
 msgctxt "scenes/75"
 msgid "Merchant_03"
-msgstr ""
+msgstr "상인_03"
 
 msgctxt "scenes/76"
 msgid "Combat Humans "
-msgstr ""
+msgstr "전투 인간들 "
 
 msgctxt "scenes/77"
 msgid "Combat Anumals"
-msgstr ""
+msgstr "전투 동물들"
 
 msgctxt "scenes/78"
 msgid "Combat Robots"
-msgstr ""
+msgstr "전투 로봇들"
 
 msgctxt "scenes/79"
 msgid "Combat Ambush"
-msgstr ""
+msgstr "전투 기습"
 
 msgctxt "scenes/80"
 msgid "Aspen"
@@ -267,27 +259,27 @@ msgstr "애스펀"
 
 msgctxt "scenes/82"
 msgid "Little Hell"
-msgstr ""
+msgstr "리틀 헬"
 
 msgctxt "scenes/83"
 msgid "Abandoned Camp"
-msgstr ""
+msgstr "버려진 야영지"
 
 msgctxt "scenes/84"
 msgid "\"Snowed Inn\" Resort"
-msgstr ""
+msgstr "\"눈 내린 여관\" 리조트"
 
 msgctxt "scenes/85"
 msgid "Eleven Mile Canyon"
-msgstr ""
+msgstr "일레븐 마일 협곡"
 
 msgctxt "scenes/86"
 msgid "Ambush Site"
-msgstr ""
+msgstr "매복지점"
 
 msgctxt "scenes/87"
 msgid "Ambush Site (Return) "
-msgstr ""
+msgstr "매복지점 (귀환) "
 
 msgctxt "scenes/88"
 msgid "Abandoned Oil Well "
@@ -303,11 +295,11 @@ msgstr "버려진 유정"
 
 msgctxt "scenes/91"
 msgid "Ghost Town"
-msgstr ""
+msgstr "유령 도시"
 
 msgctxt "scenes/92"
 msgid "Mysterious Cave"
-msgstr ""
+msgstr "신비한 동굴"
 
 msgctxt "scenes/93"
 msgid "Toaster Repair Academy"
@@ -315,11 +307,11 @@ msgstr "토스터 수리 사관학교"
 
 msgctxt "scenes/94"
 msgid "Ranger Rover Site"
-msgstr ""
+msgstr "레인저 로버 지점"
 
 msgctxt "scenes/95"
 msgid "Department of Energy Site"
-msgstr ""
+msgstr "에너지 부서 지점"
 
 msgctxt "scenes/96"
 msgid "Massacre Site"
@@ -367,15 +359,15 @@ msgstr "TEST_HoonHouse"
 
 msgctxt "scenes/107"
 msgid "Clown Museum"
-msgstr ""
+msgstr "광대 박물관"
 
 msgctxt "scenes/108"
 msgid " Flesh Trappers"
-msgstr ""
+msgstr " 고기 사냥꾼들"
 
 msgctxt "scenes/109"
 msgid " The Standoff"
-msgstr ""
+msgstr " 교착상태"
 
 msgctxt "scenes/110"
 msgid "Scorpitron"
@@ -383,7 +375,7 @@ msgstr "스콜피트론"
 
 msgctxt "scenes/111"
 msgid "Hoon Homestead"
-msgstr ""
+msgstr "훈 농장"
 
 msgctxt "scenes/112"
 msgid "TEST Vehicle Assault Structure"
@@ -399,11 +391,11 @@ msgstr "TEST Vehicle Ambush"
 
 msgctxt "scenes/115"
 msgid "Clown Museum"
-msgstr ""
+msgstr "광대 박물관"
 
 msgctxt "scenes/116"
 msgid "Arapaho Caravan"
-msgstr ""
+msgstr "아라파호 행상단"
 
 msgctxt "scenes/117"
 msgid "Santa's Workshop"
@@ -415,7 +407,7 @@ msgstr "텔루륨 광산"
 
 msgctxt "scenes/119"
 msgid "Cannibal Jamboree"
-msgstr ""
+msgstr "식인종 축제"
 
 msgctxt "scenes/120"
 msgid "Abandoned Oil Well"
@@ -423,11 +415,11 @@ msgstr "버려진 유정"
 
 msgctxt "scenes/121"
 msgid "Knox Bison Ranch"
-msgstr ""
+msgstr "녹스 들소 목장"
 
 msgctxt "scenes/122"
 msgid "Knox Bison Ranch"
-msgstr ""
+msgstr "녹스 들소 목장"
 
 msgctxt "scenes/123"
 msgid "Hostile Encounter"
@@ -435,7 +427,7 @@ msgstr "적대적 조우"
 
 msgctxt "scenes/124"
 msgid "Roadblock"
-msgstr ""
+msgstr "검문소"
 
 msgctxt "scenes/125"
 msgid "Colorado Springs"
@@ -451,24 +443,23 @@ msgstr "애스펀"
 
 msgctxt "scenes/128"
 msgid "The Bizarre"
-msgstr ""
+msgstr "비자르"
 
-#, fuzzy
 msgctxt "scenes/129"
 msgid "Yuma County"
-msgstr "유마 카운티(임시)"
+msgstr "유마 카운티"
 
 msgctxt "scenes/130"
 msgid "Displaced"
-msgstr ""
+msgstr "유랑자"
 
 msgctxt "scenes/133"
 msgid "Machine Shop"
-msgstr ""
+msgstr "공작소"
 
 msgctxt "scenes/134"
 msgid "Sans Luxe Apartments"
-msgstr ""
+msgstr "산스 럭스 아파트"
 
 msgctxt "scenes/135"
 msgid "Rocky Mountains"
@@ -480,7 +471,7 @@ msgstr "애스펀 변두리"
 
 msgctxt "scenes/137"
 msgid "Southern Dunes"
-msgstr ""
+msgstr "남부 모래 언덕"
 
 msgctxt "scenes/138"
 msgid "Denver Outskirts"
@@ -488,16 +479,15 @@ msgstr "덴버 변두리"
 
 msgctxt "scenes/139"
 msgid "The Bizarre Outskirts"
-msgstr ""
+msgstr "비자르 외곽"
 
 msgctxt "scenes/140"
 msgid "Eastern Plains"
 msgstr "동부 평야"
 
-#, fuzzy
 msgctxt "scenes/141"
 msgid "Yuma County"
-msgstr "유마 카운티(임시)"
+msgstr "유마 카운티"
 
 msgctxt "scenes/142"
 msgid "Warrens East"
