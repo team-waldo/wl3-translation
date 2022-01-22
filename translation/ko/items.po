@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-21 08:44+0000\n"
+"PO-Revision-Date: 2022-01-22 11:57+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -8631,7 +8631,7 @@ msgctxt "items/1981"
 msgid ""
 "A keycard that opens Charley's electronic safe the Cartel hideout on the "
 "outskirts of the Bizarre."
-msgstr "비자르 외각에 있는 카르텔 은신처의 전자 잠금을 풀 수 있는 키카드입니다."
+msgstr "비자르 외곽에 있는 카르텔 은신처의 전자 잠금을 풀 수 있는 키카드입니다."
 
 msgctxt "items/1982"
 msgid "Quarex's Collection"
@@ -9820,7 +9820,7 @@ msgstr "방호용 판금의 무게를 버텨가며 작동하는 것을 생각하
 
 msgctxt "items/2251"
 msgid "Machine Shop Chest"
-msgstr "머신 샵 상체보호구"
+msgstr "공작소 상체보호구"
 
 msgctxt "items/2252"
 msgid ""
@@ -9830,7 +9830,7 @@ msgstr "가죽과 발판, 엔진 부품이 방호력을 제공합니다. NOS 탱
 
 msgctxt "items/2253"
 msgid "Machine Shop Helmet"
-msgstr "머신 샵 헬멧"
+msgstr "공작소 헬멧"
 
 msgctxt "items/2254"
 msgid ""
@@ -9840,7 +9840,7 @@ msgstr "무선 헤드폰이 장착되어 포격전이나 정비 도중에도 의
 
 msgctxt "items/2255"
 msgid "Machine Shop Pants"
-msgstr "머신 샵 다리보호구"
+msgstr "공작소 다리보호구"
 
 msgctxt "items/2256"
 msgid "Mudflaps are greatly underrated as loin guards."
