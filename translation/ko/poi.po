@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-22 11:57+0000\n"
-"Last-Translator: James Park <jamespark9001@gmail.com>\n"
+"PO-Revision-Date: 2022-01-24 06:57+0000\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -46,12 +46,10 @@ msgctxt "poi/7"
 msgid "Demolition Derby Arena"
 msgstr "데몰리션 더비 경기장"
 
-#, fuzzy
 msgctxt "poi/8"
 msgid "Gang Compound"
-msgstr "갱단의 주둔지"
+msgstr "갱단 주둔지"
 
-#, fuzzy
 msgctxt "poi/9"
 msgid "Slave Pen"
 msgstr "노예 수용소"
@@ -90,14 +88,13 @@ msgctxt "poi/18"
 msgid "Repair Shop"
 msgstr "수리점"
 
-#, fuzzy
 msgctxt "poi/19"
 msgid "Decontamination Room"
-msgstr "제염실"
+msgstr "오염 제거실"
 
 msgctxt "poi/20"
 msgid "Security"
-msgstr ""
+msgstr "보안 부서"
 
 #, fuzzy
 msgctxt "poi/21"
@@ -106,19 +103,19 @@ msgstr "컴퓨터 제어실"
 
 msgctxt "poi/22"
 msgid "A.I. Robotics"
-msgstr ""
+msgstr "인공지능 로봇 부서"
 
 msgctxt "poi/23"
 msgid "Lab E.E.T. 1"
-msgstr ""
+msgstr "E.E.T. 연구실 1"
 
 msgctxt "poi/24"
 msgid "Lab E.E.T. 2"
-msgstr ""
+msgstr "E.E.T. 연구실 2"
 
 msgctxt "poi/25"
 msgid "Lab E.E.T. 3"
-msgstr ""
+msgstr "E.E.T. 연구실 3"
 
 msgctxt "poi/26"
 msgid "Observation Room A"
@@ -221,7 +218,7 @@ msgstr "장비"
 
 msgctxt "poi/50"
 msgid "Scavengers"
-msgstr ""
+msgstr "스캐빈저들"
 
 msgctxt "poi/51"
 msgid "Eviscerated Rangers"
@@ -282,7 +279,7 @@ msgstr ""
 
 msgctxt "poi/77"
 msgid "TEMP-REMOVE ME"
-msgstr ""
+msgstr "임시-삭제해주세요"
 
 msgctxt "poi/78"
 msgid "Commune Art Exhibits"
