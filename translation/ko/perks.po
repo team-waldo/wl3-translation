@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
+"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -204,12 +204,11 @@ msgctxt "perks/35"
 msgid "Relentless"
 msgstr "집요함"
 
-#, fuzzy
 msgctxt "perks/36"
 msgid ""
 "If you attack the same target three times in a row, on the third attack, you "
 "automatically make a free bonus attack directly after the third."
-msgstr "동일한 목표를 총 세 번 연속 공격하면, 마지막 세 번째 공격을 실행할 때 자동으로 추가 공격이 즉시 발동합니다."
+msgstr "동일한 목표를 연속으로 세 번 공격하면, 세 번째 공격을 한 다음에 자동으로 추가 공격이 발동합니다."
 
 #, fuzzy
 msgctxt "perks/37"
