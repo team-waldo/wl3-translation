@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"Last-Translator: roc <woah1606@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -654,7 +654,7 @@ msgstr ""
 
 msgctxt "tutorial/99"
 msgid "Ranger Recruits"
-msgstr ""
+msgstr "레인저 모집"
 
 msgctxt "tutorial/100"
 msgid ""
@@ -699,7 +699,7 @@ msgstr ""
 
 msgctxt "tutorial/103"
 msgid "Vehicle Upgrades"
-msgstr ""
+msgstr "차량 업그레이드"
 
 msgctxt "tutorial/104"
 msgid ""
@@ -1219,7 +1219,7 @@ msgstr ""
 
 msgctxt "tutorial/183"
 msgid "Companions Going Rogue"
-msgstr ""
+msgstr "동료의 지시 거부"
 
 msgctxt "tutorial/184"
 msgid ""
@@ -1813,7 +1813,7 @@ msgstr ""
 
 msgctxt "tutorial/256"
 msgid "High Armor Enemies"
-msgstr ""
+msgstr "중장갑을 입은 적"
 
 msgctxt "tutorial/257"
 msgid ""
@@ -1938,7 +1938,7 @@ msgstr ""
 
 msgctxt "tutorial/274"
 msgid "The Archive"
-msgstr ""
+msgstr "기록"
 
 msgctxt "tutorial/275"
 msgid ""
