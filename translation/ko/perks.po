@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"Last-Translator: Concubine <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1996,7 +1996,7 @@ msgstr "<color=#CA3429>그 어떤 종류의 방어구도 착용할 수 없습니
 
 msgctxt "perks/340"
 msgid "<color=#CA3429>Cannot be revived during combat</color>"
-msgstr "<color=#CA3429>전투중에 부활될 수 없습니다</color>"
+msgstr "<color=#CA3429>전투중에 소생할 수 없습니다</color>"
 
 msgctxt "perks/341"
 msgid " DO NOT USE"
@@ -2115,7 +2115,7 @@ msgstr "수류탄과 기타 범위형 능력의 효과범위가 +40% 증가합�
 
 msgctxt "perks/364"
 msgid "Reviving allies has a chance of buffing them (+6% per First Aid level)"
-msgstr "아군을 부활시키면 추가 버프를 줄 확률이 생깁니다 (구급법 레벨당 +6%)"
+msgstr "아군을 소생시키면 추가 버프를 줄 확률이 생깁니다 (응급치료 레벨당 +6%)"
 
 msgctxt "perks/365"
 msgid "When an ally is Downed in battle, gain +1.0 Combat Speed for 2 turns."
@@ -2325,7 +2325,7 @@ msgstr "직전 턴에 근접 공격을 한 적에게 주는 피해가 +50% 증�
 
 msgctxt "perks/408"
 msgid "Gain +50% damage for 2 turns after reviving a downed ally."
-msgstr "쓰러진 아군을 부활시키면 2턴간 공격력이 +50% 증가합니다."
+msgstr "쓰러진 아군을 소생시키면 2턴간 공격력이 +50% 증가합니다."
 
 msgctxt "perks/409"
 msgid ""
@@ -2660,7 +2660,7 @@ msgstr ""
 
 msgctxt "perks/475"
 msgid "Cannot be revived - {0}"
-msgstr "부활될 수 없습니다 - {0}"
+msgstr "소생할 수 없습니다 - {0}"
 
 msgctxt "perks/476"
 msgid ""
