@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"Last-Translator: 이정상 <lee.jeongsang@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1392,7 +1392,7 @@ msgstr "복잡하게 땋이고 고리모양으로 엮인 인간의 머리카락 
 
 msgctxt "items/344"
 msgid " AR Helmet"
-msgstr ""
+msgstr "증강현실 헬멧"
 
 msgctxt "items/345"
 msgid " AR Helmet desc"
@@ -3990,7 +3990,7 @@ msgstr "손상된 센서"
 
 msgctxt "items/919"
 msgid "You don't need a sensor to know this thing's toast."
-msgstr ""
+msgstr "센서가 없어도 이 물건이 망가졌다는 것  쯤은 알수 있죠."
 
 msgctxt "items/920"
 msgid "Dented License Plate"
@@ -10321,7 +10321,7 @@ msgstr "브리더 가면"
 msgctxt "items/2356"
 msgid ""
 "Instantly makes your breathing sound ominous. Also filters airborne toxins."
-msgstr ""
+msgstr "순식간에 당신의 숨소리를 불길하게 만들줍니다. 대기중의 독성물질도 걸러줘요."
 
 msgctxt "items/2357"
 msgid "Hog Mask"
@@ -10330,11 +10330,11 @@ msgstr "돼지 가면"
 msgctxt "items/2358"
 msgid ""
 "Everybody has their own thing. Maybe yours is giving children nightmares."
-msgstr ""
+msgstr "누구에게나 자신만의 물건이 있죠. 이 물건은 아이들에게 악몽을 선사해 줄 지도 모릅니다."
 
 msgctxt "items/2359"
 msgid "Duck Hat"
-msgstr ""
+msgstr "오리 모자"
 
 msgctxt "items/2360"
 msgid "Yer a real quack!"
@@ -15018,7 +15018,7 @@ msgstr "누구에게나 작은 사랑이 필요합니다. 심지어 이 물건�
 
 msgctxt "items/3769"
 msgid "Australian Rules Board Game"
-msgstr ""
+msgstr "오스트레일리아 룰 보드게임"
 
 msgctxt "items/3770"
 msgid "A little label on the front says \"Banned in Australia\"."
@@ -15038,7 +15038,7 @@ msgstr ""
 
 msgctxt "items/3774"
 msgid "He made Colorado call him \"Daddy\"."
-msgstr ""
+msgstr "콜로라도가 그를 \"아빠\"라고 부르는 이유."
 
 msgctxt "items/3775"
 msgid "Foam Finger"
@@ -15064,7 +15064,7 @@ msgstr ""
 
 msgctxt "items/3780"
 msgid "For some jobs, only the most specialized of tools will do."
-msgstr ""
+msgstr "어떤 일들은, 가장 특별한 도구로만 해낼 수 있죠."
 
 msgctxt "items/3781"
 msgid "Working Mix Tape"
