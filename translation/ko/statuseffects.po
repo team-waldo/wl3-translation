@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -211,7 +211,7 @@ msgstr "영감을 받음"
 
 msgctxt "statuseffects/36"
 msgid "Everyone needs a little pick-me-up now and then."
-msgstr ""
+msgstr "누구나 가끔은 활력소가 필요한 법입니다."
 
 msgctxt "statuseffects/37"
 msgid "Marked"
@@ -255,7 +255,7 @@ msgstr "너 지금 우리 엄마보고 뭐라고 했냐?!"
 
 msgctxt "statuseffects/47"
 msgid "Dex"
-msgstr ""
+msgstr "민첩"
 
 msgctxt "statuseffects/48"
 msgid "You feel like you're moving at a million miles an hour."
@@ -287,7 +287,7 @@ msgstr "있는 줄도 몰랐던 가능성이 보입니다."
 
 msgctxt "statuseffects/55"
 msgid "Twitch"
-msgstr ""
+msgstr "초조함"
 
 msgctxt "statuseffects/56"
 msgid "How can anyone sit still at a time like this?"
@@ -311,7 +311,7 @@ msgstr "어어... 음. 이봐... 천천히 좀 가. 너한텐 <i>너무</i> 가�
 
 msgctxt "statuseffects/61"
 msgid "Hunted"
-msgstr ""
+msgstr "노려짐"
 
 msgctxt "statuseffects/62"
 msgid "You're an animal's best friend."
@@ -357,7 +357,7 @@ msgstr "우와... 이거 완전... 와."
 
 msgctxt "statuseffects/71"
 msgid "Clown Trots"
-msgstr ""
+msgstr "광대 종종걸음"
 
 msgctxt "statuseffects/72"
 msgid "Damaged Armor"
@@ -516,7 +516,7 @@ msgstr "사기 저하"
 
 msgctxt "statuseffects/107"
 msgid "You've been berated into submission."
-msgstr ""
+msgstr "비난에 무릎 꿇었습니다."
 
 msgctxt "statuseffects/108"
 msgid "Irradiated"
@@ -555,19 +555,19 @@ msgstr "눈보라"
 
 msgctxt "statuseffects/115"
 msgid "You're in the thick of it."
-msgstr ""
+msgstr "한복판에 서 있습니다."
 
 msgctxt "statuseffects/116"
 msgid "Flurry"
-msgstr ""
+msgstr "광설"
 
 msgctxt "statuseffects/117"
 msgid "Swirling snowfall all around."
-msgstr ""
+msgstr "사방에 눈이 휘몰아칩니다."
 
 msgctxt "statuseffects/118"
 msgid "Freezing Rain"
-msgstr ""
+msgstr "진눈깨비"
 
 msgctxt "statuseffects/119"
 msgid "Wet <i>and</i> cold. It just keeps getting better."
@@ -595,7 +595,7 @@ msgstr "가볍게 내리는 눈"
 
 msgctxt "statuseffects/125"
 msgid "Just enough to get in your eyes."
-msgstr ""
+msgstr "눈에 들어갈 만큼은 됩니다."
 
 msgctxt "statuseffects/126"
 msgid "Sabotaged"
@@ -967,11 +967,11 @@ msgstr "왕족이 한데 모였다."
 
 msgctxt "statuseffects/203"
 msgid "Bad Beat"
-msgstr ""
+msgstr "배드 빗"
 
 msgctxt "statuseffects/204"
 msgid "You've been very naughty."
-msgstr ""
+msgstr "평소에 덕을 좀 쌓지 그랬어요."
 
 msgctxt "statuseffects/205"
 msgid "Dealer's Choice"
@@ -983,7 +983,7 @@ msgstr "완벽한 카드를 받았다."
 
 msgctxt "statuseffects/207"
 msgid "Kicker"
-msgstr ""
+msgstr "키커"
 
 msgctxt "statuseffects/208"
 msgid "You're top of the barnyard."
@@ -991,11 +991,11 @@ msgstr "당신은 농가의 일인자입니다."
 
 msgctxt "statuseffects/209"
 msgid "Hot Streak"
-msgstr ""
+msgstr "연짱 대박"
 
 msgctxt "statuseffects/210"
 msgid "Let it ride, champ. Let it ride."
-msgstr ""
+msgstr "흐름에 몸을 맡기세요."
 
 msgctxt "statuseffects/211"
 msgid "Shrunk"
@@ -1170,7 +1170,7 @@ msgstr "무기가 말썽을 좀 부릴 겁니다."
 
 msgctxt "statuseffects/243"
 msgid "Leader Boss Kill"
-msgstr ""
+msgstr "리더 보스 처치"
 
 msgctxt "statuseffects/244"
 msgid "Your leader defeated a BAMF, now they're a BAMF - and your team's hero!"
