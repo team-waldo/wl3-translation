@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-21 08:44+0000\n"
-"Last-Translator: James Park <jamespark9001@gmail.com>\n"
+"PO-Revision-Date: 2022-01-24 06:57+0000\n"
+"Last-Translator: Concubine <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -512,7 +512,7 @@ msgstr "회복 아이템 효과 <color=#B2B4B7>+{0}%</color>"
 
 msgctxt "derivedstats/112"
 msgid "Healing When Reviving Allies: <color=#B2B4B7>+{0}%</color>"
-msgstr "아군 부활 시 회복량 <color=#B2B4B7>+{0}%</color>"
+msgstr "소생된 아군의 회복량 <color=#B2B4B7>+{0}%</color>"
 
 msgctxt "derivedstats/113"
 msgid "Use Healing Items Requiring <color=#B2B4B7>{0}</color> First Aid"
@@ -532,7 +532,7 @@ msgstr "리더가 다수의 적 처치 시 아군의 치명타 확률 <color=#B2
 
 msgctxt "derivedstats/117"
 msgid "Ally Bonus on Revive: <color=#B2B4B7>+{0}% CON Healed</color>"
-msgstr "리더가 아군 부활 시 체력 회복 <color=#B2B4B7>+{0}%</color>"
+msgstr "리더가 아군 소생 시 체력 회복 <color=#B2B4B7>+{0}%</color>"
 
 msgctxt "derivedstats/118"
 msgid "Pick Locks (Difficulty <color=#B2B4B7>{0}</color> or less)"
