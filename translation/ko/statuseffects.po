@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-25 09:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"Last-Translator: roc <woah1606@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2047,7 +2047,7 @@ msgstr "베어 헤어"
 
 msgctxt "statuseffects/404"
 msgid "No-Welt Pelt"
-msgstr ""
+msgstr "통짜 가죽"
 
 msgctxt "statuseffects/405"
 msgid "Fur your protection."
@@ -2075,7 +2075,7 @@ msgstr "램 잼"
 
 msgctxt "statuseffects/411"
 msgid "There's a reason they're called rams."
-msgstr ""
+msgstr "램에는 들이받는다는 뜻이 있죠."
 
 msgctxt "statuseffects/412"
 msgid "Night Bite"
@@ -2220,7 +2220,7 @@ msgstr "\"제 냉전 전략은 이렇습니다. 우리가 이기고, 저들은 �
 
 msgctxt "statuseffects/438"
 msgid "Crouched"
-msgstr ""
+msgstr "앉음"
 
 msgctxt "statuseffects/439"
 msgid ""
@@ -2296,7 +2296,7 @@ msgstr ""
 
 msgctxt "statuseffects/492"
 msgid "Scrappy Tabby"
-msgstr ""
+msgstr "말괄량이 고양이"
 
 msgctxt "statuseffects/493"
 msgid "Don't bring a gun to a cat fight."
