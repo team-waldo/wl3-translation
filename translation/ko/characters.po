@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: Mook <studiochanbi@gmail.com>\n"
+"PO-Revision-Date: 2022-01-25 09:57+0000\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -324,7 +324,7 @@ msgstr "디버그 수석 연구원"
 
 msgctxt "characters/150"
 msgid "Laser Turret"
-msgstr "레이저 터렛"
+msgstr "레이저 포탑"
 
 msgctxt "characters/151"
 msgid "Plasma Turret"
@@ -752,7 +752,7 @@ msgstr "코뮌 로봇"
 
 msgctxt "characters/295"
 msgid "(Function) Liberator"
-msgstr ""
+msgstr "(기능) 해방자"
 
 msgctxt "characters/296"
 msgid "Hologram"
@@ -768,7 +768,7 @@ msgstr "기계 지능 타워"
 
 msgctxt "characters/299"
 msgid "no name. use this field"
-msgstr ""
+msgstr "이름 없음. 이 필드 사용"
 
 msgctxt "characters/300"
 msgid "Pico"
@@ -780,47 +780,47 @@ msgstr "SAL"
 
 msgctxt "characters/302"
 msgid "Stacy Guns"
-msgstr ""
+msgstr "스테이시 건즈"
 
 msgctxt "characters/303"
 msgid "DEBUG Dark Clouds"
-msgstr ""
+msgstr "디버그 먹구름"
 
 msgctxt "characters/304"
 msgid "DEBUG Call to Action"
-msgstr ""
+msgstr "디버그 조치 바람"
 
 msgctxt "characters/305"
 msgid "DEBUG Fun and Games"
-msgstr ""
+msgstr "디버그 장난질"
 
 msgctxt "characters/306"
 msgid "DEBUG The Zealot"
-msgstr ""
+msgstr "디버그 광신자"
 
 msgctxt "characters/307"
 msgid "DEBUG Reagan Reborn"
-msgstr ""
+msgstr "디버그 새로운 레이건"
 
 msgctxt "characters/308"
 msgid "DEBUG Useful Prey"
-msgstr ""
+msgstr "디버그 유용한 먹잇감"
 
 msgctxt "characters/309"
 msgid "DEBUG Tiny Claws, No Pockets"
-msgstr ""
+msgstr "디버그 발톱은 작고 주머니 없음"
 
 msgctxt "characters/310"
 msgid "Crossword Gang Cutter"
-msgstr ""
+msgstr "크로스워드 갱단 절단자"
 
 msgctxt "characters/311"
 msgid "Crossword Gang Boss"
-msgstr ""
+msgstr "크로스워드 갱단 보스"
 
 msgctxt "characters/312"
 msgid "Crossword Gang Hacker"
-msgstr ""
+msgstr "크로스워드 갱단 해커"
 
 msgctxt "characters/313"
 msgid "Valor Buchanan"
@@ -836,7 +836,7 @@ msgstr "스마일 박사"
 
 msgctxt "characters/316"
 msgid "Crossword Gang Thief"
-msgstr ""
+msgstr "크로스워드 갱단 도둑"
 
 msgctxt "characters/317"
 msgid "Larry's Hunter"
@@ -848,11 +848,11 @@ msgstr "조지"
 
 msgctxt "characters/319"
 msgid "Debug Exterior"
-msgstr ""
+msgstr "디버그 외부"
 
 msgctxt "characters/320"
 msgid "DEBUG Trading Fire"
-msgstr ""
+msgstr "디버그 총알 세례"
 
 msgctxt "characters/321"
 msgid "Hologram"
@@ -860,7 +860,7 @@ msgstr "홀로그램"
 
 msgctxt "characters/326"
 msgid "Little Sparrow"
-msgstr ""
+msgstr "아기 참새"
 
 msgctxt "characters/327"
 msgid "Tinker"
@@ -880,7 +880,7 @@ msgstr "메건 실버"
 
 msgctxt "characters/333"
 msgid "TESTNAME"
-msgstr ""
+msgstr "테스트이름"
 
 msgctxt "characters/334"
 msgid "Theodoric Curie"
@@ -900,23 +900,23 @@ msgstr "콘솔"
 
 msgctxt "characters/338"
 msgid "Test Rocket Enemy"
-msgstr ""
+msgstr "테스트용 로켓 적"
 
 msgctxt "characters/339"
 msgid "Test Handgun Enemy"
-msgstr ""
+msgstr "테스트용 권총 적"
 
 msgctxt "characters/340"
 msgid "Debug"
-msgstr ""
+msgstr "디버그"
 
 msgctxt "characters/341"
 msgid "Paris Handler"
-msgstr ""
+msgstr "패리스 핸들러"
 
 msgctxt "characters/342"
 msgid "Hawkbit"
-msgstr ""
+msgstr "호크빗"
 
 msgctxt "characters/343"
 msgid "Six-Fingered Larry"
@@ -928,11 +928,11 @@ msgstr "폴리"
 
 msgctxt "characters/345"
 msgid "Lieutenant Giggles"
-msgstr ""
+msgstr "기글스 중위"
 
 msgctxt "characters/346"
 msgid "Lieutenant Chester"
-msgstr ""
+msgstr "체스터 중위"
 
 msgctxt "characters/347"
 msgid "Nita Gett"
@@ -956,7 +956,7 @@ msgstr "아난다 라빈드라나스"
 
 msgctxt "characters/352"
 msgid "Hopeful"
-msgstr ""
+msgstr "희망자"
 
 msgctxt "characters/353"
 msgid "Carmen"
@@ -968,11 +968,11 @@ msgstr "용병 보초"
 
 msgctxt "characters/355"
 msgid "DEBUG The Zealot"
-msgstr ""
+msgstr "디버그 광신자"
 
 msgctxt "characters/360"
 msgid "Godfisher \"Piece\" Maker"
-msgstr ""
+msgstr "갓피셔 \"편육\"주의자"
 
 msgctxt "characters/361"
 msgid "Godfisher Fanatic"
@@ -988,23 +988,23 @@ msgstr "터빈"
 
 msgctxt "characters/364"
 msgid "Test Enemy Vehicle"
-msgstr ""
+msgstr "테스트용 적 차량"
 
 msgctxt "characters/366"
 msgid "DEBUG for Soldier 115"
-msgstr ""
+msgstr "병사 115 용 디버그"
 
 msgctxt "characters/367"
 msgid "Soldier 115"
-msgstr ""
+msgstr "병사 115"
 
 msgctxt "characters/368"
 msgid "Elite Soldier 23"
-msgstr ""
+msgstr "정예 병사 23"
 
 msgctxt "characters/369"
 msgid "DEBUG for Soldier 23"
-msgstr ""
+msgstr "병사 23 용 디버그"
 
 msgctxt "characters/370"
 msgid "Scar Collector Butcher"
@@ -1012,15 +1012,15 @@ msgstr "스카 콜렉터 도살자"
 
 msgctxt "characters/371"
 msgid "DEBUG for Soldier 78"
-msgstr ""
+msgstr "병사 78 용 디버그"
 
 msgctxt "characters/372"
 msgid "Elite Soldier 78"
-msgstr ""
+msgstr "정예 병사 78"
 
 msgctxt "characters/374"
 msgid "DEBUG for R.E.M."
-msgstr ""
+msgstr "R.E.M. 용 디버그"
 
 msgctxt "characters/375"
 msgid "Vic Buchanan"
@@ -1032,11 +1032,11 @@ msgstr "아이언클래드 코르다이트"
 
 msgctxt "characters/377"
 msgid "Hawkbit"
-msgstr ""
+msgstr "호크빗"
 
 msgctxt "characters/378"
 msgid "Marshal Kwon"
-msgstr ""
+msgstr "마샬 권"
 
 msgctxt "characters/379"
 msgid "The Mechanic"
@@ -1044,7 +1044,7 @@ msgstr "정비공"
 
 msgctxt "characters/380"
 msgid "The Fine Man, Cult Leader"
-msgstr ""
+msgstr "교주 훌륭한 이"
 
 msgctxt "characters/381"
 msgid "Lecherito"
@@ -1056,7 +1056,7 @@ msgstr "꿈꾸는 별"
 
 msgctxt "characters/383"
 msgid "Haloed Moon"
-msgstr ""
+msgstr "무리 먹은 달"
 
 msgctxt "characters/384"
 msgid "Steel-Trap"
@@ -1064,7 +1064,7 @@ msgstr "스틸트랩"
 
 msgctxt "characters/385"
 msgid "Beta Master"
-msgstr ""
+msgstr "베타마스터"
 
 msgctxt "characters/387"
 msgid "Liberty Buchanan"
@@ -1076,7 +1076,7 @@ msgstr "팻시"
 
 msgctxt "characters/389"
 msgid "Not-Yet-Skinned"
-msgstr ""
+msgstr "아직 가죽 안 벗김"
 
 msgctxt "characters/390"
 msgid "Scar Collector Slave"
@@ -1084,7 +1084,7 @@ msgstr "스카 콜렉터 노예"
 
 msgctxt "characters/391"
 msgid "Advance Team Ranger"
-msgstr "선발조 레인저"
+msgstr "선발대 레인저"
 
 msgctxt "characters/392"
 msgid "Mercenary"
@@ -1128,7 +1128,7 @@ msgstr "젯"
 
 msgctxt "characters/402"
 msgid "Test Grenadier Enemy"
-msgstr ""
+msgstr "테스트용 척탄병 적"
 
 msgctxt "characters/403"
 msgid "Scar Collector Slaver"
@@ -1192,11 +1192,11 @@ msgstr "하드헤드 명사수"
 
 msgctxt "characters/419"
 msgid "Hard-Head Blaster"
-msgstr ""
+msgstr "하드헤드 총잡이"
 
 msgctxt "characters/420"
 msgid "Hard-Head Cutter"
-msgstr ""
+msgstr "하드헤드 절단자"
 
 msgctxt "characters/422"
 msgid "Dee Sharp"
@@ -1212,7 +1212,7 @@ msgstr "파야소 화염병"
 
 msgctxt "characters/425"
 msgid " Cutscene dialogue"
-msgstr ""
+msgstr " 컷신 대화"
 
 msgctxt "characters/426"
 msgid "Petitioner"
@@ -1220,7 +1220,7 @@ msgstr "탄원인"
 
 msgctxt "characters/427"
 msgid "Blind Marvin"
-msgstr ""
+msgstr "눈먼 마빈"
 
 msgctxt "characters/428"
 msgid "Inspector Delgado"
@@ -1244,35 +1244,35 @@ msgstr "조지"
 
 msgctxt "characters/437"
 msgid "Isolated Garage Foot Soldier"
-msgstr ""
+msgstr "외딴 차고 보병"
 
 msgctxt "characters/438"
 msgid "Isolated Garage Foot Soldier"
-msgstr ""
+msgstr "외딴 차고 보병"
 
 msgctxt "characters/439"
 msgid "Isolated Garage Foot Soldier"
-msgstr ""
+msgstr "외딴 차고 보병"
 
 msgctxt "characters/440"
 msgid "Isolated Garage Foot Soldier"
-msgstr ""
+msgstr "외딴 차고 보병"
 
 msgctxt "characters/441"
 msgid "Isolated Garage Foot Soldier"
-msgstr ""
+msgstr "외딴 차고 보병"
 
 msgctxt "characters/442"
 msgid "Isolated Garage 88"
-msgstr ""
+msgstr "외딴 차고 88"
 
 msgctxt "characters/443"
 msgid "Molly's Foot Soldier"
-msgstr ""
+msgstr "몰리의 보병"
 
 msgctxt "characters/444"
 msgid "Molly's Foot Soldier"
-msgstr ""
+msgstr "몰리의 보병"
 
 msgctxt "characters/445"
 msgid "Los Payasos Thug"
@@ -1288,15 +1288,15 @@ msgstr "\"반항적인\" 노예"
 
 msgctxt "characters/448"
 msgid "DEBUG for LPA Leader"
-msgstr ""
+msgstr "LPA 리더용 디버그"
 
 msgctxt "characters/449"
 msgid "Giles"
-msgstr ""
+msgstr "자일스"
 
 msgctxt "characters/450"
 msgid "Rody"
-msgstr ""
+msgstr "로디"
 
 msgctxt "characters/452"
 msgid "Aspen Civilian"
@@ -1308,7 +1308,7 @@ msgstr "오피"
 
 msgctxt "characters/454"
 msgid "Revolting Worker"
-msgstr ""
+msgstr "역겨운 일꾼"
 
 msgctxt "characters/455"
 msgid "Sheriff Daisy"
@@ -1316,7 +1316,7 @@ msgstr "보안관 데이지"
 
 msgctxt "characters/456"
 msgid "Amber"
-msgstr ""
+msgstr "앰버"
 
 msgctxt "characters/457"
 msgid "Lucia Wesson"
@@ -1324,7 +1324,7 @@ msgstr "루시아 웨슨"
 
 msgctxt "characters/458"
 msgid "Marshal Lupinski"
-msgstr ""
+msgstr "마샬 루핀스키"
 
 msgctxt "characters/459"
 msgid "MacTavish"
@@ -1332,15 +1332,15 @@ msgstr "맥타비쉬"
 
 msgctxt "characters/460"
 msgid "Machine Shop Worker"
-msgstr ""
+msgstr "공작소 일꾼"
 
 msgctxt "characters/461"
 msgid "Rabbit"
-msgstr ""
+msgstr "토끼"
 
 msgctxt "characters/462"
 msgid "Doc Parker"
-msgstr ""
+msgstr "파커 박사"
 
 msgctxt "characters/463"
 msgid "October-11"
@@ -1348,187 +1348,187 @@ msgstr "10월-11"
 
 msgctxt "characters/464"
 msgid "Nita"
-msgstr ""
+msgstr "니타"
 
 msgctxt "characters/465"
 msgid "Debug NPC"
-msgstr ""
+msgstr "디버그 NPC"
 
 msgctxt "characters/466"
 msgid "Frank Pappas"
-msgstr ""
+msgstr "프랭크 파파스"
 
 msgctxt "characters/467"
 msgid "Deputy Marshal Torres"
-msgstr ""
+msgstr "보안관보 토레스"
 
 msgctxt "characters/468"
 msgid "Maxwell"
-msgstr ""
+msgstr "맥스웰"
 
 msgctxt "characters/469"
 msgid "Rosie Wong"
-msgstr ""
+msgstr "로지 웡"
 
 msgctxt "characters/470"
 msgid "Brady"
-msgstr ""
+msgstr "브레디"
 
 msgctxt "characters/471"
 msgid "Automated Turret"
-msgstr ""
+msgstr "자동 포탑"
 
 msgctxt "characters/472"
 msgid "Emogene Dorsey"
-msgstr ""
+msgstr "이모진 돌시"
 
 msgctxt "characters/473"
 msgid "Percival Wesson"
-msgstr ""
+msgstr "퍼시벌 웨슨"
 
 msgctxt "characters/474"
 msgid "Dollmaker"
-msgstr ""
+msgstr "인형 제작자"
 
 msgctxt "characters/475"
 msgid "Hardee Knox"
-msgstr ""
+msgstr "하디 녹스"
 
 msgctxt "characters/480"
 msgid "Vic Buchanan"
-msgstr ""
+msgstr "빅 뷰캐넌"
 
 msgctxt "characters/481"
 msgid "Psychopath Crew Basher"
-msgstr ""
+msgstr "사이코패스 일당 강타자"
 
 msgctxt "characters/482"
 msgid "Breather"
-msgstr ""
+msgstr "브리더"
 
 msgctxt "characters/483"
 msgid "The Gift"
-msgstr ""
+msgstr "더 기프트"
 
 msgctxt "characters/484"
 msgid "Riley Woodson"
-msgstr ""
+msgstr "라일리 우드슨"
 
 msgctxt "characters/485"
 msgid "Ash"
-msgstr ""
+msgstr "애쉬"
 
 msgctxt "characters/486"
 msgid "La Loca"
-msgstr ""
+msgstr "라 로카"
 
 msgctxt "characters/487"
 msgid "Rook"
-msgstr ""
+msgstr "루크"
 
 msgctxt "characters/488"
 msgid "Pizepi"
-msgstr ""
+msgstr "피제피"
 
 msgctxt "characters/489"
 msgid "Estin Ward"
-msgstr ""
+msgstr "에스틴 워드"
 
 msgctxt "characters/490"
 msgid "Violet Reed"
-msgstr ""
+msgstr "바이올렛 리드"
 
 msgctxt "characters/491"
 msgid "Priscilla Reed"
-msgstr ""
+msgstr "프리실라 리드"
 
 msgctxt "characters/492"
 msgid "Gwendolyn Reed"
-msgstr ""
+msgstr "그웬돌린 리드"
 
 msgctxt "characters/493"
 msgid "Irv"
-msgstr ""
+msgstr "어브"
 
 msgctxt "characters/494"
 msgid "Cutter Throat"
-msgstr ""
+msgstr "커터 스롯"
 
 msgctxt "characters/495"
 msgid "Llewellyn"
-msgstr ""
+msgstr "르웰린"
 
 msgctxt "characters/496"
 msgid "Young Vincent"
-msgstr ""
+msgstr "청년 빈센트"
 
 msgctxt "characters/497"
 msgid "Ken Doll"
-msgstr ""
+msgstr "캔 돌"
 
 msgctxt "characters/498"
 msgid "Boulder"
-msgstr ""
+msgstr "볼더"
 
 msgctxt "characters/499"
 msgid "Faran Brygo"
-msgstr ""
+msgstr "파란 브라이고"
 
 msgctxt "characters/500"
 msgid "The Patriarch"
-msgstr ""
+msgstr "패트리아크"
 
 msgctxt "characters/501"
 msgid "Marshal Kwon"
-msgstr ""
+msgstr "마샬 권"
 
 msgctxt "characters/502"
 msgid "Sergei Greatski"
-msgstr ""
+msgstr "세르게이 그레이트스키"
 
 msgctxt "characters/503"
 msgid "Corporal Marcelo Gonzalez"
-msgstr ""
+msgstr "상등병 마르셀로 곤잘레스"
 
 msgctxt "characters/504"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 msgctxt "characters/505"
 msgid "Test Mechanic Enemy"
-msgstr ""
+msgstr "테스트용 기계 적"
 
 msgctxt "characters/506"
 msgid "Bellamy Ward"
-msgstr ""
+msgstr "벨라미 워드"
 
 msgctxt "characters/507"
 msgid "Isaac Reed"
-msgstr ""
+msgstr "아이작 리드"
 
 msgctxt "characters/508"
 msgid "Hundred Families Youth"
-msgstr ""
+msgstr "백가문 청년"
 
 msgctxt "characters/509"
 msgid "Nightclub Patron"
-msgstr ""
+msgstr "나이트클럽 단골"
 
 msgctxt "characters/510"
 msgid "Starving Wolverine"
-msgstr ""
+msgstr "굶주린 울버린"
 
 msgctxt "characters/511"
 msgid "Scar Collector Brawler"
-msgstr ""
+msgstr "스카 콜렉터 싸움꾼"
 
 msgctxt "characters/512"
 msgid "Scar Collector Modder"
-msgstr ""
+msgstr "스카 콜렉터 개조자"
 
 msgctxt "characters/513"
 msgid "Scar Collector Leadhead"
-msgstr ""
+msgstr "스카 콜렉터 총잡이"
 
 msgctxt "characters/514"
 msgid "Scar Collector Thrall"
@@ -1540,19 +1540,19 @@ msgstr "스카 콜렉터 지도자"
 
 msgctxt "characters/516"
 msgid "Scar Collector Truck"
-msgstr ""
+msgstr "스카 콜렉터 트럭"
 
 msgctxt "characters/517"
 msgid "Light Machine Turret"
-msgstr ""
+msgstr "경기관총 포탑"
 
 msgctxt "characters/518"
 msgid "Heavy Machine Turret"
-msgstr ""
+msgstr "중기관총 포탑"
 
 msgctxt "characters/519"
 msgid "Minigun Turret"
-msgstr ""
+msgstr "미니건 포탑"
 
 msgctxt "characters/520"
 msgid "Light Cannon Turret"
@@ -1564,83 +1564,83 @@ msgstr ""
 
 msgctxt "characters/522"
 msgid "Laser Turret"
-msgstr ""
+msgstr "레이저 포탑"
 
 msgctxt "characters/523"
 msgid "Plasma Turret"
-msgstr ""
+msgstr "플라즈마 포탑"
 
 msgctxt "characters/524"
 msgid "Fusion Turret"
-msgstr ""
+msgstr "핵융합 포탑"
 
 msgctxt "characters/525"
 msgid "The Provost"
-msgstr ""
+msgstr "사제장"
 
 msgctxt "characters/526"
 msgid "Mrs. Delgado"
-msgstr ""
+msgstr "델가도 부인"
 
 msgctxt "characters/527"
 msgid "Laura Delgado"
-msgstr ""
+msgstr "로라 델가도"
 
 msgctxt "characters/532"
 msgid "DEBUG Welcome to Colorado"
-msgstr ""
+msgstr "디버그 콜로라도에 오신 것을 환영합니다"
 
 msgctxt "characters/533"
 msgid "Erastus Dorsey"
-msgstr ""
+msgstr "에라스투스 돌시"
 
 msgctxt "characters/534"
 msgid "Servitor Bot"
-msgstr ""
+msgstr "시종 로봇"
 
 msgctxt "characters/535"
 msgid "Connie Zeng"
-msgstr ""
+msgstr "코니 쩡"
 
 msgctxt "characters/536"
 msgid "Brother Thomas"
-msgstr ""
+msgstr "토마스 수사"
 
 msgctxt "characters/537"
 msgid "Pistol Pete"
-msgstr ""
+msgstr "피스톨 피트"
 
 msgctxt "characters/538"
 msgid "Takayuki"
-msgstr ""
+msgstr "타카유키"
 
 msgctxt "characters/539"
 msgid "Rebel Worker"
-msgstr ""
+msgstr "반란 노동자"
 
 msgctxt "characters/540"
 msgid "Rebel Worker Arsonist"
-msgstr ""
+msgstr "반란 노동자 방화범"
 
 msgctxt "characters/541"
 msgid "Rebel Worker Tech"
-msgstr ""
+msgstr "반란 노동자 기술자"
 
 msgctxt "characters/542"
 msgid "Rebel Worker Mechanic"
-msgstr ""
+msgstr "반란 노동자 정비공"
 
 msgctxt "characters/543"
 msgid "Rebel Worker Heavy"
-msgstr ""
+msgstr "반란 노동자 덩치"
 
 msgctxt "characters/544"
 msgid "Rebel Worker Basher"
-msgstr ""
+msgstr "반란 노동자 강타자"
 
 msgctxt "characters/545"
 msgid "Vehicle Chassis"
-msgstr ""
+msgstr "차체"
 
 msgctxt "characters/546"
 msgid "Octotron"
@@ -1648,31 +1648,31 @@ msgstr "옥토트론"
 
 msgctxt "characters/547"
 msgid "Factory Bot"
-msgstr ""
+msgstr "공장 로봇"
 
 msgctxt "characters/548"
 msgid "Deputy Marshal Pitts"
-msgstr ""
+msgstr "보안관보 피츠"
 
 msgctxt "characters/549"
 msgid "Magistrate Silas Watkins"
-msgstr ""
+msgstr "치안 판사 사일러스 왓킨스"
 
 msgctxt "characters/550"
 msgid "Austin Pease"
-msgstr ""
+msgstr "오스틴 피스"
 
 msgctxt "characters/551"
 msgid "Emaline Pease"
-msgstr ""
+msgstr "에멀린 피스"
 
 msgctxt "characters/552"
 msgid "Light Machine Turret"
-msgstr ""
+msgstr "경기관총 포탑"
 
 msgctxt "characters/553"
 msgid "Heavy Machine Turret"
-msgstr ""
+msgstr "중기관총 포탑"
 
 msgctxt "characters/554"
 msgid "Light Cannon Turret"
@@ -1684,75 +1684,75 @@ msgstr ""
 
 msgctxt "characters/556"
 msgid "Laser Turret"
-msgstr ""
+msgstr "레이저 포탑"
 
 msgctxt "characters/557"
 msgid "Fusion Turret"
-msgstr ""
+msgstr "핵융합 포탑"
 
 msgctxt "characters/558"
 msgid "Plasma Turret"
-msgstr ""
+msgstr "플라즈마 포탑"
 
 msgctxt "characters/559"
 msgid "Minigun Turret"
-msgstr ""
+msgstr "미니건 포탑"
 
 msgctxt "characters/560"
 msgid "Dorsey Prisoner"
-msgstr ""
+msgstr "돌시 죄수"
 
 msgctxt "characters/561"
 msgid "Slave"
-msgstr ""
+msgstr "노예"
 
 msgctxt "characters/562"
 msgid "Jarett Dorsey"
-msgstr ""
+msgstr "자렛 돌시"
 
 msgctxt "characters/563"
 msgid "Marshal Guard"
-msgstr ""
+msgstr "마샬 경비 요원"
 
 msgctxt "characters/564"
 msgid "Test Bladed Enemy"
-msgstr ""
+msgstr "테스트용 도검 적"
 
 msgctxt "characters/565"
 msgid "Paperboy"
-msgstr ""
+msgstr "신문팔이 소년"
 
 msgctxt "characters/566"
 msgid "Troy"
-msgstr ""
+msgstr "트로이"
 
 msgctxt "characters/567"
 msgid "Dancing Teen"
-msgstr ""
+msgstr "춤추는 십 대"
 
 msgctxt "characters/568"
 msgid "Debug Dog"
-msgstr ""
+msgstr "디버그 개"
 
 msgctxt "characters/569"
 msgid "Test SMG Enemy"
-msgstr ""
+msgstr "테스트용 SMG 적"
 
 msgctxt "characters/570"
 msgid "Josiah Casady"
-msgstr ""
+msgstr "조시아 카사디"
 
 msgctxt "characters/571"
 msgid "Martha Casady"
-msgstr ""
+msgstr "마사 카사디"
 
 msgctxt "characters/572"
 msgid "Test Brawling Enemy"
-msgstr ""
+msgstr "테스트용 격투 적"
 
 msgctxt "characters/573"
 msgid "Drinking Teen"
-msgstr ""
+msgstr "술 마시는 십 대"
 
 msgctxt "characters/574"
 msgid "Dorsey Leadbiter"
@@ -1760,23 +1760,23 @@ msgstr ""
 
 msgctxt "characters/575"
 msgid "Angus Hoon"
-msgstr ""
+msgstr "앵거스 훈"
 
 msgctxt "characters/576"
 msgid "Avie Hoon"
-msgstr ""
+msgstr "에비 훈"
 
 msgctxt "characters/577"
 msgid "Discobot"
-msgstr ""
+msgstr "디스코 봇"
 
 msgctxt "characters/578"
 msgid "Smoking Teen"
-msgstr ""
+msgstr "흡연하는 십 대"
 
 msgctxt "characters/579"
 msgid "Troy"
-msgstr ""
+msgstr "트로이"
 
 msgctxt "characters/580"
 msgid "Alpha Dog"
@@ -1812,179 +1812,179 @@ msgstr ""
 
 msgctxt "characters/588"
 msgid "Two-Headed Gruff"
-msgstr ""
+msgstr "머리 둘 달린 그러프"
 
 msgctxt "characters/592"
 msgid "Aqua Vitae"
-msgstr ""
+msgstr "아쿠아 비테"
 
 msgctxt "characters/595"
 msgid "Killer"
-msgstr ""
+msgstr "킬러"
 
 msgctxt "characters/596"
 msgid "Amber"
-msgstr ""
+msgstr "앰버"
 
 msgctxt "characters/597"
 msgid "Discobot"
-msgstr ""
+msgstr "디스코 봇"
 
 msgctxt "characters/598"
 msgid "Spiderling"
-msgstr ""
+msgstr "스파이더링"
 
 msgctxt "characters/599"
 msgid "Suicide Spider"
-msgstr ""
+msgstr "자폭 스파이더"
 
 msgctxt "characters/600"
 msgid "Blue's Gang Junker"
-msgstr ""
+msgstr "블루 갱단 중독자"
 
 msgctxt "characters/601"
 msgid "Factory Bot"
-msgstr ""
+msgstr "공장 로봇"
 
 msgctxt "characters/602"
 msgid "Shockling"
-msgstr ""
+msgstr "쇼클링"
 
 msgctxt "characters/603"
 msgid "Factory Bot"
-msgstr ""
+msgstr "공장 로봇"
 
 msgctxt "characters/604"
 msgid "Nightclub Guard"
-msgstr ""
+msgstr "나이트클럽 경비원"
 
 msgctxt "characters/605"
 msgid "Synth"
-msgstr ""
+msgstr "신스"
 
 msgctxt "characters/606"
 msgid "Slicer Dicer"
-msgstr ""
+msgstr "슬라이스 다이서"
 
 msgctxt "characters/608"
 msgid "Jailer"
-msgstr ""
+msgstr "교도관"
 
 msgctxt "characters/609"
 msgid "Nox-Bomber"
-msgstr ""
+msgstr "녹스-폭탄병"
 
 msgctxt "characters/610"
 msgid "Fumer"
-msgstr ""
+msgstr "골초"
 
 msgctxt "characters/611"
 msgid "Crazer"
-msgstr ""
+msgstr "광인"
 
 msgctxt "characters/612"
 msgid "Godfisher Watcher"
-msgstr ""
+msgstr "갓피셔 감시자"
 
 msgctxt "characters/613"
 msgid "Adamant"
-msgstr ""
+msgstr "아다먼트"
 
 msgctxt "characters/614"
 msgid "Godfisher Herald"
-msgstr ""
+msgstr "갓피셔 전령"
 
 msgctxt "characters/615"
 msgid "Immaculate"
-msgstr ""
+msgstr "이매큘럿"
 
 msgctxt "characters/616"
 msgid "Palace Guard"
-msgstr ""
+msgstr "궁전 수비대"
 
 msgctxt "characters/617"
 msgid "Alarm"
-msgstr ""
+msgstr "경보기"
 
 msgctxt "characters/618"
 msgid "Gipper Battle Nancy"
-msgstr ""
+msgstr "기퍼 낸시 전투원"
 
 msgctxt "characters/619"
 msgid "General's Clone"
-msgstr ""
+msgstr "장군의 클론"
 
 msgctxt "characters/623"
 msgid "Thug Enforcer"
-msgstr ""
+msgstr "깡패 집행자"
 
 msgctxt "characters/624"
 msgid "Nightclub Goon"
-msgstr ""
+msgstr "나이트클럽 건달"
 
 msgctxt "characters/625"
 msgid "Nightclub Enforcer"
-msgstr ""
+msgstr "나이트클럽 집행자"
 
 msgctxt "characters/628"
 msgid "Marshal Deputy"
-msgstr ""
+msgstr "보안관보"
 
 msgctxt "characters/629"
 msgid "Marshal Inspector"
-msgstr ""
+msgstr "마샬 조사관"
 
 msgctxt "characters/630"
 msgid "Marshal Officer"
-msgstr ""
+msgstr "마샬 장교"
 
 msgctxt "characters/631"
 msgid "Arapaho Sharpshooter"
-msgstr ""
+msgstr "아라파호족 명사수"
 
 msgctxt "characters/632"
 msgid "Arapaho Shotgunner"
-msgstr ""
+msgstr "아라파호족 산탄총 사수"
 
 msgctxt "characters/633"
 msgid "Arapaho Grease Monkey"
-msgstr ""
+msgstr "아라파호족 수리공"
 
 msgctxt "characters/634"
 msgid "Mama Cotter"
-msgstr ""
+msgstr "마마 코터"
 
 msgctxt "characters/636"
 msgid "Marshal Quinn"
-msgstr ""
+msgstr "마샬 퀸"
 
 msgctxt "characters/637"
 msgid "Gary \"NaCl\" Wolfe"
-msgstr ""
+msgstr "게리 \"NaCl\" 울프"
 
 msgctxt "characters/638"
 msgid "Fastback"
-msgstr ""
+msgstr "패스트백"
 
 msgctxt "characters/639"
 msgid "Wolfe Mercenary"
-msgstr ""
+msgstr "울프의 용병"
 
 msgctxt "characters/640"
 msgid "Pacer"
-msgstr ""
+msgstr "페이서"
 
 msgctxt "characters/641"
 msgid "Jimmie Longhaul"
-msgstr ""
+msgstr "지미 롱하울"
 
 msgctxt "characters/642"
 msgid "Wrench"
-msgstr ""
+msgstr "렌치"
 
 msgctxt "characters/643"
 msgid "Calvin"
-msgstr ""
+msgstr "캘빈"
 
 msgctxt "characters/644"
 msgid "Jessica"
@@ -2040,7 +2040,7 @@ msgstr ""
 
 msgctxt "characters/657"
 msgid "Elijah Ward"
-msgstr ""
+msgstr "일라이저 워드"
 
 msgctxt "characters/658"
 msgid "Broadmoor Resident"
@@ -2048,427 +2048,427 @@ msgstr ""
 
 msgctxt "characters/659"
 msgid "Convoy Ranger"
-msgstr ""
+msgstr "수송대 레인저"
 
 msgctxt "characters/662"
 msgid "Freyja"
-msgstr ""
+msgstr "프레이야"
 
 msgctxt "characters/664"
 msgid "Frozen corpse"
-msgstr ""
+msgstr "얼어붙은 시체"
 
 msgctxt "characters/666"
 msgid "Bargain Clown"
-msgstr ""
+msgstr "장사꾼 광대"
 
 msgctxt "characters/667"
 msgid "Whining Jimmy"
-msgstr ""
+msgstr "징징대는 지미"
 
 msgctxt "characters/668"
 msgid "Safe Guard"
-msgstr ""
+msgstr "안정 장치"
 
 msgctxt "characters/669"
 msgid "Newt Campbell"
-msgstr ""
+msgstr "뉴트 캠벨"
 
 msgctxt "characters/670"
 msgid "Mountain Folk Gunner"
-msgstr ""
+msgstr "산사람 포수"
 
 msgctxt "characters/671"
 msgid "Mountain Folk Sharpshooter"
-msgstr ""
+msgstr "산사람 명사수"
 
 msgctxt "characters/672"
 msgid "Mountain Folk Chopper"
-msgstr ""
+msgstr "산사람 칼잡이"
 
 msgctxt "characters/673"
 msgid "Mountain Folk Berserker"
-msgstr ""
+msgstr "산사람 광전사"
 
 msgctxt "characters/674"
 msgid "Mountain Folk Firestarter"
-msgstr ""
+msgstr "산사람 방화범"
 
 msgctxt "characters/675"
 msgid "Mountain Folk Frostcaller"
-msgstr ""
+msgstr "산사람 서리술사"
 
 msgctxt "characters/676"
 msgid "Ranger Transport"
-msgstr ""
+msgstr "레인저 차량"
 
 msgctxt "characters/677"
 msgid "Marshal Truck"
-msgstr ""
+msgstr "마샬 트럭"
 
 msgctxt "characters/678"
 msgid "Arapaho Convoy Truck"
-msgstr ""
+msgstr "아라파호 수송 트럭"
 
 msgctxt "characters/679"
 msgid "War Wagon"
-msgstr ""
+msgstr "전투 왜건"
 
 msgctxt "characters/680"
 msgid "Walrus"
-msgstr ""
+msgstr "월루스"
 
 msgctxt "characters/681"
 msgid "Godfisher Buggy"
-msgstr ""
+msgstr "갓피셔 버기"
 
 msgctxt "characters/682"
 msgid "Frankencar"
-msgstr ""
+msgstr "누더기 차"
 
 msgctxt "characters/683"
 msgid "Debug Fishlips Conversation"
-msgstr ""
+msgstr "디버그 피시립스 대화"
 
 msgctxt "characters/684"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 msgctxt "characters/685"
 msgid "Donna"
-msgstr ""
+msgstr "도나"
 
 msgctxt "characters/686"
 msgid "Vivisecto, RN"
-msgstr ""
+msgstr "비비섹토 간호사"
 
 msgctxt "characters/687"
 msgid "Human Outreach Mobile Gift Shop"
-msgstr ""
+msgstr "대인간 지원 이동형 새빛 기념품점"
 
 msgctxt "characters/688"
 msgid "Vendomatic 2000!"
-msgstr ""
+msgstr "벤더매틱 2000!"
 
 msgctxt "characters/689"
 msgid "Brandi"
-msgstr ""
+msgstr "브랜디"
 
 msgctxt "characters/690"
 msgid "Commoner"
-msgstr ""
+msgstr "서민"
 
 msgctxt "characters/691"
 msgid "Betsy"
-msgstr ""
+msgstr "벳시"
 
 msgctxt "characters/692"
 msgid "Margaret"
-msgstr ""
+msgstr "마가렛"
 
 msgctxt "characters/693"
 msgid "Winona"
-msgstr ""
+msgstr "위노나"
 
 msgctxt "characters/694"
 msgid "Meson Cannon"
-msgstr ""
+msgstr "중간자포"
 
 msgctxt "characters/695"
 msgid "Marshal Dinh"
-msgstr ""
+msgstr "마샬 딘"
 
 msgctxt "characters/696"
 msgid "Simon The Squatch"
-msgstr ""
+msgstr "새스콰치 사이먼"
 
 msgctxt "characters/697"
 msgid "Ella Ripples"
-msgstr ""
+msgstr "엘라 리플스"
 
 msgctxt "characters/698"
 msgid "Kyle Rockitt"
-msgstr ""
+msgstr "카일 로키트"
 
 msgctxt "characters/699"
 msgid "Magnus Hammer"
-msgstr ""
+msgstr "매그너스 해머"
 
 msgctxt "characters/700"
 msgid "Sarah Gunns"
-msgstr ""
+msgstr "사라 건스"
 
 msgctxt "characters/701"
 msgid "Sylver Stallion"
-msgstr ""
+msgstr "실버 스탤리언"
 
 msgctxt "characters/702"
 msgid "Bizarre Patron"
-msgstr ""
+msgstr "비자르 단골"
 
 msgctxt "characters/703"
 msgid "Pig"
-msgstr ""
+msgstr "돼지"
 
 msgctxt "characters/704"
 msgid "M3 Turret"
-msgstr ""
+msgstr "M3 포탑"
 
 msgctxt "characters/705"
 msgid "M3 Cryo Beam"
-msgstr ""
+msgstr "M3 냉동 빔"
 
 msgctxt "characters/706"
 msgid "M3 Shield Generator"
-msgstr ""
+msgstr "M3 방어막 생성기"
 
 msgctxt "characters/707"
 msgid "M3 Minigun"
-msgstr ""
+msgstr "M3 미니건"
 
 msgctxt "characters/708"
 msgid "Honey Badger"
-msgstr ""
+msgstr "벌꿀오소리"
 
 msgctxt "characters/709"
 msgid "Billy and Jean"
-msgstr ""
+msgstr "빌리와 진"
 
 msgctxt "characters/710"
 msgid "Dog"
-msgstr ""
+msgstr "개"
 
 msgctxt "characters/711"
 msgid "Cat"
-msgstr ""
+msgstr "고양이"
 
 msgctxt "characters/712"
 msgid "Pig"
-msgstr ""
+msgstr "돼지"
 
 msgctxt "characters/713"
 msgid "Young Bison"
-msgstr ""
+msgstr "어린 들소"
 
 msgctxt "characters/714"
 msgid "Cyborg Chicken"
-msgstr ""
+msgstr "사이보그 닭"
 
 msgctxt "characters/715"
 msgid "Chicken"
-msgstr ""
+msgstr "닭"
 
 msgctxt "characters/716"
 msgid "Polly"
-msgstr ""
+msgstr "폴리"
 
 msgctxt "characters/717"
 msgid "Debug: Missing Persons"
-msgstr ""
+msgstr "디버그: 실종자"
 
 msgctxt "characters/718"
 msgid "Poultron"
-msgstr ""
+msgstr "폴트론"
 
 msgctxt "characters/719"
 msgid "Angie's Pistoleer"
-msgstr ""
+msgstr "엔지의 권총수"
 
 msgctxt "characters/720"
 msgid "Angie's Tech"
-msgstr ""
+msgstr "엔지의 기술자"
 
 msgctxt "characters/721"
 msgid "Wounded Marshal"
-msgstr ""
+msgstr "부상당한 마샬"
 
 msgctxt "characters/722"
 msgid "Elite Trooper"
-msgstr ""
+msgstr "정예 돌격병"
 
 msgctxt "characters/723"
 msgid "Elite Guard"
-msgstr ""
+msgstr "정예 경호원"
 
 msgctxt "characters/724"
 msgid "Palace Guard Captain"
-msgstr ""
+msgstr "궁전 수비대 대장"
 
 msgctxt "characters/725"
 msgid "Palace Guard Tech"
-msgstr ""
+msgstr "궁전 수비대 기술자"
 
 msgctxt "characters/726"
 msgid "Elite Enforcer"
-msgstr ""
+msgstr "정예 집행자"
 
 msgctxt "characters/727"
 msgid "Palace Guard Rocket"
-msgstr ""
+msgstr "궁전 수비대 로켓"
 
 msgctxt "characters/728"
 msgid "Refugee"
-msgstr "피난민"
+msgstr "난민"
 
 msgctxt "characters/729"
 msgid "Unarmed Refugee"
-msgstr "비무장 피난민"
+msgstr "비무장 난민"
 
 msgctxt "characters/730"
 msgid "Refugee Arsonist"
-msgstr "피난민 방화범"
+msgstr "난민 방화범"
 
 msgctxt "characters/731"
 msgid "Refugee Pistoleer"
-msgstr ""
+msgstr "난민 권총수"
 
 msgctxt "characters/732"
 msgid "Refugee Instigator"
-msgstr ""
+msgstr "난민 선동자"
 
 msgctxt "characters/733"
 msgid "Refugee Gunner"
-msgstr ""
+msgstr "난민 포수"
 
 msgctxt "characters/734"
 msgid "Bell Hackett"
-msgstr ""
+msgstr "벨 해켓"
 
 msgctxt "characters/735"
 msgid "Command Bot"
-msgstr ""
+msgstr "지휘관 로봇"
 
 msgctxt "characters/736"
 msgid "Statue of Reagan"
-msgstr ""
+msgstr "레이건 동상"
 
 msgctxt "characters/737"
 msgid "DEBUG Gideon Reyes"
-msgstr ""
+msgstr "디버그 기드온 레예스"
 
 msgctxt "characters/738"
 msgid "DEBUG Diligent Joe"
-msgstr ""
+msgstr "디버그 딜리전트 조"
 
 msgctxt "characters/739"
 msgid "Advance Team Heavy"
-msgstr ""
+msgstr "선발대 중화기병"
 
 msgctxt "characters/740"
 msgid "Advance Team Shotgunner"
-msgstr ""
+msgstr "선발대 산탄총 사수"
 
 msgctxt "characters/741"
 msgid "Advance Team Gunner"
-msgstr ""
+msgstr "선발대 포수"
 
 msgctxt "characters/742"
 msgid "Advance Team Sniper"
-msgstr ""
+msgstr "선발대 저격수"
 
 msgctxt "characters/743"
 msgid "Angie's Combat Medic"
-msgstr ""
+msgstr "엔지의 의무병"
 
 msgctxt "characters/744"
 msgid "Dorsey Chaosbringer"
-msgstr ""
+msgstr "돌시 혼돈 인도자"
 
 msgctxt "characters/745"
 msgid "Joey Bagodonuts"
-msgstr ""
+msgstr "조이 바고도너츠"
 
 msgctxt "characters/746"
 msgid "Bookseller"
-msgstr ""
+msgstr "서적상"
 
 msgctxt "characters/747"
 msgid "Merchant"
-msgstr ""
+msgstr "상인"
 
 msgctxt "characters/748"
 msgid "Bartender"
-msgstr ""
+msgstr "바텐더"
 
 msgctxt "characters/749"
 msgid "Shop Foreman"
-msgstr ""
+msgstr "십장"
 
 msgctxt "characters/750"
 msgid "Machine Shop Thug"
-msgstr ""
+msgstr "공작소 깡패"
 
 msgctxt "characters/751"
 msgid "Machine Shop Gunner"
-msgstr ""
+msgstr "공작소 포수"
 
 msgctxt "characters/752"
 msgid "Mercenary Marksman"
-msgstr ""
+msgstr "용병 명사수"
 
 msgctxt "characters/753"
 msgid "Mercenary Cutter"
-msgstr ""
+msgstr "용병 절단자"
 
 msgctxt "characters/754"
 msgid "Mercenary Tech"
-msgstr ""
+msgstr "용병 기술자"
 
 msgctxt "characters/755"
 msgid "Mercenary Medic"
-msgstr ""
+msgstr "용병 의무병"
 
 msgctxt "characters/756"
 msgid "Mercenary Leader"
-msgstr ""
+msgstr "용병 지도자"
 
 msgctxt "characters/757"
 msgid "Mercenary Hothead"
-msgstr ""
+msgstr "용병 다혈질"
 
 msgctxt "characters/758"
 msgid "Mercenary Grenadier"
-msgstr ""
+msgstr "용병 척탄병"
 
 msgctxt "characters/759"
 msgid "Mercenary Commando"
-msgstr ""
+msgstr "용병 특공대"
 
 msgctxt "characters/760"
 msgid "OMEGA"
-msgstr ""
+msgstr "오메가"
 
 msgctxt "characters/761"
 msgid "Scotchmo"
-msgstr ""
+msgstr "스코치모"
 
 msgctxt "characters/762"
 msgid "Del Hackett"
-msgstr ""
+msgstr "델 해켓"
 
 msgctxt "characters/763"
 msgid "Gertrude the Gruesome"
-msgstr ""
+msgstr "섬뜩한 거트루드"
 
 msgctxt "characters/764"
 msgid "Scorpitron"
-msgstr ""
+msgstr "스콜피트론"
 
 msgctxt "characters/766"
 msgid "Clone"
-msgstr ""
+msgstr "클론"
 
 msgctxt "characters/767"
 msgid "Godfisher Hunter"
-msgstr ""
+msgstr "갓피셔 사냥꾼"
 
 msgctxt "characters/768"
 msgid "Godfisher Beastmaster"
-msgstr ""
+msgstr "갓피셔 야수조련사"
 
 msgctxt "characters/769"
 msgid "Spiky Steve"
-msgstr ""
+msgstr "뾰족뾰족한 스티브"
 
 msgctxt "characters/770"
 msgid "Cuddles the Bear"
@@ -3804,7 +3804,7 @@ msgstr ""
 
 msgctxt "characters/1115"
 msgid "Refugee Rifleman"
-msgstr ""
+msgstr "난민 소총수"
 
 msgctxt "characters/1116"
 msgid "TEST Heavy 00"
@@ -4432,11 +4432,11 @@ msgstr ""
 
 msgctxt "characters/1273"
 msgid "Commune Laser Turret"
-msgstr ""
+msgstr "코뮌 레이저 포탑"
 
 msgctxt "characters/1274"
 msgid "Commune Plasma Turret"
-msgstr ""
+msgstr "코뮌 플라즈마 포탑"
 
 msgctxt "characters/1275"
 msgid "Commune Gas Hopper"
@@ -4472,7 +4472,7 @@ msgstr ""
 
 msgctxt "characters/1283"
 msgid "Commune Command Bot"
-msgstr ""
+msgstr "코뮌 지휘관 로봇"
 
 msgctxt "characters/1284"
 msgid "Commune Slicer Dicer"
@@ -4488,7 +4488,7 @@ msgstr ""
 
 msgctxt "characters/1287"
 msgid "Commune Spiderling"
-msgstr ""
+msgstr "코뮌 스파이더링"
 
 msgctxt "characters/1288"
 msgid "Commune Spider Bot"
@@ -4496,15 +4496,15 @@ msgstr ""
 
 msgctxt "characters/1289"
 msgid "Commune Suicide Spider"
-msgstr ""
+msgstr "코뮌 자폭 스파이더"
 
 msgctxt "characters/1290"
 msgid "Commune Minigun Turret"
-msgstr ""
+msgstr "코뮌 미니건 포탑"
 
 msgctxt "characters/1291"
 msgid "Commune Light Machine Turret"
-msgstr ""
+msgstr "코뮌 경기관총 포탑"
 
 msgctxt "characters/1292"
 msgid "Commune Light Cannon Turret"
@@ -4512,11 +4512,11 @@ msgstr ""
 
 msgctxt "characters/1293"
 msgid "Commune Heavy Machine Turret"
-msgstr ""
+msgstr "코뮌 중기관총 포탑"
 
 msgctxt "characters/1294"
 msgid "Commune Fusion Turret"
-msgstr ""
+msgstr "코뮌 핵융합 포탑"
 
 msgctxt "characters/1295"
 msgid "Commune Shield Generator"
