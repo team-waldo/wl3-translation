@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-26 12:57+0000\n"
-"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -451,7 +451,7 @@ msgstr "서쪽 폐허"
 
 msgctxt "poi/117"
 msgid "Denver Blast Crater"
-msgstr ""
+msgstr "덴버 폭발 분화구"
 
 #, fuzzy
 msgctxt "poi/118"
@@ -468,11 +468,11 @@ msgstr ""
 
 msgctxt "poi/121"
 msgid "Dam Access"
-msgstr ""
+msgstr "댐 입구"
 
 msgctxt "poi/122"
 msgid "Reservoir Campgrounds"
-msgstr ""
+msgstr "저수지 집결지"
 
 msgctxt "poi/123"
 msgid "Welcome Lodge"
@@ -480,139 +480,139 @@ msgstr ""
 
 msgctxt "poi/124"
 msgid "Construction Yard"
-msgstr ""
+msgstr "공사장"
 
 msgctxt "poi/125"
 msgid "Bunker"
-msgstr ""
+msgstr "방공호"
 
 msgctxt "poi/126"
 msgid "Gauntlet"
-msgstr ""
+msgstr "시련의 장"
 
 msgctxt "poi/127"
 msgid "Gondola"
-msgstr ""
+msgstr "곤돌라"
 
 msgctxt "poi/128"
 msgid "Garden of the Gods"
-msgstr ""
+msgstr "신의 정원"
 
 msgctxt "poi/129"
 msgid "Brygo's Little Vegas"
-msgstr ""
+msgstr "브라이고의 리틀 베가스"
 
 msgctxt "poi/130"
 msgid "Marshals' Station"
-msgstr ""
+msgstr "마샬 본부"
 
 msgctxt "poi/131"
 msgid "Broadmoor Heights"
-msgstr ""
+msgstr "브로드무어 하이츠"
 
 msgctxt "poi/132"
 msgid "Pillory Square"
-msgstr ""
+msgstr "결박형장"
 
 msgctxt "poi/133"
 msgid "MacTavish's Machine Shop"
-msgstr ""
+msgstr "맥타비쉬의 공작소"
 
 msgctxt "poi/134"
 msgid "Casady's Fine Clothes"
-msgstr ""
+msgstr "카시디의 고급 의류점"
 
 msgctxt "poi/135"
 msgid "Colorado Heritage Museum"
-msgstr ""
+msgstr "콜로라도 전통 박물관"
 
 msgctxt "poi/136"
 msgid "Sans Luxe Apartments"
-msgstr ""
+msgstr "산스 럭스 아파트"
 
 msgctxt "poi/137"
 msgid "Market Square"
-msgstr ""
+msgstr "시장 광장"
 
 msgctxt "poi/138"
 msgid "Iron Thunder Arapaho Garage"
-msgstr ""
+msgstr "아이언 썬더 아라파호 차고"
 
 msgctxt "poi/139"
 msgid "To Ranger Headquarters"
-msgstr ""
+msgstr "레인저 본부로"
 
 msgctxt "poi/140"
 msgid "Central Computer - War Room"
-msgstr ""
+msgstr "중앙 컴퓨터 - 상황실"
 
 msgctxt "poi/141"
 msgid "Security Console - Garage"
-msgstr ""
+msgstr "보안 콘솔 - 차고"
 
 msgctxt "poi/142"
 msgid "Security Console - Armory"
-msgstr ""
+msgstr "보안 콘솔 - 무기고"
 
 msgctxt "poi/143"
 msgid "Security Console - Brig"
-msgstr ""
+msgstr "보안 콘솔 - 구금실"
 
 msgctxt "poi/144"
 msgid "Faran Brygo's Office"
-msgstr ""
+msgstr "파란 브라이고의 사무실"
 
 msgctxt "poi/145"
 msgid "Nightclub Brothel"
-msgstr ""
+msgstr "나이트클럽 매음굴"
 
 msgctxt "poi/146"
 msgid "Grave"
-msgstr ""
+msgstr "무덤"
 
 msgctxt "poi/147"
 msgid "Homestead"
-msgstr ""
+msgstr "농가"
 
 msgctxt "poi/148"
 msgid "Bunker"
-msgstr ""
+msgstr "방공호"
 
 msgctxt "poi/149"
 msgid "Arapaho Caravan"
-msgstr ""
+msgstr "아라파호 행상단"
 
 msgctxt "poi/150"
 msgid "Lobby"
-msgstr ""
+msgstr "로비"
 
 msgctxt "poi/151"
 msgid "Security Room"
-msgstr ""
+msgstr "보안실"
 
 msgctxt "poi/152"
 msgid "Guest Suites"
-msgstr ""
+msgstr "손님방"
 
 msgctxt "poi/153"
 msgid "Lab"
-msgstr ""
+msgstr "연구실"
 
 msgctxt "poi/154"
 msgid "Cold Storage"
-msgstr ""
+msgstr "냉동고"
 
 msgctxt "poi/155"
 msgid "Pool"
-msgstr ""
+msgstr "수영장"
 
 msgctxt "poi/156"
 msgid "Patriarch's Wing"
-msgstr ""
+msgstr "패트리아크 전용 구역"
 
 msgctxt "poi/157"
 msgid "Patriarch's Suite"
-msgstr ""
+msgstr "패트리아크 전용실"
 
 msgctxt "poi/158"
 msgid "Basement"
@@ -628,7 +628,7 @@ msgstr "사우나"
 
 msgctxt "poi/161"
 msgid "Pool Storage"
-msgstr ""
+msgstr "수영장 창고"
 
 msgctxt "poi/162"
 msgid "Bellamy Ward's Workshop"
@@ -636,7 +636,7 @@ msgstr "벨라미 워드의 작업장"
 
 msgctxt "poi/163"
 msgid "Big Top"
-msgstr ""
+msgstr "서커스 천막"
 
 msgctxt "poi/164"
 msgid "Lobby"
@@ -680,7 +680,7 @@ msgstr "감옥"
 
 msgctxt "poi/174"
 msgid "Security Station"
-msgstr ""
+msgstr "보안실"
 
 msgctxt "poi/175"
 msgid "Breakroom"
@@ -712,7 +712,7 @@ msgstr "산타의 창고"
 
 msgctxt "poi/182"
 msgid "Safe Warrens"
-msgstr ""
+msgstr "지하 사육장"
 
 msgctxt "poi/183"
 msgid "Chapel"
@@ -764,7 +764,7 @@ msgstr ""
 
 msgctxt "poi/195"
 msgid "Bulb's Shack"
-msgstr ""
+msgstr "벌브의 판잣집"
 
 msgctxt "poi/196"
 msgid "Tellurium Mine"
@@ -772,7 +772,7 @@ msgstr "텔루륨 광산"
 
 msgctxt "poi/197"
 msgid "Memorial Park"
-msgstr ""
+msgstr "추모공원"
 
 msgctxt "poi/198"
 msgid "Workshop"
@@ -908,15 +908,15 @@ msgstr "미트 클라운"
 
 msgctxt "poi/231"
 msgid "Alaska Surprise"
-msgstr ""
+msgstr "알래스카 서프라이즈"
 
 msgctxt "poi/232"
 msgid "Bone Pit"
-msgstr ""
+msgstr "뼈무덤"
 
 msgctxt "poi/233"
 msgid "Bone Pit"
-msgstr ""
+msgstr "뼈무덤"
 
 msgctxt "poi/234"
 msgid "Godfisher Shrine Entrance"
@@ -936,7 +936,7 @@ msgstr "재단"
 
 msgctxt "poi/238"
 msgid "Entrance Lobby"
-msgstr ""
+msgstr "입구 로비"
 
 msgctxt "poi/239"
 msgid "Basement"
@@ -952,19 +952,19 @@ msgstr "상영관"
 
 msgctxt "poi/242"
 msgid "Burrow"
-msgstr ""
+msgstr "굴"
 
 msgctxt "poi/243"
 msgid "The Company Store"
-msgstr ""
+msgstr "컴퍼니 스토어"
 
 msgctxt "poi/244"
 msgid "Command Habitat"
-msgstr ""
+msgstr "지휘관 주거지"
 
 msgctxt "poi/245"
 msgid "Science Habitat"
-msgstr ""
+msgstr "과학자 구역"
 
 msgctxt "poi/246"
 msgid "Living Habitat"
@@ -972,7 +972,7 @@ msgstr ""
 
 msgctxt "poi/247"
 msgid "Mine Entrance"
-msgstr ""
+msgstr "지뢰밭 입구"
 
 msgctxt "poi/248"
 msgid "Security Habitat"
@@ -980,7 +980,7 @@ msgstr ""
 
 msgctxt "poi/249"
 msgid "Ruined Building"
-msgstr ""
+msgstr "붕괴된 건물"
 
 msgctxt "poi/250"
 msgid "Garage"
@@ -1016,15 +1016,15 @@ msgstr "구금실"
 
 msgctxt "poi/258"
 msgid "Cannibal Compound"
-msgstr ""
+msgstr "식인종 주둔지"
 
 msgctxt "poi/259"
 msgid "Shanty"
-msgstr ""
+msgstr "판잣집"
 
 msgctxt "poi/260"
 msgid "Ramp"
-msgstr ""
+msgstr "경사로"
 
 msgctxt "poi/261"
 msgid "Cabin"
@@ -1032,19 +1032,19 @@ msgstr "오두막"
 
 msgctxt "poi/262"
 msgid "Gate"
-msgstr ""
+msgstr "출입구"
 
 msgctxt "poi/263"
 msgid "Front Gate"
-msgstr ""
+msgstr "정문"
 
 msgctxt "poi/264"
 msgid "Ballerinas"
-msgstr ""
+msgstr "발레리나"
 
 msgctxt "poi/265"
 msgid "Museum Gallery"
-msgstr ""
+msgstr "박물관 및 미술관"
 
 msgctxt "poi/266"
 msgid "Rosie Wong's Apartment"
