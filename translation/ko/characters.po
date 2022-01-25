@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-26 12:57+0000\n"
-"Last-Translator: Mook <studiochanbi@gmail.com>\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -928,7 +928,7 @@ msgstr "폴리"
 
 msgctxt "characters/345"
 msgid "Lieutenant Giggles"
-msgstr "기글스 중위"
+msgstr "부관 기글스"
 
 msgctxt "characters/346"
 msgid "Lieutenant Chester"
@@ -1360,7 +1360,7 @@ msgstr "프랭크 파파스"
 
 msgctxt "characters/467"
 msgid "Deputy Marshal Torres"
-msgstr "보안관보 토레스"
+msgstr "마샬 부관 토레스"
 
 msgctxt "characters/468"
 msgid "Maxwell"
@@ -1652,7 +1652,7 @@ msgstr "공장 로봇"
 
 msgctxt "characters/548"
 msgid "Deputy Marshal Pitts"
-msgstr "보안관보 피츠"
+msgstr "마샬 부관 피츠"
 
 msgctxt "characters/549"
 msgid "Magistrate Silas Watkins"
@@ -1928,7 +1928,7 @@ msgstr "나이트클럽 집행자"
 
 msgctxt "characters/628"
 msgid "Marshal Deputy"
-msgstr "보안관보"
+msgstr "마샬 부관"
 
 msgctxt "characters/629"
 msgid "Marshal Inspector"
@@ -2472,91 +2472,91 @@ msgstr "뾰족뾰족한 스티브"
 
 msgctxt "characters/770"
 msgid "Cuddles the Bear"
-msgstr ""
+msgstr "안고 싶은 커들스"
 
 msgctxt "characters/771"
 msgid "Mangy Molly"
-msgstr ""
+msgstr "지저분한 몰리"
 
 msgctxt "characters/772"
 msgid "Percival Wesson"
-msgstr ""
+msgstr "퍼시벌 웨슨"
 
 msgctxt "characters/773"
 msgid "Kym Hie"
-msgstr ""
+msgstr "김 희"
 
 msgctxt "characters/774"
 msgid "Yoon Hie"
-msgstr ""
+msgstr "윤 희"
 
 msgctxt "characters/775"
 msgid "Moss Cogan"
-msgstr ""
+msgstr "모스 코겐"
 
 msgctxt "characters/776"
 msgid "Pvt. Jodie Bell"
-msgstr ""
+msgstr "훈련병 조디 벨"
 
 msgctxt "characters/777"
 msgid "Hallie"
-msgstr ""
+msgstr "할리"
 
 msgctxt "characters/778"
 msgid "La Perla"
-msgstr ""
+msgstr "라 펄라"
 
 msgctxt "characters/779"
 msgid "Slaver Hunter"
-msgstr ""
+msgstr "노예상 사냥꾼"
 
 msgctxt "characters/780"
 msgid "Local 168 Mercenary"
-msgstr ""
+msgstr "로컬 168 용병"
 
 msgctxt "characters/781"
 msgid "Colorado Citizen"
-msgstr ""
+msgstr "콜로라도 시민"
 
 msgctxt "characters/782"
 msgid "Club Patron"
-msgstr ""
+msgstr "클럽 단골"
 
 msgctxt "characters/783"
 msgid "Hundred Families Member"
-msgstr ""
+msgstr "백가문 일원"
 
 msgctxt "characters/784"
 msgid "Knight Kadosch"
-msgstr ""
+msgstr "카도슈 기사"
 
 msgctxt "characters/785"
 msgid "Nearly Unconscious Woman"
-msgstr ""
+msgstr "거의 의식을 잃은 여성"
 
 msgctxt "characters/786"
 msgid "Severely Injured Man"
-msgstr ""
+msgstr "중상을 입은 남성"
 
 msgctxt "characters/787"
 msgid "Badly Bleeding Man"
-msgstr ""
+msgstr "출혈이 심한 남성"
 
 msgctxt "characters/788"
 msgid "Courageous"
-msgstr ""
+msgstr "용감이"
 
 msgctxt "characters/789"
 msgid "Factory Worker"
-msgstr ""
+msgstr "공장 노동자"
 
 msgctxt "characters/790"
 msgid "The Beast Master"
-msgstr ""
+msgstr "야수 조련사"
 
 msgctxt "characters/791"
 msgid "Ten of Hearts"
-msgstr ""
+msgstr "텐 오브 하츠"
 
 msgctxt "characters/792"
 msgid "Dr. Cold Cuts"
@@ -2568,71 +2568,71 @@ msgstr "하이드 박사"
 
 msgctxt "characters/794"
 msgid "Beast Master's Wolf"
-msgstr ""
+msgstr "야수 조련사의 늑대"
 
 msgctxt "characters/795"
 msgid "Beast Master's Wolverine"
-msgstr ""
+msgstr "야수 조련사의 울버린"
 
 msgctxt "characters/796"
 msgid "Hope Emerson"
-msgstr ""
+msgstr "호프 에머슨"
 
 msgctxt "characters/797"
 msgid "Energy Drone"
-msgstr ""
+msgstr "에너지 드론"
 
 msgctxt "characters/798"
 msgid "Supply Officer Lachlan"
-msgstr ""
+msgstr "라클란 보급장교"
 
 msgctxt "characters/799"
 msgid "DARPA Bot"
-msgstr ""
+msgstr "DARPA 로봇"
 
 msgctxt "characters/803"
 msgid "Deputy Marshal Torres"
-msgstr ""
+msgstr "마샬 부관 토레스"
 
 msgctxt "characters/804"
 msgid "Silas Watkins"
-msgstr ""
+msgstr "사일러스 왓킨스"
 
 msgctxt "characters/805"
 msgid "Emaline Pease"
-msgstr ""
+msgstr "에멀린 피스"
 
 msgctxt "characters/806"
 msgid "Austin Pease"
-msgstr ""
+msgstr "오스틴 피스"
 
 msgctxt "characters/807"
 msgid "Paperboy"
-msgstr ""
+msgstr "신문팔이 소년"
 
 msgctxt "characters/808"
 msgid "Maxwell"
-msgstr ""
+msgstr "맥스웰"
 
 msgctxt "characters/809"
 msgid "Sheriff Daisy"
-msgstr ""
+msgstr "보안관 데이지"
 
 msgctxt "characters/810"
 msgid "Marshal Grandbois"
-msgstr ""
+msgstr "마샬 그랑부아"
 
 msgctxt "characters/811"
 msgid "Senior Marshal"
-msgstr ""
+msgstr "마샬 고참"
 
 msgctxt "characters/812"
 msgid "Mercenary Robot"
-msgstr ""
+msgstr "용병 로봇"
 
 msgctxt "characters/813"
 msgid "Whetstone"
-msgstr ""
+msgstr "숫돌"
 
 msgctxt "characters/814"
 msgid "Pvt. Kerr"
@@ -2736,155 +2736,155 @@ msgstr ""
 
 msgctxt "characters/839"
 msgid "Советский Робот"
-msgstr ""
+msgstr "Советский Робот"
 
 msgctxt "characters/840"
 msgid "Советская Турель"
-msgstr ""
+msgstr "Советская Турель"
 
 msgctxt "characters/841"
 msgid "Pvt. Long"
-msgstr ""
+msgstr "이등병 롱"
 
 msgctxt "characters/842"
 msgid "Pvt. Fish"
-msgstr ""
+msgstr "이등병 피시"
 
 msgctxt "characters/843"
 msgid "Pvt. Smith"
-msgstr ""
+msgstr "이등병 스미스"
 
 msgctxt "characters/844"
 msgid "Pvt. Moya"
-msgstr ""
+msgstr "이등병 모야"
 
 msgctxt "characters/845"
 msgid "Pvt. Beekers"
-msgstr ""
+msgstr "이등병 비커스"
 
 msgctxt "characters/846"
 msgid "Pvt. Moulder"
-msgstr ""
+msgstr "이등병 몰더"
 
 msgctxt "characters/847"
 msgid "Pvt. Bloomer"
-msgstr ""
+msgstr "이등병 블루머"
 
 msgctxt "characters/848"
 msgid "Pvt. Ziets"
-msgstr ""
+msgstr "이등병 지에츠"
 
 msgctxt "characters/849"
 msgid "Pvt. Lee"
-msgstr ""
+msgstr "이등병 리"
 
 msgctxt "characters/850"
 msgid "Pvt. Hwang"
-msgstr ""
+msgstr "이등병 황"
 
 msgctxt "characters/851"
 msgid "Pvt. Sandells"
-msgstr ""
+msgstr "이등병 샌델스"
 
 msgctxt "characters/852"
 msgid "Pvt. Schieffer"
-msgstr ""
+msgstr "이등병 시퍼"
 
 msgctxt "characters/853"
 msgid "Pvt. Fitzgerald"
-msgstr ""
+msgstr "이등병 피츠제럴드"
 
 msgctxt "characters/854"
 msgid "Pvt. Scioneaux"
-msgstr ""
+msgstr "이등병 시오노"
 
 msgctxt "characters/855"
 msgid "Pvt. Keenan"
-msgstr ""
+msgstr "이등병 키넌"
 
 msgctxt "characters/856"
 msgid "Pvt. Findley"
-msgstr ""
+msgstr "이등병 핀들리"
 
 msgctxt "characters/857"
 msgid "Pvt. Sass"
-msgstr ""
+msgstr "이등병 새스"
 
 msgctxt "characters/858"
 msgid "Pvt. Tang"
-msgstr ""
+msgstr "이등병 탕"
 
 msgctxt "characters/859"
 msgid "Pvt. Betz"
-msgstr ""
+msgstr "이등병 베츠"
 
 msgctxt "characters/860"
 msgid "Pvt. Pacholik"
-msgstr ""
+msgstr "이등병 패칼릭"
 
 msgctxt "characters/861"
 msgid "Pvt. McDohl"
-msgstr ""
+msgstr "이등병 맥도울"
 
 msgctxt "characters/862"
 msgid "Pvt. McComb"
-msgstr ""
+msgstr "이등병 맥콤"
 
 msgctxt "characters/863"
 msgid "Pvt. Jurgens-Fyhrie"
-msgstr ""
+msgstr "이등병 유르겐피어리"
 
 msgctxt "characters/864"
 msgid "Pvt. Itoi"
-msgstr ""
+msgstr "이등병 이토이"
 
 msgctxt "characters/865"
 msgid "Irv Clone"
-msgstr ""
+msgstr "어브 클론"
 
 msgctxt "characters/866"
 msgid "Jack off Hearts"
-msgstr ""
+msgstr "잭 오프 하츠"
 
 msgctxt "characters/867"
 msgid "Queen of Hearts"
-msgstr ""
+msgstr "퀸 오브 하츠"
 
 msgctxt "characters/868"
 msgid "King of Hearts"
-msgstr ""
+msgstr "킹 오브 하츠"
 
 msgctxt "characters/869"
 msgid "Joker"
-msgstr ""
+msgstr "조커"
 
 msgctxt "characters/870"
 msgid "Prostitute"
-msgstr ""
+msgstr "매춘부"
 
 msgctxt "characters/871"
 msgid "Satoshi"
-msgstr ""
+msgstr "사토시"
 
 msgctxt "characters/872"
 msgid "Psychopath Crew Tech"
-msgstr ""
+msgstr "사이코패스 일당 기술자"
 
 msgctxt "characters/873"
 msgid "Psychopath Crew Pistoleer"
-msgstr ""
+msgstr "사이코패스 일당 권총수"
 
 msgctxt "characters/874"
 msgid "Psychopath Crew Heavy"
-msgstr ""
+msgstr "사이코패스 일당 중화기병"
 
 msgctxt "characters/875"
 msgid "Psychopath Crew Shotgunner"
-msgstr ""
+msgstr "사이코패스 일당 산탄총 사수"
 
 msgctxt "characters/876"
 msgid "Psychopath Crew Basher"
-msgstr ""
+msgstr "사이코패스 일당 강타자"
 
 msgctxt "characters/877"
 msgid "Rebel Sniper"
@@ -2908,135 +2908,135 @@ msgstr "하드헤드 기계공"
 
 msgctxt "characters/882"
 msgid "Hard-Head Scrapper"
-msgstr ""
+msgstr "하드헤드 고물상"
 
 msgctxt "characters/883"
 msgid "Ace Of Hearts"
-msgstr ""
+msgstr "에이스 오브 하츠"
 
 msgctxt "characters/884"
 msgid "Thief"
-msgstr ""
+msgstr "도둑"
 
 msgctxt "characters/885"
 msgid "The Firebrand"
-msgstr ""
+msgstr "파이어브랜드"
 
 msgctxt "characters/886"
 msgid "Professor Hadron"
-msgstr ""
+msgstr "하드론 교수"
 
 msgctxt "characters/887"
 msgid "Thief Leader"
-msgstr ""
+msgstr "도둑 우두머리"
 
 msgctxt "characters/888"
 msgid "Pvt. Bluth"
-msgstr ""
+msgstr "이등병 블루스"
 
 msgctxt "characters/889"
 msgid "Drunk"
-msgstr ""
+msgstr "술꾼"
 
 msgctxt "characters/890"
 msgid "Doctor Denver"
-msgstr ""
+msgstr "닥터 덴버"
 
 msgctxt "characters/891"
 msgid "Messenger"
-msgstr ""
+msgstr "전령"
 
 msgctxt "characters/892"
 msgid "Animatronic"
-msgstr ""
+msgstr "애니매트로닉"
 
 msgctxt "characters/899"
 msgid "John Doe"
-msgstr ""
+msgstr "존 도우"
 
 msgctxt "characters/900"
 msgid "Jury-Rigged Scorpitron"
-msgstr ""
+msgstr "응급 수리된 스콜피트론"
 
 msgctxt "characters/901"
 msgid "Junko Murayama"
-msgstr ""
+msgstr "준코 무라야마"
 
 msgctxt "characters/902"
 msgid "Steeltown Worker"
-msgstr ""
+msgstr "스틸타운 일꾼"
 
 msgctxt "characters/903"
 msgid "Scar Collector Sharpshooter"
-msgstr ""
+msgstr "스카 콜렉터 명사수"
 
 msgctxt "characters/904"
 msgid "Prasad Memorial"
-msgstr ""
+msgstr "프라사드 기념물"
 
 msgctxt "characters/905"
 msgid "Payaso Clown Car"
-msgstr ""
+msgstr "파야소 광대 차량"
 
 msgctxt "characters/906"
 msgid "Roxana Dorsey"
-msgstr ""
+msgstr "록사나 돌시"
 
 msgctxt "characters/907"
 msgid "Stray Dog"
-msgstr ""
+msgstr "떠돌이 개"
 
 msgctxt "characters/908"
 msgid "Gold Standard"
-msgstr ""
+msgstr "금본위제"
 
 msgctxt "characters/909"
 msgid "Disco D.O.P."
-msgstr ""
+msgstr "디스코 D.O.P."
 
 msgctxt "characters/910"
 msgid "Servitor D.O.P."
-msgstr ""
+msgstr "시종 D.O.P."
 
 msgctxt "characters/911"
 msgid "Hedonist Robot"
-msgstr ""
+msgstr "쾌락주의자 로봇"
 
 msgctxt "characters/912"
 msgid "Pvt. Jimenez"
-msgstr ""
+msgstr "이등병 히메네스"
 
 msgctxt "characters/913"
 msgid "Pvt. Campbell"
-msgstr ""
+msgstr "이등병 캠벨"
 
 msgctxt "characters/914"
 msgid "Bartender Finn"
-msgstr ""
+msgstr "바텐더 핀"
 
 msgctxt "characters/915"
 msgid "Lynx"
-msgstr ""
+msgstr "스라소니"
 
 msgctxt "characters/916"
 msgid "Frank E Steen"
-msgstr ""
+msgstr "프랭크 이 스틴"
 
 msgctxt "characters/917"
 msgid "Gwynplaine"
-msgstr ""
+msgstr "그웬플렌"
 
 msgctxt "characters/918"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 msgctxt "characters/919"
 msgid "Major Tomcat"
-msgstr ""
+msgstr "톰캣 소령"
 
 msgctxt "characters/920"
 msgid "Ranger Private"
-msgstr ""
+msgstr "레인저 이등병"
 
 msgctxt "characters/921"
 msgid "Pvt. Choi"
@@ -3104,259 +3104,259 @@ msgstr "훈련병 로저스"
 
 msgctxt "characters/939"
 msgid "The Great Gurn"
-msgstr ""
+msgstr "위대한 건"
 
 msgctxt "characters/940"
 msgid "Medbot"
-msgstr ""
+msgstr "치료 로봇"
 
 msgctxt "characters/941"
 msgid "Team November Ranger"
-msgstr ""
+msgstr "노벰버 분대 레인저"
 
 msgctxt "characters/942"
 msgid "Sonny Jim"
-msgstr ""
+msgstr "서니 짐"
 
 msgctxt "characters/943"
 msgid "Dorsey Handgun 01"
-msgstr ""
+msgstr "돌시 권총 01"
 
 msgctxt "characters/944"
 msgid "Dorsey Handgun 00"
-msgstr ""
+msgstr "돌시 권총 00"
 
 msgctxt "characters/945"
 msgid "Dorsey AssaultRifle 00"
-msgstr ""
+msgstr "돌시 돌격소총 00"
 
 msgctxt "characters/946"
 msgid "Dorsey AssaultRifle 01"
-msgstr ""
+msgstr "돌시 돌격소총 01"
 
 msgctxt "characters/947"
 msgid "Dorsey Bladed 00"
-msgstr ""
+msgstr "돌시 도검 00"
 
 msgctxt "characters/948"
 msgid "Dorsey AssaultRifle 02"
-msgstr ""
+msgstr "돌시 돌격소총 02"
 
 msgctxt "characters/949"
 msgid "Pvt. Beltran"
-msgstr ""
+msgstr "이등병 벨트란"
 
 msgctxt "characters/950"
 msgid "Pvt. Shanowski"
-msgstr ""
+msgstr "이등병 샤노스키"
 
 msgctxt "characters/951"
 msgid "Pvt. Lau"
-msgstr ""
+msgstr "이등병 라우"
 
 msgctxt "characters/952"
 msgid "Sgt. Walsh"
-msgstr ""
+msgstr "병장 월시"
 
 msgctxt "characters/953"
 msgid "Pvt. Velasquez"
-msgstr ""
+msgstr "이등병 벨라스케스"
 
 msgctxt "characters/954"
 msgid "Pvt. Russo"
-msgstr ""
+msgstr "이등병 루소"
 
 msgctxt "characters/955"
 msgid "Sgt. Abbas"
-msgstr ""
+msgstr "병장 아바스"
 
 msgctxt "characters/956"
 msgid "Pvt. Siegel"
-msgstr ""
+msgstr "이등병 시겔"
 
 msgctxt "characters/957"
 msgid "Federico"
-msgstr ""
+msgstr "페데리코"
 
 msgctxt "characters/958"
 msgid "Pvt. Simms"
-msgstr ""
+msgstr "이등병 심스"
 
 msgctxt "characters/959"
 msgid "The Prisoner"
-msgstr ""
+msgstr "죄수"
 
 msgctxt "characters/960"
 msgid "Creepy Doll"
-msgstr ""
+msgstr "오싹한 인형"
 
 msgctxt "characters/961"
 msgid "Dorsey Grenadier 00"
-msgstr ""
+msgstr "돌시 척탄병 00"
 
 msgctxt "characters/962"
 msgid "DJ R.I.P."
-msgstr ""
+msgstr "DJ R.I.P."
 
 msgctxt "characters/963"
 msgid "DEBUG 963 Test Conversation"
-msgstr ""
+msgstr "디버그 963 테스트 대화"
 
 msgctxt "characters/964"
 msgid "Assault 2"
-msgstr ""
+msgstr "돌격 2"
 
 msgctxt "characters/965"
 msgid "Assault 3"
-msgstr ""
+msgstr "돌격 3"
 
 msgctxt "characters/966"
 msgid "Sniper 1"
-msgstr ""
+msgstr "저격 1"
 
 msgctxt "characters/967"
 msgid "Assault 1"
-msgstr ""
+msgstr "돌격 1"
 
 msgctxt "characters/968"
 msgid "Rocket 1"
-msgstr ""
+msgstr "로켓 1"
 
 msgctxt "characters/969"
 msgid "Rocket 2"
-msgstr ""
+msgstr "로켓 2"
 
 msgctxt "characters/970"
 msgid "Sniper 2"
-msgstr ""
+msgstr "저격 2"
 
 msgctxt "characters/971"
 msgid "Sniper 3"
-msgstr ""
+msgstr "저격 3"
 
 msgctxt "characters/972"
 msgid "Pvt. Lang"
-msgstr ""
+msgstr "이등병 랭"
 
 msgctxt "characters/973"
 msgid "Roach-infested robot"
-msgstr ""
+msgstr "바퀴가 들끓는 로봇"
 
 msgctxt "characters/974"
 msgid "Debug Godfishers Vs Gippers "
-msgstr ""
+msgstr "디버그 갓피셔 Vs 기퍼 "
 
 msgctxt "characters/975"
 msgid "Señora Gruñona"
-msgstr ""
+msgstr "세뇨라 그루뇨나"
 
 msgctxt "characters/976"
 msgid "Riddles"
-msgstr ""
+msgstr "리들스"
 
 msgctxt "characters/977"
 msgid "Milo"
-msgstr ""
+msgstr "마일로"
 
 msgctxt "characters/978"
 msgid "Puddles"
-msgstr ""
+msgstr "퍼들스"
 
 msgctxt "characters/979"
 msgid "Miron"
-msgstr ""
+msgstr "마이런"
 
 msgctxt "characters/980"
 msgid "Panzón"
-msgstr ""
+msgstr "판손"
 
 msgctxt "characters/981"
 msgid "Mittens's Little Sparkle"
-msgstr ""
+msgstr "미튼스의 불티"
 
 msgctxt "characters/982"
 msgid "Jimbo"
-msgstr ""
+msgstr "짐보"
 
 msgctxt "characters/983"
 msgid "Britches"
-msgstr ""
+msgstr "브리치스"
 
 msgctxt "characters/984"
 msgid "Snuggles"
-msgstr ""
+msgstr "스너글스"
 
 msgctxt "characters/985"
 msgid "Knicknack"
-msgstr ""
+msgstr "닉낵"
 
 msgctxt "characters/986"
 msgid "Mini Mittens"
-msgstr ""
+msgstr "미니 미튼스"
 
 msgctxt "characters/987"
 msgid "Dumpling"
-msgstr ""
+msgstr "덤플링"
 
 msgctxt "characters/988"
 msgid "Pumpkin"
-msgstr ""
+msgstr "펌킨"
 
 msgctxt "characters/989"
 msgid "Squeaks"
-msgstr ""
+msgstr "스퀵스"
 
 msgctxt "characters/990"
 msgid "Jinggles"
-msgstr ""
+msgstr "징글스"
 
 msgctxt "characters/991"
 msgid "Koko"
-msgstr ""
+msgstr "코코"
 
 msgctxt "characters/992"
 msgid "Pickles"
-msgstr ""
+msgstr "피클스"
 
 msgctxt "characters/993"
 msgid "Waffles"
-msgstr ""
+msgstr "와플스"
 
 msgctxt "characters/994"
 msgid "Ballerina"
-msgstr ""
+msgstr "발레리나"
 
 msgctxt "characters/995"
 msgid "Blackjack Dealer"
-msgstr ""
+msgstr "블랙잭 딜러"
 
 msgctxt "characters/996"
 msgid "Roulette Croupier"
-msgstr ""
+msgstr "룰렛 진행자"
 
 msgctxt "characters/997"
 msgid "Hostess"
-msgstr ""
+msgstr "접대부"
 
 msgctxt "characters/998"
 msgid "Mr. Pigglesworth"
-msgstr ""
+msgstr "피글스워스"
 
 msgctxt "characters/999"
 msgid "Roman"
-msgstr ""
+msgstr "로만"
 
 msgctxt "characters/1000"
 msgid "Troy"
-msgstr ""
+msgstr "트로이"
 
 msgctxt "characters/1001"
 msgid "Moronie"
-msgstr ""
+msgstr "모로니"
 
 msgctxt "characters/1002"
 msgid "999-us01"
-msgstr ""
+msgstr "999-us01"
 
 msgctxt "characters/1003"
 msgid "Santa"
@@ -3368,139 +3368,139 @@ msgstr "엘프"
 
 msgctxt "characters/1005"
 msgid "Bushy Evergreen"
-msgstr ""
+msgstr "부시 에버그린"
 
 msgctxt "characters/1006"
 msgid "Pepper Minstix"
-msgstr ""
+msgstr "페퍼 민스틱스"
 
 msgctxt "characters/1007"
 msgid "Shinny Upatree"
-msgstr ""
+msgstr "시니 우파트리"
 
 msgctxt "characters/1008"
 msgid "Sugarplum Mary"
-msgstr ""
+msgstr "슈가플럼 메리"
 
 msgctxt "characters/1009"
 msgid "Wunorse Openslae"
-msgstr ""
+msgstr "우노스 오픈슬레"
 
 msgctxt "characters/1010"
 msgid "Pixie Pudding"
-msgstr ""
+msgstr "픽시 푸딩"
 
 msgctxt "characters/1011"
 msgid "Dash Evergreen"
-msgstr ""
+msgstr "대시 에버그린"
 
 msgctxt "characters/1012"
 msgid "Perky Candycane"
-msgstr ""
+msgstr "퍼키 캔디케인"
 
 msgctxt "characters/1013"
 msgid "Glitter-toes"
-msgstr ""
+msgstr "글리터 토즈"
 
 msgctxt "characters/1014"
 msgid "Happy McJingles"
-msgstr ""
+msgstr "해피 맥징글스"
 
 msgctxt "characters/1015"
 msgid "Angel Frost"
-msgstr ""
+msgstr "엔젤 프로스트"
 
 msgctxt "characters/1016"
 msgid "Tinsel Twinkle"
-msgstr ""
+msgstr "틴설 트윙클"
 
 msgctxt "characters/1017"
 msgid "Merry \"Ginger\" Pepper"
-msgstr ""
+msgstr "메리 \"진저\" 페퍼"
 
 msgctxt "characters/1018"
 msgid "Jingle Joy"
-msgstr ""
+msgstr "징글 조이"
 
 msgctxt "characters/1019"
 msgid "Sparkle Winter"
-msgstr ""
+msgstr "스파클 윈터"
 
 msgctxt "characters/1020"
 msgid "Noel Snowball"
-msgstr ""
+msgstr "노엘 스노우볼"
 
 msgctxt "characters/1021"
 msgid "Tiny Winter"
-msgstr ""
+msgstr "타이니 윈터"
 
 msgctxt "characters/1022"
 msgid "Elfin Candy"
-msgstr ""
+msgstr "엘핀 캔디"
 
 msgctxt "characters/1023"
 msgid "Plum Holly"
-msgstr ""
+msgstr "플럼 홀리"
 
 msgctxt "characters/1024"
 msgid "Carol Snow"
-msgstr ""
+msgstr "캐럴 스노우"
 
 msgctxt "characters/1025"
 msgid "Brownie Cuddlelights"
-msgstr ""
+msgstr "브라우니 커들라이츠"
 
 msgctxt "characters/1026"
 msgid "Treacletart Mullinglog"
-msgstr ""
+msgstr "트리클타르트 멀링로그"
 
 msgctxt "characters/1027"
 msgid "Evergreen Shinylog"
-msgstr ""
+msgstr "에버그린 샤이니로그"
 
 msgctxt "characters/1028"
 msgid "Pompom Fruitboughs"
-msgstr ""
+msgstr "폼폼 프룻바우"
 
 msgctxt "characters/1029"
 msgid "Rustic Candywine"
-msgstr ""
+msgstr "러스틱 캔디와인"
 
 msgctxt "characters/1030"
 msgid "Cinnamon Twinklepie"
-msgstr ""
+msgstr "시나몬 트윙클파이"
 
 msgctxt "characters/1031"
 msgid "Reindeer Chocolatetrifle"
-msgstr ""
+msgstr "레인디어 초콜렛트라이플"
 
 msgctxt "characters/1032"
 msgid "Lametta Candybells"
-msgstr ""
+msgstr "라메타 캔디벨스"
 
 msgctxt "characters/1033"
 msgid "Sugarmouse Peppercane"
-msgstr ""
+msgstr "슈가마우스 페퍼케인"
 
 msgctxt "characters/1034"
 msgid "Bodyguard"
-msgstr ""
+msgstr "경호원"
 
 msgctxt "characters/1035"
 msgid "Drive-Train"
-msgstr ""
+msgstr "드라이브트레인"
 
 msgctxt "characters/1036"
 msgid "Benjie Braddock"
-msgstr ""
+msgstr "벤지 브래덕"
 
 msgctxt "characters/1037"
 msgid "Georgia Overdrive"
-msgstr ""
+msgstr "조지아 오버드라이브"
 
 msgctxt "characters/1038"
 msgid "Shotgun"
-msgstr ""
+msgstr "샷건"
 
 msgctxt "characters/1039"
 msgid "Bulb"
@@ -3508,207 +3508,207 @@ msgstr ""
 
 msgctxt "characters/1040"
 msgid "Brothel Patron"
-msgstr ""
+msgstr "매춘업소 단골"
 
 msgctxt "characters/1041"
 msgid "Dancer"
-msgstr ""
+msgstr "댄서"
 
 msgctxt "characters/1042"
 msgid "Rollan Giff"
-msgstr ""
+msgstr "롤런 기프"
 
 msgctxt "characters/1043"
 msgid "Valentino"
-msgstr ""
+msgstr "발렌티노"
 
 msgctxt "characters/1044"
 msgid "Franco"
-msgstr ""
+msgstr "프랑코"
 
 msgctxt "characters/1045"
 msgid "Axel"
-msgstr ""
+msgstr "엑셀"
 
 msgctxt "characters/1046"
 msgid "Ernesto"
-msgstr ""
+msgstr "에르네스토"
 
 msgctxt "characters/1047"
 msgid "Alberto"
-msgstr ""
+msgstr "알베르토"
 
 msgctxt "characters/1048"
 msgid "Dave Steeler"
-msgstr ""
+msgstr "데이브 스틸러"
 
 msgctxt "characters/1049"
 msgid "Andy Coss"
-msgstr ""
+msgstr "앤디 코스"
 
 msgctxt "characters/1050"
 msgid "Graminahamham"
-msgstr ""
+msgstr "그래미너햄험"
 
 msgctxt "characters/1051"
 msgid "Parry Marlin"
-msgstr ""
+msgstr "패리 말린"
 
 msgctxt "characters/1052"
 msgid "Cannibal"
-msgstr ""
+msgstr "식인종"
 
 msgctxt "characters/1053"
 msgid "Juvvie"
-msgstr ""
+msgstr "가출 청소년"
 
 msgctxt "characters/1054"
 msgid "Juvvie"
-msgstr ""
+msgstr "가출 청소년"
 
 msgctxt "characters/1055"
 msgid "Lieutenant Chuckles"
-msgstr ""
+msgstr "부관 처클스"
 
 msgctxt "characters/1056"
 msgid "DEBUG: Item Tester"
-msgstr ""
+msgstr "디버그: 아이템 테스터"
 
 msgctxt "characters/1057"
 msgid "Priest of the Final Deluge"
-msgstr ""
+msgstr "마지막 대홍수 사제"
 
 msgctxt "characters/1058"
 msgid "G-String Theory"
-msgstr ""
+msgstr "지-끈 이론"
 
 msgctxt "characters/1059"
 msgid "Excessive Force"
-msgstr ""
+msgstr "과도한 폭력"
 
 msgctxt "characters/1060"
 msgid "Quick Draw"
-msgstr ""
+msgstr "속사포"
 
 msgctxt "characters/1061"
 msgid "Pvt. Parts"
-msgstr ""
+msgstr "이등병 파츠"
 
 msgctxt "characters/1062"
 msgid "Big Red"
-msgstr ""
+msgstr "빅 레드"
 
 msgctxt "characters/1063"
 msgid " Debug NPC"
-msgstr ""
+msgstr " 디버그 NPC"
 
 msgctxt "characters/1064"
 msgid "Earline"
-msgstr ""
+msgstr "얼린"
 
 msgctxt "characters/1065"
 msgid "Alfredo Garcia"
-msgstr ""
+msgstr "알프레도 가르시아"
 
 msgctxt "characters/1066"
 msgid "Darryl"
-msgstr ""
+msgstr "대릴"
 
 msgctxt "characters/1067"
 msgid "Darryl"
-msgstr ""
+msgstr "대릴"
 
 msgctxt "characters/1068"
 msgid "Photon Amplification Lens"
-msgstr ""
+msgstr "광자 증폭 렌즈"
 
 msgctxt "characters/1069"
 msgid "Commune Shooting Enthusiast"
-msgstr ""
+msgstr "코뮌 사격 애호가"
 
 msgctxt "characters/1070"
 msgid "Taiwan Jones"
-msgstr ""
+msgstr "타이완 존스"
 
 msgctxt "characters/1071"
 msgid "Snappin' Jimmy Bob"
-msgstr ""
+msgstr "개쩌는 지미 밥"
 
 msgctxt "characters/1072"
 msgid "Mary Milk-Teeth"
-msgstr ""
+msgstr "메리 밀크티스"
 
 msgctxt "characters/1073"
 msgid "TEMP Energy Rifle 00"
-msgstr ""
+msgstr "임시 에너지 소총 00"
 
 msgctxt "characters/1074"
 msgid "TEMP Blunt 00"
-msgstr ""
+msgstr "임시 둔기 00"
 
 msgctxt "characters/1075"
 msgid "TEMP Energy Rifle 01"
-msgstr ""
+msgstr "임시 에너지 소총 01"
 
 msgctxt "characters/1076"
 msgid "TEMP Blunt 01"
-msgstr ""
+msgstr "임시 둔기 01"
 
 msgctxt "characters/1077"
 msgid "TEMP Shotgun 00"
-msgstr ""
+msgstr "임시 산탄총 00"
 
 msgctxt "characters/1078"
 msgid "TEMP SMG 00"
-msgstr ""
+msgstr "임시 기관단총 00"
 
 msgctxt "characters/1079"
 msgid "Robear"
-msgstr ""
+msgstr "로베어"
 
 msgctxt "characters/1080"
 msgid "Ronald The XLII"
-msgstr ""
+msgstr "로널드 42세"
 
 msgctxt "characters/1081"
 msgid "Ron"
-msgstr ""
+msgstr "론"
 
 msgctxt "characters/1082"
 msgid "Patti"
-msgstr ""
+msgstr "패티"
 
 msgctxt "characters/1083"
 msgid "William"
-msgstr ""
+msgstr "윌리엄"
 
 msgctxt "characters/1084"
 msgid "Brenda"
-msgstr ""
+msgstr "브렌다"
 
 msgctxt "characters/1085"
 msgid "RADIO Sister Nancy"
-msgstr ""
+msgstr "무전 낸시 수녀"
 
 msgctxt "characters/1086"
 msgid "Shakes"
-msgstr ""
+msgstr "셰익스"
 
 msgctxt "characters/1087"
 msgid "Ol' Baldy"
-msgstr ""
+msgstr "발디 아저씨"
 
 msgctxt "characters/1088"
 msgid "Drool"
-msgstr ""
+msgstr "드룰"
 
 msgctxt "characters/1089"
 msgid "Bile Bomber"
-msgstr ""
+msgstr "베일 보머"
 
 msgctxt "characters/1090"
 msgid "Lost Soul"
-msgstr ""
+msgstr "로스트 소울"
 
 msgctxt "characters/1091"
 msgid "Ranch Leader"
@@ -4448,7 +4448,7 @@ msgstr ""
 
 msgctxt "characters/1277"
 msgid "Commune Medbot"
-msgstr ""
+msgstr "코뮌 치료 로봇"
 
 msgctxt "characters/1278"
 msgid "Commune Drilldog"
