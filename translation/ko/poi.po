@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: Stellar <xlsksh3@naver.com>\n"
+"PO-Revision-Date: 2022-01-25 09:57+0000\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -319,7 +319,7 @@ msgstr ""
 
 msgctxt "poi/87"
 msgid "Snowed Inn Resort"
-msgstr ""
+msgstr "눈 내린 여관 휴양지"
 
 msgctxt "poi/88"
 msgid "Suicide Site"
@@ -327,33 +327,37 @@ msgstr ""
 
 msgctxt "poi/89"
 msgid "Outflow Pipe"
-msgstr ""
+msgstr "배출 파이프"
 
 msgctxt "poi/90"
 msgid "Canyon Exit"
-msgstr ""
+msgstr "협곡 출구"
 
 msgctxt "poi/91"
 msgid "Frozen Pump Station"
-msgstr ""
+msgstr "얼어붙은 펌프장"
 
 msgctxt "poi/92"
 msgid "Sealed Bunker"
-msgstr ""
+msgstr "밀폐된 벙커"
 
+#, fuzzy
 msgctxt "poi/93"
 msgid "Air Traffic Control"
-msgstr ""
+msgstr "항공 교통 관제"
 
 msgctxt "poi/94"
 msgid "East Catwalk"
-msgstr ""
+msgstr "동쪽 통로"
 
+#, fuzzy
 msgctxt "poi/95"
 msgid ""
 "Secret Passage to \\n"
 "Old Survivalist Bunker"
 msgstr ""
+"생존자 벙커로 향하는 \\n"
+"비밀 통로"
 
 msgctxt "poi/96"
 msgid "Arcade"
@@ -361,71 +365,76 @@ msgstr ""
 
 msgctxt "poi/97"
 msgid "Greenhouse"
-msgstr ""
+msgstr "온실"
 
 msgctxt "poi/98"
 msgid "SAL"
-msgstr ""
+msgstr "SAL"
 
 msgctxt "poi/99"
 msgid "Restrooms"
-msgstr ""
+msgstr "화장실"
 
+#, fuzzy
 msgctxt "poi/100"
 msgid "Oil Field"
-msgstr ""
+msgstr "유전 지역"
 
 msgctxt "poi/101"
 msgid "Patriarch's Palace"
-msgstr ""
+msgstr "패트리아크의 궁전"
 
 msgctxt "poi/102"
 msgid "Buchanan Monument"
-msgstr ""
+msgstr "뷰캐넌 기념비"
 
+#, fuzzy
 msgctxt "poi/103"
 msgid "Wesson Estate"
-msgstr ""
+msgstr "웨슨가 사유지"
 
+#, fuzzy
 msgctxt "poi/104"
 msgid "Ward Estate"
-msgstr ""
+msgstr "워드가 사유지"
 
+#, fuzzy
 msgctxt "poi/105"
 msgid "Church of the Final Deluge"
-msgstr ""
+msgstr "마지막 대홍수 교회"
 
 msgctxt "poi/106"
 msgid "104"
-msgstr ""
+msgstr "104"
 
 msgctxt "poi/107"
 msgid "Larra Buchanan's Grave"
-msgstr ""
+msgstr "라라 뷰캐넌의 무덤"
 
 msgctxt "poi/108"
 msgid "'X'"
-msgstr ""
+msgstr "'X'"
 
 msgctxt "poi/109"
 msgid "Bar"
-msgstr ""
+msgstr "바"
 
 msgctxt "poi/110"
 msgid "Hidden Bunker"
-msgstr ""
+msgstr "숨겨진 벙커"
 
 msgctxt "poi/111"
 msgid "Train Platform"
-msgstr ""
+msgstr "기차 플랫폼"
 
 msgctxt "poi/112"
 msgid "Train Platform"
-msgstr ""
+msgstr "기차 플랫폼"
 
+#, fuzzy
 msgctxt "poi/113"
 msgid "Radio Beacon"
-msgstr ""
+msgstr "라디오 송신소"
 
 msgctxt "poi/114"
 msgid "Sacred Server Room"
@@ -433,7 +442,7 @@ msgstr ""
 
 msgctxt "poi/115"
 msgid "Restricted Zone"
-msgstr ""
+msgstr "제한 구역"
 
 msgctxt "poi/116"
 msgid "West Ruins"
@@ -621,7 +630,7 @@ msgstr ""
 
 msgctxt "poi/162"
 msgid "Bellamy Ward's Workshop"
-msgstr "벨라미 와드의 작업장"
+msgstr "벨라미 워드의 작업장"
 
 msgctxt "poi/163"
 msgid "Big Top"
