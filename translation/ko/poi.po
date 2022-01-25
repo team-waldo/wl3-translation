@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-25 09:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2022-01-26 12:57+0000\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -438,23 +438,25 @@ msgstr "라디오 송신소"
 
 msgctxt "poi/114"
 msgid "Sacred Server Room"
-msgstr ""
+msgstr "성스러운 서버실"
 
 msgctxt "poi/115"
 msgid "Restricted Zone"
 msgstr "제한 구역"
 
+#, fuzzy
 msgctxt "poi/116"
 msgid "West Ruins"
-msgstr ""
+msgstr "서쪽 폐허"
 
 msgctxt "poi/117"
 msgid "Denver Blast Crater"
 msgstr ""
 
+#, fuzzy
 msgctxt "poi/118"
 msgid "East Ruins"
-msgstr ""
+msgstr "동쪽 폐허"
 
 msgctxt "poi/119"
 msgid "Reservoir Trail"
