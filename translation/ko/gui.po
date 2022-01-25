@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-25 09:57+0000\n"
-"Last-Translator: roc <woah1606@naver.com>\n"
+"PO-Revision-Date: 2022-01-26 12:57+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -124,7 +124,7 @@ msgstr ""
 
 msgctxt "gui/27"
 msgid "[...]"
-msgstr ""
+msgstr "[...]"
 
 msgctxt "gui/28"
 msgid "Healed {0}"
@@ -136,7 +136,7 @@ msgstr "빗나감"
 
 msgctxt "gui/30"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "gui/31"
 msgid "Requires Action Points"
@@ -494,11 +494,11 @@ msgstr "<color={2}>{0}-{1}</color> Damage"
 
 msgctxt "gui/117"
 msgid "Single Shot"
-msgstr ""
+msgstr "단발"
 
 msgctxt "gui/118"
 msgid "{0} Round Burst"
-msgstr ""
+msgstr "{0}점사"
 
 #, fuzzy
 msgctxt "gui/119"
@@ -559,11 +559,11 @@ msgstr "체력"
 
 msgctxt "gui/133"
 msgid "Experience"
-msgstr ""
+msgstr "경험치"
 
 msgctxt "gui/134"
 msgid "Level {0} {1}"
-msgstr ""
+msgstr "{0} {1} 레벨"
 
 msgctxt "gui/135"
 msgid "Character Stats"
@@ -614,7 +614,7 @@ msgstr "전부 줍기"
 
 msgctxt "gui/146"
 msgid "Distribute All"
-msgstr ""
+msgstr "전부 분배하기"
 
 msgctxt "gui/147"
 msgid "Alarm Disarmed"
@@ -690,51 +690,51 @@ msgstr "정말 {0}을(를) 삭제하시겠습니까? 되돌릴 수 없습니다.
 
 msgctxt "gui/165"
 msgid "Autosave {0}"
-msgstr ""
+msgstr "자동저장 {0}"
 
 msgctxt "gui/166"
 msgid "Save Slot {0}"
-msgstr ""
+msgstr "저장 슬롯 {0}"
 
 msgctxt "gui/167"
 msgid "Name"
-msgstr ""
+msgstr "이름"
 
 msgctxt "gui/168"
 msgid "Active Squad"
-msgstr ""
+msgstr "활성화된 분대"
 
 msgctxt "gui/169"
 msgid "Date"
-msgstr ""
+msgstr "날짜"
 
 msgctxt "gui/170"
 msgid "Current Area: {0}"
-msgstr ""
+msgstr "현재 위치: {0}"
 
 msgctxt "gui/171"
 msgid "Current Mission: {0}"
-msgstr ""
+msgstr "현재 임무: {0}"
 
 msgctxt "gui/172"
 msgid "Date: {0}"
-msgstr ""
+msgstr "날짜: {0}"
 
 msgctxt "gui/173"
 msgid "Time Played: {0}h {1}m"
-msgstr ""
+msgstr "플레이한 시간: {0}시간 {1}분"
 
 msgctxt "gui/174"
 msgid "New Save"
-msgstr ""
+msgstr "새 저장 파일 만들기"
 
 msgctxt "gui/175"
 msgid "Press"
-msgstr ""
+msgstr "계속하려면"
 
 msgctxt "gui/176"
 msgid "To Continue"
-msgstr ""
+msgstr "를 누르십시오"
 
 msgctxt "gui/177"
 msgid "Equip"
@@ -746,19 +746,19 @@ msgstr "해제"
 
 msgctxt "gui/179"
 msgid "Use Item"
-msgstr ""
+msgstr "아이템 사용하기"
 
 msgctxt "gui/180"
 msgid "Your Turn"
-msgstr ""
+msgstr "당신의 턴"
 
 msgctxt "gui/181"
 msgid "Partner's Turn"
-msgstr ""
+msgstr "동료의 턴"
 
 msgctxt "gui/182"
 msgid "{0}'s Turn"
-msgstr ""
+msgstr "{0}의 턴"
 
 msgctxt "gui/183"
 msgid "Perks"
@@ -766,7 +766,7 @@ msgstr "특성"
 
 msgctxt "gui/184"
 msgid "Delete"
-msgstr ""
+msgstr "삭제하기"
 
 msgctxt "gui/185"
 msgid ""
@@ -780,17 +780,17 @@ msgstr "서명 변경이 탐지되었습니다. 메인 메뉴로 돌아갑니다
 
 msgctxt "gui/187"
 msgid "Please reconnect your controller."
-msgstr ""
+msgstr "컨트롤러를 다시 연결해 주십시오."
 
 msgctxt "gui/188"
 msgid ""
 "Guest profiles cannot save progress. You need to be signed in to a profile "
 "to continue."
-msgstr ""
+msgstr "임시 프로필 상태에서는 진행과정을 저장할 수 없습니다. 계속하려면 프로필에 로그인해야 합니다."
 
 msgctxt "gui/189"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "gui/190"
 msgid "Requires {0} {1}"
@@ -802,7 +802,7 @@ msgstr "{0} - {0} {1} 필요"
 
 msgctxt "gui/192"
 msgid "Weapon Modification"
-msgstr ""
+msgstr "무기 개조"
 
 msgctxt "gui/193"
 msgid "Confirm"
@@ -810,7 +810,7 @@ msgstr "확인"
 
 msgctxt "gui/194"
 msgid "Weaponsmith"
-msgstr ""
+msgstr "무기 장인"
 
 msgctxt "gui/195"
 msgid "Weapon Modding {0}"
@@ -818,15 +818,15 @@ msgstr "무기 개조 {0}"
 
 msgctxt "gui/196"
 msgid "Available Modifications"
-msgstr ""
+msgstr "부착 가능한 개조품"
 
 msgctxt "gui/197"
 msgid "Install"
-msgstr ""
+msgstr "설치하기"
 
 msgctxt "gui/198"
 msgid "Clip Size"
-msgstr ""
+msgstr "탄창 크기"
 
 msgctxt "gui/199"
 msgid "Range"
@@ -838,67 +838,67 @@ msgstr "명중률"
 
 msgctxt "gui/201"
 msgid "Critical Damage"
-msgstr ""
+msgstr "치명타 피해량"
 
 msgctxt "gui/202"
 msgid "({0})"
-msgstr ""
+msgstr "({0})"
 
 msgctxt "gui/203"
 msgid "{0}m"
-msgstr ""
+msgstr "{0}m"
 
 msgctxt "gui/204"
 msgid "{0}x"
-msgstr ""
+msgstr "{0}x"
 
 msgctxt "gui/205"
 msgid "Melee"
-msgstr ""
+msgstr "근접 거리"
 
 msgctxt "gui/206"
 msgid "Downloading"
-msgstr ""
+msgstr "다운로드 중"
 
 msgctxt "gui/207"
 msgid "To return to Main Menu"
-msgstr ""
+msgstr "주 메뉴로 돌아가려면"
 
 msgctxt "gui/208"
 msgid "<color=#818A8E>Target:</color> {0}"
-msgstr ""
+msgstr "<color=#818A8E>대상:</color> {0}"
 
 msgctxt "gui/209"
 msgid "Allies and Enemies"
-msgstr ""
+msgstr "아군과 적군"
 
 msgctxt "gui/210"
 msgid "Allies"
-msgstr ""
+msgstr "아군"
 
 msgctxt "gui/211"
 msgid "Enemies"
-msgstr ""
+msgstr "적"
 
 msgctxt "gui/212"
 msgid "No Abilities Available"
-msgstr ""
+msgstr "사용 가능한 능력 없음"
 
 msgctxt "gui/213"
 msgid "Ability source unknown."
-msgstr ""
+msgstr "능력 출처 불명."
 
 msgctxt "gui/214"
 msgid "Granted by item {0}."
-msgstr ""
+msgstr "{0} 아이템에 의해 부여됨."
 
 msgctxt "gui/215"
 msgid "Granted by skill {0}."
-msgstr ""
+msgstr "{0} 기술에 의해 부여됨."
 
 msgctxt "gui/216"
 msgid "Granted by perk {0}."
-msgstr ""
+msgstr "{0} 특성에 의해 부여됨."
 
 msgctxt "gui/217"
 msgid "Buy"
@@ -914,17 +914,17 @@ msgstr "거래 실패"
 
 msgctxt "gui/220"
 msgid "You cannot afford this item."
-msgstr ""
+msgstr "이 아이템을 구매하기에는 소지금이 부족합니다."
 
 msgctxt "gui/221"
 msgid ""
 "Set up an attack that will trigger on the enemy's next turn. Uses all "
 "remaining AP, gaining +5% Hit Chance per extra AP spent."
-msgstr ""
+msgstr "적의 다음 턴에 발동하는 공격을 준비합니다. 남은 행동력을 모두 소모하여 행동력 1점당 명중률을 5%만큼 증가시킵니다."
 
 msgctxt "gui/222"
 msgid "In Vehicle"
-msgstr ""
+msgstr "차량 탑승"
 
 msgctxt "gui/223"
 msgid "Enter Area"
@@ -932,15 +932,15 @@ msgstr "지역 진입"
 
 msgctxt "gui/224"
 msgid "Choose Entrance"
-msgstr ""
+msgstr "입구 선택"
 
 msgctxt "gui/225"
 msgid "Active Missions"
-msgstr ""
+msgstr "활성화된 임무"
 
 msgctxt "gui/226"
 msgid "Location Discovered: {0}"
-msgstr ""
+msgstr "지역 발견: {0}"
 
 msgctxt "gui/227"
 msgid "Usable in Combat"
@@ -956,11 +956,11 @@ msgstr "전투 중이나 탐험 중 사용 가능"
 
 msgctxt "gui/230"
 msgid "Ambushing"
-msgstr ""
+msgstr "기습 중"
 
 msgctxt "gui/231"
 msgid "Executed Ambush"
-msgstr ""
+msgstr "기습 실행"
 
 msgctxt "gui/232"
 msgid "{0} took {1} damage."
@@ -1239,23 +1239,23 @@ msgstr "전투 중에는 구역을 벗어날 수 없습니다."
 
 msgctxt "gui/305"
 msgid "You cannot leave the area while a player is in a conversation."
-msgstr ""
+msgstr "플레이어가 대화 중일 때에는 구역을 벗어날 수 없습니다."
 
 msgctxt "gui/306"
 msgid "Assemble your team before rolling out."
-msgstr ""
+msgstr "출정하기 전에 일행을 집합하십시오."
 
 msgctxt "gui/307"
 msgid "Ranger Stash"
-msgstr ""
+msgstr "레인저 보관함"
 
 msgctxt "gui/308"
 msgid "Transfer Item"
-msgstr ""
+msgstr "아이템 전송"
 
 msgctxt "gui/309"
 msgid "Appearance Unlocked: {0}"
-msgstr ""
+msgstr "외형 잠금 해제: {0}"
 
 msgctxt "gui/310"
 msgid "Skip Intro Movies"
@@ -1263,7 +1263,7 @@ msgstr "인트로 영상 건너뛰기"
 
 msgctxt "gui/311"
 msgid "Weapon Jammed"
-msgstr ""
+msgstr "무기 폐색"
 
 msgctxt "gui/312"
 msgid "Can't Attack Target"
@@ -1271,7 +1271,7 @@ msgstr "대상 공격 불가"
 
 msgctxt "gui/313"
 msgid "{0} AP"
-msgstr ""
+msgstr "행동력 {0}"
 
 msgctxt "gui/314"
 msgid "Pick Lock"
@@ -1291,7 +1291,7 @@ msgstr "경보 해제"
 
 msgctxt "gui/318"
 msgid "Hack Computer"
-msgstr ""
+msgstr "컴퓨터 해킹하기"
 
 msgctxt "gui/319"
 msgid "Disarm Explosive"
@@ -1299,7 +1299,7 @@ msgstr "폭탄 해체"
 
 msgctxt "gui/320"
 msgid "Exit to {0}"
-msgstr ""
+msgstr "{0}(으)로 나가기"
 
 msgctxt "gui/321"
 msgid "Characters"
@@ -1307,7 +1307,7 @@ msgstr "캐릭터"
 
 msgctxt "gui/322"
 msgid "Points of Interest"
-msgstr ""
+msgstr "관심 지점"
 
 msgctxt "gui/323"
 msgid "Client Disconnected"
@@ -1315,7 +1315,7 @@ msgstr "클라이언트 연결 끊김"
 
 msgctxt "gui/324"
 msgid "You have been disconnected from the host."
-msgstr ""
+msgstr "호스트와 연결이 끊어졌습니다."
 
 msgctxt "gui/325"
 msgid "The client has been disconnected."
@@ -1331,11 +1331,11 @@ msgstr "{0} - 불가능"
 
 msgctxt "gui/328"
 msgid "Requires {0}"
-msgstr ""
+msgstr "{0} 필요"
 
 msgctxt "gui/329"
 msgid "No Games Found"
-msgstr ""
+msgstr "탐색된 게임 없음"
 
 msgctxt "gui/330"
 msgid "Select Game"
@@ -1347,11 +1347,11 @@ msgstr "새로운 게임"
 
 msgctxt "gui/332"
 msgid "[PH]The Frozen Lake"
-msgstr ""
+msgstr "[PH]얼어붙은 호수"
 
 msgctxt "gui/333"
 msgid "[PH]The Patriarch's Call"
-msgstr ""
+msgstr "[PH]패트리아크의 부름"
 
 msgctxt "gui/334"
 msgid "Edge Scrolling"
@@ -1371,7 +1371,7 @@ msgstr ""
 
 msgctxt "gui/338"
 msgid "Load Multiplayer"
-msgstr ""
+msgstr "멀티플레이어 불러오기"
 
 msgctxt "gui/339"
 msgid "Disable Tutorials"
@@ -1387,7 +1387,7 @@ msgstr ""
 
 msgctxt "gui/342"
 msgid "Formation"
-msgstr ""
+msgstr "진형"
 
 msgctxt "gui/343"
 msgid "Invalid Target"
@@ -1411,19 +1411,19 @@ msgstr "탄약 떨어짐"
 
 msgctxt "gui/348"
 msgid "Weapon Jammed"
-msgstr ""
+msgstr "무기 폐색"
 
 msgctxt "gui/349"
 msgid "AoE Not Allowed"
-msgstr ""
+msgstr "효과 범위 지정 불가"
 
 msgctxt "gui/350"
 msgid "Attack Hits Friendlies"
-msgstr ""
+msgstr "아군 오폭 가능"
 
 msgctxt "gui/351"
 msgid "Overhead Health Bars"
-msgstr ""
+msgstr "머리 위 체력 막대 표시"
 
 msgctxt "gui/352"
 msgid "Highlight Fill"
