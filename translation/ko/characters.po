@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-25 09:57+0000\n"
+"PO-Revision-Date: 2022-01-26 12:57+0000\n"
 "Last-Translator: Mook <studiochanbi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2888,23 +2888,23 @@ msgstr ""
 
 msgctxt "characters/877"
 msgid "Rebel Sniper"
-msgstr ""
+msgstr "반란군 저격병"
 
 msgctxt "characters/878"
 msgid "Rebel Scout"
-msgstr ""
+msgstr "반란군 정찰병"
 
 msgctxt "characters/879"
 msgid "Rebel Tech"
-msgstr ""
+msgstr "반란군 기술병"
 
 msgctxt "characters/880"
 msgid "Rebel Rifleman"
-msgstr ""
+msgstr "반란군 소총병"
 
 msgctxt "characters/881"
 msgid "Hard-Head Mechanic"
-msgstr ""
+msgstr "하드헤드 기계공"
 
 msgctxt "characters/882"
 msgid "Hard-Head Scrapper"
@@ -3040,67 +3040,67 @@ msgstr ""
 
 msgctxt "characters/921"
 msgid "Pvt. Choi"
-msgstr ""
+msgstr "훈련병 최"
 
 msgctxt "characters/922"
 msgid "Pvt. Hourcade"
-msgstr ""
+msgstr "훈련병 아워케이드"
 
 msgctxt "characters/923"
 msgid "Pvt. Kim"
-msgstr ""
+msgstr "훈련병 김"
 
 msgctxt "characters/925"
 msgid "Pvt. Pellegrin"
-msgstr ""
+msgstr "훈련병 펠레그린"
 
 msgctxt "characters/926"
 msgid "Pvt. Hartline"
-msgstr ""
+msgstr "훈련병 하트라인"
 
 msgctxt "characters/927"
 msgid "Pvt. Weits"
-msgstr ""
+msgstr "훈련병 웨이츠"
 
 msgctxt "characters/928"
 msgid "Pvt. Kotter"
-msgstr ""
+msgstr "훈련병 코터"
 
 msgctxt "characters/929"
 msgid "Pvt. Birk"
-msgstr ""
+msgstr "훈련병 버크"
 
 msgctxt "characters/930"
 msgid "Pvt. Plumlee"
-msgstr ""
+msgstr "훈련병 플룸리"
 
 msgctxt "characters/931"
 msgid "Pvt. Latosinski"
-msgstr ""
+msgstr "훈련병 라토신스키"
 
 msgctxt "characters/932"
 msgid "Pvt. Rynkiewicz"
-msgstr ""
+msgstr "훈련병 린키에비치"
 
 msgctxt "characters/933"
 msgid "Pvt. Adamovic"
-msgstr ""
+msgstr "훈련병 아다모비치"
 
 msgctxt "characters/934"
 msgid "Pvt. Barkley"
-msgstr ""
+msgstr "훈련병 바클리"
 
 msgctxt "characters/936"
 msgid "Pvt. Trinh"
-msgstr ""
+msgstr "훈련병 트린"
 
 msgctxt "characters/937"
 msgid "Pvt. Entwisle"
-msgstr ""
+msgstr "훈련병 엔트위슬"
 
 msgctxt "characters/938"
 msgid "Pvt. Rogers"
-msgstr ""
+msgstr "훈련병 로저스"
 
 msgctxt "characters/939"
 msgid "The Great Gurn"
@@ -3360,11 +3360,11 @@ msgstr ""
 
 msgctxt "characters/1003"
 msgid "Santa"
-msgstr ""
+msgstr "산타"
 
 msgctxt "characters/1004"
 msgid "Elf"
-msgstr ""
+msgstr "엘프"
 
 msgctxt "characters/1005"
 msgid "Bushy Evergreen"
@@ -3968,23 +3968,23 @@ msgstr ""
 
 msgctxt "characters/1156"
 msgid "Pvt. Kim"
-msgstr ""
+msgstr "훈련병 김"
 
 msgctxt "characters/1157"
 msgid "Pvt. Kim"
-msgstr ""
+msgstr "훈련병 김"
 
 msgctxt "characters/1158"
 msgid "Pvt. Krueger"
-msgstr ""
+msgstr "훈련병 크루거"
 
 msgctxt "characters/1159"
 msgid "Santa"
-msgstr ""
+msgstr "산타"
 
 msgctxt "characters/1160"
 msgid "Cassette"
-msgstr ""
+msgstr "카세트"
 
 msgctxt "characters/1161"
 msgid "Fox"
@@ -4012,7 +4012,7 @@ msgstr ""
 
 msgctxt "characters/1167"
 msgid "SAL's Terminal"
-msgstr ""
+msgstr "SAL의 단말기"
 
 msgctxt "characters/1169"
 msgid "Stitches"
@@ -4056,19 +4056,19 @@ msgstr ""
 
 msgctxt "characters/1179"
 msgid "Tom Redd"
-msgstr ""
+msgstr "톰 레드"
 
 msgctxt "characters/1180"
 msgid "Isabelle Redd"
-msgstr ""
+msgstr "이사벨 레드"
 
 msgctxt "characters/1181"
 msgid "Jimmy-6"
-msgstr ""
+msgstr "지미-6"
 
 msgctxt "characters/1182"
 msgid "Terminal Guard"
-msgstr ""
+msgstr "단말기 경비"
 
 msgctxt "characters/1183"
 msgid "Subsystem I"
@@ -4088,27 +4088,27 @@ msgstr ""
 
 msgctxt "characters/1187"
 msgid "Vivesecto, RN"
-msgstr ""
+msgstr "비비섹토 간호사"
 
 msgctxt "characters/1188"
 msgid "Flensing-Ice"
-msgstr ""
+msgstr "가죽을 벗기는 얼음"
 
 msgctxt "characters/1189"
 msgid "V.I.C.I."
-msgstr ""
+msgstr "V.I.C.I."
 
 msgctxt "characters/1190"
 msgid "Dorsey Killer"
-msgstr ""
+msgstr "돌시 살인마"
 
 msgctxt "characters/1191"
 msgid "Dorsey Stalker"
-msgstr ""
+msgstr "돌시 추적자"
 
 msgctxt "characters/1192"
 msgid "Godfisher Penitent"
-msgstr ""
+msgstr "갓피셔 참회자"
 
 msgctxt "characters/1193"
 msgid "Gipper Loyalist"
@@ -4116,15 +4116,15 @@ msgstr "기퍼 맹신자"
 
 msgctxt "characters/1194"
 msgid "Gipper Mechanic"
-msgstr ""
+msgstr "기퍼 정비공"
 
 msgctxt "characters/1195"
 msgid "Gipper Patriot"
-msgstr ""
+msgstr "기퍼 애국자"
 
 msgctxt "characters/1196"
 msgid "Scar Collector Slave"
-msgstr ""
+msgstr "스카 콜렉터 노예"
 
 msgctxt "characters/1197"
 msgid "Scar Collector Bomb Thrall"
@@ -4132,39 +4132,39 @@ msgstr "스카 콜렉터 폭탄 노예"
 
 msgctxt "characters/1198"
 msgid "Scar Collector Cyclops"
-msgstr ""
+msgstr "스카 콜렉터 저격수"
 
 msgctxt "characters/1199"
 msgid "Scar Collector Heavy"
-msgstr ""
+msgstr "스카 콜렉터 중화기 사수"
 
 msgctxt "characters/1200"
 msgid "Angie's Marksman"
-msgstr ""
+msgstr "안젤라의 저격병"
 
 msgctxt "characters/1201"
 msgid "Angie's Breacher"
-msgstr ""
+msgstr "안젤라의 강행침입병"
 
 msgctxt "characters/1202"
 msgid "Angie's Heavy Support"
-msgstr ""
+msgstr "안젤라의 중화기병"
 
 msgctxt "characters/1203"
 msgid "Angie's Gunslinger"
-msgstr ""
+msgstr "안젤라의 총잡이"
 
 msgctxt "characters/1204"
 msgid "Angie's Tech Specialist"
-msgstr ""
+msgstr "안젤라의 특기병"
 
 msgctxt "characters/1205"
 msgid "Angie's Rebel"
-msgstr ""
+msgstr "안젤라의 반란군"
 
 msgctxt "characters/1206"
 msgid "Nightclub Pit Boss"
-msgstr ""
+msgstr "나이트클럽 지배인"
 
 msgctxt "characters/1207"
 msgid "Shockdog"
