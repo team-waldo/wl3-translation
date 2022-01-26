@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2022-01-26 12:57+0000\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 msgctxt "interactables/0"
 msgid "The first interactable text."
-msgstr ""
+msgstr "첫 상호작용 텍스트입니다."
 
 msgctxt "interactables/1"
 msgid " Note"
@@ -55,11 +55,11 @@ msgstr " 음식"
 
 msgctxt "interactables/11"
 msgid "  The player doesn't know that this food is poisoned."
-msgstr ""
+msgstr "  플레이어는 이 음식에 독이 들었다는 걸 모릅니다."
 
 msgctxt "interactables/12"
 msgid "  The player knows that this food is poisoned."
-msgstr ""
+msgstr "  플레이어는 이 음식에 독이 들었다는 것을 압니다."
 
 msgctxt "interactables/13"
 msgid ""
@@ -73,7 +73,7 @@ msgstr " 엘리베이터"
 
 msgctxt "interactables/15"
 msgid " Pipes. Good job fixing those, champ!"
-msgstr ""
+msgstr " 파이프다. 고치느라 수고했어, 친구!"
 
 msgctxt "interactables/16"
 msgid ""
@@ -249,7 +249,7 @@ msgstr " 여섯 번째 벽화는 기이한 의구심을 불러일으킨다."
 
 msgctxt "interactables/89"
 msgid "<i> Edit </i>"
-msgstr ""
+msgstr "<i> 편집 </i>"
 
 msgctxt "interactables/90"
 msgid ""
@@ -273,7 +273,7 @@ msgstr " 창문 너머로 작은 공간이 보인다. 제트기가 천장을 뚫
 
 msgctxt "interactables/93"
 msgid " THIS LINE CUT"
-msgstr ""
+msgstr " 이 대사 삭제됨"
 
 msgctxt "interactables/95"
 msgid " The gravestone says \"Loving mother, sacrificial lamb.\""
@@ -309,7 +309,7 @@ msgstr "무기고"
 
 msgctxt "interactables/103"
 msgid " Go ahead, shovel on the puns."
-msgstr ""
+msgstr " 어서 말장난을 퍼 넣으세요."
 
 msgctxt "interactables/104"
 msgid ""
@@ -355,15 +355,15 @@ msgstr " 아래쪽에 얼어 죽은 사람들이 보인다."
 
 msgctxt "interactables/112"
 msgid "INSERT TEXT HERE"
-msgstr ""
+msgstr "여기 텍스트 삽입"
 
 msgctxt "interactables/113"
 msgid "INSERT TEXT HERE "
-msgstr ""
+msgstr "여기 텍스트 삽입 "
 
 msgctxt "interactables/114"
 msgid "INSERT TEXT HERE "
-msgstr ""
+msgstr "여기 텍스트 삽입 "
 
 msgctxt "interactables/115"
 msgid "Here slumbers Brian Fargo"
@@ -463,11 +463,11 @@ msgstr "식료품 & 전술 장비"
 
 msgctxt "interactables/139"
 msgid " (TEMP) Hoon Bedroom Examinable"
-msgstr ""
+msgstr " (임시) 훈 침실 조사 가능"
 
 msgctxt "interactables/140"
 msgid "Examinable object"
-msgstr ""
+msgstr "조사 가능한 물체"
 
 msgctxt "interactables/141"
 msgid "Someone went to a lot of trouble to hide the a bunker in these caves…"
@@ -490,15 +490,15 @@ msgstr "그들은 참을성 있게 기다리지 않았다."
 
 msgctxt "interactables/145"
 msgid " (TEMP) Examinable: OLD CAMP GROUNDS"
-msgstr ""
+msgstr " (임시) 조사 가능: 오래된 야영장"
 
 msgctxt "interactables/146"
 msgid " (TEMP) Examinable: Building"
-msgstr ""
+msgstr " (임시) 조사 가능: 건축물"
 
 msgctxt "interactables/147"
 msgid " (TEMP) Examinable: DAM"
-msgstr ""
+msgstr " (임시) 조사 가능: 댐"
 
 msgctxt "interactables/148"
 msgid " Computer: Write Something"
@@ -506,7 +506,7 @@ msgstr " 컴퓨터: 입력하세요"
 
 msgctxt "interactables/149"
 msgid " Broken Computer is Broken"
-msgstr ""
+msgstr " 고장난 컴퓨터 고장남"
 
 msgctxt "interactables/150"
 msgid " Food Storage Room"
@@ -799,15 +799,15 @@ msgstr "이 트럭에는 시신이 보이지 않지만 차체는 탄흔으로 �
 
 msgctxt "interactables/210"
 msgid "\"The Classic Rest\""
-msgstr ""
+msgstr "\"고전적인 휴양\""
 
 msgctxt "interactables/211"
 msgid "\"The Delicious Rest\""
-msgstr ""
+msgstr "\"진미 가득한 휴양\""
 
 msgctxt "interactables/212"
 msgid "\"The Exciting Rest\""
-msgstr ""
+msgstr "\"쾌감 넘치는 휴양\""
 
 msgctxt "interactables/213"
 msgid ""
@@ -823,7 +823,7 @@ msgstr "온실을 들여다보니 비트, 양배추, 큼직한 점박이 버섯 
 
 msgctxt "interactables/215"
 msgid "<i> Edit </i>"
-msgstr ""
+msgstr "<i> 편집 </i>"
 
 msgctxt "interactables/216"
 msgid ""
@@ -956,7 +956,7 @@ msgstr ""
 
 msgctxt "interactables/235"
 msgid "\"Fluid Change Service\""
-msgstr ""
+msgstr "\"유액 교환 서비스\""
 
 msgctxt "interactables/236"
 msgid "\"The Most Beautiful Dream\""
@@ -1118,7 +1118,7 @@ msgstr "몬스터 아미 시체 몇 구가 모퉁이에 쌓여 있다. 일부는
 
 msgctxt "interactables/267"
 msgid "Maintence Pipe-Clue about robots "
-msgstr ""
+msgstr "관리 파이프-로봇 관련 단서 "
 
 msgctxt "interactables/268"
 msgid "Trail from Prasad's group leading to the pipe"
@@ -1330,7 +1330,7 @@ msgstr "전세계의 모든 주류가 모여 있다! 그러니까... 한 열 두
 
 msgctxt "interactables/312"
 msgid "Bass! How low can you go?"
-msgstr ""
+msgstr "저음역대로! 얼마나 낮은 소리를 낼 수 있을까?"
 
 msgctxt "interactables/313"
 msgid ""
@@ -1371,7 +1371,7 @@ msgstr "가정용품들이다."
 
 msgctxt "interactables/322"
 msgid "Three balls for a quarter. Free play at 99,999 points. No wagering."
-msgstr ""
+msgstr "25센트에 스리볼. 99,999점 달성 시 무료. 내기 금지."
 
 msgctxt "interactables/323"
 msgid "That must have been some haircut."
@@ -1560,7 +1560,7 @@ msgstr "동물의 가죽일까? 아니면..."
 
 msgctxt "interactables/355"
 msgid "A freezer chest and a fuel can. Tools of every psychopath’s trade."
-msgstr ""
+msgstr "상자형 냉동고와 연료통이다. 모든 사이코패스의 수단이지."
 
 msgctxt "interactables/356"
 msgid "A cuddly teddy bear… with a lot of stab wounds."
@@ -1568,7 +1568,7 @@ msgstr "안아주고 싶은 곰인형이다... 칼에 찔린 자국이 무수히
 
 msgctxt "interactables/357"
 msgid "More servers than you can shake a memory stick at."
-msgstr ""
+msgstr "메모리 스틱을 갖다대고 흔들 수 있는 서버가 더 있다."
 
 msgctxt "interactables/358"
 msgid "Even a century ago, these computers were antiques."
@@ -2080,7 +2080,7 @@ msgctxt "interactables/453"
 msgid ""
 "The slaves aren't just burning wood. There's no doubt there's also an eau "
 "d'bison wafting up."
-msgstr ""
+msgstr "노예들은 땔감만 태우는 게 아니다. 들소 오줌 냄새도 퍼지고 있을 것이 틀림없다."
 
 msgctxt "interactables/454"
 msgid "Torch"
@@ -2294,7 +2294,7 @@ msgstr "난민들이 광장에 즉석 캠프를 차려 놓았다. 도시의 온�
 
 msgctxt "interactables/494"
 msgid "Hey, good looking."
-msgstr ""
+msgstr "안녕, 이쁜이."
 
 msgctxt "interactables/495"
 msgid "The Saul Buchanan Colorado Heritage Museum seems closed for business."
