@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-26 12:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1556,11 +1556,11 @@ msgstr "미니건 포탑"
 
 msgctxt "characters/520"
 msgid "Light Cannon Turret"
-msgstr ""
+msgstr "소구경 기관포 포탑"
 
 msgctxt "characters/521"
 msgid "Heavy Cannon Turret"
-msgstr ""
+msgstr "중구경 기관포 포탑"
 
 msgctxt "characters/522"
 msgid "Laser Turret"
@@ -1676,11 +1676,11 @@ msgstr "중기관총 포탑"
 
 msgctxt "characters/554"
 msgid "Light Cannon Turret"
-msgstr ""
+msgstr "소구경 기관포 포탑"
 
 msgctxt "characters/555"
 msgid "Heavy Cannon Turret"
-msgstr ""
+msgstr "중구경 기관포 포탑"
 
 msgctxt "characters/556"
 msgid "Laser Turret"
@@ -1756,7 +1756,7 @@ msgstr "술 마시는 십 대"
 
 msgctxt "characters/574"
 msgid "Dorsey Leadbiter"
-msgstr ""
+msgstr "돌시 리드바이터"
 
 msgctxt "characters/575"
 msgid "Angus Hoon"
@@ -2636,103 +2636,106 @@ msgstr "숫돌"
 
 msgctxt "characters/814"
 msgid "Pvt. Kerr"
-msgstr ""
+msgstr "이등병 컬"
 
 msgctxt "characters/815"
 msgid "Pvt. Kopman"
-msgstr ""
+msgstr "이등병 코프만"
 
 msgctxt "characters/816"
 msgid "Pvt. Moise"
-msgstr ""
+msgstr "이등병 모이스"
 
 msgctxt "characters/817"
 msgid "Pvt. Macchione"
-msgstr ""
+msgstr "이등병 마키오네"
 
+#, fuzzy
 msgctxt "characters/818"
 msgid "Fixling"
-msgstr ""
+msgstr "픽슬링"
 
 msgctxt "characters/819"
 msgid "Pvt. Meyers"
-msgstr ""
+msgstr "이등병 마이어"
 
 msgctxt "characters/820"
 msgid "Pvt. Klein"
-msgstr ""
+msgstr "이등병 클라인"
 
 msgctxt "characters/821"
 msgid "Pvt. Legendre"
-msgstr ""
+msgstr "이등병 르장드르"
 
 msgctxt "characters/822"
 msgid "Pvt. Mendieta"
-msgstr ""
+msgstr "이등병 멘디에타"
 
 msgctxt "characters/823"
 msgid "Bar"
-msgstr ""
+msgstr "바"
 
 msgctxt "characters/824"
 msgid "Pvt. Khaw"
-msgstr ""
+msgstr "이등병 콰"
 
 msgctxt "characters/825"
 msgid "Pvt. Wiedel"
-msgstr ""
+msgstr "이등병 바이델"
 
 msgctxt "characters/826"
 msgid "Pvt. Jenkins"
-msgstr ""
+msgstr "이등병 젠킨스"
 
 msgctxt "characters/827"
 msgid "Pvt. Bednar"
-msgstr ""
+msgstr "이등병 베드너"
 
 msgctxt "characters/828"
 msgid "Pvt. Dean"
-msgstr ""
+msgstr "이등병 딘"
 
 msgctxt "characters/829"
 msgid "Pvt. Davey"
-msgstr ""
+msgstr "이등병 데이비"
 
 msgctxt "characters/830"
 msgid "Pvt. Schwarz"
-msgstr ""
+msgstr "이등병 슈바르츠"
 
 msgctxt "characters/831"
 msgid "Pvt. Duncan"
-msgstr ""
+msgstr "이등병 던컨"
 
 msgctxt "characters/832"
 msgid "Pvt. Bryant"
-msgstr ""
+msgstr "이등병 브라이언트"
 
 msgctxt "characters/833"
 msgid "Pvt. Roberts"
-msgstr ""
+msgstr "이등병 로버츠"
 
 msgctxt "characters/834"
 msgid "Pvt. Winocur"
-msgstr ""
+msgstr "이등병 위노커"
 
 msgctxt "characters/835"
 msgid "Pvt. Deeb"
-msgstr ""
+msgstr "이등병 디브"
 
+#, fuzzy
 msgctxt "characters/836"
 msgid "Pvt. Jertberg"
-msgstr ""
+msgstr "이등병 젤트베르크"
 
+#, fuzzy
 msgctxt "characters/837"
 msgid "Pvt. Hasian"
-msgstr ""
+msgstr "이등병 하시안"
 
 msgctxt "characters/838"
 msgid "Pvt. Sanders"
-msgstr ""
+msgstr "이등병 샌더스"
 
 msgctxt "characters/839"
 msgid "Советский Робот"
@@ -3504,7 +3507,7 @@ msgstr "샷건"
 
 msgctxt "characters/1039"
 msgid "Bulb"
-msgstr ""
+msgstr "벌브"
 
 msgctxt "characters/1040"
 msgid "Brothel Patron"
@@ -4004,27 +4007,30 @@ msgstr "토끼"
 
 msgctxt "characters/1165"
 msgid "Rancher"
-msgstr ""
+msgstr "목장주"
 
 msgctxt "characters/1166"
 msgid "Pvt. Tillett"
-msgstr ""
+msgstr "이등병 틸렛"
 
 msgctxt "characters/1167"
 msgid "SAL's Terminal"
 msgstr "SAL의 단말기"
 
+#, fuzzy
 msgctxt "characters/1169"
 msgid "Stitches"
-msgstr ""
+msgstr "스티치스"
 
+#, fuzzy
 msgctxt "characters/1170"
 msgid "Commune Archeologist"
-msgstr ""
+msgstr "코뮌 고고학자"
 
+#, fuzzy
 msgctxt "characters/1171"
 msgid "Commune Philosopher"
-msgstr ""
+msgstr "코뮌 철학자"
 
 msgctxt "characters/1172"
 msgid "Party Pal"
@@ -4032,15 +4038,15 @@ msgstr "파티 친구"
 
 msgctxt "characters/1173"
 msgid "Dorsey War-bot"
-msgstr ""
+msgstr "돌시 워-봇"
 
 msgctxt "characters/1174"
 msgid "<i></i><i></i> visPacem 64 <i></i><i></i>"
-msgstr ""
+msgstr "<i></i><i></i> 위스바켐 64 <i></i><i></i>"
 
 msgctxt "characters/1175"
 msgid "Goat"
-msgstr ""
+msgstr "염소"
 
 msgctxt "characters/1176"
 msgid "Woman in White"
@@ -4166,33 +4172,35 @@ msgctxt "characters/1206"
 msgid "Nightclub Pit Boss"
 msgstr "나이트클럽 지배인"
 
+#, fuzzy
 msgctxt "characters/1207"
 msgid "Shockdog"
-msgstr ""
+msgstr "쇼크도그"
 
 msgctxt "characters/1208"
 msgid "Drilldog"
-msgstr ""
+msgstr "드릴도그"
 
 msgctxt "characters/1209"
 msgid "Liberty's War-bot"
-msgstr ""
+msgstr "리버티의 워-봇"
 
 msgctxt "characters/1210"
 msgid "War-bot"
-msgstr ""
+msgstr "워-봇"
 
 msgctxt "characters/1211"
 msgid "Glow Hopper"
-msgstr ""
+msgstr "글로우 호퍼"
 
 msgctxt "characters/1212"
 msgid "Spiny Hopper"
-msgstr ""
+msgstr "스파이니 호퍼"
 
+#, fuzzy
 msgctxt "characters/1213"
 msgid "Monster Army Boomer"
-msgstr ""
+msgstr "몬스터 아미 폭탄마"
 
 msgctxt "characters/1214"
 msgid "Smuggler Cutter "
