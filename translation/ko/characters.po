@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-27 16:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"Last-Translator: Mook <studiochanbi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3043,67 +3043,67 @@ msgstr "레인저 이등병"
 
 msgctxt "characters/921"
 msgid "Pvt. Choi"
-msgstr "훈련병 최"
+msgstr "이등병 최"
 
 msgctxt "characters/922"
 msgid "Pvt. Hourcade"
-msgstr "훈련병 아워케이드"
+msgstr "이등병 아워케이드"
 
 msgctxt "characters/923"
 msgid "Pvt. Kim"
-msgstr "훈련병 김"
+msgstr "이등병 김"
 
 msgctxt "characters/925"
 msgid "Pvt. Pellegrin"
-msgstr "훈련병 펠레그린"
+msgstr "이등병 펠레그린"
 
 msgctxt "characters/926"
 msgid "Pvt. Hartline"
-msgstr "훈련병 하트라인"
+msgstr "이등병 하트라인"
 
 msgctxt "characters/927"
 msgid "Pvt. Weits"
-msgstr "훈련병 웨이츠"
+msgstr "이등병 웨이츠"
 
 msgctxt "characters/928"
 msgid "Pvt. Kotter"
-msgstr "훈련병 코터"
+msgstr "이등병 코터"
 
 msgctxt "characters/929"
 msgid "Pvt. Birk"
-msgstr "훈련병 버크"
+msgstr "이등병 버크"
 
 msgctxt "characters/930"
 msgid "Pvt. Plumlee"
-msgstr "훈련병 플룸리"
+msgstr "이등병 플룸리"
 
 msgctxt "characters/931"
 msgid "Pvt. Latosinski"
-msgstr "훈련병 라토신스키"
+msgstr "이등병 라토신스키"
 
 msgctxt "characters/932"
 msgid "Pvt. Rynkiewicz"
-msgstr "훈련병 린키에비치"
+msgstr "이등병 린키에비치"
 
 msgctxt "characters/933"
 msgid "Pvt. Adamovic"
-msgstr "훈련병 아다모비치"
+msgstr "이등병 아다모비치"
 
 msgctxt "characters/934"
 msgid "Pvt. Barkley"
-msgstr "훈련병 바클리"
+msgstr "이등병 바클리"
 
 msgctxt "characters/936"
 msgid "Pvt. Trinh"
-msgstr "훈련병 트린"
+msgstr "이등병 트린"
 
 msgctxt "characters/937"
 msgid "Pvt. Entwisle"
-msgstr "훈련병 엔트위슬"
+msgstr "이등병 엔트위슬"
 
 msgctxt "characters/938"
 msgid "Pvt. Rogers"
-msgstr "훈련병 로저스"
+msgstr "이등병 로저스"
 
 msgctxt "characters/939"
 msgid "The Great Gurn"
@@ -3955,15 +3955,15 @@ msgstr ""
 
 msgctxt "characters/1152"
 msgid "Krampus"
-msgstr ""
+msgstr "크램퍼스"
 
 msgctxt "characters/1153"
 msgid "Frau Perchta"
-msgstr ""
+msgstr "페르치타 여사"
 
 msgctxt "characters/1154"
 msgid "Belsnickel"
-msgstr ""
+msgstr "벨스니켈"
 
 msgctxt "characters/1155"
 msgid "Remote User"
@@ -3971,15 +3971,15 @@ msgstr "원격 사용자"
 
 msgctxt "characters/1156"
 msgid "Pvt. Kim"
-msgstr "훈련병 김"
+msgstr "이등병 김"
 
 msgctxt "characters/1157"
 msgid "Pvt. Kim"
-msgstr "훈련병 김"
+msgstr "이등병 김"
 
 msgctxt "characters/1158"
 msgid "Pvt. Krueger"
-msgstr "훈련병 크루거"
+msgstr "이등병 크루거"
 
 msgctxt "characters/1159"
 msgid "Santa"
@@ -4211,27 +4211,27 @@ msgstr ""
 
 msgctxt "characters/1216"
 msgid "Slaver Enforcer"
-msgstr ""
+msgstr "노예상 집행자"
 
 msgctxt "characters/1217"
 msgid "Slaver Trapper"
-msgstr ""
+msgstr "노예상 사냥꾼"
 
 msgctxt "characters/1218"
 msgid "Mercenary Commando"
-msgstr ""
+msgstr "용병 특공대원"
 
 msgctxt "characters/1219"
 msgid "Mercenary Gunslinger"
-msgstr ""
+msgstr "용병 총잡이"
 
 msgctxt "characters/1220"
 msgid "Mercenary Soldier"
-msgstr ""
+msgstr "용병"
 
 msgctxt "characters/1221"
 msgid "Wessons' Servitor Bot"
-msgstr ""
+msgstr "웨슨가의 시종 로봇"
 
 msgctxt "characters/1222"
 msgid "DEBUG OEI Functions"
@@ -4239,7 +4239,7 @@ msgstr "DEBUG OEI Functions"
 
 msgctxt "characters/1223"
 msgid "Marshal Enforcer"
-msgstr ""
+msgstr "마샬 집행관"
 
 msgctxt "characters/1224"
 msgid "Mysterious Case"
@@ -4259,43 +4259,43 @@ msgstr "부바르틀"
 
 msgctxt "characters/1228"
 msgid "Armored Marshal Enforcer"
-msgstr ""
+msgstr "마샬 기갑 집행관"
 
 msgctxt "characters/1229"
 msgid "Armored Marshal Defender"
-msgstr ""
+msgstr "마샬 기갑 수비대"
 
 msgctxt "characters/1230"
 msgid "Ranger Infantry"
-msgstr ""
+msgstr "레인저 보병"
 
 msgctxt "characters/1231"
 msgid "Ranger Tech"
-msgstr ""
+msgstr "레인저 기술병"
 
 msgctxt "characters/1232"
 msgid "Ranger Medic"
-msgstr ""
+msgstr "레인저 의무병"
 
 msgctxt "characters/1233"
 msgid "Ranger Heavy"
-msgstr ""
+msgstr "레인저 중화기병"
 
 msgctxt "characters/1234"
 msgid "Ranger Sweeper"
-msgstr ""
+msgstr "레인저 수비대원"
 
 msgctxt "characters/1235"
 msgid "Ranger Gunner"
-msgstr ""
+msgstr "레인저 소총수"
 
 msgctxt "characters/1236"
 msgid "Ranger Sniper"
-msgstr ""
+msgstr "레인저 저격수"
 
 msgctxt "characters/1237"
 msgid "Melissa Howe"
-msgstr ""
+msgstr "멜리사 하우"
 
 msgctxt "characters/1238"
 msgid "Disappeared Daughter"
@@ -4307,7 +4307,7 @@ msgstr "실종된 여동생"
 
 msgctxt "characters/1240"
 msgid "Liberty Buchanan's desk"
-msgstr ""
+msgstr "리버티 뷰캐넌의 책상"
 
 msgctxt "characters/1241"
 msgid "Adult Waste Worm"
@@ -4679,7 +4679,7 @@ msgstr "라디오"
 
 msgctxt "characters/1335"
 msgid "Greet-O"
-msgstr ""
+msgstr "환영봇"
 
 msgctxt "characters/1336"
 msgid "Kathmandu"
