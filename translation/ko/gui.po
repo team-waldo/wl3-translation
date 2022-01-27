@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-27 16:57+0000\n"
-"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
+"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1807,7 +1807,7 @@ msgstr ""
 
 msgctxt "gui/447"
 msgid "Revive"
-msgstr ""
+msgstr "소생"
 
 msgctxt "gui/448"
 msgid "Remove From Squad"
@@ -1835,11 +1835,11 @@ msgstr "유럽인"
 
 msgctxt "gui/454"
 msgid "The other player is currently busy."
-msgstr ""
+msgstr "대상 플레이어가 현재 다른 일을 하고 있습니다."
 
 msgctxt "gui/455"
 msgid "Something went wrong and the trade failed."
-msgstr ""
+msgstr "오류가 발생하여 거래에 실패했습니다."
 
 msgctxt "gui/456"
 msgid "Trade Complete"
@@ -1856,17 +1856,19 @@ msgstr "마지막 델루지의 교회"
 
 msgctxt "gui/459"
 msgid "Pacific Islander"
-msgstr ""
+msgstr "태평양 섬사람"
 
 msgctxt "gui/460"
 msgid ""
 "[PH] Ranger Team November is no more, and without any backup from Colorado, "
 "the Desert Rangers soon follow. YA DONE GOOFED, KID."
 msgstr ""
+"[PH] 노벰버 레인저 분대는 사라졌고, 콜로라도에서 어떤 지원도 받을 수 없게 되었으니 데저트 레인저도 곧 그 뒤를 따라갈 것이다. "
+"일을 다 망쳤구나, 꼬마야."
 
 msgctxt "gui/461"
 msgid "Camera Follow Mode"
-msgstr ""
+msgstr "카메라 추적 모드"
 
 msgctxt "gui/462"
 msgid "Always"
@@ -1886,7 +1888,7 @@ msgstr "비활성화"
 
 msgctxt "gui/466"
 msgid "Level {0}"
-msgstr ""
+msgstr "{0}레벨"
 
 msgctxt "gui/467"
 msgid ""
@@ -1904,7 +1906,7 @@ msgstr "대비"
 
 msgctxt "gui/470"
 msgid "Saturation"
-msgstr ""
+msgstr "포화도"
 
 msgctxt "gui/471"
 msgid "Reset Preferences"
@@ -1916,11 +1918,11 @@ msgstr "정말 설정값들을 초기화 하고 기본 값으로 되돌리시겠
 
 msgctxt "gui/473"
 msgid "Flow engaged "
-msgstr ""
+msgstr "공급 개시 "
 
 msgctxt "gui/474"
 msgid "Flow cut "
-msgstr ""
+msgstr "공급 중단 "
 
 msgctxt "gui/475"
 msgid "Select Difficulty"
@@ -1941,6 +1943,8 @@ msgid ""
 "For new and returning players who want to experience the wastes as intended, "
 "a harsh but fair apocalypse. "
 msgstr ""
+"본래 의도된 대로 황무지를 경험하고 싶은 초심자와 복귀 플레이어를 위한 난이도입니다. 혹독하지만 누구에게나 공정한 대재앙을 겪을 수 "
+"있습니다. "
 
 msgctxt "gui/479"
 msgid ""
@@ -1952,11 +1956,11 @@ msgctxt "gui/480"
 msgid ""
 "For the hardest of the hard, a soul-killing nightmare of brutality. Not even "
 "remotely fair. "
-msgstr ""
+msgstr "가장 험난하고 어려운, 영혼의 기를 꺾는 잔혹한 악몽입니다. 털끝만큼도 당신에게 공정하지 않습니다. "
 
 msgctxt "gui/481"
 msgid "Your life has ended in The Wasteland."
-msgstr ""
+msgstr "당신의 삶은 황무지에서 끝을 맞았습니다."
 
 msgctxt "gui/482"
 msgid ""
@@ -1969,18 +1973,17 @@ msgctxt "gui/483"
 msgid "No Target Selected"
 msgstr "대상이 선택되지 않음"
 
-#, fuzzy
 msgctxt "gui/484"
 msgid "{0}"
 msgstr "{0}"
 
 msgctxt "gui/485"
 msgid "x{0}"
-msgstr ""
+msgstr "x{0}"
 
 msgctxt "gui/486"
 msgid "Benefits"
-msgstr ""
+msgstr "이로운 효과"
 
 msgctxt "gui/487"
 msgid "Show Stats"
@@ -1996,31 +1999,31 @@ msgstr "능력 해제됨"
 
 msgctxt "gui/490"
 msgid "Level {0}: {1}"
-msgstr ""
+msgstr "{0}레벨: {1}"
 
 msgctxt "gui/491"
 msgid "Normal"
-msgstr ""
+msgstr "일반"
 
 msgctxt "gui/492"
 msgid "Very Small"
-msgstr ""
+msgstr "아주 작음"
 
 msgctxt "gui/493"
 msgid "Small"
-msgstr ""
+msgstr "작음"
 
 msgctxt "gui/494"
 msgid "Large"
-msgstr ""
+msgstr "큼"
 
 msgctxt "gui/495"
 msgid "Very Large"
-msgstr ""
+msgstr "아주 큼"
 
 msgctxt "gui/496"
 msgid "Huge"
-msgstr ""
+msgstr "거대함"
 
 msgctxt "gui/497"
 msgid "Manage Squad"
@@ -2038,14 +2041,13 @@ msgctxt "gui/500"
 msgid "Starting Characters"
 msgstr "시작 캐릭터"
 
-#, fuzzy
 msgctxt "gui/501"
 msgid "Do you want to start with premade characters, or create your own?"
-msgstr "존재하는 캐릭터로 시작 하겠습니까, 아니면 자신만의 캐릭터를 만들겠습니까?"
+msgstr "미리 만들어진 캐릭터로 시작하겠습니까, 아니면 자신만의 캐릭터를 만들겠습니까?"
 
 msgctxt "gui/502"
 msgid "Premade Characters"
-msgstr ""
+msgstr "기존 캐릭터"
 
 msgctxt "gui/503"
 msgid "Custom Characters"
@@ -2053,7 +2055,7 @@ msgstr "사용자 지정 캐릭터"
 
 msgctxt "gui/504"
 msgid "Move Squad Member"
-msgstr ""
+msgstr "분대원 이동"
 
 msgctxt "gui/505"
 msgid "Junk"
@@ -2065,11 +2067,11 @@ msgstr "딩동!"
 
 msgctxt "gui/507"
 msgid "Taoist"
-msgstr ""
+msgstr "도교 신자"
 
 msgctxt "gui/508"
 msgid "Jain"
-msgstr ""
+msgstr "자이나교도"
 
 #, fuzzy
 msgctxt "gui/509"
@@ -2086,7 +2088,7 @@ msgstr "범례"
 
 msgctxt "gui/512"
 msgid "Squad Member"
-msgstr ""
+msgstr "분대원"
 
 msgctxt "gui/513"
 msgid "Friendly NPC"
@@ -2102,7 +2104,7 @@ msgstr "상인"
 
 msgctxt "gui/516"
 msgid "Point of Interest"
-msgstr ""
+msgstr "관심 지점"
 
 msgctxt "gui/517"
 msgid "Level Exit"
@@ -2115,11 +2117,11 @@ msgstr "코디악"
 
 msgctxt "gui/519"
 msgid "Waypoint"
-msgstr ""
+msgstr "이동 지점"
 
 msgctxt "gui/520"
 msgid "Travel to Waypoint"
-msgstr ""
+msgstr "해당 지점으로 이동"
 
 msgctxt "gui/521"
 msgid "Summon Vehicle"
@@ -2127,7 +2129,7 @@ msgstr "차량 소환"
 
 msgctxt "gui/522"
 msgid "Are you sure you wish to travel to this waypoint in your vehicle?"
-msgstr ""
+msgstr "차량을 타고 이 지점으로 이동하겠습니까?"
 
 msgctxt "gui/523"
 msgid "Feature Unavailable"
@@ -2137,7 +2139,7 @@ msgctxt "gui/524"
 msgid ""
 "This feature is not currently supported for client players. Ask your host "
 "player to do this instead."
-msgstr ""
+msgstr "이 기능은 현재 클라이언트 플레이어를 지원하지 않습니다. 호스트 플레이어에게 요청하세요."
 
 msgctxt "gui/525"
 msgid "Random Name"
@@ -2165,15 +2167,15 @@ msgstr ""
 
 msgctxt "gui/531"
 msgid "Ranger Status"
-msgstr ""
+msgstr "레인저 상태"
 
 msgctxt "gui/532"
 msgid "Receiving"
-msgstr ""
+msgstr "수신 중"
 
 msgctxt "gui/533"
 msgid "Call"
-msgstr ""
+msgstr "호출하기"
 
 msgctxt "gui/534"
 msgid "Auto Switch Character"
@@ -2189,7 +2191,7 @@ msgstr "자동 턴 종료"
 
 msgctxt "gui/537"
 msgid "Movement Mode"
-msgstr ""
+msgstr "이동 모드"
 
 msgctxt "gui/538"
 msgid "Friendly Fire"
@@ -2197,7 +2199,7 @@ msgstr "아군 사격"
 
 msgctxt "gui/539"
 msgid "Hobo"
-msgstr ""
+msgstr "부랑자"
 
 msgctxt "gui/540"
 msgid "Starting Your Turn"
@@ -2221,7 +2223,7 @@ msgstr "연구자"
 
 msgctxt "gui/546"
 msgid "Self"
-msgstr ""
+msgstr "자신"
 
 #, fuzzy
 msgctxt "gui/547"
@@ -2234,15 +2236,15 @@ msgstr "노예 우리"
 
 msgctxt "gui/549"
 msgid "Savage Council Gate"
-msgstr ""
+msgstr "야만인 의회 관문"
 
 msgctxt "gui/550"
 msgid "Mesa Ascent"
-msgstr ""
+msgstr "메사 상승"
 
 msgctxt "gui/551"
 msgid "Murderdome"
-msgstr ""
+msgstr "머더돔"
 
 msgctxt "gui/552"
 msgid "Customize Vehicle"
@@ -2258,11 +2260,11 @@ msgstr "장갑"
 
 msgctxt "gui/555"
 msgid "Hood Ornament"
-msgstr ""
+msgstr "덮개 장식물"
 
 msgctxt "gui/556"
 msgid "Treads"
-msgstr ""
+msgstr "접지면"
 
 msgctxt "gui/557"
 msgid "Horn"
@@ -2270,7 +2272,7 @@ msgstr "경적"
 
 msgctxt "gui/558"
 msgid "Utility"
-msgstr ""
+msgstr "다목적"
 
 msgctxt "gui/559"
 msgid "Vehicle Color"
@@ -2278,11 +2280,11 @@ msgstr "차량 색"
 
 msgctxt "gui/560"
 msgid "Paths to Windfarm and Mine"
-msgstr ""
+msgstr "풍력 발전 단지와 광산으로 향하는 길"
 
 msgctxt "gui/561"
 msgid "Paint Job"
-msgstr ""
+msgstr "페인트칠"
 
 msgctxt "gui/562"
 msgid "Simultaneous Enemy Movement"
@@ -2290,7 +2292,7 @@ msgstr "적군 행동 동시 진행"
 
 msgctxt "gui/563"
 msgid "Simultaneous Enemy Movement Rank"
-msgstr ""
+msgstr "적 동시 이동 등급"
 
 msgctxt "gui/564"
 msgid "Civilian"
@@ -2298,19 +2300,19 @@ msgstr "민간인"
 
 msgctxt "gui/565"
 msgid "Cannon Fodder"
-msgstr ""
+msgstr "총알받이"
 
 msgctxt "gui/566"
 msgid "Normal"
-msgstr ""
+msgstr "일반"
 
 msgctxt "gui/567"
 msgid "Mini-Boss"
-msgstr ""
+msgstr "미니보스"
 
 msgctxt "gui/568"
 msgid "Boss"
-msgstr ""
+msgstr "보스"
 
 msgctxt "gui/569"
 msgid "Vehicle"
@@ -2335,7 +2337,7 @@ msgstr "기퍼 입구"
 
 msgctxt "gui/575"
 msgid "Hard-Head Gate"
-msgstr ""
+msgstr "하드헤드 관문"
 
 #, fuzzy
 msgctxt "gui/576"
@@ -2344,11 +2346,11 @@ msgstr "유니온 정거장"
 
 msgctxt "gui/577"
 msgid "Machine Commune"
-msgstr ""
+msgstr "머신 코뮌"
 
 msgctxt "gui/579"
 msgid "Fork in road "
-msgstr ""
+msgstr "길가의 쇠스랑 "
 
 msgctxt "gui/580"
 msgid "Perk Points Remaining:"
@@ -2377,7 +2379,7 @@ msgstr "- {0}"
 
 msgctxt "gui/586"
 msgid "Travel"
-msgstr ""
+msgstr "이동하기"
 
 msgctxt "gui/587"
 msgid "The other player has control of the vehicle."
@@ -2397,7 +2399,7 @@ msgstr "게임 세션 생성 실패."
 
 msgctxt "gui/591"
 msgid "Please reconnect the DUALSHOCK®4 wireless controller for user {0}"
-msgstr ""
+msgstr "사용자 {0}의 DUALSHOCK®4 무선 컨트롤러를 다시 연결해 주십시오."
 
 msgctxt "gui/592"
 msgid "Giving default equipment to this character..."
@@ -2405,11 +2407,11 @@ msgstr "해당 캐릭터에게 기본 장비를 지급하고 있습니다..."
 
 msgctxt "gui/593"
 msgid "This character already has an animal follower."
-msgstr ""
+msgstr "이 동료는 이미 동물 추종자를 거느리고 있습니다."
 
 msgctxt "gui/594"
 msgid "Strike"
-msgstr ""
+msgstr "정밀 타격"
 
 msgctxt "gui/595"
 msgid "Anti-Aliasing"
