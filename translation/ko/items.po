@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-27 16:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"Last-Translator: Concubine <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -694,10 +694,9 @@ msgctxt "items/173"
 msgid "Black Lung Sample"
 msgstr "새카만 폐의 샘플"
 
-#, fuzzy
 msgctxt "items/174"
 msgid "Black Lung Cure"
-msgstr "새카만 폐 치료제"
+msgstr "진폐증 치료제"
 
 msgctxt "items/175"
 msgid "Medical Supply 2"
@@ -2112,10 +2111,9 @@ msgid ""
 "A military-grade shotgun that's popular with mercenary crews and warbands."
 msgstr "용병이나 전쟁광 사이에서 인기가 좋은 군용 등급 산탄총입니다."
 
-#, fuzzy
 msgctxt "items/500"
 msgid "Junk Pumper"
-msgstr "정크 펌퍼"
+msgstr "쓰레기 발사기"
 
 msgctxt "items/501"
 msgid "The offspring of a heap of scrap and a hateful heart."
@@ -8665,7 +8663,7 @@ msgstr ""
 
 msgctxt "items/1989"
 msgid "The note reads, 'We're the punchline to every joke'."
-msgstr ""
+msgstr "\"우린 모든 농담의 펀치라인이다\"라고 적혀있다."
 
 msgctxt "items/1990"
 msgid "Limerick Note Pt. 2"
@@ -8732,12 +8730,11 @@ msgctxt "items/2004"
 msgid "Machine Turret"
 msgstr "기관총 포탑"
 
-#, fuzzy
 msgctxt "items/2005"
 msgid ""
 "Small and compact in carrying mode. A fast-release lever transforms this "
 "unit into a full bullet-spraying menace in a single second."
-msgstr "휴대 모드에서는 작고 컴팩트합니다. 신속 전개 레버를 통해 1초만에 완전한 총알 분무 위협로 변형됩니다."
+msgstr "휴대 모드에서는 작고 컴팩트합니다. 신속 전개 레버를 당기면 1초만에 총알을 분사하는 위협으로 변형됩니다."
 
 msgctxt "items/2006"
 msgid "Alfredo Garcia's Head"
@@ -8791,6 +8788,8 @@ msgid ""
 "the first of three special locations within this park. Today is Sunday. I am "
 "counting the days until we are together again.”"
 msgstr ""
+"\"친애하는 당신에게, 우리의 유대를 시험하기 위한 퍼즐을 남겨둡니다. 이 공원의 특별한 장소 셋 중 첫번째입니다. 오늘은 일요일입니다. "
+"우리가 다시 함께할 날을 고대하고 있습니다.\""
 
 msgctxt "items/2018"
 msgid "Pelt of Proposal"
@@ -8906,7 +8905,7 @@ msgstr "\"34-24-34.\"라고 갈겨써져 있습니다."
 
 msgctxt "items/2040"
 msgid "Mountain Man"
-msgstr ""
+msgstr "산의 남자"
 
 msgctxt "items/2041"
 msgid "Welcome Lodge Key"
@@ -8942,7 +8941,7 @@ msgstr "11월 14일의 쪽지"
 
 msgctxt "items/2048"
 msgid "\"Think about it.\" - Doug"
-msgstr ""
+msgstr "\"생각해봐.\" -더그"
 
 msgctxt "items/2049"
 msgid "Note from November 13th"
@@ -9014,7 +9013,7 @@ msgstr "칩스 아호이?"
 
 msgctxt "items/2064"
 msgid "It's about to get <i>chunky</i>..."
-msgstr ""
+msgstr "<i>두툼</i>해지겠군요..."
 
 msgctxt "items/2065"
 msgid "Blood Sausage"
@@ -9093,7 +9092,7 @@ msgctxt "items/2082"
 msgid ""
 "This device contains enough healing gas for several pulses. The bio-"
 "accelerant will quickly get any nearby allies back on their feet."
-msgstr ""
+msgstr "이 장치는 회복 가스를 수 차례 분출합니다. 생명촉진제가 신속하게 아군을 회복할 것입니다."
 
 msgctxt "items/2083"
 msgid ""
@@ -9219,7 +9218,7 @@ msgstr "보기에는 상냥하고 소심한 친구인 것 같지만, 카렌의 �
 
 msgctxt "items/2111"
 msgid "Dumpster diver? Wear it proud."
-msgstr ""
+msgstr "쓰레기통을 뒤지는 분인가요? 자랑스럽게 입도록 하세요."
 
 msgctxt "items/2112"
 msgid "The jacket smells like fish, and the pants smell like burnt fish."
