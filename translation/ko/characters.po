@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-27 16:57+0000\n"
-"Last-Translator: Mook <studiochanbi@gmail.com>\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3949,9 +3949,10 @@ msgctxt "characters/1150"
 msgid "StarStationWars.exe"
 msgstr "스타스테이션워즈.exe"
 
+#, fuzzy
 msgctxt "characters/1151"
 msgid "Dying Man"
-msgstr ""
+msgstr "죽어가는 남자"
 
 msgctxt "characters/1152"
 msgid "Krampus"
@@ -4052,13 +4053,15 @@ msgctxt "characters/1176"
 msgid "Woman in White"
 msgstr "흰옷의 여인"
 
+#, fuzzy
 msgctxt "characters/1177"
 msgid "Bellameow"
-msgstr ""
+msgstr "벨라뮤"
 
+#, fuzzy
 msgctxt "characters/1178"
 msgid "Vigilant Guard"
-msgstr ""
+msgstr "경계하는 경비원"
 
 msgctxt "characters/1179"
 msgid "Tom Redd"
@@ -4078,19 +4081,20 @@ msgstr "단말기 경비"
 
 msgctxt "characters/1183"
 msgid "Subsystem I"
-msgstr ""
+msgstr "서브시스템 I"
 
 msgctxt "characters/1184"
 msgid "Subsystem II"
-msgstr ""
+msgstr "서브시스템 II"
 
 msgctxt "characters/1185"
 msgid "Subsystem III"
-msgstr ""
+msgstr "서브시스템 III"
 
+#, fuzzy
 msgctxt "characters/1186"
 msgid "SYSTEMS CRITICAL"
-msgstr ""
+msgstr "치명적 시스템 오류"
 
 msgctxt "characters/1187"
 msgid "Vivesecto, RN"
@@ -4201,13 +4205,15 @@ msgctxt "characters/1213"
 msgid "Monster Army Boomer"
 msgstr "몬스터 아미 폭탄마"
 
+#, fuzzy
 msgctxt "characters/1214"
 msgid "Smuggler Cutter "
-msgstr ""
+msgstr "밀수업자 절단자 "
 
+#, fuzzy
 msgctxt "characters/1215"
 msgid "Smuggler Devastator "
-msgstr ""
+msgstr "밀수업자 파괴단원 "
 
 msgctxt "characters/1216"
 msgid "Slaver Enforcer"
@@ -4243,11 +4249,11 @@ msgstr "마샬 집행관"
 
 msgctxt "characters/1224"
 msgid "Mysterious Case"
-msgstr ""
+msgstr "의심쩍은 가방"
 
 msgctxt "characters/1225"
 msgid "Rusted Slicer Dicer"
-msgstr ""
+msgstr "녹슨 슬라이서 다이서"
 
 msgctxt "characters/1226"
 msgid "Parkelj"
@@ -4311,15 +4317,16 @@ msgstr "리버티 뷰캐넌의 책상"
 
 msgctxt "characters/1241"
 msgid "Adult Waste Worm"
-msgstr ""
+msgstr "웨이스트 웜 성체"
 
 msgctxt "characters/1242"
 msgid "Waste Worm Queen"
-msgstr ""
+msgstr "여왕 웨이스트 웜"
 
+#, fuzzy
 msgctxt "characters/1243"
 msgid "Waste Worm Colony Lord"
-msgstr ""
+msgstr "웨이스트 웜 둥지어미"
 
 msgctxt "characters/1244"
 msgid "Sawpup"
@@ -4515,7 +4522,7 @@ msgstr "코뮌 경기관총 포탑"
 
 msgctxt "characters/1292"
 msgid "Commune Light Cannon Turret"
-msgstr ""
+msgstr "코뮌 소구경 기관포 포탑"
 
 msgctxt "characters/1293"
 msgid "Commune Heavy Machine Turret"
@@ -4611,15 +4618,17 @@ msgstr "용병 \"미니\" 총잡이"
 
 msgctxt "characters/1317"
 msgid "Commune Heavy Cannon Turret"
-msgstr ""
+msgstr "코뮌 중구경 기관포 포탑"
 
+#, fuzzy
 msgctxt "characters/1319"
 msgid "Pvt. Fagan"
-msgstr ""
+msgstr "이등병 페이건"
 
+#, fuzzy
 msgctxt "characters/1320"
 msgid "Pvt. O'Neill"
-msgstr ""
+msgstr "이등병 오닐"
 
 msgctxt "characters/1321"
 msgid "Mysterious Wreck"
