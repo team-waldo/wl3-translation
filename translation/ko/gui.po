@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-26 12:57+0000\n"
+"PO-Revision-Date: 2022-01-27 16:57+0000\n"
 "Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -108,7 +108,7 @@ msgstr "게임 오버"
 
 msgctxt "gui/23"
 msgid "[NO NAME]"
-msgstr ""
+msgstr "[NO NAME]"
 
 msgctxt "gui/24"
 msgid "Armor: {0}"
@@ -466,7 +466,7 @@ msgstr "이 문양이 화면 모서리에 표시될 경우 PlayStation®4를 종
 
 msgctxt "gui/111"
 msgid "Please sign in to the PlayStation™Network."
-msgstr ""
+msgstr "플레이스테이션™ 네트워크에 가입해 주십시오."
 
 msgctxt "gui/112"
 msgid ""
