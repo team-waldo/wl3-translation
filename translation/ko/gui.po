@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-27 16:57+0000\n"
-"Last-Translator: roc <woah1606@naver.com>\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -978,21 +978,23 @@ msgctxt "gui/235"
 msgid "{0} lost {1}."
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/236"
 msgid "{0} gained {1} XP."
-msgstr ""
+msgstr "대원 {0}의 경험치가 {1} 상승했습니다."
 
 msgctxt "gui/237"
 msgid "[{0}]: {1}"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/238"
 msgid "{0} has reached level {1}!"
-msgstr ""
+msgstr "대원 {0}의 레벨이 {1}으로 상승했습니다!"
 
 msgctxt "gui/239"
 msgid "{0} XP"
-msgstr ""
+msgstr "{0} XP"
 
 msgctxt "gui/240"
 msgid "Level Up!"
@@ -10743,13 +10745,15 @@ msgctxt "gui/2630"
 msgid "{0} Recipe"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/2631"
 msgid "New Content Available"
-msgstr ""
+msgstr "새로운 컨텐츠 확인됨"
 
+#, fuzzy
 msgctxt "gui/2632"
 msgid "Crafting Recipes Unlocked"
-msgstr ""
+msgstr "새로운 제작법 해금됨"
 
 msgctxt "gui/2634"
 msgid "Mystery Item"
@@ -10769,11 +10773,12 @@ msgstr "콜로라도 생존 장비"
 
 msgctxt "gui/2638"
 msgid "The Battle of Steeltown"
-msgstr ""
+msgstr "스틸타운에서의 전투"
 
+#, fuzzy
 msgctxt "gui/2639"
 msgid "Cult of the Holy Detonation"
-msgstr ""
+msgstr "성스러운 폭발의 의식"
 
 msgctxt "gui/2643"
 msgid "Stay"
@@ -10861,12 +10866,15 @@ msgctxt "gui/2670"
 msgid "Item Lost"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/2671"
 msgid ""
 "You're about to return to the World Map. All Downloadable Content takes "
 "place before the events of the End Game. Do you wish to make changes to your "
 "squad before leaving for the World Map?"
 msgstr ""
+"세계 지도로 돌아가기를 선택했습니다. 모든 DLC는 게임을 종료하기 전에 다운로드됩니다. 세계 지도로 이동하기 전 분대의 변경 사항을 "
+"저장하시겠습니까?"
 
 msgctxt "gui/2672"
 msgid "Lobby Error"
@@ -10904,7 +10912,7 @@ msgstr "메인 메뉴로 돌아가기."
 
 msgctxt "gui/2679"
 msgid "The last living character can't be removed from the squad."
-msgstr ""
+msgstr "분대에 캐릭터가 최소한 한 명은 존재해야 합니다."
 
 msgctxt "gui/2680"
 msgid "Empty Space"
