@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-29 12:57+0000\n"
-"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
+"Last-Translator: Concubine <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -555,7 +555,7 @@ msgstr "난이도 <color=#B2B4B7>{0}</color>이하의 토스터 수리 가능"
 
 msgctxt "derivedstats/123"
 msgid "Install Weapon Mods (Difficulty <color=#B2B4B7>{0}</color> or less)"
-msgstr ""
+msgstr "난이도 <color=#B2B4B7>{0}</color>이하의 무기 부착물 설치 가능"
 
 msgctxt "derivedstats/124"
 msgid "Use Items Requiring <color=#B2B4B7>{0}</color> Weird Science"
@@ -575,7 +575,7 @@ msgstr "아첨꾼 난이도 <color=#B2B4B7>{0}</color> 이하의 기술 체크 �
 
 msgctxt "derivedstats/127"
 msgid "Install Armor Mods (Difficulty <color=#B2B4B7>{0}</color> or less)"
-msgstr ""
+msgstr "난이도 <color=#B2B4B7>{0}</color>이하의 방어구 부착물 설치 가능"
 
 msgctxt "derivedstats/128"
 msgid ""
