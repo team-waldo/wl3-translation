@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-29 12:57+0000\n"
-"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,6 @@ msgctxt "gui/10"
 msgid "{0}%"
 msgstr "{0}%"
 
-#, fuzzy
 msgctxt "gui/11"
 msgid "${0}"
 msgstr "${0}"
@@ -294,10 +293,9 @@ msgctxt "gui/69"
 msgid "Save and Close"
 msgstr "저장 후 닫기"
 
-#, fuzzy
 msgctxt "gui/70"
 msgid "Are you sure you wish to exit? You will lose all unsaved changes."
-msgstr "정말 나가시겠습니까? 저장하지 않은 진행은 전부 사라집니다."
+msgstr "정말 나가시겠습니까? 저장하지 않은 진행 상황은 전부 사라집니다."
 
 msgctxt "gui/71"
 msgid "Return to Game"
@@ -431,9 +429,10 @@ msgctxt "gui/103"
 msgid "Mission Notifications"
 msgstr "임무 알림"
 
+#, fuzzy
 msgctxt "gui/104"
 msgid "Combat Text"
-msgstr ""
+msgstr "전투 텍스트"
 
 msgctxt "gui/105"
 msgid "Item Pickups"
@@ -457,7 +456,6 @@ msgid ""
 "off the Xbox One."
 msgstr "이 문양이 화면 모서리에 표시될 경우 Xbox One를 종료하지 마십시오."
 
-#, fuzzy
 msgctxt "gui/110"
 msgid ""
 "When you see this symbol displayed in the corner of your screen, do not turn "
@@ -500,7 +498,6 @@ msgctxt "gui/118"
 msgid "{0} Round Burst"
 msgstr "{0}점사"
 
-#, fuzzy
 msgctxt "gui/119"
 msgid "{0}/{1}"
 msgstr "{0}/{1}"
@@ -543,7 +540,7 @@ msgstr "완료"
 
 msgctxt "gui/129"
 msgid "No Entries"
-msgstr ""
+msgstr "입장 불가"
 
 msgctxt "gui/130"
 msgid "Attributes"
@@ -569,15 +566,13 @@ msgctxt "gui/135"
 msgid "Character Stats"
 msgstr "캐릭터 능력치"
 
-#, fuzzy
 msgctxt "gui/136"
 msgid "{0}/{1}"
 msgstr "{0}/{1}"
 
-#, fuzzy
 msgctxt "gui/137"
 msgid "XP: {0}/{1}"
-msgstr "XP: {0}/{1}"
+msgstr "경험치: {0}/{1}"
 
 msgctxt "gui/138"
 msgid "Action Points"
@@ -601,9 +596,8 @@ msgstr "회피"
 
 msgctxt "gui/143"
 msgid "Weather Resistance"
-msgstr ""
+msgstr "기후 저항"
 
-#, fuzzy
 msgctxt "gui/144"
 msgid "{0}-{1}"
 msgstr "{0}-{1}"
@@ -642,15 +636,15 @@ msgstr "멀티플레이어"
 
 msgctxt "gui/153"
 msgid "Adding other player to conversation..."
-msgstr ""
+msgstr "다른 플레이어를 대화에 초대하는 중..."
 
 msgctxt "gui/154"
 msgid "Other player added to conversation."
-msgstr ""
+msgstr "다른 플레이어가 대화에 참여했습니다."
 
 msgctxt "gui/155"
 msgid "Unable to add other player to conversation."
-msgstr ""
+msgstr "다른 플레이어를 대화에 초대할 수 없습니다."
 
 msgctxt "gui/156"
 msgid "Save"
