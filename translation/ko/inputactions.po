@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-29 12:58+0000\n"
-"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
+"Last-Translator: roc <woah1606@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -43,11 +43,11 @@ msgstr "메뉴 이동"
 
 msgctxt "inputactions/7"
 msgid "D-Pad Horizontal"
-msgstr ""
+msgstr "D패드 수평"
 
 msgctxt "inputactions/8"
 msgid "D-Pad Vertical"
-msgstr ""
+msgstr "D패드 수직"
 
 msgctxt "inputactions/9"
 msgid "Submit"
@@ -75,7 +75,7 @@ msgstr ""
 
 msgctxt "inputactions/15"
 msgid "Highlight Objects"
-msgstr ""
+msgstr "오브젝트 강조"
 
 msgctxt "inputactions/16"
 msgid "End Turn"
@@ -120,7 +120,7 @@ msgstr "인벤토리"
 
 msgctxt "inputactions/26"
 msgid "Journal"
-msgstr ""
+msgstr "일지"
 
 msgctxt "inputactions/27"
 msgid "Map"
@@ -156,11 +156,11 @@ msgstr "이전 탭"
 
 msgctxt "inputactions/35"
 msgid "Examine Item"
-msgstr ""
+msgstr "아이템 조사"
 
 msgctxt "inputactions/36"
 msgid "Default Item Action"
-msgstr ""
+msgstr "기본 아이템 액션"
 
 msgctxt "inputactions/37"
 msgid "Level Up"
@@ -260,7 +260,7 @@ msgstr "아이템과 능력"
 
 msgctxt "inputactions/61"
 msgid "Combat Actions"
-msgstr ""
+msgstr "전술 행동"
 
 msgctxt "inputactions/62"
 msgid "New Saved Game"
@@ -276,19 +276,19 @@ msgstr "사용자 변경"
 
 msgctxt "inputactions/65"
 msgid "Left Stick Left"
-msgstr ""
+msgstr "왼쪽 스틱 좌"
 
 msgctxt "inputactions/66"
 msgid "Left Stick Right"
-msgstr ""
+msgstr "왼쪽 스틱 우"
 
 msgctxt "inputactions/67"
 msgid "Left Stick Up"
-msgstr ""
+msgstr "왼쪽 스틱 상"
 
 msgctxt "inputactions/68"
 msgid "Left Stick Down"
-msgstr ""
+msgstr "왼쪽 스틱 하"
 
 msgctxt "inputactions/69"
 msgid "Attack Mode"
@@ -364,15 +364,15 @@ msgstr "외형 변경"
 
 msgctxt "inputactions/87"
 msgid "Select Portrait"
-msgstr ""
+msgstr "초상화 선택"
 
 msgctxt "inputactions/88"
 msgid "Reimport Custom Portraits"
-msgstr ""
+msgstr "커스텀 초상화 다시 불러오기"
 
 msgctxt "inputactions/89"
 msgid "Purchase Rank"
-msgstr ""
+msgstr "구매 랭크"
 
 msgctxt "inputactions/90"
 msgid "Refund Rank"
@@ -504,7 +504,7 @@ msgstr ""
 
 msgctxt "inputactions/122"
 msgid "Submit"
-msgstr ""
+msgstr "확인"
 
 msgctxt "inputactions/123"
 msgid "Break Down"
@@ -628,7 +628,7 @@ msgstr "목적지 설정 해제"
 
 msgctxt "inputactions/156"
 msgid "Crouch Down"
-msgstr ""
+msgstr "앉기"
 
 msgctxt "inputactions/157"
 msgid ""
@@ -638,7 +638,7 @@ msgstr "자세를 낮춰 명중률, 회피율, 탐지 시간을 상승시킵니�
 
 msgctxt "inputactions/158"
 msgid "Stand Up"
-msgstr ""
+msgstr "일어서기"
 
 msgctxt "inputactions/159"
 msgid "Stand up to begin moving again, but lose the benefits of crouching."
