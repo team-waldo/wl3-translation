@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-24 06:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2022-01-29 12:58+0000\n"
+"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgstr "취소"
 
 msgctxt "inputactions/11"
 msgid "Continue"
-msgstr ""
+msgstr "계속"
 
 msgctxt "inputactions/12"
 msgid "Select"
@@ -103,11 +103,12 @@ msgstr "빠른 불러오기"
 
 msgctxt "inputactions/22"
 msgid "Toggle HUD"
-msgstr ""
+msgstr "눌러서 HUD 표시"
 
+#, fuzzy
 msgctxt "inputactions/23"
 msgid "Toggle Console"
-msgstr ""
+msgstr "눌러서 콘솔 열기"
 
 msgctxt "inputactions/24"
 msgid "Attributes"
@@ -167,11 +168,11 @@ msgstr "레벨 업"
 
 msgctxt "inputactions/38"
 msgid "Drop Item"
-msgstr ""
+msgstr "아이템 내려놓기"
 
 msgctxt "inputactions/39"
 msgid "Transfer Item"
-msgstr ""
+msgstr "아이템 옮기기"
 
 msgctxt "inputactions/40"
 msgid "Delete Saved Game"
@@ -179,7 +180,7 @@ msgstr "저장된 게임 삭제"
 
 msgctxt "inputactions/41"
 msgid "Talk To Squad Member"
-msgstr ""
+msgstr "분대원과 대화하기"
 
 msgctxt "inputactions/42"
 msgid "Show Stats"
@@ -199,7 +200,7 @@ msgstr "퀵바 {0}"
 
 msgctxt "inputactions/46"
 msgid "Restore Defaults"
-msgstr ""
+msgstr "기본값으로 초기화"
 
 msgctxt "inputactions/47"
 msgid "Switch Weapons"
@@ -387,7 +388,7 @@ msgstr "카메라 시점 초기화"
 
 msgctxt "inputactions/93"
 msgid "Toggle Combat Grid"
-msgstr ""
+msgstr "눌러서 격자 켜기"
 
 msgctxt "inputactions/94"
 msgid "Toggle Target Type"
@@ -539,7 +540,7 @@ msgstr "멀티플레이어 초대 보내기"
 
 msgctxt "inputactions/132"
 msgid "Final Actions"
-msgstr ""
+msgstr "최종 행동"
 
 msgctxt "inputactions/133"
 msgid "Show Actions"
@@ -641,7 +642,7 @@ msgstr ""
 
 msgctxt "inputactions/159"
 msgid "Stand up to begin moving again, but lose the benefits of crouching."
-msgstr ""
+msgstr "일어서서 다시 이동합니다. 앉기 효과가 사라집니다."
 
 msgctxt "inputactions/160"
 msgid "<color=#CA3429>Cannot change stance while in cover</color>"
