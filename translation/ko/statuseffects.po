@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-25 09:57+0000\n"
-"Last-Translator: roc <woah1606@naver.com>\n"
+"PO-Revision-Date: 2022-01-29 12:58+0000\n"
+"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -126,7 +126,6 @@ msgstr ""
 "\\n"
 "<color=#CA3429>NPC 의사 또는 부상 치료 도구로만 제거할 수 있습니다</color>"
 
-#, fuzzy
 msgctxt "statuseffects/19"
 msgid "Poisoned"
 msgstr "중독됨"
@@ -693,7 +692,6 @@ msgctxt "statuseffects/146"
 msgid "You can't see shit."
 msgstr "아무것도 안 보입니다."
 
-#, fuzzy
 msgctxt "statuseffects/147"
 msgid "Under Control"
 msgstr "통제 중"
@@ -1188,7 +1186,7 @@ msgstr "당신의 대장이 한 번의 공격으로 적을 여럿 죽임으로�
 
 msgctxt "statuseffects/247"
 msgid "Leader Revival"
-msgstr ""
+msgstr "리더의 소생"
 
 msgctxt "statuseffects/248"
 msgid ""
