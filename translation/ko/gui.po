@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-29 12:57+0000\n"
-"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
+"Last-Translator: roc <woah1606@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -4910,339 +4910,342 @@ msgstr "대화 창"
 
 msgctxt "gui/1175"
 msgid "World Map is unavailable in the demo."
-msgstr ""
+msgstr "데모에서는 세계 지도에 들어갈 수 없습니다."
 
 msgctxt "gui/1176"
 msgid "Frozen Campsite"
-msgstr ""
+msgstr "얼어붙은 야영지"
 
 msgctxt "gui/1177"
 msgid "Bench"
-msgstr ""
+msgstr "벤치"
 
 msgctxt "gui/1178"
 msgid "Tree"
-msgstr ""
+msgstr "나무"
 
 msgctxt "gui/1179"
 msgid "Fireplace"
-msgstr ""
+msgstr "화로"
 
 msgctxt "gui/1180"
 msgid "Solar Panels"
-msgstr ""
+msgstr "태양광 패널"
 
 msgctxt "gui/1181"
 msgid "Rubble"
-msgstr ""
+msgstr "잔해"
 
 msgctxt "gui/1182"
 msgid "Fountain"
-msgstr ""
+msgstr "분수"
 
 msgctxt "gui/1183"
 msgid "Greenhouse"
-msgstr ""
+msgstr "온실"
 
 msgctxt "gui/1184"
 msgid "Armored Door"
-msgstr ""
+msgstr "보안문"
 
 msgctxt "gui/1185"
 msgid "Boarded-Up Doorway"
-msgstr ""
+msgstr "판자로 막아놓은 문"
 
 msgctxt "gui/1186"
 msgid "Book"
-msgstr ""
+msgstr "책"
 
 msgctxt "gui/1187"
 msgid "Windows"
-msgstr ""
+msgstr "창문"
 
 msgctxt "gui/1188"
 msgid "Chemicals"
-msgstr ""
+msgstr "화학 용품"
 
 msgctxt "gui/1189"
 msgid "Equipment"
-msgstr ""
+msgstr "장비"
 
 msgctxt "gui/1190"
 msgid "Holy Symbol"
-msgstr ""
+msgstr "신성한 문장"
 
 msgctxt "gui/1191"
 msgid "Body Parts"
-msgstr ""
+msgstr "신체 개조품"
 
 msgctxt "gui/1192"
 msgid "Cement Mixer"
-msgstr ""
+msgstr "시멘트 믹서"
 
 msgctxt "gui/1193"
 msgid "Smiley Face"
-msgstr ""
+msgstr "스마일"
 
 msgctxt "gui/1194"
 msgid "Abilities"
-msgstr ""
+msgstr "능력"
 
 msgctxt "gui/1195"
 msgid "Use abilities this character has learned."
-msgstr ""
+msgstr "이 캐릭터가 배운 능력을 사용합니다."
 
 msgctxt "gui/1196"
 msgid "Item"
-msgstr ""
+msgstr "아이템"
 
 msgctxt "gui/1197"
 msgid "Use items in this character's quick slots."
-msgstr ""
+msgstr "캐릭터의 퀵슬롯에 있는 아이템을 사용합니다."
 
 msgctxt "gui/1198"
 msgid "Withered Food"
-msgstr ""
+msgstr "시든 채소"
 
 msgctxt "gui/1199"
 msgid "Machinery"
-msgstr ""
+msgstr "기계 장치"
 
 msgctxt "gui/1200"
 msgid "Bookshelves"
-msgstr ""
+msgstr "책장"
 
 msgctxt "gui/1201"
 msgid "Empty Tank"
-msgstr ""
+msgstr "빈 탱크"
 
 msgctxt "gui/1202"
 msgid "Abstract Artwork"
-msgstr ""
+msgstr "추상 미술 작품"
 
 msgctxt "gui/1203"
 msgid "Tapes"
-msgstr ""
+msgstr "테이프"
 
 msgctxt "gui/1204"
 msgid "Fake Plant"
-msgstr ""
+msgstr "인조 식물"
 
 msgctxt "gui/1205"
 msgid "Beds"
-msgstr ""
+msgstr "침대"
 
 msgctxt "gui/1206"
 msgid "Soured Provisions"
-msgstr ""
+msgstr "상한 비상식량"
 
 msgctxt "gui/1207"
 msgid "Grate"
-msgstr ""
+msgstr "창살"
 
 msgctxt "gui/1208"
 msgid "Letter"
-msgstr ""
+msgstr "편지"
 
 msgctxt "gui/1209"
 msgid "Pamphlet"
-msgstr ""
+msgstr "소책자"
 
+#, fuzzy
 msgctxt "gui/1210"
 msgid "Bookstack"
-msgstr ""
+msgstr "책더미"
 
 msgctxt "gui/1211"
 msgid "Field Strip"
-msgstr ""
+msgstr "현장 분해"
 
 msgctxt "gui/1212"
 msgid "Are you sure you want to field strip this weapon?"
-msgstr ""
+msgstr "정말 이 무기를 현장 분해합니까?"
 
 msgctxt "gui/1213"
 msgid "Restart Demo"
-msgstr ""
+msgstr "데모 다시 시작"
 
 msgctxt "gui/1214"
 msgid "Corpses"
-msgstr ""
+msgstr "시체"
 
 msgctxt "gui/1215"
 msgid "Bloody Hat"
-msgstr ""
+msgstr "피에 젖은 모자"
 
 msgctxt "gui/1216"
 msgid "Stuffed Toy"
-msgstr ""
+msgstr "봉제인형"
 
 msgctxt "gui/1217"
 msgid "Stretched Skin"
-msgstr ""
+msgstr "늘어진 피부"
 
 msgctxt "gui/1218"
 msgid "Freezer"
-msgstr ""
+msgstr "냉동고"
 
 msgctxt "gui/1219"
 msgid "Servers"
-msgstr ""
+msgstr "서버"
 
 msgctxt "gui/1220"
 msgid "Computers"
-msgstr ""
+msgstr "컴퓨터"
 
 msgctxt "gui/1221"
 msgid "Bed"
-msgstr ""
+msgstr "침대"
 
 msgctxt "gui/1222"
 msgid "Desk"
-msgstr ""
+msgstr "책상"
 
 msgctxt "gui/1223"
 msgid "Flag"
-msgstr ""
+msgstr "깃발"
 
 msgctxt "gui/1224"
 msgid "Soiled Flag"
-msgstr ""
+msgstr "흙투성이 깃발"
 
 msgctxt "gui/1225"
 msgid "Note"
-msgstr ""
+msgstr "노트"
 
 msgctxt "gui/1226"
 msgid "Ancient Machines"
-msgstr ""
+msgstr "옛 시대의 기계 장치"
 
 msgctxt "gui/1227"
 msgid "Very Large Shoes"
-msgstr ""
+msgstr "아주 큰 신발"
 
 msgctxt "gui/1228"
 msgid "One-Eyed Mask"
-msgstr ""
+msgstr "눈이 하나인 가면"
 
 msgctxt "gui/1229"
 msgid "Banner"
-msgstr ""
+msgstr "깃발"
 
 msgctxt "gui/1230"
 msgid "Breather Tank"
-msgstr ""
+msgstr "브리더 탱크"
 
+#, fuzzy
 msgctxt "gui/1231"
 msgid "Are you sure you want to restart the level?"
-msgstr ""
+msgstr "정말 이 구간을 다시 시작 합니까?"
 
 msgctxt "gui/1232"
 msgid "Fur-Covered Mask"
-msgstr ""
+msgstr "털을 씌운 가면"
 
 msgctxt "gui/1233"
 msgid "Table"
-msgstr ""
+msgstr "탁자"
 
 msgctxt "gui/1234"
 msgid "Saw Arm"
-msgstr ""
+msgstr "절단기"
 
 msgctxt "gui/1235"
 msgid "Mounted Head"
-msgstr ""
+msgstr "머리 박제"
 
 msgctxt "gui/1236"
 msgid "Ash Tray"
-msgstr ""
+msgstr "재떨이"
 
 msgctxt "gui/1237"
 msgid "Mirror"
-msgstr ""
+msgstr "거울"
 
 msgctxt "gui/1238"
 msgid "Toilet"
-msgstr ""
+msgstr "화장실"
 
 msgctxt "gui/1239"
 msgid "Food"
-msgstr ""
+msgstr "음식"
 
 msgctxt "gui/1240"
 msgid "Noose"
-msgstr ""
+msgstr "올가미"
 
 msgctxt "gui/1241"
 msgid "Fungus"
-msgstr ""
+msgstr "버섯"
 
 msgctxt "gui/1242"
 msgid "Topiary"
-msgstr ""
+msgstr "토피어리"
 
 msgctxt "gui/1243"
 msgid "Skin"
-msgstr ""
+msgstr "피부"
 
 msgctxt "gui/1244"
 msgid "Quick Draw"
-msgstr ""
+msgstr "빨리 뽑기"
 
+#, fuzzy
 msgctxt "gui/1245"
 msgid "Pin"
-msgstr ""
+msgstr "볼링핀"
 
 msgctxt "gui/1246"
 msgid "Quarex's Collection"
-msgstr ""
+msgstr "쿠아렉스의 소장품"
 
 msgctxt "gui/1247"
 msgid "Medical Supplies"
-msgstr ""
+msgstr "의료 물자"
 
 msgctxt "gui/1248"
 msgid "Intercom"
-msgstr ""
+msgstr "인터폰"
 
 msgctxt "gui/1249"
 msgid "Bridge"
-msgstr ""
+msgstr "다리"
 
 msgctxt "gui/1250"
 msgid "Display Case"
-msgstr ""
+msgstr "전시함"
 
 msgctxt "gui/1251"
 msgid "Throne"
-msgstr ""
+msgstr "왕좌"
 
 msgctxt "gui/1252"
 msgid "Broken Slicer Dicer"
-msgstr ""
+msgstr "부서진 슬라이스 다이서"
 
 msgctxt "gui/1253"
 msgid "VR Device"
-msgstr ""
+msgstr "VR 장비"
 
 msgctxt "gui/1254"
 msgid "Portrait"
-msgstr ""
+msgstr "초상화"
 
 msgctxt "gui/1255"
 msgid "Shit"
-msgstr ""
+msgstr "똥"
 
 msgctxt "gui/1256"
 msgid "Electric Panel"
-msgstr ""
+msgstr "전자 패널"
 
 msgctxt "gui/1257"
 msgid "Guts"
-msgstr ""
+msgstr "내장"
 
 msgctxt "gui/1258"
 msgid "Ranger Vehicle"
-msgstr ""
+msgstr "레인저 차량"
 
 msgctxt "gui/1259"
 msgid "Movie Reels"
@@ -5250,131 +5253,134 @@ msgstr "영화 필름"
 
 msgctxt "gui/1260"
 msgid "Hydraulics"
-msgstr ""
+msgstr "수력 발전기"
 
 msgctxt "gui/1261"
 msgid "Sleeping Bags"
-msgstr ""
+msgstr "침낭"
 
+#, fuzzy
 msgctxt "gui/1262"
 msgid "Dino"
-msgstr ""
+msgstr "공룡"
 
 msgctxt "gui/1263"
 msgid "Cannon"
-msgstr ""
+msgstr "대포"
 
 msgctxt "gui/1264"
 msgid "Inflatable Gorilla"
-msgstr ""
+msgstr "풍선 고릴라"
 
 msgctxt "gui/1265"
 msgid "Chalkboard"
-msgstr ""
+msgstr "칠판"
 
 msgctxt "gui/1266"
 msgid "Plane"
-msgstr ""
+msgstr "비행기"
 
+#, fuzzy
 msgctxt "gui/1267"
 msgid "Mall Directory"
-msgstr ""
+msgstr "마트 안내도"
 
 msgctxt "gui/1268"
 msgid "Vegetables"
-msgstr ""
+msgstr "채소"
 
 msgctxt "gui/1269"
 msgid "Exposed wires"
-msgstr ""
+msgstr "전선"
 
 msgctxt "gui/1270"
 msgid "Sparking Fusebox"
-msgstr ""
+msgstr "스파크가 튀는 퓨즈함"
 
 msgctxt "gui/1271"
 msgid "Electrical Relay"
-msgstr ""
+msgstr "계전기"
 
 msgctxt "gui/1272"
 msgid "Slide"
-msgstr ""
+msgstr "미끄럼틀"
 
 msgctxt "gui/1273"
 msgid "Attribute Points: {0}"
-msgstr ""
+msgstr "능력 점수: {0}"
 
 msgctxt "gui/1274"
 msgid "Skill Points: {0}"
-msgstr ""
+msgstr "기술 점수: {0}"
 
 msgctxt "gui/1275"
 msgid "Perk Points: {0}"
-msgstr ""
+msgstr "특성 점수: {0}"
 
 msgctxt "gui/1276"
 msgid "AP: {0}/{1}"
-msgstr ""
+msgstr "행동력: {0}/{1}"
 
 msgctxt "gui/1277"
 msgid "Incapacitated: Can only be revived by Nitro Spike or Doctor NPC"
-msgstr ""
+msgstr "전투 불능: 니트로 스파이크 또는 의사 NPC로만 소생 가능"
 
 msgctxt "gui/1278"
 msgid "Jukebox"
-msgstr ""
+msgstr "주크박스"
 
 msgctxt "gui/1279"
 msgid "Trash"
-msgstr ""
+msgstr "쓰레기"
 
 msgctxt "gui/1280"
 msgid "Gasoline"
-msgstr ""
+msgstr "휘발유"
 
 msgctxt "gui/1281"
 msgid "Chainsaw"
-msgstr ""
+msgstr "전기톱"
 
 msgctxt "gui/1282"
 msgid "Bulletin Board"
-msgstr ""
+msgstr "게시판"
 
 msgctxt "gui/1283"
 msgid "Bomb Components"
-msgstr ""
+msgstr "폭탄 재료"
 
 msgctxt "gui/1284"
 msgid "Head"
-msgstr ""
+msgstr "머리"
 
 msgctxt "gui/1285"
 msgid "Lab Equipment"
-msgstr ""
+msgstr "연구 장비"
 
 msgctxt "gui/1286"
 msgid "Gas Victims"
-msgstr ""
+msgstr "가스를 마신 시체"
 
+#, fuzzy
 msgctxt "gui/1287"
 msgid "Sink"
-msgstr ""
+msgstr "싱크대"
 
 msgctxt "gui/1288"
 msgid "Would you like to join your friend in a game of Wasteland 3?"
-msgstr ""
+msgstr "웨이스트랜드3를 플레이 중인 친구와 합류할까요?"
 
 msgctxt "gui/1289"
 msgid "<color=#818A8E>Ammo in Inventory:</color> {0}"
-msgstr ""
+msgstr "<color=#818A8E>인벤토리에 있는 탄약:</color> {0}"
 
 msgctxt "gui/1290"
 msgid "REPORT ISSUES"
-msgstr ""
+msgstr "오류 제보"
 
 msgctxt "gui/1293"
 msgid "Bonus Damage to {0}"
-msgstr ""
+msgstr "{0} 대상 추가 피해"
 
 msgctxt "gui/1294"
 msgid "{0}{1}"
@@ -5382,19 +5388,19 @@ msgstr ""
 
 msgctxt "gui/1295"
 msgid "Close Call"
-msgstr ""
+msgstr "구사일생"
 
 msgctxt "gui/1296"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "gui/1297"
 msgid "Negative Status"
-msgstr ""
+msgstr "부정적 상태 효과"
 
 msgctxt "gui/1298"
 msgid "Bleeding"
-msgstr ""
+msgstr "출혈"
 
 msgctxt "gui/1299"
 msgid "Poisoned"
@@ -5428,21 +5434,23 @@ msgctxt "gui/1306"
 msgid "Drugs"
 msgstr "마약"
 
+#, fuzzy
 msgctxt "gui/1307"
 msgid "Weather"
-msgstr ""
+msgstr "악천후"
 
 msgctxt "gui/1308"
 msgid "Injury"
-msgstr ""
+msgstr "부상"
 
 msgctxt "gui/1309"
 msgid "Resistance to {0}"
-msgstr ""
+msgstr "{0} 저항"
 
+#, fuzzy
 msgctxt "gui/1310"
 msgid "Resistance to {2}: <color={3}>{0}{1}%</color>"
-msgstr ""
+msgstr "{2} 저항: <color={3}>{0}{1}%</color>"
 
 msgctxt "gui/1311"
 msgid "{0} - {1} {2}"
@@ -5450,51 +5458,52 @@ msgstr ""
 
 msgctxt "gui/1312"
 msgid "Duffel Bag"
-msgstr ""
+msgstr "더플백"
 
 msgctxt "gui/1313"
 msgid "Clown Cannon"
-msgstr ""
+msgstr "광대 대포"
 
 msgctxt "gui/1314"
 msgid "Clown Hair"
-msgstr ""
+msgstr "광대 가발"
 
 msgctxt "gui/1315"
 msgid "Bowling Pins"
-msgstr ""
+msgstr "볼링핀"
 
 msgctxt "gui/1316"
 msgid "Mallets"
-msgstr ""
+msgstr "망치"
 
 msgctxt "gui/1317"
 msgid "Weathered Poster"
-msgstr ""
+msgstr "낡은 포스터"
 
+#, fuzzy
 msgctxt "gui/1318"
 msgid "Dig"
-msgstr ""
+msgstr "흙더미"
 
 msgctxt "gui/1319"
 msgid "Bison Corpse"
-msgstr ""
+msgstr "들소 시체"
 
 msgctxt "gui/1320"
 msgid "Simmering Pot"
-msgstr ""
+msgstr "끓고 있는 냄비"
 
 msgctxt "gui/1321"
 msgid "Bulldozer"
-msgstr ""
+msgstr "불도저"
 
 msgctxt "gui/1322"
 msgid "Oven"
-msgstr ""
+msgstr "오븐"
 
 msgctxt "gui/1323"
 msgid "Save Failed"
-msgstr ""
+msgstr "저장 실패"
 
 msgctxt "gui/1324"
 msgid "{0} ({2} - Requires {1} Level {3})"
@@ -5502,7 +5511,7 @@ msgstr "{0} ({2} - {1} 레벨 {3} 필요)"
 
 msgctxt "gui/1325"
 msgid "Doomsday Prepper: Cannot read Skill Books"
-msgstr ""
+msgstr "종말에 대비하라 특성: 기술 책을 읽을 수 없음"
 
 #, fuzzy
 msgctxt "gui/1327"
@@ -5521,7 +5530,7 @@ msgstr "난쟁이"
 
 msgctxt "gui/1330"
 msgid "Shower"
-msgstr ""
+msgstr "샤워기"
 
 msgctxt "gui/1331"
 msgid "{0}%"
@@ -5529,89 +5538,95 @@ msgstr ""
 
 msgctxt "gui/1332"
 msgid "Record Player"
-msgstr ""
+msgstr "레코드 플레이어"
 
 msgctxt "gui/1333"
 msgid "Dumpster"
-msgstr ""
+msgstr "쓰레기통"
 
 msgctxt "gui/1334"
 msgid "Ability:"
-msgstr ""
+msgstr "능력:"
 
 msgctxt "gui/1335"
 msgid "{0} - {1}/{2} Perks"
-msgstr ""
+msgstr "{0} - {1}/{2} 특성"
 
+#, fuzzy
 msgctxt "gui/1336"
 msgid "Non-Skill Perks"
-msgstr ""
+msgstr "비기술 특성"
 
+#, fuzzy
 msgctxt "gui/1337"
 msgid "Giant Eggplant"
-msgstr ""
+msgstr "거대 가지"
 
 msgctxt "gui/1338"
 msgid "New Perk Available:"
-msgstr ""
+msgstr "새로운 특성 사용 가능:"
 
 msgctxt "gui/1339"
 msgid "Squad Members"
-msgstr ""
+msgstr "분대원"
 
 msgctxt "gui/1340"
 msgid "Level {0}"
-msgstr ""
+msgstr "레벨 {0}"
 
 msgctxt "gui/1341"
 msgid "Flamethrower"
-msgstr ""
+msgstr "화염방사기"
 
 msgctxt "gui/1342"
 msgid "Rocket"
-msgstr ""
+msgstr "로켓"
 
 msgctxt "gui/1343"
 msgid "Heavy Machine Gun"
-msgstr ""
+msgstr "중기관총"
 
 msgctxt "gui/1344"
 msgid "EMP"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/1345"
 msgid "Particle Weapon"
-msgstr ""
+msgstr "입자 무기"
 
 msgctxt "gui/1346"
 msgid "Laser Weapon"
-msgstr ""
+msgstr "레이저 무기"
 
 msgctxt "gui/1347"
 msgid "Pump Shotgun"
-msgstr ""
+msgstr "펌프액션 산탄총"
 
 msgctxt "gui/1348"
 msgid "Auto Shotgun"
-msgstr ""
+msgstr "자동 산탄총"
 
 msgctxt "gui/1349"
 msgid "Revolver"
-msgstr ""
+msgstr "리볼버"
 
 msgctxt "gui/1350"
 msgid "Semi Auto Pistol"
 msgstr "반자동 권총"
 
+#, fuzzy
 msgctxt "gui/1351"
 msgid ""
 "{1} Accuracy: <color={2}>{0}% <sprite=\"TMP_InlineIcons\" name=\"rightarrow\""
 "> {3}%</color>"
 msgstr ""
+"명중률 {1}: <color={2}>{0}% <sprite=\"TMP_InlineIcons\" name=\"rightarrow\"> "
+"{3}%</color>"
 
 msgctxt "gui/1352"
 msgid "Starting Weapon"
-msgstr ""
+msgstr "시작 무기"
 
 msgctxt "gui/1353"
 msgid "<b>{0}</b> (lvl {1})"
@@ -5619,7 +5634,7 @@ msgstr ""
 
 msgctxt "gui/1354"
 msgid "Learned Skills"
-msgstr ""
+msgstr "배운 기술"
 
 msgctxt "gui/1357"
 msgid "Heavy"
@@ -8058,96 +8073,102 @@ msgid ""
 "Lovers and rivals since first joining the Rangers, Yuri and Spence's "
 "competitiveness drives them to excellence and risky dares."
 msgstr ""
+"처음 레인저가 되었을 때부터 연인이자 라이벌 관계였던 유리와 스펜스는 그런 경쟁심 덕분에 우수한 레인저가 되었고, 위험한 임무에 "
+"뛰어듭니다."
 
 msgctxt "gui/1971"
 msgid ""
 "William has been a nearly wordless killing machine since his wife died. His "
 "daughter Li-Tsing does all the talking - and some of the killing."
 msgstr ""
+"윌리엄은 아내가 죽은 이후로 말수가 없는 살인 기계가 되었습니다. 말을 해야할 때는 윌리엄의 딸 리칭이 대신해줍니다, 가끔은 살인도요."
 
 msgctxt "gui/1972"
 msgid ""
 "Thrills, kills, and spills are the life-breath of these star-crossed punk "
 "rock lovers who fought their way out of the cult they were raised in."
-msgstr ""
+msgstr "스릴, 살인, 칼질은 나고 자란 광신도 집단에서 자력으로 탈출한 이 운명적인 펑크락 매니아들의 피와 살입니다."
 
 msgctxt "gui/1973"
 msgid ""
 "Mercs who've served under good commanders and bad, they hope, this time, "
 "they're fighting for folks who won't make them do terrible things."
-msgstr ""
+msgstr "좋은 지휘관과 나쁜 지휘관을 모두 겪어본 용병들입니다. 이번에는 지독한 짓을 시키지 않는 사람들을 위해 일하고 싶어 합니다."
 
 msgctxt "gui/1974"
 msgid ""
 "Science geeks who fell in love, they are socially awkward with outsiders, "
 "but chatty with each other, reveling in in-jokes only they get."
-msgstr ""
+msgstr "사랑에 빠진 과학도들입니다. 대인관계는 서투르지만 서로 간에는 얘기를 많이 합니다. 자기들만 알아듣는 이과 농담을 하면서요."
 
 msgctxt "gui/1975"
 msgid "Not Ready"
-msgstr ""
+msgstr "준비되지 않음"
 
 msgctxt "gui/1976"
 msgid "Coffee Makers"
-msgstr ""
+msgstr "커피 메이커"
 
 msgctxt "gui/1977"
 msgid "Tent"
-msgstr ""
+msgstr "텐트"
 
 msgctxt "gui/1978"
 msgid "Mannequin"
-msgstr ""
+msgstr "마네킹"
 
 msgctxt "gui/1979"
 msgid "{0} Turns"
-msgstr ""
+msgstr "{0} 턴"
 
 msgctxt "gui/1980"
 msgid "Damaged Market Stall"
-msgstr ""
+msgstr "망가진 가판대"
 
+#, fuzzy
 msgctxt "gui/1981"
 msgid "Usables"
-msgstr ""
+msgstr "소모품"
 
+#, fuzzy
 msgctxt "gui/1982"
 msgid "Healing"
 msgstr "치유"
 
 msgctxt "gui/1983"
 msgid "Armor"
-msgstr ""
+msgstr "방어구"
 
 msgctxt "gui/1984"
 msgid "Weapons"
-msgstr ""
+msgstr "무기"
 
 msgctxt "gui/1985"
 msgid "Weird Science"
-msgstr ""
+msgstr "신비한 과학"
 
 msgctxt "gui/1986"
 msgid "Expand"
-msgstr ""
+msgstr "확장"
 
 msgctxt "gui/1987"
 msgid "Home Turf: {0}"
-msgstr ""
+msgstr "근거지: {0}"
 
 msgctxt "gui/1988"
 msgid "Reputation: {0}"
-msgstr ""
+msgstr "평판: {0}"
 
+#, fuzzy
 msgctxt "gui/1989"
 msgid ""
 "You are leaving Ranger HQ. Do you wish to make changes to your squad before "
 "leaving?"
-msgstr ""
+msgstr "레인저 본부를 떠납니다. 떠나기 전에 분대의 변경 사항을 저장합니까?"
 
 msgctxt "gui/1990"
 msgid "Radiation"
-msgstr ""
+msgstr "방사능"
 
 msgctxt "gui/1991"
 msgid "Launching squad customization..."
@@ -8163,7 +8184,7 @@ msgstr ""
 
 msgctxt "gui/1994"
 msgid "Control Panel"
-msgstr ""
+msgstr "조작 패널"
 
 msgctxt "gui/1997"
 msgid "Confirm"
@@ -8187,6 +8208,8 @@ msgid ""
 "for fighters who like to get up close and personal. They strike often, and "
 "deal high damage to enemies with light armor."
 msgstr ""
+"잘 갈아 놓은 칼은 황무지에서 제일 가는 친구입니다. 접근 대인전을 선호한다면 도검류는 최적의 무기입니다. 공격 횟수가 많고, 경갑을 "
+"착용한 적에게 높은 피해를 줍니다."
 
 msgctxt "gui/2002"
 msgid ""
@@ -8194,6 +8217,8 @@ msgid ""
 "satisfying! Blunt weapons deal high damage to enemies in heavy armor, and "
 "with a little training, you can stun with them too."
 msgstr ""
+"사람을 막대기로 때리는 것보다 간단한 건 없죠 - 제일 즐겁구요! 둔기는 중장갑을 입은 적에게 높은 피해를 주며, 훈련을 조금 거치면 "
+"적을 기절시킬 수도 있습니다."
 
 msgctxt "gui/2003"
 msgid ""
@@ -8201,6 +8226,8 @@ msgid ""
 "but have huge potential at higher levels. They also gain critical hit "
 "bonuses for each consecutive strike, so make with the jabby-jabby."
 msgstr ""
+"가끔 누군가를 한 대 패주고 싶을 때가 있죠. 격투가는 처음에는 약하지만 레벨이 높아질수록 엄청난 잠재력을 발휘합니다. 연타를 적중시킬 "
+"때마다 치명타 추가 효과가 발생하니 연속 잽을 날리세요."
 
 msgctxt "gui/2004"
 msgid ""
@@ -8208,6 +8235,8 @@ msgid ""
 "decent range, and decent damage. They also penetrate all but the heaviest of "
 "armor. Get one for everyone on your Christmas list."
 msgstr ""
+"돌격소총은 황무지의 만능 무기입니다. 휴대성 좋고, 사격 빠르고, 사거리 좋고, 피해도 높죠. 최상위 티어가 아니면 웬만한 방어구는 다 "
+"관통합니다. 모두를 위해 위시 리스트에 담아두세요."
 
 msgctxt "gui/2005"
 msgid ""
@@ -8216,6 +8245,8 @@ msgid ""
 "armor, so you’ve gotta be mobile and pick your targets. But when you do - "
 "damn!"
 msgstr ""
+"사선이 탁 트여 있다면 (등 뒤에서 쏠 때 처럼요) 기관단총은 강력한 무기입니다. 엄폐물 뒤에 있거나 중장갑을 입은 적에게는 잘 먹히지 "
+"않으니, 계속 이동하면서 목표를 노려야 할 겁니다. 그러다 기회를 잡았다면, 끝나는 거죠!"
 
 msgctxt "gui/2006"
 msgid ""
@@ -8223,6 +8254,8 @@ msgid ""
 "but have a hard time penetrating armor. On the plus side, if you want to "
 "quickly build your Strike Meter, they're a terrific choice!"
 msgstr ""
+"권총은 정확하고 빠르며, 방어구가 없는 적에게 확실한 피해를 주지만, 방어구를 관통시켜야 할 때는 힘을 못 씁니다. 그 대신, 정밀 타격 "
+"게이지를 빨리 채우고 싶을 때 훌륭한 선택지죠!"
 
 msgctxt "gui/2007"
 msgid ""
@@ -8230,6 +8263,8 @@ msgid ""
 "wanna hurt two or three at once, they’re the way to go. Everyone in front of "
 "you will catch some lead. They’re also great for blowing away enemy cover."
 msgstr ""
+"단일 대상에는 피해를 많이 못 주겠지만, 한번에 두 세명을 쏘고 싶다면 산탄총이 정답입니다. 당신 앞에 있는 모두가 납조각을 먹게 될 "
+"겁니다. 적 엄폐물을 날려버리기도 좋죠."
 
 msgctxt "gui/2008"
 msgid ""
@@ -8237,6 +8272,8 @@ msgid ""
 "fantastic range, high armor penetration, and do a ton of damage. So find a "
 "nice, quiet spot, sit yourself down, and get to sniping."
 msgstr ""
+"저격소총은 이동하면서 쏘기에는 너무 느리고 무겁지만, 환상적인 사거리와 방어구 관통력, 피해량을 자랑합니다. 그러니 조용하고 멋진 곳을 "
+"찾아서 엎드리고, 저격을 시작하세요."
 
 msgctxt "gui/2009"
 msgid ""
@@ -8245,6 +8282,8 @@ msgid ""
 "heavy and inaccurate. But with training they’re great for laying down "
 "covering fire."
 msgstr ""
+"중기관총은 막대한 피해를 주며 방어구를 쉽게 관통합니다. 하지만 이동하면서 쏘는 건 거의 불가능합니다. 너무 무겁고 명중률이 낮기 "
+"때문입니다. 하지만 훈련을 거치면 훌륭한 엄호 사격 무기가 됩니다."
 
 msgctxt "gui/2010"
 msgid ""
@@ -8253,50 +8292,54 @@ msgid ""
 "course it’s heavy and awkward to operate, but who cares? It’s a fucking "
 "flamethrower!"
 msgstr ""
+"화염방사기보다 더 터프한 게 있나요? 없죠. 화염방사기 한 방이면 말 그대로 나쁜 녀석들 한 분대를 태워버릴 수 있습니다. 물론 무겁고 "
+"운용하기 힘들지만, 알 게 뭡니까? 화염방사기라니까요!"
 
 msgctxt "gui/2011"
 msgid "Power Armor"
-msgstr ""
+msgstr "파워 아머"
 
+#, fuzzy
 msgctxt "gui/2012"
 msgid "Filter"
-msgstr ""
+msgstr "정렬 기준"
 
 msgctxt "gui/2013"
 msgid "Weapon Mods"
-msgstr ""
+msgstr "무기 부속품"
 
 msgctxt "gui/2014"
 msgid "Armor Mods"
-msgstr ""
+msgstr "방어구 부속품"
 
+#, fuzzy
 msgctxt "gui/2015"
 msgid "Unlocks: {0}"
-msgstr ""
+msgstr "사용 가능: {0}"
 
 msgctxt "gui/2016"
 msgid "Money Lost"
-msgstr ""
+msgstr "잃은 돈"
 
 msgctxt "gui/2017"
 msgid "Hire Companion"
-msgstr ""
+msgstr "동료 고용하기"
 
 msgctxt "gui/2018"
 msgid "Pen: {0}"
-msgstr ""
+msgstr "관통: {0}"
 
 msgctxt "gui/2019"
 msgid "<color={1}>Penetration:</color> {0}"
-msgstr ""
+msgstr "<color={1}>관통력:</color> {0}"
 
 msgctxt "gui/2020"
 msgid "Shadow Quality"
-msgstr ""
+msgstr "그림자 품질"
 
 msgctxt "gui/2021"
 msgid "Disable"
-msgstr ""
+msgstr "비활성화"
 
 msgctxt "gui/2022"
 msgid "Hard Only"
@@ -8304,27 +8347,27 @@ msgstr ""
 
 msgctxt "gui/2023"
 msgid "All"
-msgstr ""
+msgstr "전부"
 
 msgctxt "gui/2024"
 msgid "Shadow Resolution"
-msgstr ""
+msgstr "그림자 해상도"
 
 msgctxt "gui/2025"
 msgid "Low"
-msgstr ""
+msgstr "낮음"
 
 msgctxt "gui/2026"
 msgid "Medium"
-msgstr ""
+msgstr "보통"
 
 msgctxt "gui/2027"
 msgid "High"
-msgstr ""
+msgstr "높음"
 
 msgctxt "gui/2028"
 msgid "Very High"
-msgstr ""
+msgstr "매우 높음"
 
 msgctxt "gui/2029"
 msgid "Shadow Distance"
