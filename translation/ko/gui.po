@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-27 16:57+0000\n"
+"PO-Revision-Date: 2022-01-29 12:57+0000\n"
 "Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -449,7 +449,7 @@ msgstr "경험치"
 
 msgctxt "gui/108"
 msgid "Chat Messages"
-msgstr ""
+msgstr "채팅 메세지"
 
 msgctxt "gui/109"
 msgid ""
@@ -981,7 +981,7 @@ msgstr ""
 #, fuzzy
 msgctxt "gui/236"
 msgid "{0} gained {1} XP."
-msgstr "대원 {0}의 경험치가 {1} 상승했습니다."
+msgstr "{0}의 경험치가 {1} 상승했습니다."
 
 msgctxt "gui/237"
 msgid "[{0}]: {1}"
@@ -1032,17 +1032,19 @@ msgctxt "gui/248"
 msgid "Portrait"
 msgstr "초상화"
 
+#, fuzzy
 msgctxt "gui/249"
 msgid "Customize Appearance"
-msgstr ""
+msgstr "외형 세부 조정"
 
 msgctxt "gui/250"
 msgid "Biography"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/251"
 msgid "Derived Stats"
-msgstr ""
+msgstr "세부 능력치"
 
 msgctxt "gui/252"
 msgid "Gender"
@@ -1069,9 +1071,10 @@ msgctxt "gui/257"
 msgid "Lock cameras to isometric views?"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/258"
 msgid "Reimport Custom Portraits"
-msgstr ""
+msgstr "사용자 설정 초상화 재등록"
 
 msgctxt "gui/259"
 msgid "Select Quirk"
@@ -1095,9 +1098,10 @@ msgctxt "gui/263"
 msgid "{2}: <color={3}>{0}{1}</color>"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/264"
 msgid "Grants the {0} ability"
-msgstr ""
+msgstr "능력 {0} 부여함"
 
 msgctxt "gui/265"
 msgid "{0} turns remaining"
@@ -1111,17 +1115,20 @@ msgctxt "gui/267"
 msgid "Read"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/268"
 msgid "Unjam"
-msgstr ""
+msgstr "총알 걸림 해결"
 
+#, fuzzy
 msgctxt "gui/269"
 msgid "Clear the jammed round from your weapon, allowing you to attack."
-msgstr ""
+msgstr "무기에 걸린 총알을 빼내어, 공격 행동을 할 수 있게 됩니다."
 
+#, fuzzy
 msgctxt "gui/270"
 msgid "Show Log"
-msgstr ""
+msgstr "로그 확인"
 
 msgctxt "gui/271"
 msgid "{0} - Requires level {1} {2}"
@@ -1167,9 +1174,10 @@ msgctxt "gui/285"
 msgid "Combat Grid"
 msgstr "전투 격자"
 
+#, fuzzy
 msgctxt "gui/286"
 msgid "Accessed"
-msgstr ""
+msgstr "접속됨"
 
 msgctxt "gui/287"
 msgid "Secured"
@@ -1205,7 +1213,7 @@ msgstr ""
 
 msgctxt "gui/296"
 msgid "Fixed!"
-msgstr ""
+msgstr "수리 완료!"
 
 msgctxt "gui/297"
 msgid "Customize Ranger Insignia"
@@ -1213,15 +1221,15 @@ msgstr ""
 
 msgctxt "gui/298"
 msgid "Select Insignia"
-msgstr ""
+msgstr "휘장 선택"
 
 msgctxt "gui/299"
 msgid "Select Insignia Color"
-msgstr ""
+msgstr "휘장 색 선택"
 
 msgctxt "gui/300"
 msgid "Select Banner Color"
-msgstr ""
+msgstr "배너 색 선택"
 
 msgctxt "gui/301"
 msgid "Can't Reload - {0}"
@@ -1355,13 +1363,15 @@ msgctxt "gui/333"
 msgid "[PH]The Patriarch's Call"
 msgstr "[PH]패트리아크의 부름"
 
+#, fuzzy
 msgctxt "gui/334"
 msgid "Edge Scrolling"
-msgstr "가장자리 스크롤"
+msgstr "마우스 화면 이동"
 
+#, fuzzy
 msgctxt "gui/335"
 msgid "Edge Scroll Speed"
-msgstr "가장자리 스크롤 속도"
+msgstr "마우스 화면 이동 속도"
 
 msgctxt "gui/336"
 msgid "Follow Look Ahead"
@@ -1431,9 +1441,10 @@ msgctxt "gui/352"
 msgid "Highlight Fill"
 msgstr "내부 강조"
 
+#, fuzzy
 msgctxt "gui/353"
 msgid "Talk"
-msgstr ""
+msgstr "대화"
 
 msgctxt "gui/354"
 msgid "More Actions"
@@ -1447,9 +1458,10 @@ msgctxt "gui/356"
 msgid "No Targets In Range"
 msgstr "범위 안에 대상이 없음"
 
+#, fuzzy
 msgctxt "gui/357"
 msgid "Requires Safecracker Tool"
-msgstr ""
+msgstr "금고털개가 필요함"
 
 msgctxt "gui/358"
 msgid "Unlock Safe"
@@ -1479,21 +1491,25 @@ msgctxt "gui/364"
 msgid "Weapon 2"
 msgstr "무기 2"
 
+#, fuzzy
 msgctxt "gui/365"
 msgid "Cybernetic Arms"
-msgstr ""
+msgstr "인공 팔"
 
+#, fuzzy
 msgctxt "gui/366"
 msgid "Cybernetic Legs"
-msgstr ""
+msgstr "인공 다리"
 
+#, fuzzy
 msgctxt "gui/367"
 msgid "Cybernetic Chest"
-msgstr ""
+msgstr "인공 흉부"
 
+#, fuzzy
 msgctxt "gui/368"
 msgid "Cybernetic Head"
-msgstr ""
+msgstr "인공 머리"
 
 msgctxt "gui/369"
 msgid "Custom"
@@ -1617,7 +1633,7 @@ msgstr "얼굴"
 
 msgctxt "gui/399"
 msgid "Beard"
-msgstr ""
+msgstr "수염"
 
 msgctxt "gui/400"
 msgid "Jacket"
@@ -1673,7 +1689,7 @@ msgstr ""
 
 msgctxt "gui/413"
 msgid "American"
-msgstr ""
+msgstr "미국인"
 
 msgctxt "gui/414"
 msgid "African"
@@ -1681,19 +1697,19 @@ msgstr "아프리카인"
 
 msgctxt "gui/415"
 msgid "Middle Eastern"
-msgstr ""
+msgstr "아랍인"
 
 msgctxt "gui/416"
 msgid "Asian"
-msgstr ""
+msgstr "아시아인"
 
 msgctxt "gui/417"
 msgid "Australian"
-msgstr ""
+msgstr "호주인"
 
 msgctxt "gui/418"
 msgid "Indian"
-msgstr ""
+msgstr "인도인"
 
 msgctxt "gui/419"
 msgid "Hispanic"
@@ -1705,11 +1721,12 @@ msgstr "아메리카 원주민"
 
 msgctxt "gui/421"
 msgid "Mixed"
-msgstr ""
+msgstr "혼혈"
 
+#, fuzzy
 msgctxt "gui/422"
 msgid "Pagan"
-msgstr ""
+msgstr "이교도"
 
 msgctxt "gui/423"
 msgid "Buddhist"
@@ -1737,7 +1754,7 @@ msgstr "모르몬교"
 
 msgctxt "gui/429"
 msgid "Muslim"
-msgstr "무슬림"
+msgstr "이슬람교"
 
 msgctxt "gui/430"
 msgid "Sikh"
@@ -1753,7 +1770,7 @@ msgstr "담배"
 
 msgctxt "gui/433"
 msgid "Booze"
-msgstr ""
+msgstr "맥주"
 
 msgctxt "gui/434"
 msgid "Drugs"
@@ -1763,29 +1780,32 @@ msgctxt "gui/435"
 msgid "Hostile Encounter"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/436"
 msgid "Puny"
-msgstr ""
+msgstr "왜소함"
 
+#, fuzzy
 msgctxt "gui/437"
 msgid "Small"
-msgstr ""
+msgstr "작음"
 
 msgctxt "gui/438"
 msgid "Average"
-msgstr ""
+msgstr "보통"
 
 msgctxt "gui/439"
 msgid "Tall"
-msgstr ""
+msgstr "큼"
 
+#, fuzzy
 msgctxt "gui/440"
 msgid "Huge"
-msgstr ""
+msgstr "큼직함"
 
 msgctxt "gui/441"
 msgid "Gigantic"
-msgstr ""
+msgstr "거대함"
 
 msgctxt "gui/442"
 msgid "Targeting Group: Enemies"
@@ -2429,7 +2449,7 @@ msgstr ""
 
 msgctxt "gui/599"
 msgid "The Bizarre"
-msgstr ""
+msgstr "비자르"
 
 msgctxt "gui/600"
 msgid "Parking Garage"
@@ -2481,7 +2501,7 @@ msgstr ""
 
 msgctxt "gui/612"
 msgid "Turret"
-msgstr ""
+msgstr "포탑"
 
 msgctxt "gui/613"
 msgid "Wheels"
@@ -2595,9 +2615,10 @@ msgctxt "gui/640"
 msgid "Hundred Families"
 msgstr "백가문"
 
+#, fuzzy
 msgctxt "gui/641"
 msgid "Patriarch's Marshals"
-msgstr ""
+msgstr "패트리아크의 마샬들"
 
 #, fuzzy
 msgctxt "gui/642"
@@ -5489,17 +5510,20 @@ msgctxt "gui/1325"
 msgid "Doomsday Prepper: Cannot read Skill Books"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/1327"
 msgid "Jacked"
-msgstr ""
+msgstr "다부짐"
 
+#, fuzzy
 msgctxt "gui/1328"
 msgid "Slender"
-msgstr ""
+msgstr "늘씬함"
 
+#, fuzzy
 msgctxt "gui/1329"
 msgid "Compact"
-msgstr ""
+msgstr "난쟁이"
 
 msgctxt "gui/1330"
 msgid "Shower"
