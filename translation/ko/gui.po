@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-30 15:57+0000\n"
-"Last-Translator: Johong <loktaroggarr@gmail.com>\n"
+"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1175,7 +1175,7 @@ msgstr "접속됨"
 
 msgctxt "gui/287"
 msgid "Secured"
-msgstr ""
+msgstr "보안됨"
 
 msgctxt "gui/288"
 msgid "Edit"
@@ -4171,39 +4171,42 @@ msgstr "카세트 테이프"
 
 msgctxt "gui/969"
 msgid "Creepy Dolls"
-msgstr ""
+msgstr "오싹한 인형"
 
+#, fuzzy
 msgctxt "gui/970"
 msgid "Stature"
-msgstr ""
+msgstr "위상"
 
 msgctxt "gui/971"
 msgid "Build"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/972"
 msgid "Friend has disconnected from Lobby."
-msgstr ""
+msgstr "친구가 로비에서 연결 해제 되었습니다."
 
+#, fuzzy
 msgctxt "gui/973"
 msgid "Friend has disconnected from Game."
-msgstr ""
+msgstr "친구가 게임에서 연결 해제 되었습니다."
 
 msgctxt "gui/974"
 msgid "Failed to create the lobby. Please try again later."
-msgstr ""
+msgstr "로비를 만드는데 실패했습니다. 다시 시도해 주십시오."
 
 msgctxt "gui/975"
 msgid "Failed to create the game. Please Try again later."
-msgstr ""
+msgstr "게임을 만드는데 실패했습니다. 다시 시도해 주십시오."
 
 msgctxt "gui/976"
 msgid "Failed to Join the lobby. "
-msgstr ""
+msgstr "로비에 참가하는데 실패했습니다 "
 
 msgctxt "gui/977"
 msgid "Failed to join the game."
-msgstr ""
+msgstr "게임에 참가하는데 실패했습니다."
 
 msgctxt "gui/978"
 msgid "Archive"
