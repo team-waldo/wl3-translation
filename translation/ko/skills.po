@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-22 11:57+0000\n"
+"PO-Revision-Date: 2022-01-29 12:58+0000\n"
 "Last-Translator: taamro <taamro.adaar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -289,7 +289,7 @@ msgctxt "skills/51"
 msgid ""
 "Trick your weapon out with all the bells and whistles, but maybe not "
 "literally with bells or whistles."
-msgstr ""
+msgstr "무기를 온갖 잡다한 개조품으로 치장하고 꾸며 보십시오. 그렇다고 진짜 아무거나 갖다붙이란 건 아니고요."
 
 #, fuzzy
 msgctxt "skills/52"
@@ -300,7 +300,7 @@ msgstr "정말 재미있는 일을 하고 싶다면, 과학책을 덮고 밖으�
 
 msgctxt "skills/53"
 msgid "Let me tell you what you want to hear. Please!"
-msgstr ""
+msgstr "당신이 듣고 싶어 하는 말을 들려 드리게 해 주세요. 제발!"
 
 #, fuzzy
 msgctxt "skills/54"
@@ -408,7 +408,7 @@ msgstr "참선, 그리고 쓸모있는 물건을 찾아 쓰레기통을 뒤지�
 
 msgctxt "skills/65"
 msgid "Rock em’, sock em’, cowboy."
-msgstr ""
+msgstr "빡세게, 겁나게 치라고, 카우보이."
 
 msgctxt "skills/66"
 msgid ""
@@ -543,7 +543,7 @@ msgstr "도안을 익히고, 고철 및 특수 부품을 가지고 아이템을 
 
 msgctxt "skills/91"
 msgid "You know how to build crap from scrap."
-msgstr ""
+msgstr "찌끄레기 쪼가리에서 쓸만한 물건을 만드는 방법을 익혔습니다."
 
 msgctxt "skills/92"
 msgid "Scavenging"
