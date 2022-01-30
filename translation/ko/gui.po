@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
 "PO-Revision-Date: 2022-01-30 15:57+0000\n"
-"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
+"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2778,9 +2778,10 @@ msgctxt "gui/673"
 msgid "Scar Collector Roadblock"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/674"
 msgid "Pueblo Ruins"
-msgstr ""
+msgstr "푸에블로 유적지"
 
 msgctxt "gui/675"
 msgid "Scrapyard"
@@ -2792,11 +2793,12 @@ msgstr ""
 
 msgctxt "gui/677"
 msgid "To World Map"
-msgstr ""
+msgstr "세계 지도로"
 
+#, fuzzy
 msgctxt "gui/678"
 msgid "Arapaho Garage"
-msgstr ""
+msgstr "아라파호 차고"
 
 msgctxt "gui/679"
 msgid "Locked"
@@ -3192,9 +3194,10 @@ msgctxt "gui/735"
 msgid "Heavy Weapon"
 msgstr "중화기"
 
+#, fuzzy
 msgctxt "gui/736"
 msgid "Uses {0}"
-msgstr ""
+msgstr "{0} 사용"
 
 msgctxt "gui/737"
 msgid "9mm Ammo"
@@ -3244,9 +3247,10 @@ msgctxt "gui/748"
 msgid "Equip Secondary"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/749"
 msgid " Vehicle Start Point"
-msgstr ""
+msgstr " 차량 시작 지점"
 
 msgctxt "gui/750"
 msgid "Vehicle Finishing"
@@ -3254,15 +3258,16 @@ msgstr ""
 
 msgctxt "gui/751"
 msgid " Combat"
-msgstr ""
+msgstr " 전투"
 
 msgctxt "gui/752"
 msgid "Arcology Lift Chamber"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/753"
 msgid "Shoot Door"
-msgstr ""
+msgstr "문을 향해 총쏘기"
 
 msgctxt "gui/754"
 msgid "Foundry"
@@ -3278,7 +3283,7 @@ msgstr ""
 
 msgctxt "gui/757"
 msgid "Pillory Square"
-msgstr ""
+msgstr "필로리 광장"
 
 msgctxt "gui/758"
 msgid "Market Square"
@@ -3300,9 +3305,10 @@ msgctxt "gui/762"
 msgid "Entry Road"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/763"
 msgid "Quick Slot Item"
-msgstr ""
+msgstr "퀵 슬롯 아이템"
 
 msgctxt "gui/764"
 msgid "Chapel Steeple"
@@ -3316,17 +3322,20 @@ msgctxt "gui/766"
 msgid "Friendly Turn"
 msgstr "아군 턴"
 
+#, fuzzy
 msgctxt "gui/767"
 msgid "You own this conversation."
-msgstr ""
+msgstr "당신에게 대화의 선택권이 넘어갑니다."
 
+#, fuzzy
 msgctxt "gui/768"
 msgid "{0} owns this conversation."
-msgstr ""
+msgstr "{0}에게 대화의 선택권이 넘어갑니다."
 
+#, fuzzy
 msgctxt "gui/769"
 msgid "Conversation Response Delay"
-msgstr ""
+msgstr "대화 응답 대기 중"
 
 msgctxt "gui/771"
 msgid "Ally Squad Member"
@@ -3445,9 +3454,10 @@ msgctxt "gui/799"
 msgid "Smuggler's Camp"
 msgstr "밀수업자 야영지"
 
+#, fuzzy
 msgctxt "gui/800"
 msgid "Loot"
-msgstr ""
+msgstr "획득"
 
 msgctxt "gui/801"
 msgid "Offscreen Enemy Indicators"
@@ -3511,9 +3521,10 @@ msgid ""
 "their required skill level."
 msgstr "활성화되면 기술 요구사항을 만족하지 못한 기술 선택지는 요구되는 기술 레벨을 표시하지 않습니다."
 
+#, fuzzy
 msgctxt "gui/813"
 msgid "Reload ({0} AP)/Switch (Hold)"
-msgstr ""
+msgstr "재장전 ({0}행동력)/변경 (누르고 있을 시)"
 
 msgctxt "gui/814"
 msgid "Auto-Reload After Combat"
@@ -3523,13 +3534,15 @@ msgctxt "gui/815"
 msgid "{0} [{1}]"
 msgstr "{0} [{1}]"
 
+#, fuzzy
 msgctxt "gui/816"
 msgid "Reload/Switch (Hold)"
-msgstr ""
+msgstr "재장전/변경 (누르고 있을 시)"
 
+#, fuzzy
 msgctxt "gui/817"
 msgid "Switch Weapons (Hold)"
-msgstr ""
+msgstr "무기 변경 (누르고 있을 시)"
 
 msgctxt "gui/818"
 msgid "Lore Book"
@@ -3683,9 +3696,10 @@ msgctxt "gui/853"
 msgid "Weapon Mod ({0})"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/854"
 msgid "AP to Attack"
-msgstr ""
+msgstr "공격에 필요한 행동력"
 
 msgctxt "gui/855"
 msgid "Min Damage"
@@ -3703,69 +3717,73 @@ msgctxt "gui/858"
 msgid "Rounds Per Attack"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/859"
 msgid "AP to Reload"
-msgstr ""
+msgstr "재장전에 필요한 행동력"
 
+#, fuzzy
 msgctxt "gui/860"
 msgid "Cone Angle"
-msgstr ""
+msgstr "부채꼴 범위"
 
 msgctxt "gui/861"
 msgid "Jack"
-msgstr ""
+msgstr "잭"
 
 msgctxt "gui/862"
 msgid "Queen"
-msgstr ""
+msgstr "퀸"
 
 msgctxt "gui/863"
 msgid "King"
-msgstr ""
+msgstr "킹"
 
 msgctxt "gui/864"
 msgid "Ace"
-msgstr ""
+msgstr "에이스"
 
 msgctxt "gui/865"
 msgid "Vehicle Upgrade ({0})"
-msgstr ""
+msgstr "차량 업그레이드 ({0})"
 
 msgctxt "gui/866"
 msgid "Weapon"
-msgstr ""
+msgstr "무기"
 
 msgctxt "gui/867"
 msgid "Cherry!"
-msgstr ""
+msgstr "체리!"
 
 msgctxt "gui/868"
 msgid "Watermelon!"
-msgstr ""
+msgstr "수박!"
 
 msgctxt "gui/869"
 msgid "Bell!"
-msgstr ""
+msgstr "종!"
 
 msgctxt "gui/870"
 msgid "7!"
-msgstr ""
+msgstr "7!"
 
 msgctxt "gui/871"
 msgid "Bar!"
-msgstr ""
+msgstr "바!"
 
 msgctxt "gui/872"
 msgid "Bullet!"
-msgstr ""
+msgstr "총알!"
 
+#, fuzzy
 msgctxt "gui/873"
 msgid "Neon Cowboy!"
-msgstr ""
+msgstr "네온 카우보이!"
 
+#, fuzzy
 msgctxt "gui/874"
 msgid "Loser!"
-msgstr ""
+msgstr "루저!"
 
 msgctxt "gui/875"
 msgid "Jackpot!"
@@ -3779,9 +3797,10 @@ msgctxt "gui/877"
 msgid "Give Control"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/878"
 msgid "Wasteland 3"
-msgstr ""
+msgstr "웨이스트랜드 3"
 
 msgctxt "gui/879"
 msgid "Buried Items"
@@ -3827,17 +3846,20 @@ msgctxt "gui/889"
 msgid "Hazardous"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/890"
 msgid "Usable Item 1"
-msgstr ""
+msgstr "소비형 아이템 1"
 
+#, fuzzy
 msgctxt "gui/891"
 msgid "Usable Item 2"
-msgstr ""
+msgstr "소비형 아이템 2"
 
+#, fuzzy
 msgctxt "gui/892"
 msgid "Usable Item 3"
-msgstr ""
+msgstr "소비형 아이템 3"
 
 msgctxt "gui/893"
 msgid "Use {0}"
@@ -3849,7 +3871,7 @@ msgstr ""
 
 msgctxt "gui/895"
 msgid "Radio:{0}"
-msgstr ""
+msgstr "라디오:{0}"
 
 msgctxt "gui/896"
 msgid "Radio Broadcasts"
@@ -3925,11 +3947,12 @@ msgstr "다리 방어구"
 
 msgctxt "gui/914"
 msgid "Face"
-msgstr ""
+msgstr "얼굴"
 
+#, fuzzy
 msgctxt "gui/915"
 msgid "Helmet"
-msgstr ""
+msgstr "모자"
 
 msgctxt "gui/916"
 msgid "Requires Welcome Lodge Key"
@@ -3953,7 +3976,7 @@ msgstr "현재 무기 재장전."
 
 msgctxt "gui/921"
 msgid "Voice"
-msgstr ""
+msgstr "목소리"
 
 msgctxt "gui/922"
 msgid "Select Character Background"
@@ -4005,6 +4028,7 @@ msgctxt "gui/935"
 msgid "Select Characters"
 msgstr "캐릭터 선택"
 
+#, fuzzy
 msgctxt "gui/936"
 msgid ""
 "Thrills, kills, and spills are the life-breath of this hardcore punk rock "
@@ -4014,10 +4038,14 @@ msgid ""
 "they joined the Rangers and put all their training from the Militia to good "
 "use."
 msgstr ""
+"눈물을 흘리는 것, 칼을 찔러대는 것, 피를 쏟아내는 것이 삶의 전부인 하드코어 펑크 록 듀오입니다. 신의 민병대 안에선 그 둘의 사랑이 "
+"이어질 수 없었기에, 종교적인 가르침, 신을 섬김을 거부하는 방법으로 소름끼치던 상관에게 반항했습니다. 그 결과, 이들을 죽이기 위해 "
+"쫓아오는 신의 민병대의 사람들을 피해 애리조나로 도망친 그들은 레인저에 합류하여 민병대에서 배웠던 것을 가르치며 많은 도움을 주었습니다."
 
+#, fuzzy
 msgctxt "gui/937"
 msgid "Punk Lovers"
-msgstr ""
+msgstr "펑크 애호가들"
 
 msgctxt "gui/938"
 msgid "Veteran Rangers"
