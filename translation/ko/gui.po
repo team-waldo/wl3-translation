@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-31 15:09+0000\n"
-"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"POT-Creation-Date: 2022-02-01 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "gui/0"
 msgid " The first GUI text"
@@ -11099,3 +11097,262 @@ msgstr "빈 슬롯"
 msgctxt "gui/2681"
 msgid "Return to World Map"
 msgstr "세계 지도로 돌아가기"
+
+msgctxt "gui/645"
+msgid "Steeltown"
+msgstr ""
+
+msgctxt "gui/651"
+msgid ""
+"Reputation tracks how your actions have affected each faction's opinion of "
+"the Rangers.\\n"
+"\\n"
+"Built upon the ruins of Pueblo, Steeltown is a massive industrial "
+"monstrosity - a post-apocalyptic arcology of metal and concrete, belching "
+"black smoke and fire into the Colorado sky. The ruler of Steeltown is "
+"Abigail Markham, a charismatic entrepreneur and engineer."
+msgstr ""
+
+msgctxt "gui/672"
+msgid "Steeltown Gates"
+msgstr ""
+
+msgctxt "gui/1163"
+msgid "Steeltown's Sigil"
+msgstr ""
+
+msgctxt "gui/1164"
+msgid "Computation Engine Model"
+msgstr ""
+
+msgctxt "gui/2528"
+msgid "Fire Suppression System"
+msgstr ""
+
+msgctxt "gui/2529"
+msgid "Administration Valve"
+msgstr ""
+
+msgctxt "gui/2530"
+msgid "Cookie's Goat Meat"
+msgstr ""
+
+msgctxt "gui/2531"
+msgid "Failsafe Release GAMMA"
+msgstr ""
+
+msgctxt "gui/2532"
+msgid "Failsafe Release OMEGA"
+msgstr ""
+
+msgctxt "gui/2533"
+msgid "Core Control Console"
+msgstr ""
+
+msgctxt "gui/2542"
+msgid "Ocular Scanner"
+msgstr ""
+
+msgctxt "gui/2543"
+msgid "Biometric Assessment Pod"
+msgstr ""
+
+msgctxt "gui/2544"
+msgid "Skills Test Terminal"
+msgstr ""
+
+msgctxt "gui/2545"
+msgid "Test Terminal"
+msgstr ""
+
+msgctxt "gui/2546"
+msgid "Filthy Toilet"
+msgstr ""
+
+msgctxt "gui/2547"
+msgid "Clean Toilet"
+msgstr ""
+
+msgctxt "gui/2548"
+msgid "Fancy Toilet"
+msgstr ""
+
+msgctxt "gui/2549"
+msgid "Small Radio"
+msgstr ""
+
+msgctxt "gui/2550"
+msgid "Old racing buggy"
+msgstr ""
+
+msgctxt "gui/2551"
+msgid "Ancient police vehicle"
+msgstr ""
+
+msgctxt "gui/2552"
+msgid "Wrecked sports car"
+msgstr ""
+
+msgctxt "gui/2553"
+msgid "Sealed Crate"
+msgstr ""
+
+msgctxt "gui/2576"
+msgid "Target Practice"
+msgstr ""
+
+msgctxt "gui/2577"
+msgid "Cognitive Test"
+msgstr ""
+
+msgctxt "gui/2578"
+msgid "Fitness Test"
+msgstr ""
+
+msgctxt "gui/2581"
+msgid "Reinforced Gate"
+msgstr ""
+
+msgctxt "gui/2582"
+msgid "West Gates"
+msgstr ""
+
+msgctxt "gui/2583"
+msgid "Screen"
+msgstr ""
+
+msgctxt "gui/2584"
+msgid "Computation Engine Interface"
+msgstr ""
+
+msgctxt "gui/2592"
+msgid "Sealed Crate"
+msgstr ""
+
+msgctxt "gui/2593"
+msgid "Sealed Crate"
+msgstr ""
+
+msgctxt "gui/2594"
+msgid "Sealed Crate"
+msgstr ""
+
+msgctxt "gui/2595"
+msgid "Shipment"
+msgstr ""
+
+msgctxt "gui/2596"
+msgid "Sealed Crate"
+msgstr ""
+
+msgctxt "gui/2597"
+msgid "Sealed Box"
+msgstr ""
+
+msgctxt "gui/2598"
+msgid "Crate"
+msgstr ""
+
+msgctxt "gui/2599"
+msgid "Box"
+msgstr ""
+
+msgctxt "gui/2600"
+msgid "Sealed Crate"
+msgstr ""
+
+msgctxt "gui/2601"
+msgid "Sealed Crate"
+msgstr ""
+
+msgctxt "gui/2602"
+msgid "Cookie's Cookbook"
+msgstr ""
+
+msgctxt "gui/2606"
+msgid "Television"
+msgstr ""
+
+msgctxt "gui/2613"
+msgid ""
+"You’ve successfully purchased The Battle of Steeltown! The Steeltown mission "
+"will become active once you load into the World Map with a level 9 party."
+msgstr ""
+
+msgctxt "gui/2624"
+msgid "Steeltown Administration"
+msgstr ""
+
+msgctxt "gui/2625"
+msgid "Steeltown"
+msgstr ""
+
+msgctxt "gui/2626"
+msgid ""
+"Administrator Markham and her team of middle managers, clerks, and "
+"assistants, dedicated to giving Colorado a brighter future by returning to "
+"America's industrialized past."
+msgstr ""
+
+msgctxt "gui/2511"
+msgid "Radioactive Waste Barrel"
+msgstr ""
+
+msgctxt "gui/2614"
+msgid ""
+"You’ve successfully purchased Cult of the Holy Detonation! The Cheyenne "
+"Mountain mission will become active once you load into the World Map with a "
+"level 16 party."
+msgstr ""
+
+msgctxt "gui/2627"
+msgid "Toxic Waste Pipe"
+msgstr ""
+
+msgctxt "gui/2633"
+msgid "Crystal Shards"
+msgstr ""
+
+msgctxt "gui/2640"
+msgid "Bone Pile"
+msgstr ""
+
+msgctxt "gui/2641"
+msgid "Mysterious Hole"
+msgstr ""
+
+msgctxt "gui/2642"
+msgid "None"
+msgstr ""
+
+msgctxt "gui/2646"
+msgid "Gorilla Corpse"
+msgstr ""
+
+msgctxt "gui/2647"
+msgid "Holy Radiation"
+msgstr ""
+
+msgctxt "gui/2648"
+msgid "Field Crystal Housing"
+msgstr ""
+
+msgctxt "gui/2654"
+msgid "Monitor Bank"
+msgstr ""
+
+msgctxt "gui/2666"
+msgid "Cheyenne Power Conduit"
+msgstr ""
+
+msgctxt "gui/2667"
+msgid "Energy Syphon"
+msgstr ""
+
+msgctxt "gui/2668"
+msgid "Loading Dock Door"
+msgstr ""
+
+msgctxt "gui/2669"
+msgid "Crate"
+msgstr ""

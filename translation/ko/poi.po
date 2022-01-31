@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-26 12:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"POT-Creation-Date: 2022-02-01 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "poi/0"
 msgid "Statue of Reagan"
@@ -1057,3 +1055,291 @@ msgstr "프랭크 파파스의 방"
 msgctxt "poi/268"
 msgid "Irv's Apartment"
 msgstr "어브의 방"
+
+msgctxt "poi/269"
+msgid "Steeltown Gates"
+msgstr ""
+
+msgctxt "poi/270"
+msgid "South Bridge"
+msgstr ""
+
+msgctxt "poi/271"
+msgid "West Bridge"
+msgstr ""
+
+msgctxt "poi/272"
+msgid "Health Screenings"
+msgstr ""
+
+msgctxt "poi/273"
+msgid "Scrapyard"
+msgstr ""
+
+msgctxt "poi/274"
+msgid "\"Cookie's Kitchen\""
+msgstr ""
+
+msgctxt "poi/275"
+msgid "Refugee Camp"
+msgstr ""
+
+msgctxt "poi/276"
+msgid "Factory Lift"
+msgstr ""
+
+msgctxt "poi/277"
+msgid "Control Room"
+msgstr ""
+
+msgctxt "poi/278"
+msgid "Job Placement"
+msgstr ""
+
+msgctxt "poi/279"
+msgid "Markham’s Office"
+msgstr ""
+
+msgctxt "poi/280"
+msgid "Research & Development"
+msgstr ""
+
+msgctxt "poi/281"
+msgid "Break Room"
+msgstr ""
+
+msgctxt "poi/282"
+msgid "Biometric Assessment Pod"
+msgstr ""
+
+msgctxt "poi/283"
+msgid "Ocular Scanner"
+msgstr ""
+
+msgctxt "poi/284"
+msgid "Skills Test Terminal"
+msgstr ""
+
+msgctxt "poi/285"
+msgid "Radio"
+msgstr ""
+
+msgctxt "poi/286"
+msgid "Vehicle 54"
+msgstr ""
+
+msgctxt "poi/287"
+msgid "Vehicle 9"
+msgstr ""
+
+msgctxt "poi/288"
+msgid "Vehicle 63"
+msgstr ""
+
+msgctxt "poi/289"
+msgid "Blue's Office"
+msgstr ""
+
+msgctxt "poi/290"
+msgid "Break Room"
+msgstr ""
+
+msgctxt "poi/291"
+msgid "Storage Room"
+msgstr ""
+
+msgctxt "poi/292"
+msgid "Recycling and Development"
+msgstr ""
+
+msgctxt "poi/293"
+msgid "Steeltown Showroom"
+msgstr ""
+
+msgctxt "poi/295"
+msgid "Failsafe switch"
+msgstr ""
+
+msgctxt "poi/296"
+msgid "Failsafe switch OMEGA"
+msgstr ""
+
+msgctxt "poi/297"
+msgid "Failsafe switch GAMMA"
+msgstr ""
+
+msgctxt "poi/298"
+msgid "Computation Engine"
+msgstr ""
+
+msgctxt "poi/299"
+msgid "Override Terminal"
+msgstr ""
+
+msgctxt "poi/300"
+msgid "Core Control Terminal"
+msgstr ""
+
+msgctxt "poi/301"
+msgid "Foundry"
+msgstr ""
+
+msgctxt "poi/302"
+msgid "Factory Loading Bay"
+msgstr ""
+
+msgctxt "poi/303"
+msgid "War-Bot Leg Assembly"
+msgstr ""
+
+msgctxt "poi/304"
+msgid "War-Bot Torso Assembly"
+msgstr ""
+
+msgctxt "poi/305"
+msgid "War-Bot Laser Assembly"
+msgstr ""
+
+msgctxt "poi/306"
+msgid "Office of Fire Suppression"
+msgstr ""
+
+msgctxt "poi/307"
+msgid "Factory Floor Storage"
+msgstr ""
+
+msgctxt "poi/12"
+msgid "Cheyenne Entrance"
+msgstr ""
+
+msgctxt "poi/308"
+msgid "Entry Control System"
+msgstr ""
+
+msgctxt "poi/309"
+msgid "Security Wing"
+msgstr ""
+
+msgctxt "poi/310"
+msgid "Cheyenne Mountain Entrance"
+msgstr ""
+
+msgctxt "poi/311"
+msgid "Cheyenne Mountain Courtyard"
+msgstr ""
+
+msgctxt "poi/312"
+msgid "Ventilation Control Room"
+msgstr ""
+
+msgctxt "poi/313"
+msgid "Cooling Pool"
+msgstr ""
+
+msgctxt "poi/314"
+msgid "Observation Platform"
+msgstr ""
+
+msgctxt "poi/315"
+msgid "Observation Antechamber"
+msgstr ""
+
+msgctxt "poi/316"
+msgid "Maximum Security"
+msgstr ""
+
+msgctxt "poi/317"
+msgid "Special Security"
+msgstr ""
+
+msgctxt "poi/318"
+msgid "Generator Room"
+msgstr ""
+
+msgctxt "poi/319"
+msgid "Particle Accelerator"
+msgstr ""
+
+msgctxt "poi/320"
+msgid "Mycology Research Lab"
+msgstr ""
+
+msgctxt "poi/321"
+msgid "Genetic Research Lab"
+msgstr ""
+
+msgctxt "poi/322"
+msgid "Hydraulics Room"
+msgstr ""
+
+msgctxt "poi/323"
+msgid "Food Storage Vault"
+msgstr ""
+
+msgctxt "poi/324"
+msgid "Pressure Sensor"
+msgstr ""
+
+msgctxt "poi/325"
+msgid "Crane Controls"
+msgstr ""
+
+msgctxt "poi/326"
+msgid "Operations Room"
+msgstr ""
+
+msgctxt "poi/327"
+msgid "Power Storage"
+msgstr ""
+
+msgctxt "poi/328"
+msgid "Animal Experimentation"
+msgstr ""
+
+msgctxt "poi/329"
+msgid "Pumping Station"
+msgstr ""
+
+msgctxt "poi/330"
+msgid "Access Tunnel Control"
+msgstr ""
+
+msgctxt "poi/331"
+msgid "Holy Detonation"
+msgstr ""
+
+msgctxt "poi/332"
+msgid "Kinetic Energy Generator"
+msgstr ""
+
+msgctxt "poi/333"
+msgid "Mycology Lab"
+msgstr ""
+
+msgctxt "poi/334"
+msgid "Genetic Research Lab"
+msgstr ""
+
+msgctxt "poi/335"
+msgid "Particle Accelerator Chamber"
+msgstr ""
+
+msgctxt "poi/336"
+msgid "Hydraulics Control Room"
+msgstr ""
+
+msgctxt "poi/337"
+msgid "Power Generator Room"
+msgstr ""
+
+msgctxt "poi/338"
+msgid "Electrical Control Room"
+msgstr ""
+
+msgctxt "poi/339"
+msgid "Animal Research Lab"
+msgstr ""
+
+msgctxt "poi/340"
+msgid "Water Reservoir"
+msgstr ""

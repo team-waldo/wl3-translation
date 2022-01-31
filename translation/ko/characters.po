@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-29 12:58+0000\n"
-"Last-Translator: taamro <taamro.adaar@gmail.com>\n"
+"POT-Creation-Date: 2022-02-01 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "characters/0"
 msgid "[TEMP] The first character text"
@@ -4737,3 +4735,831 @@ msgstr "자동판매기"
 msgctxt "characters/1547"
 msgid "[empty]"
 msgstr "[비어있음]"
+
+msgctxt "characters/235"
+msgid "Doctor Breeler"
+msgstr ""
+
+msgctxt "characters/241"
+msgid "Carla Asphalt-Runner"
+msgstr ""
+
+msgctxt "characters/242"
+msgid "Vega Corsair"
+msgstr ""
+
+msgctxt "characters/243"
+msgid "Grille"
+msgstr ""
+
+msgctxt "characters/262"
+msgid "Abigail Markham"
+msgstr ""
+
+msgctxt "characters/263"
+msgid "Bennie Bianchi"
+msgstr ""
+
+msgctxt "characters/264"
+msgid "Salene Crow"
+msgstr ""
+
+msgctxt "characters/265"
+msgid "Roland Herrera"
+msgstr ""
+
+msgctxt "characters/266"
+msgid "Buddy"
+msgstr ""
+
+msgctxt "characters/323"
+msgid "Debug Arcology"
+msgstr ""
+
+msgctxt "characters/324"
+msgid "Debug Factory"
+msgstr ""
+
+msgctxt "characters/325"
+msgid "Debug Spire"
+msgstr ""
+
+msgctxt "characters/328"
+msgid "Steeltown Guard"
+msgstr ""
+
+msgctxt "characters/329"
+msgid "Steeltown Refugee"
+msgstr ""
+
+msgctxt "characters/415"
+msgid "Steeltown Administrator"
+msgstr ""
+
+msgctxt "characters/430"
+msgid "Computation Engine Core"
+msgstr ""
+
+msgctxt "characters/431"
+msgid "Computation Engine Synth"
+msgstr ""
+
+msgctxt "characters/451"
+msgid "Foreman MaBelle"
+msgstr ""
+
+msgctxt "characters/531"
+msgid "Blue"
+msgstr ""
+
+msgctxt "characters/589"
+msgid "Debug Garage With No Name"
+msgstr ""
+
+msgctxt "characters/590"
+msgid "Blue's Gang Assault"
+msgstr ""
+
+msgctxt "characters/591"
+msgid "Blue"
+msgstr ""
+
+msgctxt "characters/593"
+msgid "Wounded Steeltown Guard"
+msgstr ""
+
+msgctxt "characters/800"
+msgid "Blue's Gang Mechanic"
+msgstr ""
+
+msgctxt "characters/801"
+msgid "Blue's Gang Tech"
+msgstr ""
+
+msgctxt "characters/802"
+msgid "Blue's Gang Enforcer"
+msgstr ""
+
+msgctxt "characters/1337"
+msgid "Foundry Worker"
+msgstr ""
+
+msgctxt "characters/1338"
+msgid "Elite Foundry Worker"
+msgstr ""
+
+msgctxt "characters/1339"
+msgid "Construction Worker"
+msgstr ""
+
+msgctxt "characters/1340"
+msgid "Elite Construction Worker"
+msgstr ""
+
+msgctxt "characters/1341"
+msgid "Maintenance Worker"
+msgstr ""
+
+msgctxt "characters/1342"
+msgid "Worker Safety Chief"
+msgstr ""
+
+msgctxt "characters/1343"
+msgid "Powerloader Operator"
+msgstr ""
+
+msgctxt "characters/1344"
+msgid "Weaponized Powerloader Operator"
+msgstr ""
+
+msgctxt "characters/1345"
+msgid "Di"
+msgstr ""
+
+msgctxt "characters/1354"
+msgid "Luis"
+msgstr ""
+
+msgctxt "characters/1355"
+msgid "Oluwademilade"
+msgstr ""
+
+msgctxt "characters/1356"
+msgid "Dog-Bot"
+msgstr ""
+
+msgctxt "characters/1357"
+msgid "Guard-Bot"
+msgstr ""
+
+msgctxt "characters/1358"
+msgid "Guard-Bot XL"
+msgstr ""
+
+msgctxt "characters/1359"
+msgid "Steeltown Guard Transport"
+msgstr ""
+
+msgctxt "characters/1360"
+msgid "Ghost Exo-Tec"
+msgstr ""
+
+msgctxt "characters/1361"
+msgid "Ghost Thermal-Tec"
+msgstr ""
+
+msgctxt "characters/1362"
+msgid "Ghost Mechanic"
+msgstr ""
+
+msgctxt "characters/1363"
+msgid "Ghost Shield-Tec"
+msgstr ""
+
+msgctxt "characters/1364"
+msgid "Ghost Powerloader"
+msgstr ""
+
+msgctxt "characters/1365"
+msgid "Ghost Weaponized Powerloader"
+msgstr ""
+
+msgctxt "characters/1367"
+msgid "Slaver"
+msgstr ""
+
+msgctxt "characters/1368"
+msgid " Debug Mission: Order Up"
+msgstr ""
+
+msgctxt "characters/1369"
+msgid " Debug Mission: Hot Commodities"
+msgstr ""
+
+msgctxt "characters/1370"
+msgid " Debug Mission: Flushed"
+msgstr ""
+
+msgctxt "characters/1371"
+msgid " Debug Mission: Working Stiff"
+msgstr ""
+
+msgctxt "characters/1372"
+msgid " Debug Mission: Breeler’s Cure"
+msgstr ""
+
+msgctxt "characters/1373"
+msgid " Debug Mission: Gift of the Magi"
+msgstr ""
+
+msgctxt "characters/1374"
+msgid "O.M.C. Walsh"
+msgstr ""
+
+msgctxt "characters/1375"
+msgid "Cookie"
+msgstr ""
+
+msgctxt "characters/1376"
+msgid "Bot-lift"
+msgstr ""
+
+msgctxt "characters/1377"
+msgid "Clerk Jerry"
+msgstr ""
+
+msgctxt "characters/1378"
+msgid "Clerk Hurley"
+msgstr ""
+
+msgctxt "characters/1379"
+msgid "Clerk Doe"
+msgstr ""
+
+msgctxt "characters/1380"
+msgid "Bernice"
+msgstr ""
+
+msgctxt "characters/1381"
+msgid "Stolen shipment"
+msgstr ""
+
+msgctxt "characters/1383"
+msgid "Young Man Vinters"
+msgstr ""
+
+msgctxt "characters/1384"
+msgid "Archie"
+msgstr ""
+
+msgctxt "characters/1385"
+msgid "Edith"
+msgstr ""
+
+msgctxt "characters/1386"
+msgid "Awake Alfonso"
+msgstr ""
+
+msgctxt "characters/1387"
+msgid "Sugarplum Fairy"
+msgstr ""
+
+msgctxt "characters/1388"
+msgid "Bug"
+msgstr ""
+
+msgctxt "characters/1389"
+msgid "Silas"
+msgstr ""
+
+msgctxt "characters/1390"
+msgid "Nova"
+msgstr ""
+
+msgctxt "characters/1391"
+msgid "Desmond"
+msgstr ""
+
+msgctxt "characters/1392"
+msgid "Nurse Firenze"
+msgstr ""
+
+msgctxt "characters/1393"
+msgid "Wink Tillman"
+msgstr ""
+
+msgctxt "characters/1394"
+msgid "Amos Ryan"
+msgstr ""
+
+msgctxt "characters/1395"
+msgid "Shirley Ryan"
+msgstr ""
+
+msgctxt "characters/1396"
+msgid "Shemp Ryan"
+msgstr ""
+
+msgctxt "characters/1397"
+msgid "Serena Ash"
+msgstr ""
+
+msgctxt "characters/1398"
+msgid "Lazar Blazer"
+msgstr ""
+
+msgctxt "characters/1399"
+msgid "B.F."
+msgstr ""
+
+msgctxt "characters/1400"
+msgid "Ivan"
+msgstr ""
+
+msgctxt "characters/1401"
+msgid "Giles"
+msgstr ""
+
+msgctxt "characters/1402"
+msgid "Arushi"
+msgstr ""
+
+msgctxt "characters/1403"
+msgid "Reg"
+msgstr ""
+
+msgctxt "characters/1404"
+msgid "Keith"
+msgstr ""
+
+msgctxt "characters/1405"
+msgid "Mabelle"
+msgstr ""
+
+msgctxt "characters/1406"
+msgid "Computation Engine Synth"
+msgstr ""
+
+msgctxt "characters/1407"
+msgid "Toilet"
+msgstr ""
+
+msgctxt "characters/1408"
+msgid "Fatima"
+msgstr ""
+
+msgctxt "characters/1409"
+msgid "Fatima's Corpse"
+msgstr ""
+
+msgctxt "characters/1410"
+msgid "Aram's Corpse"
+msgstr ""
+
+msgctxt "characters/1411"
+msgid "Iris's Corpse"
+msgstr ""
+
+msgctxt "characters/1412"
+msgid "Arthur"
+msgstr ""
+
+msgctxt "characters/1413"
+msgid "Arthur's Corpse"
+msgstr ""
+
+msgctxt "characters/1415"
+msgid "Karl Ludlow"
+msgstr ""
+
+msgctxt "characters/1417"
+msgid "Iris"
+msgstr ""
+
+msgctxt "characters/1419"
+msgid "Enrico"
+msgstr ""
+
+msgctxt "characters/1421"
+msgid "Beals"
+msgstr ""
+
+msgctxt "characters/1422"
+msgid "Ghost Gang Raid Leader"
+msgstr ""
+
+msgctxt "characters/1426"
+msgid "Rank Ravi"
+msgstr ""
+
+msgctxt "characters/1427"
+msgid "Rad Ravi"
+msgstr ""
+
+msgctxt "characters/1428"
+msgid "War-bot Floor Model"
+msgstr ""
+
+msgctxt "characters/1429"
+msgid "Hayes"
+msgstr ""
+
+msgctxt "characters/1430"
+msgid "Luna Moon"
+msgstr ""
+
+msgctxt "characters/1447"
+msgid "Nova"
+msgstr ""
+
+msgctxt "characters/1450"
+msgid "Bug"
+msgstr ""
+
+msgctxt "characters/1451"
+msgid "Worker"
+msgstr ""
+
+msgctxt "characters/1452"
+msgid "Dash Grabem"
+msgstr ""
+
+msgctxt "characters/1453"
+msgid "HN6R"
+msgstr ""
+
+msgctxt "characters/1454"
+msgid "HRPs"
+msgstr ""
+
+msgctxt "characters/1455"
+msgid "H1n1"
+msgstr ""
+
+msgctxt "characters/1456"
+msgid "H3Y0"
+msgstr ""
+
+msgctxt "characters/1458"
+msgid "H3L0"
+msgstr ""
+
+msgctxt "characters/1469"
+msgid "Disruption Turret"
+msgstr ""
+
+msgctxt "characters/1470"
+msgid "Shield-Bot"
+msgstr ""
+
+msgctxt "characters/1471"
+msgid "Biometric Assessment Pod"
+msgstr ""
+
+msgctxt "characters/1472"
+msgid "Ocular Scanner"
+msgstr ""
+
+msgctxt "characters/1473"
+msgid "Skills Test Terminal"
+msgstr ""
+
+msgctxt "characters/1474"
+msgid "Newt"
+msgstr ""
+
+msgctxt "characters/1475"
+msgid "Ellen"
+msgstr ""
+
+msgctxt "characters/1480"
+msgid "Deirdre"
+msgstr ""
+
+msgctxt "characters/1482"
+msgid "Strength Test Terminal"
+msgstr ""
+
+msgctxt "characters/1483"
+msgid "H3R0"
+msgstr ""
+
+msgctxt "characters/1484"
+msgid "Bot-Lift"
+msgstr ""
+
+msgctxt "characters/1486"
+msgid "Computation Engine Interface"
+msgstr ""
+
+msgctxt "characters/1489"
+msgid "Secret Head"
+msgstr ""
+
+msgctxt "characters/1490"
+msgid "Handcraft"
+msgstr ""
+
+msgctxt "characters/1492"
+msgid "Blue's Drafting Table"
+msgstr ""
+
+msgctxt "characters/1493"
+msgid "Markham's Gun Rack"
+msgstr ""
+
+msgctxt "characters/1494"
+msgid "Worker Incentive System Prototype"
+msgstr ""
+
+msgctxt "characters/1503"
+msgid "EEG Hood Prototype"
+msgstr ""
+
+msgctxt "characters/1504"
+msgid "Florinda"
+msgstr ""
+
+msgctxt "characters/1514"
+msgid "Clean Toilet"
+msgstr ""
+
+msgctxt "characters/1515"
+msgid "Fancy Toilet"
+msgstr ""
+
+msgctxt "characters/358"
+msgid "Holy Detonation Acolyte"
+msgstr ""
+
+msgctxt "characters/421"
+msgid "Tourmaline"
+msgstr ""
+
+msgctxt "characters/626"
+msgid "Holy Detonation Disciple"
+msgstr ""
+
+msgctxt "characters/627"
+msgid "Radiation Angel"
+msgstr ""
+
+msgctxt "characters/1346"
+msgid "Initiate"
+msgstr ""
+
+msgctxt "characters/1347"
+msgid "Zealot"
+msgstr ""
+
+msgctxt "characters/1348"
+msgid "Evangelist"
+msgstr ""
+
+msgctxt "characters/1349"
+msgid "Feral Proto-Drool"
+msgstr ""
+
+msgctxt "characters/1350"
+msgid "Feral Flesh Mass"
+msgstr ""
+
+msgctxt "characters/1351"
+msgid "Radiation Angel"
+msgstr ""
+
+msgctxt "characters/1352"
+msgid "Flesh Tumor"
+msgstr ""
+
+msgctxt "characters/1353"
+msgid "Access Hatch"
+msgstr ""
+
+msgctxt "characters/1366"
+msgid "Particle Cannon"
+msgstr ""
+
+msgctxt "characters/1418"
+msgid "Father Bezoar"
+msgstr ""
+
+msgctxt "characters/1420"
+msgid "Coolant Tanks"
+msgstr ""
+
+msgctxt "characters/1423"
+msgid "Security Beacon"
+msgstr ""
+
+msgctxt "characters/1424"
+msgid "Recon Bot"
+msgstr ""
+
+msgctxt "characters/1425"
+msgid "Security Turret"
+msgstr ""
+
+msgctxt "characters/1431"
+msgid "Abbot Deuterium"
+msgstr ""
+
+msgctxt "characters/1432"
+msgid "Angel Iridium"
+msgstr ""
+
+msgctxt "characters/1433"
+msgid "Night Terror"
+msgstr ""
+
+msgctxt "characters/1448"
+msgid "Night Terror"
+msgstr ""
+
+msgctxt "characters/1449"
+msgid "Carbuncle"
+msgstr ""
+
+msgctxt "characters/1457"
+msgid "Benign"
+msgstr ""
+
+msgctxt "characters/1478"
+msgid "Metastatic"
+msgstr ""
+
+msgctxt "characters/1485"
+msgid "Vent"
+msgstr ""
+
+msgctxt "characters/1495"
+msgid "Proteus"
+msgstr ""
+
+msgctxt "characters/1496"
+msgid "Clone Fabricator"
+msgstr ""
+
+msgctxt "characters/1497"
+msgid "Goiter"
+msgstr ""
+
+msgctxt "characters/1498"
+msgid "Mitosis"
+msgstr ""
+
+msgctxt "characters/1499"
+msgid "Bubo"
+msgstr ""
+
+msgctxt "characters/1500"
+msgid "Polyp"
+msgstr ""
+
+msgctxt "characters/1501"
+msgid "Sick Rick"
+msgstr ""
+
+msgctxt "characters/1502"
+msgid "Melanoma"
+msgstr ""
+
+msgctxt "characters/1507"
+msgid "Brother Bismuth"
+msgstr ""
+
+msgctxt "characters/1508"
+msgid "Boris"
+msgstr ""
+
+msgctxt "characters/1509"
+msgid "Natasha"
+msgstr ""
+
+msgctxt "characters/1510"
+msgid "Sister Autunite"
+msgstr ""
+
+msgctxt "characters/1511"
+msgid "Primordialist Initiate"
+msgstr ""
+
+msgctxt "characters/1512"
+msgid "Primordialist Evangelist"
+msgstr ""
+
+msgctxt "characters/1513"
+msgid "Primordialist Proto-Drool"
+msgstr ""
+
+msgctxt "characters/1516"
+msgid "Initiate Warrior"
+msgstr ""
+
+msgctxt "characters/1517"
+msgid "Initiate Defender"
+msgstr ""
+
+msgctxt "characters/1518"
+msgid "Initiate Enforcer"
+msgstr ""
+
+msgctxt "characters/1519"
+msgid "Initiate Soldier"
+msgstr ""
+
+msgctxt "characters/1520"
+msgid "Initiate Marksman"
+msgstr ""
+
+msgctxt "characters/1521"
+msgid "Zealot Crusader"
+msgstr ""
+
+msgctxt "characters/1522"
+msgid "Zealot Blaster"
+msgstr ""
+
+msgctxt "characters/1523"
+msgid "Zealot Enforcer"
+msgstr ""
+
+msgctxt "characters/1524"
+msgid "Zealot Gunner"
+msgstr ""
+
+msgctxt "characters/1525"
+msgid "Zealot Purifier"
+msgstr ""
+
+msgctxt "characters/1526"
+msgid "Zealot Soldier"
+msgstr ""
+
+msgctxt "characters/1527"
+msgid "Tumor Door"
+msgstr ""
+
+msgctxt "characters/1528"
+msgid "Flesh Prince"
+msgstr ""
+
+msgctxt "characters/1529"
+msgid "Radiation Pipe"
+msgstr ""
+
+msgctxt "characters/1530"
+msgid "Hydraulics Pump"
+msgstr ""
+
+msgctxt "characters/1531"
+msgid "Water Pump"
+msgstr ""
+
+msgctxt "characters/1532"
+msgid "Ranger Turret"
+msgstr ""
+
+msgctxt "characters/1533"
+msgid "Tumor Crate"
+msgstr ""
+
+msgctxt "characters/1534"
+msgid "Stubborn Tumor Crate"
+msgstr ""
+
+msgctxt "characters/1535"
+msgid "System Announcer"
+msgstr ""
+
+msgctxt "characters/1536"
+msgid "Tulane Blacktop"
+msgstr ""
+
+msgctxt "characters/1537"
+msgid "Pustule"
+msgstr ""
+
+msgctxt "characters/1538"
+msgid "Uber-Clone"
+msgstr ""
+
+msgctxt "characters/1539"
+msgid "Energy Syphon"
+msgstr ""
+
+msgctxt "characters/1540"
+msgid "Pressure Sensor"
+msgstr ""
+
+msgctxt "characters/1541"
+msgid "Caul"
+msgstr ""
+
+msgctxt "characters/1542"
+msgid "Strontium"
+msgstr ""
+
+msgctxt "characters/1543"
+msgid "Crate"
+msgstr ""
+
+msgctxt "characters/1544"
+msgid "Vehicle Workbench"
+msgstr ""
+
+msgctxt "characters/1545"
+msgid "Mound of Shit"
+msgstr ""
+
+msgctxt "characters/1546"
+msgid "Container"
+msgstr ""
+
+msgctxt "characters/1548"
+msgid "Feral Pitchblend"
+msgstr ""
+
+msgctxt "characters/1549"
+msgid "Core Control Console"
+msgstr ""

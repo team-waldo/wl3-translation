@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-29 12:58+0000\n"
-"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
+"POT-Creation-Date: 2022-02-01 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "statuseffects/0"
 msgid " The first status effect text"
@@ -2326,3 +2324,829 @@ msgstr ""
 "납탄을 퍼부으세요!\\n"
 "\\n"
 "<color=#96C55F>다음 돌격소총이나 기관단총 공격이 행동력을 소모하지 않습니다.</color>"
+
+msgctxt "statuseffects/472"
+msgid "Disruption Field"
+msgstr ""
+
+msgctxt "statuseffects/473"
+msgid ""
+"Zap 'em and pack 'em. A debilitating effect that becomes worse the more the "
+"target is hit by it. Capable of disrupting spinal implants.\\n"
+"\\n"
+"<color=#CA3429>Applies Stunned at 10x. When used on Steeltown workers, they "
+"are non-lethally incapacitated instead.</color>"
+msgstr ""
+
+msgctxt "statuseffects/474"
+msgid "Disrupted"
+msgstr ""
+
+msgctxt "statuseffects/475"
+msgid "This character has been disrupted into submission."
+msgstr ""
+
+msgctxt "statuseffects/476"
+msgid "Hot Tar"
+msgstr ""
+
+msgctxt "statuseffects/477"
+msgid ""
+"The humiliation of being covered in sticky tar plus the agony of being slow-"
+"cooked alive. Two great tastes that go great together!"
+msgstr ""
+
+msgctxt "statuseffects/478"
+msgid "Hazard Shield"
+msgstr ""
+
+msgctxt "statuseffects/479"
+msgid "You feel invincible. Well, kinda."
+msgstr ""
+
+msgctxt "statuseffects/480"
+msgid "Charged Gauntlet"
+msgstr ""
+
+msgctxt "statuseffects/481"
+msgid "This character is about to smash everyone nearby."
+msgstr ""
+
+msgctxt "statuseffects/482"
+msgid "Energy-Powered Shield"
+msgstr ""
+
+msgctxt "statuseffects/483"
+msgid ""
+"A plasma barrier that protects the user from harm.\\n"
+"\\n"
+"<color=#808080>Reduced by 1x when hit by Energy Damage.</color>"
+msgstr ""
+
+msgctxt "statuseffects/484"
+msgid "Fire-Powered Shield"
+msgstr ""
+
+msgctxt "statuseffects/485"
+msgid ""
+"A firey barrier that protects the user from harm.\\n"
+"\\n"
+"<color=#808080>Reduced by 1x when hit Fire Damage.</color>"
+msgstr ""
+
+msgctxt "statuseffects/486"
+msgid "Cryo-Powered Shield"
+msgstr ""
+
+msgctxt "statuseffects/487"
+msgid ""
+"An icy barrier that protects the user from harm.\\n"
+"\\n"
+"<color=#808080>Reduced by 1x when hit by Cold Damage.</color>"
+msgstr ""
+
+msgctxt "statuseffects/488"
+msgid "Called Out"
+msgstr ""
+
+msgctxt "statuseffects/489"
+msgid "A Powerloader is focused on you."
+msgstr ""
+
+msgctxt "statuseffects/490"
+msgid "Link Shield"
+msgstr ""
+
+msgctxt "statuseffects/491"
+msgid "Crow is shielded from all damage while allies are shielded."
+msgstr ""
+
+msgctxt "statuseffects/496"
+msgid "Helping Hand"
+msgstr ""
+
+msgctxt "statuseffects/497"
+msgid "Handcraft is offering some manual assistance."
+msgstr ""
+
+msgctxt "statuseffects/510"
+msgid "Self-Repair"
+msgstr ""
+
+msgctxt "statuseffects/511"
+msgid "Advanced technologies passively repair this unit."
+msgstr ""
+
+msgctxt "statuseffects/522"
+msgid "Embiggened"
+msgstr ""
+
+msgctxt "statuseffects/523"
+msgid "Did everyone just get shorter?"
+msgstr ""
+
+msgctxt "statuseffects/531"
+msgid "Disruption Field x1"
+msgstr ""
+
+msgctxt "statuseffects/532"
+msgid "Disruption Field x2"
+msgstr ""
+
+msgctxt "statuseffects/533"
+msgid "Disruption Field x3"
+msgstr ""
+
+msgctxt "statuseffects/534"
+msgid "Disruption Field x4"
+msgstr ""
+
+msgctxt "statuseffects/535"
+msgid "Disruption Field x5"
+msgstr ""
+
+msgctxt "statuseffects/536"
+msgid "Disruption Field x6"
+msgstr ""
+
+msgctxt "statuseffects/537"
+msgid "Disruption Field x7"
+msgstr ""
+
+msgctxt "statuseffects/538"
+msgid "Disruption Field x8"
+msgstr ""
+
+msgctxt "statuseffects/539"
+msgid "Disruption Field x9"
+msgstr ""
+
+msgctxt "statuseffects/540"
+msgid "Cryo-Powered Shield x1"
+msgstr ""
+
+msgctxt "statuseffects/541"
+msgid "Cryo-Powered Shield x2"
+msgstr ""
+
+msgctxt "statuseffects/542"
+msgid "Cryo-Powered Shield x3"
+msgstr ""
+
+msgctxt "statuseffects/543"
+msgid "Fire-Powered Shield x1"
+msgstr ""
+
+msgctxt "statuseffects/544"
+msgid "Fire-Powered Shield x2"
+msgstr ""
+
+msgctxt "statuseffects/545"
+msgid "Fire-Powered Shield x3"
+msgstr ""
+
+msgctxt "statuseffects/546"
+msgid "Energy-Powered Shield x1"
+msgstr ""
+
+msgctxt "statuseffects/547"
+msgid "Energy-Powered Shield x2"
+msgstr ""
+
+msgctxt "statuseffects/548"
+msgid "Energy-Powered Shield x3"
+msgstr ""
+
+msgctxt "statuseffects/549"
+msgid "Hazard Shield x1"
+msgstr ""
+
+msgctxt "statuseffects/550"
+msgid "Hazard Shield x2"
+msgstr ""
+
+msgctxt "statuseffects/551"
+msgid "Hazard Shield x3"
+msgstr ""
+
+msgctxt "statuseffects/552"
+msgid "Hot Tar x1"
+msgstr ""
+
+msgctxt "statuseffects/553"
+msgid "Hot Tar x2"
+msgstr ""
+
+msgctxt "statuseffects/554"
+msgid "Hot Tar x3"
+msgstr ""
+
+msgctxt "statuseffects/555"
+msgid "Hot Tar x4"
+msgstr ""
+
+msgctxt "statuseffects/556"
+msgid "Hot Tar x5"
+msgstr ""
+
+msgctxt "statuseffects/557"
+msgid "Hot Tar x6"
+msgstr ""
+
+msgctxt "statuseffects/558"
+msgid "Hot Tar x7"
+msgstr ""
+
+msgctxt "statuseffects/559"
+msgid "Hot Tar x8"
+msgstr ""
+
+msgctxt "statuseffects/560"
+msgid "Hot Tar x9"
+msgstr ""
+
+msgctxt "statuseffects/561"
+msgid "Hot Tar x10"
+msgstr ""
+
+msgctxt "statuseffects/562"
+msgid " Shield Turn"
+msgstr ""
+
+msgctxt "statuseffects/563"
+msgid " Shield Cooldown"
+msgstr ""
+
+msgctxt "statuseffects/564"
+msgid "Focusing Target"
+msgstr ""
+
+msgctxt "statuseffects/565"
+msgid "The Powerloader is pursuing its target."
+msgstr ""
+
+msgctxt "statuseffects/579"
+msgid "Disruption Immune"
+msgstr ""
+
+msgctxt "statuseffects/580"
+msgid ""
+"Disruption dogs. Dang.\n"
+"\n"
+"\n"
+"<color=#CA3429>Immune to Disruption Field</color>"
+msgstr ""
+
+msgctxt "statuseffects/587"
+msgid "Relieved"
+msgstr ""
+
+msgctxt "statuseffects/588"
+msgid ""
+"It's like a huge load has been dropped from your shoulders.\n"
+"\n"
+"You feel lighter, nimbler, and more relaxed."
+msgstr ""
+
+msgctxt "statuseffects/592"
+msgid "Bear Wear"
+msgstr ""
+
+msgctxt "statuseffects/593"
+msgid "Tougher than the average bear."
+msgstr ""
+
+msgctxt "statuseffects/594"
+msgid "Ursine Hemline"
+msgstr ""
+
+msgctxt "statuseffects/595"
+msgid "Insulation for hibernation."
+msgstr ""
+
+msgctxt "statuseffects/596"
+msgid "Does a bear shit in the woods? Yes. A lot, apparently."
+msgstr ""
+
+msgctxt "statuseffects/436"
+msgid "Bubble Shield"
+msgstr ""
+
+msgctxt "statuseffects/437"
+msgid "Here in your bubble, you're safe from trouble."
+msgstr ""
+
+msgctxt "statuseffects/452"
+msgid " Holy Radiation Level 1"
+msgstr ""
+
+msgctxt "statuseffects/453"
+msgid " Holy Radiation Level 1 description"
+msgstr ""
+
+msgctxt "statuseffects/454"
+msgid " Holy Radiation Level 2"
+msgstr ""
+
+msgctxt "statuseffects/455"
+msgid " Holy Radiation Level 2 description"
+msgstr ""
+
+msgctxt "statuseffects/456"
+msgid " Holy Radiation Level 3"
+msgstr ""
+
+msgctxt "statuseffects/457"
+msgid " Holy Radiation Level 3 description"
+msgstr ""
+
+msgctxt "statuseffects/458"
+msgid " Holy Radiation Level 4"
+msgstr ""
+
+msgctxt "statuseffects/459"
+msgid " Holy Radiation Level 4 description"
+msgstr ""
+
+msgctxt "statuseffects/460"
+msgid " Holy Radiation Level 5"
+msgstr ""
+
+msgctxt "statuseffects/461"
+msgid " Holy Radiation Level 5 description"
+msgstr ""
+
+msgctxt "statuseffects/462"
+msgid " Holy Radiation Level 6"
+msgstr ""
+
+msgctxt "statuseffects/463"
+msgid " Holy Radiation Level 6 description"
+msgstr ""
+
+msgctxt "statuseffects/464"
+msgid " Holy Radiation Level 7"
+msgstr ""
+
+msgctxt "statuseffects/465"
+msgid " Holy Radiation Level 7 description"
+msgstr ""
+
+msgctxt "statuseffects/466"
+msgid " Holy Radiation Level 8"
+msgstr ""
+
+msgctxt "statuseffects/467"
+msgid " Holy Radiation Level 8 description"
+msgstr ""
+
+msgctxt "statuseffects/468"
+msgid " Holy Radiation Level 9"
+msgstr ""
+
+msgctxt "statuseffects/469"
+msgid " Holy Radiation Level 9 description"
+msgstr ""
+
+msgctxt "statuseffects/470"
+msgid " Holy Radiation Level 10"
+msgstr ""
+
+msgctxt "statuseffects/471"
+msgid " Holy Radiation Level 10 description"
+msgstr ""
+
+msgctxt "statuseffects/498"
+msgid "Radiation Cultist"
+msgstr ""
+
+msgctxt "statuseffects/499"
+msgid "This cultist grows more powerful when exposed to Holy Radiation."
+msgstr ""
+
+msgctxt "statuseffects/500"
+msgid "Radiation Immune"
+msgstr ""
+
+msgctxt "statuseffects/501"
+msgid "This character cannot be affected by Holy Radiation."
+msgstr ""
+
+msgctxt "statuseffects/502"
+msgid "Atomic Missionary"
+msgstr ""
+
+msgctxt "statuseffects/503"
+msgid ""
+"This cultist spreads a trail of Holy Radiation behind them wherever they go."
+msgstr ""
+
+msgctxt "statuseffects/504"
+msgid "Radiation Halo"
+msgstr ""
+
+msgctxt "statuseffects/505"
+msgid "This character emits Holy Radiation all around them."
+msgstr ""
+
+msgctxt "statuseffects/506"
+msgid " #Blessed"
+msgstr ""
+
+msgctxt "statuseffects/507"
+msgid " This effect should be hidden. Encourages the Evangelist to spread out."
+msgstr ""
+
+msgctxt "statuseffects/508"
+msgid "Zealous"
+msgstr ""
+
+msgctxt "statuseffects/509"
+msgid ""
+"On reaching 0 CON, this character will continue to fight for a single turn, "
+"then die afterwards."
+msgstr ""
+
+msgctxt "statuseffects/512"
+msgid "Pursued"
+msgstr ""
+
+msgctxt "statuseffects/513"
+msgid "A Proto-Drool wants revenge against you for attacking it."
+msgstr ""
+
+msgctxt "statuseffects/514"
+msgid "Vindictive"
+msgstr ""
+
+msgctxt "statuseffects/515"
+msgid "The Proto-Drool is pursuing a hunted target."
+msgstr ""
+
+msgctxt "statuseffects/516"
+msgid "Vengeful"
+msgstr ""
+
+msgctxt "statuseffects/517"
+msgid "This Proto-Drool will pursue its attackers."
+msgstr ""
+
+msgctxt "statuseffects/518"
+msgid "Fleshy"
+msgstr ""
+
+msgctxt "statuseffects/519"
+msgid "No weak points. Can't be Stunned or Slowed."
+msgstr ""
+
+msgctxt "statuseffects/520"
+msgid "Smeared"
+msgstr ""
+
+msgctxt "statuseffects/521"
+msgid "Slowed by sticky goop."
+msgstr ""
+
+msgctxt "statuseffects/524"
+msgid "Holy Blaze"
+msgstr ""
+
+msgctxt "statuseffects/525"
+msgid ""
+"This Radiation Angel is lashing out at anything that moves. She's emitting "
+"so much energy, you can't look directly at her."
+msgstr ""
+
+msgctxt "statuseffects/526"
+msgid " VERY Zealous"
+msgstr ""
+
+msgctxt "statuseffects/527"
+msgid " Abbot Deuterium is the ultimate Zealot."
+msgstr ""
+
+msgctxt "statuseffects/528"
+msgid "Protean"
+msgstr ""
+
+msgctxt "statuseffects/529"
+msgid ""
+"The Proteus is resistant to all forms of damage and regenerates rapidly."
+msgstr ""
+
+msgctxt "statuseffects/530"
+msgid " #BlessedByRadAngel"
+msgstr ""
+
+msgctxt "statuseffects/566"
+msgid "Holy Radiation"
+msgstr ""
+
+msgctxt "statuseffects/567"
+msgid "<i>That</i> probably shouldn't be glowing. Or pulsating. Or writhing."
+msgstr ""
+
+msgctxt "statuseffects/568"
+msgid ""
+"This cultist feeds on the Holy Detonation's energies, becoming more "
+"empowered the more it absorbs."
+msgstr ""
+
+msgctxt "statuseffects/569"
+msgid "Death Delayed"
+msgstr ""
+
+msgctxt "statuseffects/570"
+msgid ""
+"This zealot's life has been extended by the power of holy radiation, but the "
+"brightest flames burn out quick."
+msgstr ""
+
+msgctxt "statuseffects/571"
+msgid "Charging Up"
+msgstr ""
+
+msgctxt "statuseffects/572"
+msgid "This character is receiving Holy Radiaton from Iridium."
+msgstr ""
+
+msgctxt "statuseffects/573"
+msgid " Empty Vessel"
+msgstr ""
+
+msgctxt "statuseffects/574"
+msgid " Prepared to receive Holy Radiation from Iridium."
+msgstr ""
+
+msgctxt "statuseffects/575"
+msgid "Empowered"
+msgstr ""
+
+msgctxt "statuseffects/576"
+msgid "Supercharged with Holy Radiation from Iridium."
+msgstr ""
+
+msgctxt "statuseffects/577"
+msgid " Holy Radiation Mist"
+msgstr ""
+
+msgctxt "statuseffects/578"
+msgid " Empowered by high concentrations of Holy Radiation in the air."
+msgstr ""
+
+msgctxt "statuseffects/581"
+msgid "Holy Destroying Angel Mushroom"
+msgstr ""
+
+msgctxt "statuseffects/582"
+msgid ""
+"Empowered by Holy Radiation, you have become a destroying angel of judgment."
+msgstr ""
+
+msgctxt "statuseffects/583"
+msgid "Holy Horse Mushroom"
+msgstr ""
+
+msgctxt "statuseffects/584"
+msgid ""
+"Empowered by Holy Radiation, you can run like the wind and shrug off any "
+"obstacle."
+msgstr ""
+
+msgctxt "statuseffects/585"
+msgid "Holy Panther Mushroom"
+msgstr ""
+
+msgctxt "statuseffects/586"
+msgid "Empowered by Holy Radiation, your reflexes are faster than lightning."
+msgstr ""
+
+msgctxt "statuseffects/589"
+msgid " Enemy Scanned"
+msgstr ""
+
+msgctxt "statuseffects/590"
+msgid "Embiggened"
+msgstr ""
+
+msgctxt "statuseffects/591"
+msgid "Did everyone just get shorter?"
+msgstr ""
+
+msgctxt "statuseffects/597"
+msgid "Microwaved"
+msgstr ""
+
+msgctxt "statuseffects/598"
+msgid ""
+"Zap 'em 'til they pop.\\n"
+"\\n"
+"<color=#CA3429>Gradually fries targets with microwaves. At level 10, "
+"instantly deals 1144 Energy Damage.</color>"
+msgstr ""
+
+msgctxt "statuseffects/601"
+msgid "Wired"
+msgstr ""
+
+msgctxt "statuseffects/602"
+msgid ""
+"There's no problem that sugar and caffeine can't solve. Except maybe your "
+"constant twitching and desire to vomit."
+msgstr ""
+
+msgctxt "statuseffects/603"
+msgid "VR Vision"
+msgstr ""
+
+msgctxt "statuseffects/604"
+msgid "The future is here, and it's radical."
+msgstr ""
+
+msgctxt "statuseffects/605"
+msgid "VR Sickness"
+msgstr ""
+
+msgctxt "statuseffects/606"
+msgid "Oh man... gotta sit down... gonna hurl..."
+msgstr ""
+
+msgctxt "statuseffects/671"
+msgid "Glowing Horse Mushroom"
+msgstr ""
+
+msgctxt "statuseffects/672"
+msgid "Glowing Panther Mushroom"
+msgstr ""
+
+msgctxt "statuseffects/673"
+msgid "Glowing Destroying Angel Mushroom"
+msgstr ""
+
+msgctxt "statuseffects/674"
+msgid "Note to future self: maybe don't eat strange glowing mushrooms."
+msgstr ""
+
+msgctxt "statuseffects/675"
+msgid "Fast Flesh"
+msgstr ""
+
+msgctxt "statuseffects/676"
+msgid ""
+"Tissues knitted and skin refitted.\\n"
+"\\n"
+"<color=#96C55F>+10 CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/677"
+msgid "Gross Growth"
+msgstr ""
+
+msgctxt "statuseffects/678"
+msgid ""
+"Regenerate, and hopefully don't mutate.\\n"
+"\\n"
+"<color=#96C55F>+20 CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/679"
+msgid "Angelic Radiance"
+msgstr ""
+
+msgctxt "statuseffects/680"
+msgid ""
+"Angel Iridium's glorious, unstoppable radiance is blessing every layer of "
+"your epidermis.\\n"
+"\\n"
+"<color=#983B24>-8% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/681"
+msgid "Awesome Angelic Radiance"
+msgstr ""
+
+msgctxt "statuseffects/682"
+msgid ""
+"Angel Iridium's awe-inspiring radiance is warming your heart!\\n"
+"\\n"
+"<color=#983B24>-35% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/683"
+msgid "Terrific Angelic Radiance"
+msgstr ""
+
+msgctxt "statuseffects/684"
+msgid ""
+"Angel Iridium's terrific radiance has enveloped and penetrated the depths of "
+"your being.\\n"
+"\\n"
+"<color=#983B24>-75% CON per turn</color>"
+msgstr ""
+
+msgctxt "statuseffects/685"
+msgid "Crusty Skin"
+msgstr ""
+
+msgctxt "statuseffects/686"
+msgid ""
+"A reaction to the Night Terror's touch has caused your skin to go all crusty "
+"and hard."
+msgstr ""
+
+msgctxt "statuseffects/687"
+msgid "Putrid Odor"
+msgstr ""
+
+msgctxt "statuseffects/688"
+msgid ""
+"The Night Terror's stench is all over you. You smell like the illicit child "
+"of a tannery and an open sewer."
+msgstr ""
+
+msgctxt "statuseffects/689"
+msgid "Slimy Goop"
+msgstr ""
+
+msgctxt "statuseffects/690"
+msgid ""
+"The Night Terror has left disgusting gunk all over you. This must be what "
+"love feels like."
+msgstr ""
+
+msgctxt "statuseffects/691"
+msgid "Projectile Vomit"
+msgstr ""
+
+msgctxt "statuseffects/692"
+msgid ""
+"The Night Terror looks like it's ready to hurl at the next available target."
+msgstr ""
+
+msgctxt "statuseffects/693"
+msgid "Power Surge"
+msgstr ""
+
+msgctxt "statuseffects/694"
+msgid "This device is overloaded and stuck in a reboot cycle."
+msgstr ""
+
+msgctxt "statuseffects/695"
+msgid "Surge Protection"
+msgstr ""
+
+msgctxt "statuseffects/696"
+msgid "Shielded from outside interference."
+msgstr ""
+
+msgctxt "statuseffects/697"
+msgid "Charging Armageddon"
+msgstr ""
+
+msgctxt "statuseffects/698"
+msgid "She's gonna blow!"
+msgstr ""
+
+msgctxt "statuseffects/699"
+msgid "Invigorating Pulse"
+msgstr ""
+
+msgctxt "statuseffects/700"
+msgid ""
+"You’re surging with energy, strength, and a positive can-do attitude. Side "
+"effects include: Bioluminescence, Sapient Nipples, Euphoria, and “Pointy "
+"Tip.”"
+msgstr ""
+
+msgctxt "statuseffects/701"
+msgid "Overwhelming Pulse"
+msgstr ""
+
+msgctxt "statuseffects/702"
+msgid "You’re overcome with confusing pseudo-science rays."
+msgstr ""
+
+msgctxt "statuseffects/703"
+msgid "The Sads"
+msgstr ""
+
+msgctxt "statuseffects/704"
+msgid "It's no good, man. It's no good."
+msgstr ""
+
+msgctxt "statuseffects/705"
+msgid "Shroomcore"
+msgstr ""
+
+msgctxt "statuseffects/706"
+msgid ""
+"Dude, what if, like, what if <i>we</i> were mushrooms, dude? Dude. Duuuude."
+msgstr ""
+
+msgctxt "statuseffects/707"
+msgid "Love"
+msgstr ""
+
+msgctxt "statuseffects/708"
+msgid "I fucking love everything."
+msgstr ""

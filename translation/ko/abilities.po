@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-29 12:58+0000\n"
-"Last-Translator: 이상훈 <landglobearth@gmail.com>\n"
+"POT-Creation-Date: 2022-02-01 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "abilities/0"
 msgid " Direct Ability"
@@ -2401,3 +2399,419 @@ msgid ""
 "or have Damaged Armor."
 msgstr ""
 "돌격소총으로 경로 내 적 다수를 관통하는 사격을 행합니다. 기절했거나 방어구가 손상된 적에게는 100%만큼의 추가 피해를 줍니다."
+
+msgctxt "abilities/502"
+msgid ""
+"Use to remove Disruption, Hot Tar, Burning, Frozen, Shocked, Slowed, and "
+"Stunned status effects."
+msgstr ""
+
+msgctxt "abilities/503"
+msgid "Hazard Shield"
+msgstr ""
+
+msgctxt "abilities/504"
+msgid ""
+"Fire a protective shield at an ally that grants immunity to most negative "
+"conditions. Lasts until hit by elemental damage."
+msgstr ""
+
+msgctxt "abilities/505"
+msgid ""
+"Throw to create a persistent hazard that applies Disruption Field on anyone "
+"inside. Lasts 2 turns."
+msgstr ""
+
+msgctxt "abilities/506"
+msgid "Charge Gauntlet"
+msgstr ""
+
+msgctxt "abilities/507"
+msgid "Pneumatic Gauntlet"
+msgstr ""
+
+msgctxt "abilities/508"
+msgid "Energy Shield"
+msgstr ""
+
+msgctxt "abilities/509"
+msgid "Cryo Shield"
+msgstr ""
+
+msgctxt "abilities/510"
+msgid "Fire Shield"
+msgstr ""
+
+msgctxt "abilities/511"
+msgid "Cryo Cannon"
+msgstr ""
+
+msgctxt "abilities/512"
+msgid "Call Out"
+msgstr ""
+
+msgctxt "abilities/513"
+msgid "Cryo Cannon"
+msgstr ""
+
+msgctxt "abilities/514"
+msgid "Subdue"
+msgstr ""
+
+msgctxt "abilities/515"
+msgid "Extinguish"
+msgstr ""
+
+msgctxt "abilities/516"
+msgid "Use to safely put out flames on a target character."
+msgstr ""
+
+msgctxt "abilities/518"
+msgid "Self-Repair"
+msgstr ""
+
+msgctxt "abilities/524"
+msgid "Eat to gain +15% Melee Damage and +25% Max CON for 6 turns."
+msgstr ""
+
+msgctxt "abilities/532"
+msgid "Deploy Guard-Dog"
+msgstr ""
+
+msgctxt "abilities/533"
+msgid "Deploy Guard-Bot"
+msgstr ""
+
+msgctxt "abilities/534"
+msgid "Spinal Implant"
+msgstr ""
+
+msgctxt "abilities/535"
+msgid ""
+"Applies Disruption Field x10, instantly knocking out the target.\n"
+"\n"
+"\n"
+"<color=#808080>{0}% Chance:</color> Detonates the target's Spinal Implant, "
+"unleashing a Disruption Field hazard around them."
+msgstr ""
+
+msgctxt "abilities/488"
+msgid ""
+"Throw to cause massive damage to all targets in the affected area. Leaves "
+"behind a hazard that inflicts minor damage and Burning for 3 turns."
+msgstr ""
+
+msgctxt "abilities/489"
+msgid "Throw to heal a large variety of negative conditions."
+msgstr ""
+
+msgctxt "abilities/490"
+msgid ""
+"Use to gain +8 seconds Detection Time, +50% Sneak Attack Damage, and +50% "
+"Initiative for 1 turn."
+msgstr ""
+
+msgctxt "abilities/491"
+msgid "Deploy Bomb Hopper"
+msgstr ""
+
+msgctxt "abilities/492"
+msgid ""
+"Deploys a robotic Bomb Hopper follower that assists in combat. Self-"
+"destructs after combat has ended."
+msgstr ""
+
+msgctxt "abilities/495"
+msgid ""
+"Use to activate a shield that provides +8 Armor and +100% Holy Radiation "
+"Resistance, as well as -0.4 Combat Speed. Lasts 2 turns."
+msgstr ""
+
+msgctxt "abilities/499"
+msgid "Use to remove Holy Radiation."
+msgstr ""
+
+msgctxt "abilities/500"
+msgid "Throw to remove any hazards in the affected area."
+msgstr ""
+
+msgctxt "abilities/501"
+msgid ""
+"Deploys a Flesh Tumor follower that will assist in combat. Dies after combat "
+"has ended."
+msgstr ""
+
+msgctxt "abilities/517"
+msgid "Death Delayed"
+msgstr ""
+
+msgctxt "abilities/519"
+msgid "Revenge"
+msgstr ""
+
+msgctxt "abilities/520"
+msgid "Rupture"
+msgstr ""
+
+msgctxt "abilities/521"
+msgid "Rocket Barrage"
+msgstr ""
+
+msgctxt "abilities/522"
+msgid "Summon Security Turret"
+msgstr ""
+
+msgctxt "abilities/523"
+msgid "Summon Recon Bot"
+msgstr ""
+
+msgctxt "abilities/525"
+msgid "Angelic Voice"
+msgstr ""
+
+msgctxt "abilities/526"
+msgid "Gamma Burst"
+msgstr ""
+
+msgctxt "abilities/527"
+msgid "Holy Blaze"
+msgstr ""
+
+msgctxt "abilities/528"
+msgid " Holy Blaze"
+msgstr ""
+
+msgctxt "abilities/529"
+msgid "Radiation Halo"
+msgstr ""
+
+msgctxt "abilities/530"
+msgid "Inspire Zealotry"
+msgstr ""
+
+msgctxt "abilities/531"
+msgid "Spawn Tumor"
+msgstr ""
+
+msgctxt "abilities/536"
+msgid "Summon Proto-Drool"
+msgstr ""
+
+msgctxt "abilities/537"
+msgid "Summon Initiate"
+msgstr ""
+
+msgctxt "abilities/538"
+msgid ""
+"Eat to restore +100% CON and gain +100% Crit Damage and +2x Crit Chance. "
+"Lasts 2 turns. After, gain Holy Radiation x1."
+msgstr ""
+
+msgctxt "abilities/539"
+msgid ""
+"Eat to restore +100% CON and gain +1.0 Combat Speed and +2 AP. Lasts 2 "
+"turns. After, gain Holy Radiation x1."
+msgstr ""
+
+msgctxt "abilities/540"
+msgid ""
+"Eat to restore +100% CON and gain +100% Evasion and +100% Crit Resistance. "
+"Lasts 2 turns. After, gain Holy Radiation x1."
+msgstr ""
+
+msgctxt "abilities/541"
+msgid "Scan Intruder"
+msgstr ""
+
+msgctxt "abilities/542"
+msgid "Embiggen"
+msgstr ""
+
+msgctxt "abilities/543"
+msgid ""
+"Crank up the power to make targets enlarge instead of shrink, granting +25% "
+"CON and +25% Melee Damage, but reducing Evasion by -10%. Lasts 3 turns."
+msgstr ""
+
+msgctxt "abilities/544"
+msgid "Overload"
+msgstr ""
+
+msgctxt "abilities/545"
+msgid ""
+"Deals +100% damage in an area around the target and inflicts Power Surge, "
+"stunning enemy spawners and robots for 1 turn. Uses 6 ammo."
+msgstr ""
+
+msgctxt "abilities/546"
+msgid "Bile Blast"
+msgstr ""
+
+msgctxt "abilities/547"
+msgid ""
+"Lets out a massive blast of caustic bile in the area around the wielder, "
+"dealing heavy damage to enemies and inflicting Poison."
+msgstr ""
+
+msgctxt "abilities/548"
+msgid "Uranium Storm"
+msgstr ""
+
+msgctxt "abilities/549"
+msgid ""
+"Fires at each enemy in weapon range, up to a total of 12 enemies. Each "
+"bullet fired does 2x its regular damage."
+msgstr ""
+
+msgctxt "abilities/550"
+msgid "Thunderstruck"
+msgstr ""
+
+msgctxt "abilities/551"
+msgid ""
+"Strike a target with a lasting electric shock, damaging both them and anyone "
+"nearby over 3 turns."
+msgstr ""
+
+msgctxt "abilities/558"
+msgid "Eat to fully restore CON, but will also irradiate the user."
+msgstr ""
+
+msgctxt "abilities/559"
+msgid ""
+"Drink to gain +25% Evasion and +10% Critical Chance for 36 turns, but will "
+"also irradiate the user."
+msgstr ""
+
+msgctxt "abilities/560"
+msgid "Create Clone"
+msgstr ""
+
+msgctxt "abilities/561"
+msgid "Create a clone from mysterious blue goo."
+msgstr ""
+
+msgctxt "abilities/562"
+msgid "Gorilla Pheromones"
+msgstr ""
+
+msgctxt "abilities/563"
+msgid ""
+"Use to become irresistible to animals. Moving near animals has a 25% chance "
+"to tame them. Lasts 2 turns."
+msgstr ""
+
+msgctxt "abilities/564"
+msgid ""
+"Drink to gain +25% Melee Damage for 36 turns, but suffer -2 AP for 60 turns "
+"afterwards, but increases Holy Radiation level."
+msgstr ""
+
+msgctxt "abilities/565"
+msgid "Eat to go on a magical adventure."
+msgstr ""
+
+msgctxt "abilities/566"
+msgid "Throw to unleash the spirit of Tsoi."
+msgstr ""
+
+msgctxt "abilities/567"
+msgid "Radiation Tank"
+msgstr ""
+
+msgctxt "abilities/568"
+msgid ""
+"Deals +35% bonus damage.\\n"
+"\\n"
+"<color=#808080>{0}% Chance:</color> Blows up the target's tank, killing them "
+"and leaving behind a Holy Radiation hazard area."
+msgstr ""
+
+msgctxt "abilities/569"
+msgid "Slime Sack"
+msgstr ""
+
+msgctxt "abilities/570"
+msgid ""
+"Instantly kills the target and ruptures its slime sack, damaging and slowing "
+"anything nearby."
+msgstr ""
+
+msgctxt "abilities/571"
+msgid ""
+"Deals +25% bonus damage.\\n"
+"\\n"
+"<color=#808080>{0}% Chance:</color> Stuns the target for 1 turn, preventing "
+"it from spawning more Flesh Tumors."
+msgstr ""
+
+msgctxt "abilities/572"
+msgid ""
+"Deals +35% bonus damage.\\n"
+"\\n"
+"<color=#808080>{0}% Chance:</color> Inflicts Bleeding on the target."
+msgstr ""
+
+msgctxt "abilities/573"
+msgid "Mouth"
+msgstr ""
+
+msgctxt "abilities/574"
+msgid "Security Scanner"
+msgstr ""
+
+msgctxt "abilities/575"
+msgid ""
+"\\n"
+"\\n"
+"<color=#808080>{0}% Chance:</color> Stuns the target for 1 turn, preventing "
+"it from summoning reinforcements."
+msgstr ""
+
+msgctxt "abilities/576"
+msgid "Lasers"
+msgstr ""
+
+msgctxt "abilities/577"
+msgid "Sensor"
+msgstr ""
+
+msgctxt "abilities/578"
+msgid "Shell"
+msgstr ""
+
+msgctxt "abilities/579"
+msgid "Particle Emitter"
+msgstr ""
+
+msgctxt "abilities/580"
+msgid ""
+"Deals +35% bonus damage.\\n"
+"\\n"
+"<color=#808080>{0}% Chance:</color> Reduces the target's Armor by 75%."
+msgstr ""
+
+msgctxt "abilities/581"
+msgid "Armageddon"
+msgstr ""
+
+msgctxt "abilities/582"
+msgid ""
+"Sets off a nuclear explosion that devastates anything nearby, including you, "
+"and leaves behind a fiery hazard on the ground that inflicts Burning. Must "
+"be charged up for 1 turn."
+msgstr ""
+
+msgctxt "abilities/583"
+msgid "Atomic Blessing"
+msgstr ""
+
+msgctxt "abilities/584"
+msgid "Fallout"
+msgstr ""
+
+msgctxt "abilities/586"
+msgid ""
+"Crank up the power to make targets enlarge instead of shrink, granting +35% "
+"CON and +35% Melee Damage, but reducing Evasion by -10%. Lasts 3 turns."
+msgstr ""

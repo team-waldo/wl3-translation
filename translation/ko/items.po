@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-30 15:57+0000\n"
-"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
+"POT-Creation-Date: 2022-02-01 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "items/0"
 msgid " The first item text"
@@ -15127,3 +15125,2836 @@ msgstr "11가지 브랜드의 베터리 산과 용설란의 완벽한 혼합입�
 msgctxt "items/3793"
 msgid "Well, what did you expect?"
 msgstr "뭘 기대 한건가요?"
+
+msgctxt "items/572"
+msgid "Timing Belt"
+msgstr ""
+
+msgctxt "items/573"
+msgid "A rubber belt used in an engine in the Steeltown Factory"
+msgstr ""
+
+msgctxt "items/574"
+msgid "Oil Pump"
+msgstr ""
+
+msgctxt "items/575"
+msgid "A mechanical part for an engine in the Steeltown Factory"
+msgstr ""
+
+msgctxt "items/576"
+msgid "Fuel Injector"
+msgstr ""
+
+msgctxt "items/577"
+msgid "A small nozzle used in an engine in the Steeltown Factory."
+msgstr ""
+
+msgctxt "items/578"
+msgid "Intake Manifold"
+msgstr ""
+
+msgctxt "items/579"
+msgid "A large piped part used in an engine in the Steeltown Factory"
+msgstr ""
+
+msgctxt "items/580"
+msgid "Distributor"
+msgstr ""
+
+msgctxt "items/581"
+msgid ""
+"A mechanical part with wires sticking out of it for use in an engine in the "
+"Steeltown Factory."
+msgstr ""
+
+msgctxt "items/659"
+msgid "Stacks Access Gate Badge"
+msgstr ""
+
+msgctxt "items/660"
+msgid ""
+"Grants access to the Stacks Access Gate at the Steeltown entrance checkpoint"
+msgstr ""
+
+msgctxt "items/1820"
+msgid "Markham's Biometric Key"
+msgstr ""
+
+msgctxt "items/1821"
+msgid ""
+"A Steeltown ID badge keyed to Markham. It grants access to some very secure "
+"areas."
+msgstr ""
+
+msgctxt "items/1906"
+msgid "Steeltown Ornament"
+msgstr ""
+
+msgctxt "items/1907"
+msgid "Steeltown Description"
+msgstr ""
+
+msgctxt "items/3336"
+msgid "Cryo Exo Suit"
+msgstr ""
+
+msgctxt "items/3337"
+msgid "A suit that feels cozier than it looks."
+msgstr ""
+
+msgctxt "items/3338"
+msgid "Cryo Exo Leg Armor"
+msgstr ""
+
+msgctxt "items/3339"
+msgid "A pair of armored legs made for kicking snowmen in the South Pole."
+msgstr ""
+
+msgctxt "items/3340"
+msgid "Cryo Exo Helmet"
+msgstr ""
+
+msgctxt "items/3341"
+msgid "This helmet has side-flap things that keep your ears nice and warm."
+msgstr ""
+
+msgctxt "items/3342"
+msgid "Pyro Exo Suit"
+msgstr ""
+
+msgctxt "items/3343"
+msgid "You could bodyslam a fireplace with this suit."
+msgstr ""
+
+msgctxt "items/3344"
+msgid "Pyro Exo Leg Armor"
+msgstr ""
+
+msgctxt "items/3345"
+msgid "These armored legs can stomp out a forest fire."
+msgstr ""
+
+msgctxt "items/3346"
+msgid "Pyro Exo Helmet"
+msgstr ""
+
+msgctxt "items/3347"
+msgid "This helmet is an enemy to secondhand smoke."
+msgstr ""
+
+msgctxt "items/3348"
+msgid "Energy Exo Suit"
+msgstr ""
+
+msgctxt "items/3349"
+msgid "This suit makes you feel all tingly. In a good way."
+msgstr ""
+
+msgctxt "items/3350"
+msgid "Energy Exo Leg Armor"
+msgstr ""
+
+msgctxt "items/3351"
+msgid ""
+"Poke your friend after sliding your feet across the floor with these armored "
+"legs on. Heheh..."
+msgstr ""
+
+msgctxt "items/3352"
+msgid "Energy Exo Helmet"
+msgstr ""
+
+msgctxt "items/3353"
+msgid ""
+"This helmet makes a tuning fork sound in your ears when it's hit. Probably "
+"fine."
+msgstr ""
+
+msgctxt "items/3354"
+msgid "Grounded Suit"
+msgstr ""
+
+msgctxt "items/3355"
+msgid "You look like a plague doctor in this suit. Neat plating, though."
+msgstr ""
+
+msgctxt "items/3356"
+msgid "Grounded Leg Armor"
+msgstr ""
+
+msgctxt "items/3357"
+msgid "You feel <i>grounded</i> with these armored legs on."
+msgstr ""
+
+msgctxt "items/3358"
+msgid "Grounded Helmet"
+msgstr ""
+
+msgctxt "items/3359"
+msgid ""
+"Not sure what the antenna's for, but a headbutt could poke someone's eye "
+"out. Nice."
+msgstr ""
+
+msgctxt "items/3360"
+msgid "Ignition Spear"
+msgstr ""
+
+msgctxt "items/3361"
+msgid "Made for poking things in a hot forge - or people."
+msgstr ""
+
+msgctxt "items/3362"
+msgid "Elite Ignition Spear"
+msgstr ""
+
+msgctxt "items/3363"
+msgid "Now called \"the devil's toothpick.\""
+msgstr ""
+
+msgctxt "items/3364"
+msgid "Disruption Baton"
+msgstr ""
+
+msgctxt "items/3365"
+msgid "User warning: Don't touch the glowy end."
+msgstr ""
+
+msgctxt "items/3366"
+msgid "Elite Disruption Baton"
+msgstr ""
+
+msgctxt "items/3367"
+msgid "Shockingly effective."
+msgstr ""
+
+msgctxt "items/3368"
+msgid "Pneumatic Gauntlet"
+msgstr ""
+
+msgctxt "items/3369"
+msgid "Fist of electrical fury!"
+msgstr ""
+
+msgctxt "items/3370"
+msgid "Elite Pneumatic Gauntlet"
+msgstr ""
+
+msgctxt "items/3371"
+msgid "High-fives not recommended. May result in cardiac arrest or death."
+msgstr ""
+
+msgctxt "items/3372"
+msgid "Auto 'Fireball' Rifle"
+msgstr ""
+
+msgctxt "items/3373"
+msgid "The perfect auto rifle for any and all pyromaniacs."
+msgstr ""
+
+msgctxt "items/3374"
+msgid "Elite Auto 'Fireball' Rifle"
+msgstr ""
+
+msgctxt "items/3375"
+msgid "Step 1: Cast Fireball. Step 2: Shove hands into nearest snowdrift."
+msgstr ""
+
+msgctxt "items/3376"
+msgid "Disruption Pulser"
+msgstr ""
+
+msgctxt "items/3377"
+msgid "Good vibes for you, bad vibes for them."
+msgstr ""
+
+msgctxt "items/3378"
+msgid "Elite Disruption Pulser"
+msgstr ""
+
+msgctxt "items/3379"
+msgid "Clear! <i>BZZT!</i>"
+msgstr ""
+
+msgctxt "items/3380"
+msgid "Fire Suppressant Sprayer"
+msgstr ""
+
+msgctxt "items/3381"
+msgid "Freeze! Hands up!"
+msgstr ""
+
+msgctxt "items/3382"
+msgid "Elite Fire Suppressant Sprayer"
+msgstr ""
+
+msgctxt "items/3383"
+msgid "This upgraded lil' guy stops enemies cold in their tracks."
+msgstr ""
+
+msgctxt "items/3384"
+msgid "Disruption Web Launcher"
+msgstr ""
+
+msgctxt "items/3385"
+msgid "Imagine if Charlotte shot a web at you and it was made of electricity."
+msgstr ""
+
+msgctxt "items/3386"
+msgid "Elite Disruption Web Launcher"
+msgstr ""
+
+msgctxt "items/3387"
+msgid ""
+"Avoid getting hit if you don't want to know what atomic reconstruction feels "
+"like."
+msgstr ""
+
+msgctxt "items/3388"
+msgid "Heavy Fire Suppressor"
+msgstr ""
+
+msgctxt "items/3389"
+msgid "Smokey the Bear is loaded for bear."
+msgstr ""
+
+msgctxt "items/3390"
+msgid "Elite Heavy Fire Suppressor"
+msgstr ""
+
+msgctxt "items/3391"
+msgid "Remodeled to put your enemies into a tomb of ice."
+msgstr ""
+
+msgctxt "items/3392"
+msgid "Tar-Thrower"
+msgstr ""
+
+msgctxt "items/3393"
+msgid ""
+"You think getting blasted by a flamethrower was bad, how about a <i>molten "
+"tar-thrower?</i>"
+msgstr ""
+
+msgctxt "items/3394"
+msgid "Elite Tar-Thrower"
+msgstr ""
+
+msgctxt "items/3395"
+msgid ""
+"Now your enemies will feel like they're melting like the Wicked Witch of the "
+"West. Except with tar."
+msgstr ""
+
+msgctxt "items/3396"
+msgid "Hot-Rivet Rifle"
+msgstr ""
+
+msgctxt "items/3397"
+msgid "Leave your enemies riveted!"
+msgstr ""
+
+msgctxt "items/3398"
+msgid "Elite Hot-Rivet Rifle"
+msgstr ""
+
+msgctxt "items/3399"
+msgid "Congratulations! You've created the world's most powerful rivet gun."
+msgstr ""
+
+msgctxt "items/3400"
+msgid "Disruption Trap"
+msgstr ""
+
+msgctxt "items/3401"
+msgid "Toss this into a crowd and watch 'em fry."
+msgstr ""
+
+msgctxt "items/3402"
+msgid " Elite Disruption Field Generator"
+msgstr ""
+
+msgctxt "items/3403"
+msgid " Elite Disruption Field Generator desc"
+msgstr ""
+
+msgctxt "items/3404"
+msgid "Hazard Shield Generator"
+msgstr ""
+
+msgctxt "items/3405"
+msgid "A gun that bubble wraps your friends the way they like it."
+msgstr ""
+
+msgctxt "items/3406"
+msgid "Elite Hazard Shield Generator"
+msgstr ""
+
+msgctxt "items/3407"
+msgid "Now this is an upgrade you can get behind."
+msgstr ""
+
+msgctxt "items/3408"
+msgid "Chemical Neutralizer"
+msgstr ""
+
+msgctxt "items/3409"
+msgid ""
+"This aerosol spray immediately \"scrubs\" harmful effects Steeltown workers "
+"may encounter on the job. Don't delay, spray away!"
+msgstr ""
+
+msgctxt "items/3410"
+msgid "Blue's Office Keycard"
+msgstr ""
+
+msgctxt "items/3411"
+msgid "You found this on Blue's body. It's heavier than it looks."
+msgstr ""
+
+msgctxt "items/3412"
+msgid "Synaptic Degausser"
+msgstr ""
+
+msgctxt "items/3413"
+msgid ""
+"A small device capable of performing various operations on synthetic brains. "
+"You're pretty sure there's a magnet involved, as a trio of paperclips "
+"stubbornly cling to one side."
+msgstr ""
+
+msgctxt "items/3427"
+msgid "Ghost Gang Note"
+msgstr ""
+
+msgctxt "items/3428"
+msgid ""
+"Small, neat handwriting reads \"Set main radio to 89.3 FM. Set remaining "
+"radios to indicated presets.\""
+msgstr ""
+
+msgctxt "items/3429"
+msgid "Steeltown Scout Journal"
+msgstr ""
+
+msgctxt "items/3430"
+msgid ""
+"\"I figured out how the Ghost Gang gets in and out! Set the radio by the "
+"railcar to 89.3 FM, then follow the directions to set the other radios in "
+"the scapyard. Now I just gotta get back to Steeltown without the Ghosts "
+"spotting me. Easy peasy.\""
+msgstr ""
+
+msgctxt "items/3431"
+msgid "Wasteland 3 Server"
+msgstr ""
+
+msgctxt "items/3432"
+msgid ""
+"An old file backup server. Poor thing looks like it's been hit by the Deluge "
+"of Water <i>and</i> the Deluge of Fire."
+msgstr ""
+
+msgctxt "items/3433"
+msgid "Snow-Colored Dirt"
+msgstr ""
+
+msgctxt "items/3434"
+msgid ""
+"Hurrah, it's snow! Wait... No, it's just dirt that looks like snow. Lame."
+msgstr ""
+
+msgctxt "items/3435"
+msgid "Dirt-Colored Snow"
+msgstr ""
+
+msgctxt "items/3436"
+msgid ""
+"Finally, you've found it! Dirt! Hold on... No, it's just snow that looks "
+"like dirt. Ugh."
+msgstr ""
+
+msgctxt "items/3437"
+msgid "Slap Bracelet"
+msgstr ""
+
+msgctxt "items/3438"
+msgid "All you'll get is a slap on the wrist and no lessons learned, kids."
+msgstr ""
+
+msgctxt "items/3439"
+msgid "Old Pager"
+msgstr ""
+
+msgctxt "items/3440"
+msgid "A beep’s coming in any minute now. You can feel it."
+msgstr ""
+
+msgctxt "items/3441"
+msgid "AWOL Trial Disc"
+msgstr ""
+
+msgctxt "items/3442"
+msgid "Whoa, three months free! Wait... what's an \"internet?\""
+msgstr ""
+
+msgctxt "items/3443"
+msgid "Dead \"Tamayōkai\" Brand Virtual Pet"
+msgstr ""
+
+msgctxt "items/3444"
+msgid "This digital pet has gone to the great, big recycling bin in the sky."
+msgstr ""
+
+msgctxt "items/3445"
+msgid "\"Liger\" Brand Hand-Held LCD Game"
+msgstr ""
+
+msgctxt "items/3446"
+msgid "A dual-color screen combining \"gray\" and \"off-gray!\""
+msgstr ""
+
+msgctxt "items/3455"
+msgid "Knork"
+msgstr ""
+
+msgctxt "items/3456"
+msgid ""
+"First of all: <i>what?</i> Second of all: you'll still need two of these "
+"anyway."
+msgstr ""
+
+msgctxt "items/3457"
+msgid "Realistic Eye Replacement"
+msgstr ""
+
+msgctxt "items/3458"
+msgid "This be me real eye, poop boy."
+msgstr ""
+
+msgctxt "items/3459"
+msgid "Advanced Ball and Chain"
+msgstr ""
+
+msgctxt "items/3460"
+msgid "Ball and chain – now for kids!"
+msgstr ""
+
+msgctxt "items/3461"
+msgid "Weird Love Story"
+msgstr ""
+
+msgctxt "items/3462"
+msgid ""
+"The tragedy isn't that someone wrote a self-insert lovefic (you do you, boo)"
+". It's their love interest: <i>Liberty Buchanan</i>."
+msgstr ""
+
+msgctxt "items/3463"
+msgid "Broken Spider Grenade"
+msgstr ""
+
+msgctxt "items/3464"
+msgid "Can't call it a \"live bomb\" if all the spiders inside are dead."
+msgstr ""
+
+msgctxt "items/3465"
+msgid "Fuzzy Pen"
+msgstr ""
+
+msgctxt "items/3466"
+msgid "Looks like someone made Thing 1 into a pen."
+msgstr ""
+
+msgctxt "items/3471"
+msgid "YammerMan"
+msgstr ""
+
+msgctxt "items/3472"
+msgid "<i>Yammer</i>, man. Yammer like your life depended on it."
+msgstr ""
+
+msgctxt "items/3473"
+msgid "Learning Annex Brochure"
+msgstr ""
+
+msgctxt "items/3474"
+msgid ""
+"A pamphlet about job opportunities in Steeltown, including some ridiculous "
+"and overly grand occupations."
+msgstr ""
+
+msgctxt "items/3477"
+msgid "Shitty Pottery"
+msgstr ""
+
+msgctxt "items/3478"
+msgid ""
+"This poorly-rendered pottery looks like it was sculpted using directions "
+"from a Ouija board."
+msgstr ""
+
+msgctxt "items/3479"
+msgid "Ethical Robotics: An Introduction"
+msgstr ""
+
+msgctxt "items/3480"
+msgid "Hah. Cute. Show this to a Scorpitron and watch what happens."
+msgstr ""
+
+msgctxt "items/3481"
+msgid "Poorly Photocopied Political Pamphlet"
+msgstr ""
+
+msgctxt "items/3482"
+msgid ""
+"What little interest you have in reading this political manifesto is offset "
+"by the over-use of the word \"Sheeple.\""
+msgstr ""
+
+msgctxt "items/3483"
+msgid "Employee of the Month Betting Slip"
+msgstr ""
+
+msgctxt "items/3484"
+msgid ""
+"It looks like this person is really banking on Becky from accounting going "
+"down in the third round."
+msgstr ""
+
+msgctxt "items/3485"
+msgid "Meal Voucher"
+msgstr ""
+
+msgctxt "items/3486"
+msgid ""
+"In small print it reads, \"Redemption of this food voucher acts as a binding "
+"agreement to arbitrate any and all disputes against Steeltown.\""
+msgstr ""
+
+msgctxt "items/3487"
+msgid "Self-Help Book"
+msgstr ""
+
+msgctxt "items/3488"
+msgid ""
+"A self-help book titled: <i>From Proletariat to Bourgeoisie: Your Guide to "
+"Selling Out and Selling Up!</i>"
+msgstr ""
+
+msgctxt "items/3489"
+msgid "Cricket-Crunch Snack Bar"
+msgstr ""
+
+msgctxt "items/3490"
+msgid ""
+"Made from organic insect protein locally sourced from Steeltown's "
+"ventilation fans."
+msgstr ""
+
+msgctxt "items/3491"
+msgid "Order Slip"
+msgstr ""
+
+msgctxt "items/3492"
+msgid ""
+"An invoice for 75 plastic flamingos and a Gimp-a-corn... Whatever that is."
+msgstr ""
+
+msgctxt "items/3493"
+msgid "Synthetic Dog Shit"
+msgstr ""
+
+msgctxt "items/3494"
+msgid "Honestly, you’re in awe of the scientists' attention to detail."
+msgstr ""
+
+msgctxt "items/3495"
+msgid "Robot Nuts"
+msgstr ""
+
+msgctxt "items/3496"
+msgid "Two to a set."
+msgstr ""
+
+msgctxt "items/3497"
+msgid "Bastard Knob"
+msgstr ""
+
+msgctxt "items/3498"
+msgid ""
+"A knob inside a robot that must've set how much of a bastard they are. They "
+"broke it trying to turn it up to eleven."
+msgstr ""
+
+msgctxt "items/3509"
+msgid "Robot Shoulder Pad"
+msgstr ""
+
+msgctxt "items/3510"
+msgid "The height of robo-fashion circa 1986."
+msgstr ""
+
+msgctxt "items/3511"
+msgid "Robot Cooling System"
+msgstr ""
+
+msgctxt "items/3512"
+msgid ""
+"It says, \"WARNING: Overclocking robot may exceed manufacturer's thermal "
+"limits.\""
+msgstr ""
+
+msgctxt "items/3517"
+msgid "Robot Hand"
+msgstr ""
+
+msgctxt "items/3518"
+msgid "This robot hand has two positions: \"open\", and \"crush\"."
+msgstr ""
+
+msgctxt "items/3519"
+msgid "Disruption Field Grenade Launcher"
+msgstr ""
+
+msgctxt "items/3520"
+msgid ""
+"An electrifying way to end the party sooner. Each attack lays down a "
+"Disruption Field hazard."
+msgstr ""
+
+msgctxt "items/3521"
+msgid "Aram's Note"
+msgstr ""
+
+msgctxt "items/3522"
+msgid ""
+"This soiled note was taken from Aram's corpse. It says, \"Fifth time's a "
+"charm, I hope. Sorry, little dude, but you and me and your sister are going "
+"to prove that mike-ology can save the world from tears.\""
+msgstr ""
+
+msgctxt "items/3523"
+msgid "Arthur's Note"
+msgstr ""
+
+msgctxt "items/3524"
+msgid ""
+"This stained note was found on Arthur's body. Scrawled words read, \"Bummer, "
+"Rangers. I'm heading north so I guess I missed you. Feel free to stop by the "
+"dome if you need a crash pad!\""
+msgstr ""
+
+msgctxt "items/3525"
+msgid "Fatima's Note"
+msgstr ""
+
+msgctxt "items/3526"
+msgid ""
+"This crumpled note was taken from Fatima's body. It reads, \"Hey, Rangers! "
+"Hope I see you the next time I come east. Always great to catch up with old "
+"pals.\""
+msgstr ""
+
+msgctxt "items/3527"
+msgid "Iris' Note"
+msgstr ""
+
+msgctxt "items/3528"
+msgid ""
+"This bloodied note was found on Iris' corpse. It says, \"Look at us, "
+"Rangers! Helping people!\""
+msgstr ""
+
+msgctxt "items/3529"
+msgid " Clue: Hideout Visit 01 (Prisoner Returns) title"
+msgstr ""
+
+msgctxt "items/3530"
+msgid " Clue: Hideout Visit 01 (Prisoner Returns) desc"
+msgstr ""
+
+msgctxt "items/3531"
+msgid " Clue: Hideout Visit 02 (Prisoner Returns) title"
+msgstr ""
+
+msgctxt "items/3532"
+msgid " Clue: Hideout Visit 02 (Prisoner Returns) desc"
+msgstr ""
+
+msgctxt "items/3533"
+msgid " Clue: Hideout Visit 03 (Prisoner Returns) title"
+msgstr ""
+
+msgctxt "items/3534"
+msgid " Clue: Hideout Visit 03 (Prisoner Returns) desc"
+msgstr ""
+
+msgctxt "items/3547"
+msgid "Tellurium Steel"
+msgstr ""
+
+msgctxt "items/3548"
+msgid ""
+"This steel and tellurium alloy is Steeltown's signature material, with "
+"properties allowing for far more precise machining. "
+msgstr ""
+
+msgctxt "items/3549"
+msgid "Elite Cryo Exo Suit"
+msgstr ""
+
+msgctxt "items/3550"
+msgid ""
+"An upgraded suit that gives you the warm hug feeling you've never had "
+"growing up."
+msgstr ""
+
+msgctxt "items/3551"
+msgid "Elite Cryo Exo Leg Armor"
+msgstr ""
+
+msgctxt "items/3552"
+msgid ""
+"These upgraded armored legs would've been <i>great</i> to have when you "
+"first arrived in Colorado."
+msgstr ""
+
+msgctxt "items/3553"
+msgid "Elite Cryo Exo Helmet"
+msgstr ""
+
+msgctxt "items/3554"
+msgid "This upgraded helmet tells head colds to go fuck themselves."
+msgstr ""
+
+msgctxt "items/3555"
+msgid "Elite Pyro Exo Suit"
+msgstr ""
+
+msgctxt "items/3556"
+msgid "Flamethrowers ain't shit against this remodeled suit."
+msgstr ""
+
+msgctxt "items/3557"
+msgid "Elite Pyro Exo Leg Armor"
+msgstr ""
+
+msgctxt "items/3558"
+msgid "When the floor is lava, you will reign supreme."
+msgstr ""
+
+msgctxt "items/3559"
+msgid "Elite Pyro Exo Helmet"
+msgstr ""
+
+msgctxt "items/3560"
+msgid "A remodeled helmet that would be the envy of firefighters."
+msgstr ""
+
+msgctxt "items/3561"
+msgid "Elite Energy Exo Suit"
+msgstr ""
+
+msgctxt "items/3562"
+msgid "Even Mother Nature's lightning couldn't strike down this remade suit."
+msgstr ""
+
+msgctxt "items/3563"
+msgid "Elite Energy Exo Leg Armor"
+msgstr ""
+
+msgctxt "items/3564"
+msgid ""
+"Factory warning: Do NOT touch your friends after sliding your feet across "
+"the floor with these remade armored legs on."
+msgstr ""
+
+msgctxt "items/3565"
+msgid "Elite Energy Exo Helmet"
+msgstr ""
+
+msgctxt "items/3566"
+msgid ""
+"Upside: a remade helmet that deflects lightning bolts. Downside: hair static "
+"aftermaths."
+msgstr ""
+
+msgctxt "items/3567"
+msgid "Elite Grounded Suit"
+msgstr ""
+
+msgctxt "items/3568"
+msgid "\"Resistance is futile.\" That's adorable."
+msgstr ""
+
+msgctxt "items/3569"
+msgid "Elite Grounded Leg Armor"
+msgstr ""
+
+msgctxt "items/3570"
+msgid "A pair of refined armored legs with additional \"fuck you\" plating."
+msgstr ""
+
+msgctxt "items/3571"
+msgid "Elite Grounded Helmet"
+msgstr ""
+
+msgctxt "items/3572"
+msgid "A refined helmet that's more hardheaded than a Hard-Head."
+msgstr ""
+
+msgctxt "items/3573"
+msgid "Disruption Energy Converter"
+msgstr ""
+
+msgctxt "items/3574"
+msgid ""
+"This prototype converts energetic plasma into a disruption wave. It's "
+"designed to work with specific hardware and software in the Ghost Garage."
+msgstr ""
+
+msgctxt "items/3577"
+msgid " Stacking Status Weapon"
+msgstr ""
+
+msgctxt "items/3578"
+msgid "Bio-Metric Governor"
+msgstr ""
+
+msgctxt "items/3579"
+msgid ""
+"Proprietary microchips used to control Steeltown production machinery by "
+"monitoring worker bio-signs."
+msgstr ""
+
+msgctxt "items/3608"
+msgid "Nut Tightening Wrench"
+msgstr ""
+
+msgctxt "items/3609"
+msgid ""
+"\"Righty Tighty\" is the only choice with this wrench. It only tightens, "
+"never loosens. Only for use by certified Nut Tightening Engineers."
+msgstr ""
+
+msgctxt "items/3610"
+msgid "Nut Loosening Wrench"
+msgstr ""
+
+msgctxt "items/3611"
+msgid ""
+"\"Lefty Loosey\" is the only choice with this wrench. It only loosens, never "
+"tightens. Only for use by certified Nut Loosening Engineers."
+msgstr ""
+
+msgctxt "items/3612"
+msgid "Russian Nesting Doll"
+msgstr ""
+
+msgctxt "items/3613"
+msgid "You're afraid to find out how deep the rabbit hole goes."
+msgstr ""
+
+msgctxt "items/3614"
+msgid "Fraternization Clearance Form, Top"
+msgstr ""
+
+msgctxt "items/3615"
+msgid ""
+"The top half of a form that seems to request permission for two workers to "
+"see each other romantically. The \"Party 1\" field is filled in with the "
+"name \"Serena Ash.\""
+msgstr ""
+
+msgctxt "items/3616"
+msgid "Fraternization Clearance Form, Bottom"
+msgstr ""
+
+msgctxt "items/3617"
+msgid ""
+"The bottom half of a form that seems to request permission for two workers "
+"to see each other romantically. The \"Party 2\" field is filled in with the "
+"name \"Luna Moon.\""
+msgstr ""
+
+msgctxt "items/3618"
+msgid "McToasties Breakfast Cereal"
+msgstr ""
+
+msgctxt "items/3619"
+msgid ""
+"Made with real toast and a sprinkling of powdered radium<i>, McToasties will "
+"supercharge your morning!\n"
+" \n"
+"</i>Lawsuits alleging health risks of eating McToasties cereal are not yet "
+"proven in a court of law."
+msgstr ""
+
+msgctxt "items/3620"
+msgid "Synth Declaration"
+msgstr ""
+
+msgctxt "items/3621"
+msgid ""
+"A message of peace and reconciliation from a group of synths that fled to "
+"Colorado."
+msgstr ""
+
+msgctxt "items/3622"
+msgid "Blue's Throne Thoughts"
+msgstr ""
+
+msgctxt "items/3623"
+msgid "A recording of Blue's most personal reflections."
+msgstr ""
+
+msgctxt "items/3624"
+msgid "Rank Ravi's Ribbing"
+msgstr ""
+
+msgctxt "items/3625"
+msgid "This Ravi person really doesn't seem very popular."
+msgstr ""
+
+msgctxt "items/3626"
+msgid "Message From \"B\""
+msgstr ""
+
+msgctxt "items/3627"
+msgid ""
+"A tape containing a short recorded message from someone named \"B\" to \"J\"."
+msgstr ""
+
+msgctxt "items/3628"
+msgid "Recorded Conversation"
+msgstr ""
+
+msgctxt "items/3629"
+msgid "A personal call between Markham and Blue."
+msgstr ""
+
+msgctxt "items/3630"
+msgid "Ludlow Abuses"
+msgstr ""
+
+msgctxt "items/3631"
+msgid ""
+"This recording appears to detail an altercation between Ludlow and some of "
+"the Steeltown workers."
+msgstr ""
+
+msgctxt "items/3632"
+msgid "Message to Luis"
+msgstr ""
+
+msgctxt "items/3633"
+msgid "A reassuring message from Luis' wife, Florinda."
+msgstr ""
+
+msgctxt "items/3634"
+msgid "Cookie's Recipe List"
+msgstr ""
+
+msgctxt "items/3635"
+msgid "A list of meals to make when you don't have any actual food."
+msgstr ""
+
+msgctxt "items/3636"
+msgid "Markham's Personal Journal"
+msgstr ""
+
+msgctxt "items/3637"
+msgid ""
+"A page from Markham's personal journal talking about the earliest days of "
+"Steeltown."
+msgstr ""
+
+msgctxt "items/3638"
+msgid "Blue's Log"
+msgstr ""
+
+msgctxt "items/3639"
+msgid ""
+"A page from Blue's log book talking about the earliest days of Steeltown."
+msgstr ""
+
+msgctxt "items/3640"
+msgid "Fungible Resource Loss Report"
+msgstr ""
+
+msgctxt "items/3641"
+msgid "A description of an incident that cost Steeltown money and personnel."
+msgstr ""
+
+msgctxt "items/3642"
+msgid "Auction List"
+msgstr ""
+
+msgctxt "items/3643"
+msgid "A list of workers Security Chief Ludlow doesn't seem to like."
+msgstr ""
+
+msgctxt "items/3644"
+msgid "Found Letter"
+msgstr ""
+
+msgctxt "items/3645"
+msgid "A letter written by Crow to Markham."
+msgstr ""
+
+msgctxt "items/3646"
+msgid "War-bot Factory Assembly Line Schedule"
+msgstr ""
+
+msgctxt "items/3647"
+msgid "A list of shifts by work group."
+msgstr ""
+
+msgctxt "items/3664"
+msgid "Eight Synth Heads in a Burlap Sack"
+msgstr ""
+
+msgctxt "items/3679"
+msgid "Goat Hoof"
+msgstr ""
+
+msgctxt "items/3680"
+msgid "Definitely not the most edible part of the goat."
+msgstr ""
+
+msgctxt "items/3681"
+msgid "Steeltown Employee Badge"
+msgstr ""
+
+msgctxt "items/3682"
+msgid ""
+"It's official. You are an employee of Steeltown. You just hope the holiday "
+"party has an open bar."
+msgstr ""
+
+msgctxt "items/3683"
+msgid "Disruption Gauntlet"
+msgstr ""
+
+msgctxt "items/3684"
+msgid ""
+"This weapon took extra long in development because its creators kept playing "
+"pranks giving each other \"the shocker\"."
+msgstr ""
+
+msgctxt "items/3685"
+msgid "Heavy Disruption Blaster"
+msgstr ""
+
+msgctxt "items/3686"
+msgid "<i>Two</i> barrels? Someone knows how to please."
+msgstr ""
+
+msgctxt "items/3687"
+msgid "Disruption Tac-Rifle"
+msgstr ""
+
+msgctxt "items/3688"
+msgid "Make 'em ride the lightning."
+msgstr ""
+
+msgctxt "items/3689"
+msgid "Elite Disruption Gauntlet"
+msgstr ""
+
+msgctxt "items/3690"
+msgid "Warning: Keep at least 6 inches from pacemakers at all times."
+msgstr ""
+
+msgctxt "items/3691"
+msgid "Elite Heavy Disruption Blaster"
+msgstr ""
+
+msgctxt "items/3692"
+msgid "When you need to shake 'em all night long."
+msgstr ""
+
+msgctxt "items/3693"
+msgid "Elite Disruption Tac-Rifle"
+msgstr ""
+
+msgctxt "items/3694"
+msgid ""
+"You won't need a nuclear reaction to generate 1.21 jigawatts... just this "
+"baby right here."
+msgstr ""
+
+msgctxt "items/3695"
+msgid "Crate Release Form"
+msgstr ""
+
+msgctxt "items/3696"
+msgid ""
+"This authorization form is filled with bureaucratic jargon and covered in "
+"multiple layers of signatures. It approves the release of Cookie's crates."
+msgstr ""
+
+msgctxt "items/3714"
+msgid "Executive Bathroom Keycard"
+msgstr ""
+
+msgctxt "items/3715"
+msgid ""
+"One side of this small, weighty keycard has the Steeltown logo embossed on "
+"it. Etched onto the other side is 'Access To Private Executive Wash Suite. "
+"Property of Co-Administrator Blue Spector.'"
+msgstr ""
+
+msgctxt "items/3798"
+msgid "A Mean Cup of Chili"
+msgstr ""
+
+msgctxt "items/3799"
+msgid "You’re sweating just looking at it."
+msgstr ""
+
+msgctxt "items/3234"
+msgid "Nuke Grenade"
+msgstr ""
+
+msgctxt "items/3235"
+msgid "The power of the atom, now in your pocket!"
+msgstr ""
+
+msgctxt "items/3236"
+msgid "Vigor Dart"
+msgstr ""
+
+msgctxt "items/3237"
+msgid ""
+"Built on the same components as the common Med Darts, these micro-darts "
+"instantly alleviate many common battlefield afflictions."
+msgstr ""
+
+msgctxt "items/3238"
+msgid "Optical Camo Shroud"
+msgstr ""
+
+msgctxt "items/3239"
+msgid ""
+"Based on ideas dreamt up by NORAD scientists, this device refracts light "
+"around the wearer, rendering them much more difficult to spot. It can only "
+"be used for a limited time before it must recharge."
+msgstr ""
+
+msgctxt "items/3240"
+msgid "Bomb Hopper Launcher"
+msgstr ""
+
+msgctxt "items/3241"
+msgid ""
+"This implant allows the bearer to internally manufacture a deployable Bomb "
+"Hopper, which can then be fired and released onto the battlefield. Don't ask "
+"from which orifice. "
+msgstr ""
+
+msgctxt "items/3300"
+msgid "Bubble Shield"
+msgstr ""
+
+msgctxt "items/3301"
+msgid ""
+"This generator projects an energy bubble around the Kodiak that creates a "
+"partial vaccuum and inhibits the passage of particulates. When active, those "
+"inside are immune to radioactive contamination and gain protection from "
+"attacks, but movement is inhibited."
+msgstr ""
+
+msgctxt "items/3306"
+msgid "Hazmat Suit"
+msgstr ""
+
+msgctxt "items/3307"
+msgid "Helps keep the rads out so you can stay rad."
+msgstr ""
+
+msgctxt "items/3308"
+msgid "Hazmat Pants"
+msgstr ""
+
+msgctxt "items/3309"
+msgid ""
+"If you ever want to have kids after this, you should probably put these on."
+msgstr ""
+
+msgctxt "items/3310"
+msgid "Hazmat Helmet"
+msgstr ""
+
+msgctxt "items/3311"
+msgid ""
+"You can't help but feel like they should have figured out a way to let you "
+"turn your head while wearing one of these."
+msgstr ""
+
+msgctxt "items/3312"
+msgid "Advanced Hazmat Suit"
+msgstr ""
+
+msgctxt "items/3313"
+msgid ""
+"With extra protective materials, those pesky subatomic particles won't stand "
+"a chance."
+msgstr ""
+
+msgctxt "items/3314"
+msgid "Advanced Hazmat Pants"
+msgstr ""
+
+msgctxt "items/3315"
+msgid "If only they made protection this good for everything else."
+msgstr ""
+
+msgctxt "items/3316"
+msgid "Advanced Hazmat Helmet"
+msgstr ""
+
+msgctxt "items/3317"
+msgid ""
+"Improved radiation protection? Check. Extra glare reduction? Check. "
+"Peripheral vision? Eh, still workin' on that last one."
+msgstr ""
+
+msgctxt "items/3318"
+msgid "Pre-War Armor"
+msgstr ""
+
+msgctxt "items/3319"
+msgid ""
+"The Kevlar vest and tactical camo aren't the most protective, but they make "
+"you feel cool, and that's what really matters."
+msgstr ""
+
+msgctxt "items/3320"
+msgid "Pre-War Tac Pants"
+msgstr ""
+
+msgctxt "items/3321"
+msgid ""
+"Thick trousers, shin guards and heavy boots make you ready both for combat "
+"<i>and</i> the local department store."
+msgstr ""
+
+msgctxt "items/3322"
+msgid "Pre-War Helmet"
+msgstr ""
+
+msgctxt "items/3323"
+msgid ""
+"The sunglasses aren't standard kit with the helmet, but they probably should "
+"be."
+msgstr ""
+
+msgctxt "items/3324"
+msgid "Elite Pre-War Armor"
+msgstr ""
+
+msgctxt "items/3325"
+msgid ""
+"Upgraded with extra padding and an arctic camo color scheme, you'll feel "
+"even more like a real big army guy with this on."
+msgstr ""
+
+msgctxt "items/3326"
+msgid "Elite Pre-War Tac Pants"
+msgstr ""
+
+msgctxt "items/3327"
+msgid ""
+"Reinforced shin guards and thermal leggings means you'll be able to wade "
+"into just about anything, including both figurative and literal bullshit."
+msgstr ""
+
+msgctxt "items/3328"
+msgid "Elite Pre-War Helmet"
+msgstr ""
+
+msgctxt "items/3329"
+msgid ""
+"A padded underlayer grants extra shock absorption. The sunglasses still "
+"ain't standard kit, and still ain't going anywhere."
+msgstr ""
+
+msgctxt "items/3330"
+msgid "Tumor Gland"
+msgstr ""
+
+msgctxt "items/3331"
+msgid ""
+"This horrific creature eagerly reaches its tentacles and fangs towards your "
+"head. It's pretty clear it wants you to put it on there, and it's pretty "
+"clear you're a lunatic if you actually do."
+msgstr ""
+
+msgctxt "items/3332"
+msgid "Holy Radiation Battery"
+msgstr ""
+
+msgctxt "items/3333"
+msgid ""
+"A device capable of drawing Holy Radiation from living tissue and storing it "
+"safely inside radiation detection rods. Unlike regular batteries, these "
+"probably won’t do much to keep your portable gadgets going."
+msgstr ""
+
+msgctxt "items/3334"
+msgid "Purging Grenade"
+msgstr ""
+
+msgctxt "items/3335"
+msgid ""
+"This canister of compressed air isn’t technically a grenade, but trials by "
+"Cheyenne R&D determined that soldiers were 72% more likely to use it if they "
+"called it one."
+msgstr ""
+
+msgctxt "items/3447"
+msgid "Can of Relative Bearing Grease"
+msgstr ""
+
+msgctxt "items/3448"
+msgid "Not to be confused with Absolute Bearing Grease."
+msgstr ""
+
+msgctxt "items/3449"
+msgid "Box of Grid Squares"
+msgstr ""
+
+msgctxt "items/3450"
+msgid "Brings back memories of your embarrassing rookie Ranger days..."
+msgstr ""
+
+msgctxt "items/3451"
+msgid "Left-Handed Screwdriver"
+msgstr ""
+
+msgctxt "items/3452"
+msgid "Would lefty still be loosey and righty still be tighty?"
+msgstr ""
+
+msgctxt "items/3453"
+msgid "Commemorative Smashed Penny"
+msgstr ""
+
+msgctxt "items/3454"
+msgid ""
+"An old pressed coin. It's engraved with the words \"Cheyenne Mountain "
+"Complex\" and is dated 1967."
+msgstr ""
+
+msgctxt "items/3467"
+msgid "Mysterious Ring Fragment"
+msgstr ""
+
+msgctxt "items/3468"
+msgid ""
+"A metal ring piece with odd chevron designs locked in place. Likely broke "
+"off the Wheel of Fortune."
+msgstr ""
+
+msgctxt "items/3469"
+msgid "Old Metallic Staff"
+msgstr ""
+
+msgctxt "items/3470"
+msgid ""
+"A relic from the mysterious east. The design is truly... <i>alien</i>. Maybe "
+"Delaware?"
+msgstr ""
+
+msgctxt "items/3475"
+msgid "Komunist Manefasto"
+msgstr ""
+
+msgctxt "items/3476"
+msgid ""
+"A sad generations-long game of telephone that's diverged a <i>long</i> ways "
+"from the original."
+msgstr ""
+
+msgctxt "items/3499"
+msgid "Spent Fuel Rod"
+msgstr ""
+
+msgctxt "items/3500"
+msgid ""
+"A depleted uranium rod. While its fuel is used up, it still has low-level "
+"radioactive properities."
+msgstr ""
+
+msgctxt "items/3501"
+msgid "Loose Fashion Spikes"
+msgstr ""
+
+msgctxt "items/3502"
+msgid "When you want your clothes to say \"no.\""
+msgstr ""
+
+msgctxt "items/3503"
+msgid "WWPD Bracelet"
+msgstr ""
+
+msgctxt "items/3504"
+msgid ""
+"Words etched on the inside of the bracelet read, \"What would plutonium do?\""
+msgstr ""
+
+msgctxt "items/3505"
+msgid "Gently Glowing Science Textbook"
+msgstr ""
+
+msgctxt "items/3506"
+msgid ""
+"Unless this pre-war textbook is a bible in disguise, something meaningful "
+"must be inside if it's glowing like that."
+msgstr ""
+
+msgctxt "items/3507"
+msgid "\"My Tumor Pal\" Accessory Kit"
+msgstr ""
+
+msgctxt "items/3508"
+msgid ""
+"A small pouch containing bandages, gauze, googly eyes, and a very small hat."
+msgstr ""
+
+msgctxt "items/3575"
+msgid "Voltage Regulator"
+msgstr ""
+
+msgctxt "items/3576"
+msgid ""
+"An automatic voltage regulator capable of handling extreme energy "
+"fluctuations. One of three components Goiter asked you to retrieve in order "
+"to create Iridium's capture device."
+msgstr ""
+
+msgctxt "items/3580"
+msgid "Rad-Adherent Shielding Field Crystal"
+msgstr ""
+
+msgctxt "items/3581"
+msgid ""
+"The crystal from a force field generator. One of three components Goiter "
+"asked you to track down in order to build Iridium's capture device."
+msgstr ""
+
+msgctxt "items/3582"
+msgid "Wide Scatter Ray-Emitter"
+msgstr ""
+
+msgctxt "items/3583"
+msgid ""
+"A device allowing for the manipulation of energy fields. One of three "
+"components Goiter requested you find for Iridium's capture device."
+msgstr ""
+
+msgctxt "items/3584"
+msgid "Thousand Island Bottle"
+msgstr ""
+
+msgctxt "items/3585"
+msgid ""
+"Contains a thick pink dressing made from ketchup, mayonnaise, and mustard "
+"for a bit of extra kick. Its viscosity makes it perfect for sabotaging the "
+"particle accelerator."
+msgstr ""
+
+msgctxt "items/3586"
+msgid "Special Sauce Bottle"
+msgstr ""
+
+msgctxt "items/3587"
+msgid ""
+"Contains a reddish-brown mixture with a piquant taste. Would make a good "
+"burger topping. Could also gum up the works of the particle accelerator."
+msgstr ""
+
+msgctxt "items/3588"
+msgid "Mayo Bottle"
+msgstr ""
+
+msgctxt "items/3589"
+msgid ""
+"Contains one hundred and fifty year old mayonnaise. Maybe a little more tart "
+"than usual, but beggars can't be choosers."
+msgstr ""
+
+msgctxt "items/3590"
+msgid "Mustard Bottle"
+msgstr ""
+
+msgctxt "items/3591"
+msgid ""
+"The mustard in this bottle is long past its sell-by date, but it'll still "
+"cut it."
+msgstr ""
+
+msgctxt "items/3592"
+msgid "Ketchup Bottle"
+msgstr ""
+
+msgctxt "items/3593"
+msgid ""
+"Despite sitting for a century and a half, the preservatives in this ketchup "
+"have kept it semi-liquid."
+msgstr ""
+
+msgctxt "items/3648"
+msgid "Page From Theo Curie's Notes"
+msgstr ""
+
+msgctxt "items/3649"
+msgid ""
+"There is a lot of handwritten info on this page. Fortunately Theo has "
+"circled the airlock passcode, \"OU812.\""
+msgstr ""
+
+msgctxt "items/3650"
+msgid "Ventilation Key"
+msgstr ""
+
+msgctxt "items/3651"
+msgid "This key is labeled \"Ventilation Systems.\""
+msgstr ""
+
+msgctxt "items/3652"
+msgid "Maintenance Notice"
+msgstr ""
+
+msgctxt "items/3653"
+msgid ""
+"Configuration 10101 is causing condensation in the vents. Repairs scheduled "
+"for next week."
+msgstr ""
+
+msgctxt "items/3669"
+msgid "Carbon Fiber"
+msgstr ""
+
+msgctxt "items/3670"
+msgid ""
+"A rolled-up sheet of the blackest, lightest, sleekest, and most badass thing "
+"ever produced by materials science."
+msgstr ""
+
+msgctxt "items/3671"
+msgid "Mitosis' Bracelet"
+msgstr ""
+
+msgctxt "items/3672"
+msgid ""
+"This piece of jewelry is one of a matching set possessed by Mitosis and "
+"Pitchblend, her best friend."
+msgstr ""
+
+msgctxt "items/3673"
+msgid "Page from Pitchblend's Diary"
+msgstr ""
+
+msgctxt "items/3674"
+msgid ""
+"The grubby page reads, \"Had a moment of weakness today and almost went back "
+"to Mitosis, but Abbot D. reminded me she's a heretic, and made me promise to "
+"kill her like all the rest. Hope I can be strong when the time comes.\""
+msgstr ""
+
+msgctxt "items/3675"
+msgid "Pitchblend's Bracelet"
+msgstr ""
+
+msgctxt "items/3676"
+msgid ""
+"This piece of jewelry is one of a matching set possessed by Pitchblend and "
+"Mitosis. Unfortunately for her, you found this one on Pitchblend's body."
+msgstr ""
+
+msgctxt "items/3677"
+msgid "Electrical Key"
+msgstr ""
+
+msgctxt "items/3678"
+msgid "This key has a small tag on it that reads \"Electrical Systems.\""
+msgstr ""
+
+msgctxt "items/3697"
+msgid "Horse Mushroom"
+msgstr ""
+
+msgctxt "items/3698"
+msgid "A large, edible white mushroom that smells faintly of almonds."
+msgstr ""
+
+msgctxt "items/3699"
+msgid "Panther Mushroom"
+msgstr ""
+
+msgctxt "items/3700"
+msgid ""
+"A white mushroom dotted with tiny brown spots. Known for its psychedelic "
+"properties."
+msgstr ""
+
+msgctxt "items/3701"
+msgid "Destroying Angel Mushroom"
+msgstr ""
+
+msgctxt "items/3702"
+msgid "An all-white mushroom of the genus Amanita. Highly poisonous."
+msgstr ""
+
+msgctxt "items/3703"
+msgid "Holy Destroying Angel Mushroom"
+msgstr ""
+
+msgctxt "items/3704"
+msgid ""
+"A destroying angel mushroom successfully infused with the power of holy "
+"radiation."
+msgstr ""
+
+msgctxt "items/3705"
+msgid "Holy Panther Mushroom"
+msgstr ""
+
+msgctxt "items/3706"
+msgid ""
+"A panther mushroom successfully infused with the power of holy radiation."
+msgstr ""
+
+msgctxt "items/3707"
+msgid "Holy Horse Mushroom"
+msgstr ""
+
+msgctxt "items/3708"
+msgid "A horse mushroom successfully infused with the power of holy radiation."
+msgstr ""
+
+msgctxt "items/3709"
+msgid "Glowing Horse Mushroom"
+msgstr ""
+
+msgctxt "items/3710"
+msgid ""
+"An irradiated mushroom with a dangerous-looking glow. You're not sure if "
+"your experiment on it was fully successful."
+msgstr ""
+
+msgctxt "items/3711"
+msgid "Holy Destroying Angel Mushroom"
+msgstr ""
+
+msgctxt "items/3712"
+msgid "Holy Horse Mushroom"
+msgstr ""
+
+msgctxt "items/3713"
+msgid "Holy Panther Mushroom"
+msgstr ""
+
+msgctxt "items/3728"
+msgid "Fungus Software"
+msgstr ""
+
+msgctxt "items/3729"
+msgid "A small program designed to run an agricultural radiation experiment."
+msgstr ""
+
+msgctxt "items/3730"
+msgid "Gorilla Corpse"
+msgstr ""
+
+msgctxt "items/3731"
+msgid "Bolt Thrower"
+msgstr ""
+
+msgctxt "items/3732"
+msgid ""
+"This makeshift rifle launches crystal shards at bone-splitting speeds, "
+"shattering into bits and leeching radiation from enemies in the impact zone."
+msgstr ""
+
+msgctxt "items/3733"
+msgid "Ragnashock"
+msgstr ""
+
+msgctxt "items/3734"
+msgid ""
+"A cobbled-together battle axe that answers the question of \"what if Vikings "
+"had discovered electricity?\""
+msgstr ""
+
+msgctxt "items/3735"
+msgid "Diminuator"
+msgstr ""
+
+msgctxt "items/3736"
+msgid ""
+"A prototype device made by Cheyenne military scientists. The hand-written "
+"label on the controls helpfully reads, “Low Setting = Small. High Setting = "
+"???”"
+msgstr ""
+
+msgctxt "items/3737"
+msgid "Flesh Fist"
+msgstr ""
+
+msgctxt "items/3738"
+msgid ""
+"This living hunk of muscle tissue hugs your fist like a glove. You feel like "
+"you could punch through a brick wall, which would be way cooler if you didn’"
+"t feel like you were also reaching through someone’s colon."
+msgstr ""
+
+msgctxt "items/3739"
+msgid "Nuke Smasher"
+msgstr ""
+
+msgctxt "items/3740"
+msgid ""
+"It might be kinda on the nose, but you can’t really fault the Holy "
+"Detonation Cult for sticking to their theme with this one."
+msgstr ""
+
+msgctxt "items/3741"
+msgid "Uranium Crossbow"
+msgstr ""
+
+msgctxt "items/3742"
+msgid ""
+"An improvised crossbow that fires shards made from the same radiation-"
+"absorbing crystals found in the cultists' detection rods. Leaves targets a "
+"bit less glowy, but maybe a bit more hole-y."
+msgstr ""
+
+msgctxt "items/3743"
+msgid "Surge Blaster"
+msgstr ""
+
+msgctxt "items/3744"
+msgid ""
+"An experimental energy pistol that causes electronics-disabling power "
+"surges. There are controls and dials for calibrating the output, but you’re "
+"pretty sure you’re just going to leave them all on max."
+msgstr ""
+
+msgctxt "items/3745"
+msgid "Bile Belcher"
+msgstr ""
+
+msgctxt "items/3746"
+msgid ""
+"This horrifyingly mutated creature seems to exist solely to vomit forth a "
+"never-ending stream of toxic bile, much like your ex."
+msgstr ""
+
+msgctxt "items/3747"
+msgid "Uranium Sprayer"
+msgstr ""
+
+msgctxt "items/3748"
+msgid ""
+"You don’t know what train of thought led to this SMG using rad-sucking "
+"crystal shards as ammo, but you’re pretty sure it went off the rails a long "
+"time ago."
+msgstr ""
+
+msgctxt "items/3749"
+msgid "Detached Security Turret"
+msgstr ""
+
+msgctxt "items/3750"
+msgid ""
+"Ripped out of its machine network, this turret gazes wistfully at you, eager "
+"to fire a fuckton of searing hot laser beams directly into your face."
+msgstr ""
+
+msgctxt "items/3751"
+msgid "Microwave Cannon"
+msgstr ""
+
+msgctxt "items/3752"
+msgid ""
+"This kitbashed weapon fires microwaves that progressively heat up targets "
+"and turns them into something resembling your leftover chili."
+msgstr ""
+
+msgctxt "items/3753"
+msgid "Crystal Shard"
+msgstr ""
+
+msgctxt "items/3754"
+msgid ""
+"Made from the broken shards of radiation detection rods, this crude ammo is "
+"used by the Holy Detonation cultists."
+msgstr ""
+
+msgctxt "items/3794"
+msgid "Tune of Tumors"
+msgstr ""
+
+msgctxt "items/3795"
+msgid ""
+"A recording of a children's nursery rhyme, played on what sounds like a "
+"music box."
+msgstr ""
+
+msgctxt "items/3796"
+msgid "Capture Device"
+msgstr ""
+
+msgctxt "items/3797"
+msgid ""
+"Goiter built this device out of the parts you retrieved for him. It's "
+"designed to be attached to his siphon, and should create a force field to "
+"contain Iridium."
+msgstr ""
+
+msgctxt "items/3800"
+msgid "Bezoar's Skin Flute"
+msgstr ""
+
+msgctxt "items/3801"
+msgid ""
+"A bizarre wind instrument made out of sewn-together flesh of indeterminable "
+"origin. It somehow manages to be even less appealing than regular bagpipes."
+msgstr ""
+
+msgctxt "items/3802"
+msgid "Anti-Radiation Mushroom"
+msgstr ""
+
+msgctxt "items/3803"
+msgid ""
+"This mushroom has natural properties that combat the effects of radiation. "
+"Unfortunately, it also tastes completely horrible."
+msgstr ""
+
+msgctxt "items/3804"
+msgid "Cheyenne Mountain Dew"
+msgstr ""
+
+msgctxt "items/3805"
+msgid "It’ll dew it to you, alright."
+msgstr ""
+
+msgctxt "items/3806"
+msgid "R&D Meeting Tape #783"
+msgstr ""
+
+msgctxt "items/3807"
+msgid ""
+"A recording of an R&D meeting between Cheyenne researchers. Someone has "
+"written \"fuck jim\" on the label."
+msgstr ""
+
+msgctxt "items/3808"
+msgid "Infused Bolt Thrower"
+msgstr ""
+
+msgctxt "items/3809"
+msgid ""
+"Putting radioactive materials directly into the pressurized gas tank seems "
+"like it might not help, but it might not <i>not</i> help either."
+msgstr ""
+
+msgctxt "items/3810"
+msgid "Infused Ragnashock"
+msgstr ""
+
+msgctxt "items/3811"
+msgid "A weapon truly capable of bringing about the twilight of the gods."
+msgstr ""
+
+msgctxt "items/3812"
+msgid "Infused Diminuator"
+msgstr ""
+
+msgctxt "items/3813"
+msgid ""
+"It’s unlikely the person who made this thing would approve of you sticking "
+"radioactive materials into a particle accelerator, but science cannot be "
+"stopped!"
+msgstr ""
+
+msgctxt "items/3814"
+msgid "Infused Flesh Fist"
+msgstr ""
+
+msgctxt "items/3815"
+msgid ""
+"Adding radiation to the mix sure does bulk this thing up… even if it still "
+"feels like you’re giving someone a prostate massage."
+msgstr ""
+
+msgctxt "items/3816"
+msgid "Infused Nuke Smasher"
+msgstr ""
+
+msgctxt "items/3817"
+msgid ""
+"What makes a nuclear bomb on a stick even better? More nuclear, that’s what."
+msgstr ""
+
+msgctxt "items/3818"
+msgid "Infused Uranium Crossbow"
+msgstr ""
+
+msgctxt "items/3819"
+msgid ""
+"Blessed by holy radiation, each projectile from this crossbow hits with the "
+"power of a fission reaction."
+msgstr ""
+
+msgctxt "items/3820"
+msgid "Infused Surge Blaster"
+msgstr ""
+
+msgctxt "items/3821"
+msgid ""
+"Electricity is great and all, but gamma rays are where all the rad energy "
+"weapon tech is going these days."
+msgstr ""
+
+msgctxt "items/3822"
+msgid "Infused Bile Belcher"
+msgstr ""
+
+msgctxt "items/3823"
+msgid ""
+"Feeding radioactive materials to this thing sounds like a great idea, if "
+"your idea of great ideas is to make its bile radioactive as well."
+msgstr ""
+
+msgctxt "items/3824"
+msgid "Infused Uranium Sprayer"
+msgstr ""
+
+msgctxt "items/3825"
+msgid ""
+"Empowering this weapon with radioactive energies can’t be good for your "
+"enemies' health. Or yours."
+msgstr ""
+
+msgctxt "items/3826"
+msgid "Infused Security Turret"
+msgstr ""
+
+msgctxt "items/3827"
+msgid ""
+"Strange. For some reason, infusing this robotic death machine with radiation "
+"only makes it <i>more</i> angry."
+msgstr ""
+
+msgctxt "items/3828"
+msgid "Infused Microwave Cannon"
+msgstr ""
+
+msgctxt "items/3829"
+msgid ""
+"It turns out that if you jam irradiated rods right into the magnetron, it "
+"can get your popcorn cooking time down to like, two seconds."
+msgstr ""
+
+msgctxt "items/3830"
+msgid "Crane Operations Key"
+msgstr ""
+
+msgctxt "items/3831"
+msgid ""
+"A well-used key that looks like it'll get you into the crane control room."
+msgstr ""
+
+msgctxt "items/3832"
+msgid "Toxic Waste Note"
+msgstr ""
+
+msgctxt "items/3833"
+msgid ""
+"WARNING TO STAFF! Our toxic waste storage is overflowing, but research must "
+"go on! For now we're storing it in the shipping containers, so be careful "
+"opening them without protective gear."
+msgstr ""
+
+msgctxt "items/3834"
+msgid "Note from Vending Machine"
+msgstr ""
+
+msgctxt "items/3835"
+msgid ""
+"Davy, I put this note where you said. Hope you find it. I saw those freaks "
+"put the rad suit in a shipping container marked with a yellow triangle.\\n"
+"Good luck,\\n"
+"Peter"
+msgstr ""
+
+msgctxt "items/3836"
+msgid "Goiter's Note"
+msgstr ""
+
+msgctxt "items/3837"
+msgid ""
+"The note has three crossed out passwords, \"B1GBUTT\", \"N3WP455W0RD\", "
+"\"GU3ST69\" and one freshly written passcode at the very bottom \"ADM1N1337."
+"\""
+msgstr ""
+
+msgctxt "items/3838"
+msgid "Purple Goo"
+msgstr ""
+
+msgctxt "items/3839"
+msgid ""
+"Taken from a dead clone, this glob of purple goo twitches and wobbles all by "
+"itself, as if it were still alive."
+msgstr ""
+
+msgctxt "items/3840"
+msgid "Vial of Advanced DNA"
+msgstr ""
+
+msgctxt "items/3841"
+msgid ""
+"DNA obtained from an advanced genetic extraction process in Cheyenne "
+"Mountain. Its helix structure is highly stable, so may be able to reinforce "
+"incomplete genetic information."
+msgstr ""
+
+msgctxt "items/3842"
+msgid "Theo Curie's Cheyenne Mountain Documents"
+msgstr ""
+
+msgctxt "items/3843"
+msgid ""
+"There are pages and pages of info here, but the passcode to enter Cheyenne "
+"Mountain is on the first page and circled. Unfortunately, blood spatters "
+"from your murder of Theo obscure it. It can't be read. "
+msgstr ""
+
+msgctxt "items/3844"
+msgid "Safe Keycard"
+msgstr ""
+
+msgctxt "items/3845"
+msgid "A simple electronic keycard with the label \"Electrical Secure #1.\""
+msgstr ""
+
+msgctxt "items/3846"
+msgid "Power Storage Facility Access Code"
+msgstr ""
+
+msgctxt "items/3847"
+msgid ""
+"A note labeled \"Power Storage Facility\" with a few synthetic black fibers "
+"stuck to the corners. The word \"Rebirth\" is written down and circled."
+msgstr ""
+
+msgctxt "items/3848"
+msgid "Particle Accelerator Keycard"
+msgstr ""
+
+msgctxt "items/3849"
+msgid ""
+"A heavily used access card with lots of little dings and scratches on it. "
+"Worn lettering says \"Particle Accelerator.\""
+msgstr ""
+
+msgctxt "items/3850"
+msgid "Decoder Ring"
+msgstr ""
+
+msgctxt "items/3851"
+msgid ""
+"A secret agent decoder ring from a box of Sugar-Coated Cosmo-Nuts cereal."
+msgstr ""
+
+msgctxt "items/3852"
+msgid "Russian Recipe Note"
+msgstr ""
+
+msgctxt "items/3853"
+msgid ""
+"A crumpled piece of paper, crusted in a dry brown muck. The note is in "
+"English, but strangely, all the Rs are reversed."
+msgstr ""
+
+msgctxt "items/3854"
+msgid "Nucleist Patrol Log"
+msgstr ""
+
+msgctxt "items/3855"
+msgid "A page from a log book, detailing incidents occuring on a guard patrol."
+msgstr ""
+
+msgctxt "items/3856"
+msgid "Worn Leather-Bound Journal"
+msgstr ""
+
+msgctxt "items/3857"
+msgid ""
+"The embossed red star on the cover of this old journal suggests a Russian "
+"origin."
+msgstr ""
+
+msgctxt "items/3858"
+msgid "Collector's Diary"
+msgstr ""
+
+msgctxt "items/3859"
+msgid "A page from the notebook of a rabid toy collector."
+msgstr ""
+
+msgctxt "items/3860"
+msgid "Benign's Note"
+msgstr ""
+
+msgctxt "items/3861"
+msgid ""
+"A folded sheet of paper topped with the letterhead of the Western White "
+"House."
+msgstr ""
+
+msgctxt "items/3862"
+msgid "Grimy Note"
+msgstr ""
+
+msgctxt "items/3863"
+msgid ""
+"Peter.\\n"
+"\\n"
+"Sorry. Had to get out. The mutants threw the rad suit in a shipping "
+"container marked with a nuclear symbol.\\n"
+"\\n"
+"Davy"
+msgstr ""
+
+msgctxt "items/3864"
+msgid "Bottle of Acme Genuine Gorilla Pheromones"
+msgstr ""
+
+msgctxt "items/3865"
+msgid ""
+"FOR ZOOKEEPER USE ONLY - No monkeying around. Guaranteed to make your she "
+"gorillas go ape for your silverbacks, or your money back."
+msgstr ""
+
+msgctxt "items/3866"
+msgid "Fur-Covered Cassette"
+msgstr ""
+
+msgctxt "items/3867"
+msgid "This cassette is matted with sticky fake fur."
+msgstr ""
+
+msgctxt "items/3868"
+msgid "Special Sauce Recipe"
+msgstr ""
+
+msgctxt "items/3869"
+msgid ""
+"The secret to a truly mouth-watering burger. It's creamy, but maybe a little "
+"runny."
+msgstr ""
+
+msgctxt "items/3870"
+msgid "Thousand Island Dressing Recipe"
+msgstr ""
+
+msgctxt "items/3871"
+msgid ""
+"This recipe makes a thick and tasty dressing that goes great on anything."
+msgstr ""
+
+msgctxt "items/3872"
+msgid "Nuclear Crown"
+msgstr ""
+
+msgctxt "items/3873"
+msgid ""
+"The perfect headdress to herald the apocalypse, or at least it would be if "
+"everyone would stop snickering at you."
+msgstr ""
+
+msgctxt "items/3876"
+msgid "Infused Nuclear Crown"
+msgstr ""
+
+msgctxt "items/3877"
+msgid ""
+"Glowing with the power of holy radiation, this towering mitre is only "
+"slightly diminisehd by its sheer dorkiness."
+msgstr ""
+
+msgctxt "items/3878"
+msgid "Holy Wine"
+msgstr ""
+
+msgctxt "items/3879"
+msgid ""
+"A bottle of sacramental wine that sparkles with more than just bubbles.  "
+"It's got a radiation warning painted ornately on the label, alongside the "
+"words 'Makes the Liturgy shine!' Doesn't seem safe for you to drink, but "
+"maybe someone else would appreciate it."
+msgstr ""
+
+msgctxt "items/3880"
+msgid "VR Headset"
+msgstr ""
+
+msgctxt "items/3881"
+msgid ""
+"An advanced combat simulation helmet designed to train the soldiers of the "
+"future. The advanced dual-lens visor produces an immersive simulation of "
+"such detail and fidelity that it is indistinguishable from reality, except "
+"there are only two colors and it makes you want to vomit."
+msgstr ""
+
+msgctxt "items/3882"
+msgid "Visor Frame"
+msgstr ""
+
+msgctxt "items/3883"
+msgid ""
+"An advanced neural-machine interface, or a really shitty Halloween costume? "
+"Depends on who you ask."
+msgstr ""
+
+msgctxt "items/3884"
+msgid "Portable Headphones"
+msgstr ""
+
+msgctxt "items/3885"
+msgid ""
+"If you had a portable cassette player, you could treat yourself to a private "
+"listening experience in 12 kbps monaural bliss."
+msgstr ""
+
+msgctxt "items/3886"
+msgid "Memory Module"
+msgstr ""
+
+msgctxt "items/3887"
+msgid ""
+"This impossibly tiny memory chip runs at a cool 158 degrees Celsius and has "
+"enough space to store at least two bitmaps. It cost eight hundred thousand "
+"dollars."
+msgstr ""
+
+msgctxt "items/3888"
+msgid "Hybrid Fresnel Lenses"
+msgstr ""
+
+msgctxt "items/3889"
+msgid ""
+"When you put these lenses up to your eyes, they make everything look like a "
+"funhouse mirror. So <i>this</i> is the future."
+msgstr ""
+
+msgctxt "items/3890"
+msgid "Accelerometer"
+msgstr ""
+
+msgctxt "items/3891"
+msgid ""
+"This spinny little guy is purpose-designed to make things always turn "
+"exactly the wrong direction from what you intended."
+msgstr ""
+
+msgctxt "items/3892"
+msgid "Firmware Prototype"
+msgstr ""
+
+msgctxt "items/3893"
+msgid ""
+"You aren't sure what the difference between software and firmware is, but "
+"you think it's probably rated R."
+msgstr ""
+
+msgctxt "items/3894"
+msgid "Russian Dance Grenade"
+msgstr ""
+
+msgctxt "items/3895"
+msgid "Party like is 1982, comrade!"
+msgstr ""
+
+msgctxt "items/3896"
+msgid "Slimy Doll"
+msgstr ""
+
+msgctxt "items/3897"
+msgid ""
+"A very old, worn child's doll. It's missing bits and pieces and has bits of "
+"sticky slime all over it. The name \"Bob\" is scratched into the back of its "
+"head."
+msgstr ""
+
+msgctxt "items/3956"
+msgid "A Confused Cheese"
+msgstr ""
+
+msgctxt "items/3957"
+msgid "Neither you nor the cheese know why it’s here."
+msgstr ""
+
+msgctxt "items/3958"
+msgid "Leo Szilard Action Figure"
+msgstr ""
+
+msgctxt "items/3959"
+msgid ""
+"Oh wow, it includes the limited-edition miniature Nuclear Reactor and signed "
+"schematics!"
+msgstr ""
+
+msgctxt "items/3960"
+msgid "Can O' Carl"
+msgstr ""
+
+msgctxt "items/3961"
+msgid "Is Carl the brand, the flavor, or what it's made out of?"
+msgstr ""
+
+msgctxt "items/3962"
+msgid "Yellowcake"
+msgstr ""
+
+msgctxt "items/3963"
+msgid ""
+"Like a cake, except more of a sickly yellow powder, and instead of giving "
+"you deliciousness, it just gives you a few extra holes in your stomach."
+msgstr ""
+
+msgctxt "items/3964"
+msgid "Bottle of Heavy Water"
+msgstr ""
+
+msgctxt "items/3965"
+msgid ""
+"This looks like a normal bottle of water, but it smells strangely sweet. "
+"Hard pass."
+msgstr ""
+
+msgctxt "items/3966"
+msgid "Radium Pendant"
+msgstr ""
+
+msgctxt "items/3967"
+msgid "Nobody said fashion wasn't a sacrifice."
+msgstr ""
+
+msgctxt "items/3968"
+msgid "Old Calculator"
+msgstr ""
+
+msgctxt "items/3969"
+msgid ""
+"Someone’s programmed in so many formulas that the poor thing has crashed."
+msgstr ""
+
+msgctxt "items/3970"
+msgid "Peelable Flesh Face"
+msgstr ""
+
+msgctxt "items/3971"
+msgid ""
+"In this case, you <i>really</i> don’t want to see what’s behind the mask."
+msgstr ""
+
+msgctxt "items/3972"
+msgid "Black Eyeshadow"
+msgstr ""
+
+msgctxt "items/3973"
+msgid "You can’t be in a cult without some gothy makeup. It’s the law."
+msgstr ""
+
+msgctxt "items/3974"
+msgid "Spiky Metal Collar"
+msgstr ""
+
+msgctxt "items/3975"
+msgid ""
+"You’re not sure if the spikes are meant to keep it on, or keep others away."
+msgstr ""
+
+msgctxt "items/3976"
+msgid "Questionable Liquid"
+msgstr ""
+
+msgctxt "items/3977"
+msgid "This better be “drool”… or gelatinous piss."
+msgstr ""
+
+msgctxt "items/3978"
+msgid "“Beautiful On the Inside: A Guide to Your Self Image”"
+msgstr ""
+
+msgctxt "items/3979"
+msgid ""
+"This seems to be a self-help book all about finding confidence and "
+"positivity with your body."
+msgstr ""
+
+msgctxt "items/3980"
+msgid "Mouth Guard"
+msgstr ""
+
+msgctxt "items/3981"
+msgid "This thing is rubbery and has tons of tiny holes and chew-marks on it."
+msgstr ""
+
+msgctxt "items/3982"
+msgid "Tissue Pack"
+msgstr ""
+
+msgctxt "items/3983"
+msgid ""
+"A pack of tissue paper, partially used. It’s stained with blood and snot."
+msgstr ""
+
+msgctxt "items/3984"
+msgid "Heavily Edited Fermi Scripture"
+msgstr ""
+
+msgctxt "items/3985"
+msgid ""
+"Text from “The Writings of Enrico Fermi” but it's been scribbled over with "
+"notes and symbols. They seriously disagreed with this Fermi fellow..."
+msgstr ""
+
+msgctxt "items/3986"
+msgid "Spiny Halo"
+msgstr ""
+
+msgctxt "items/3987"
+msgid "More like a heavy-ass crown of thorns."
+msgstr ""
+
+msgctxt "items/3988"
+msgid "Uranium Chalice"
+msgstr ""
+
+msgctxt "items/3989"
+msgid "This cup runneth over… with a bunch of nasty green stuff."
+msgstr ""
+
+msgctxt "items/3990"
+msgid "Fleshy Bits"
+msgstr ""
+
+msgctxt "items/3991"
+msgid ""
+"An unidentifiable slab of meat and sinew. It’d almost look tasty if you didn’"
+"t know where it came from."
+msgstr ""
+
+msgctxt "items/3992"
+msgid "Bone Fragments"
+msgstr ""
+
+msgctxt "items/3993"
+msgid ""
+"Some splintered bone fragments. They’re almost, but not quite, human-looking."
+msgstr ""
+
+msgctxt "items/3994"
+msgid "Sticky Mucus"
+msgstr ""
+
+msgctxt "items/3995"
+msgid "Like a snail’s, but somehow even <i>more</i> disgusting."
+msgstr ""
+
+msgctxt "items/3996"
+msgid "Security Turret Optics"
+msgstr ""
+
+msgctxt "items/3997"
+msgid ""
+"Cheyenne’s security turrets use a set of these to triangulate their death "
+"zone. Death zone being a technical term."
+msgstr ""
+
+msgctxt "items/3998"
+msgid "Security Turret Shell"
+msgstr ""
+
+msgctxt "items/3999"
+msgid ""
+"This metallic shell is specifically shaped to deflect incoming bullets, all "
+"while looking like a fancy video game controller."
+msgstr ""
+
+msgctxt "items/4000"
+msgid "Security Turret Wiring"
+msgstr ""
+
+msgctxt "items/4001"
+msgid ""
+"These fiber optic cables can transmit incredible amounts of data - and are "
+"great for hooking up your stereo system too."
+msgstr ""
+
+msgctxt "items/4002"
+msgid "Recon Bot Leg"
+msgstr ""
+
+msgctxt "items/4003"
+msgid ""
+"This spidery leg is probably less creepy than a real spider leg, but still "
+"creepy."
+msgstr ""
+
+msgctxt "items/4004"
+msgid "Recon Bot Antennas"
+msgstr ""
+
+msgctxt "items/4005"
+msgid "This quad-band antenna array seems like it’d get some pretty low pings."
+msgstr ""
+
+msgctxt "items/4006"
+msgid "Recon Bot Data Strip"
+msgstr ""
+
+msgctxt "items/4007"
+msgid ""
+"A small length of thin magnetic tape used to record data. Three inches of "
+"this data strip can store up to 2.1 million data points."
+msgstr ""
+
+msgctxt "items/4008"
+msgid "Busted Schematics Floppy Disk"
+msgstr ""
+
+msgctxt "items/4009"
+msgid ""
+"Looks like the fabricator was creating the robots based off the schematics "
+"on this floppy disk, but it's been damaged beyond repair."
+msgstr ""
+
+msgctxt "items/4010"
+msgid "Night Terror Eye"
+msgstr ""
+
+msgctxt "items/4011"
+msgid ""
+"The Night Terror’s eyeball. Staring into it still gives you the heebie-"
+"jeebies, even if it’s no longer attached to the much heebie-jeebier owner."
+msgstr ""
+
+msgctxt "items/4012"
+msgid "Night Terror Scales"
+msgstr ""
+
+msgctxt "items/4013"
+msgid ""
+"Like a crocodile’s, but colder and slimier, with lots of little scratches "
+"and scrapes. Strangely, they bring back the mental scars of your childhood."
+msgstr ""
+
+msgctxt "items/4014"
+msgid "Gross Mushroom"
+msgstr ""
+
+msgctxt "items/4015"
+msgid ""
+"This mushroom is leaking some kind of black liquid. It's probably about as "
+"tasty as it looks."
+msgstr ""
+
+msgctxt "items/4016"
+msgid "Spotted Mushroom"
+msgstr ""
+
+msgctxt "items/4017"
+msgid ""
+"The perfect picture of a fairytale mushroom, bulbous and red with white "
+"spots. Looks pretty good, as mushrooms go."
+msgstr ""
+
+msgctxt "items/4018"
+msgid "Golden Mushroom"
+msgstr ""
+
+msgctxt "items/4019"
+msgid ""
+"A small mushroom with a round golden yellow cap at the end. Seems like it'd "
+"be kinda stringy."
+msgstr ""
+
+msgctxt "items/4020"
+msgid "Schrodinger's Catfish"
+msgstr ""
+
+msgctxt "items/4021"
+msgid "It's oddly filling yet not filling at the same time..."
+msgstr ""
+
+msgctxt "items/4022"
+msgid "Purple Corn"
+msgstr ""
+
+msgctxt "items/4023"
+msgid ""
+"Your mouth begins to water just thinking about this particularly purple corn "
+"cob."
+msgstr ""
+
+msgctxt "items/4024"
+msgid "Broken Music Box"
+msgstr ""
+
+msgctxt "items/4025"
+msgid ""
+"This music box is cracked and overgrown with flesh. It won't ever play its "
+"song again."
+msgstr ""
+
+msgctxt "items/4026"
+msgid "Glowing Destroying Angel Mushroom"
+msgstr ""
+
+msgctxt "items/4027"
+msgid "Glowing Panther Mushroom"
+msgstr ""
+
+msgctxt "items/4028"
+msgid "Grimy Cassette"
+msgstr ""
+
+msgctxt "items/4029"
+msgid ""
+"Written on the side of this cassette are the words, 'Father Bezoar tells it "
+"like it is!'"
+msgstr ""
+
+msgctxt "items/4030"
+msgid "Faded Cassette"
+msgstr ""
+
+msgctxt "items/4031"
+msgid "The words 'Prop of Comdr Manley' are written on this ancient cassette."
+msgstr ""
+
+msgctxt "items/4032"
+msgid "Blood-Spattered Cassette"
+msgstr ""
+
+msgctxt "items/4033"
+msgid "'Today's Lesson' is written in pink ink on this cassette."
+msgstr ""
+
+msgctxt "items/4034"
+msgid "Letter from Sister Benign"
+msgstr ""
+
+msgctxt "items/4035"
+msgid ""
+"An envelope with a letter inside. It's been inside Sister Benign's pocket "
+"for so long the edges are worn and soft."
+msgstr ""
+
+msgctxt "items/4036"
+msgid "Note from Natasha the Second"
+msgstr ""
+
+msgctxt "items/4037"
+msgid "A neatly printed note written on the back of a soup can label."
+msgstr ""
+
+msgctxt "items/4038"
+msgid "Page from Collector's Diary"
+msgstr ""
+
+msgctxt "items/4039"
+msgid ""
+"The writing on this old ruled paper is large and sloppy and hard to read."
+msgstr ""
+
+msgctxt "items/4040"
+msgid "Nucleist Patrol Log"
+msgstr ""
+
+msgctxt "items/4041"
+msgid ""
+"A torn sheet of paper with spaces for daily incident reports. One has been "
+"filled in."
+msgstr ""
+
+msgctxt "items/4042"
+msgid "Page from Natasha the First's Diary"
+msgstr ""
+
+msgctxt "items/4043"
+msgid "Tidy handwriting fills this small sheet of narrow-ruled paper. "
+msgstr ""
+
+msgctxt "items/4044"
+msgid "Findley-Tek Pamphlet"
+msgstr ""
+
+msgctxt "items/4045"
+msgid ""
+"A marketing brochure extolling the innovations of Findley-Tek's newest "
+"technological marvel."
+msgstr ""
+
+msgctxt "items/4046"
+msgid "Memo from Cheyenne Researcher"
+msgstr ""
+
+msgctxt "items/4047"
+msgid ""
+"This memo has been printed out on clean office paper. Under the original dot "
+"matrix text is a handwritten note in red ink."
+msgstr ""
+
+msgctxt "items/4048"
+msgid "Radiation Detection Rod"
+msgstr ""
+
+msgctxt "items/4049"
+msgid ""
+"Originally used by Cheyenne's pre-Deluge scientists as a wearable warning "
+"system that turned yellow when they absorbed radiation, these rods - made of "
+"lab-grown synthetic diamond - are now worn by the followers of the Holy "
+"Detonation as badges of honor to prove they've worshipped in the presence of "
+"their god."
+msgstr ""
+
+msgctxt "items/4050"
+msgid "Food Storage Access Code"
+msgstr ""
+
+msgctxt "items/4051"
+msgid ""
+"Based on how deep this paper was buried, you're the first to see it since "
+"the apocalypse. It has a code written on it - URABUTLN."
+msgstr ""
+
+msgctxt "items/4052"
+msgid "Cereal Box Decoder Ring"
+msgstr ""
+
+msgctxt "items/4053"
+msgid ""
+"A secret decoder ring from a box of Candy-Coated Cosmo-Nut Cereal - you're a "
+"real spy now!"
+msgstr ""
+
+msgctxt "items/4054"
+msgid "Cell Block Master Key"
+msgstr ""
+
+msgctxt "items/4055"
+msgid "Opens all general population prison cells."
+msgstr ""

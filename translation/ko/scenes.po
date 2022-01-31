@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-22 11:57+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"POT-Creation-Date: 2022-02-01 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "scenes/0"
 msgid "Merchant Outpost"
@@ -496,3 +494,87 @@ msgstr "사육장 동쪽"
 msgctxt "scenes/143"
 msgid "The Warrens"
 msgstr "사육장"
+
+msgctxt "scenes/24"
+msgid "Steeltown Gates"
+msgstr ""
+
+msgctxt "scenes/25"
+msgid "Admin Level"
+msgstr ""
+
+msgctxt "scenes/26"
+msgid "Factory Level"
+msgstr ""
+
+msgctxt "scenes/27"
+msgid "Steeltown Spire"
+msgstr ""
+
+msgctxt "scenes/59"
+msgid "Ghost Garage"
+msgstr ""
+
+msgctxt "scenes/60"
+msgid "Markham Mines"
+msgstr ""
+
+msgctxt "scenes/131"
+msgid "Steeltown"
+msgstr ""
+
+msgctxt "scenes/28"
+msgid "Dunes of Thought"
+msgstr ""
+
+msgctxt "scenes/29"
+msgid "Cheyenne Mountain Entrance"
+msgstr ""
+
+msgctxt "scenes/30"
+msgid "Observation Level"
+msgstr ""
+
+msgctxt "scenes/31"
+msgid "Security Level"
+msgstr ""
+
+msgctxt "scenes/32"
+msgid "Research Level"
+msgstr ""
+
+msgctxt "scenes/33"
+msgid "Power Storage Facility"
+msgstr ""
+
+msgctxt "scenes/34"
+msgid "Cheyenne Mountain Level 5"
+msgstr ""
+
+msgctxt "scenes/144"
+msgid "Cheyenne Hub"
+msgstr ""
+
+msgctxt "scenes/145"
+msgid "Security Level"
+msgstr ""
+
+msgctxt "scenes/146"
+msgid "Research Level"
+msgstr ""
+
+msgctxt "scenes/147"
+msgid "Loading Dock"
+msgstr ""
+
+msgctxt "scenes/148"
+msgid "Power Storage Facility"
+msgstr ""
+
+msgctxt "scenes/149"
+msgid "The Holy Detonation"
+msgstr ""
+
+msgctxt "scenes/151"
+msgid "Cheyenne Mountain"
+msgstr ""
