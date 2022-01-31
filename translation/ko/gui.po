@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-23 04:35+0900\n"
-"PO-Revision-Date: 2022-01-30 15:57+0000\n"
+"PO-Revision-Date: 2022-01-31 15:09+0000\n"
 "Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4039,36 +4039,39 @@ msgid ""
 "use."
 msgstr ""
 "눈물을 흘리는 것, 칼을 찔러대는 것, 피를 쏟아내는 것이 삶의 전부인 하드코어 펑크 록 듀오입니다. 신의 민병대 안에선 그 둘의 사랑이 "
-"이어질 수 없었기에, 종교적인 가르침, 신을 섬김을 거부하는 방법으로 소름끼치던 상관에게 반항했습니다. 그 결과, 이들을 죽이기 위해 "
-"쫓아오는 신의 민병대의 사람들을 피해 애리조나로 도망친 그들은 레인저에 합류하여 민병대에서 배웠던 것을 가르치며 많은 도움을 주었습니다."
+"이어질 수 없었기에, 종교적인 가르침, 신을 섬김을 거부하는 방법으로 소름 끼치던 상관에게 반항했습니다. 자신들을 죽이려 코앞까지 쫓아온 "
+"신의 민병대를 피해 애리조나로 도망간 그들은 레인저에 합류하여 민병대에서 배웠던 것을 가르치며 많은 도움을 주었습니다."
 
-#, fuzzy
 msgctxt "gui/937"
 msgid "Punk Lovers"
-msgstr "펑크 애호가들"
+msgstr "펑크 애호가"
 
+#, fuzzy
 msgctxt "gui/938"
 msgid "Veteran Rangers"
-msgstr ""
+msgstr "베테랑 레인저"
 
+#, fuzzy
 msgctxt "gui/939"
 msgid ""
 " Blackjack and Widowmaker have been Rangers since they day they were born. "
 "Blackjack likes high-stakes action, while Widowmaker plays for keeps. This "
 "description is awful, so please replace it with a real one later."
 msgstr ""
+" 블랙잭과 위도우메이커는 태어난 그 순간부터 레인저의 일원이었습니다. 블랙잭은 목숨을 건 도박을 좋아합니다. 반면 위도우메이커는 도박따윈 "
+"총으로 해결하는 편이죠. 설명이 참 구리네요, 나중에 제대로 만들어서 다시 적어두겠습니다."
 
 msgctxt "gui/940"
 msgid "Armor Mod Test"
-msgstr ""
+msgstr "시험용 방어구 부착물"
 
 msgctxt "gui/941"
 msgid "Armor Modification"
-msgstr ""
+msgstr "방어구 개조"
 
 msgctxt "gui/942"
 msgid "Armorsmith"
-msgstr ""
+msgstr "방어구장인"
 
 msgctxt "gui/943"
 msgid "Armor Modding {0}"
@@ -4109,7 +4112,7 @@ msgstr "{0} 초"
 
 msgctxt "gui/955"
 msgid "Custom Characters"
-msgstr ""
+msgstr "사용자 설정 캐릭터"
 
 msgctxt "gui/956"
 msgid "Create your own customized pair of Rangers."
@@ -4117,11 +4120,12 @@ msgstr ""
 
 msgctxt "gui/957"
 msgid "Create Custom Characters"
-msgstr ""
+msgstr "사용사 설정 캐릭터 생성"
 
+#, fuzzy
 msgctxt "gui/958"
 msgid "Initializing characters..."
-msgstr ""
+msgstr "캐릭터 구성 중..."
 
 msgctxt "gui/959"
 msgid "Cassette Tape Discovered"
@@ -4131,6 +4135,7 @@ msgctxt "gui/960"
 msgid "Young Rangers"
 msgstr "젊은 레인저들"
 
+#, fuzzy
 msgctxt "gui/961"
 msgid ""
 "Lovers and rivals since first joining the Rangers, Yuri and Spence drive "
@@ -4140,6 +4145,9 @@ msgid ""
 "jabs never end, leading to a love/hate relationship that can switch gears in "
 "seconds."
 msgstr ""
+"레인저에 합류했을 때부터 끝나지 않는 완벽과 위험의 경쟁을 끝없이 이어나가는 사랑과 경쟁의 사이, 유리와 스펜서입니다. 그 둘은 곁에 "
+"있던 사람들이 죽어가는 와중에도 서로의 목숨을 지키며 살아남았습니다. 끊임없이 몰아치는 재난으로 인해 그들의 결속은 더욱더 단단해졌지만, "
+"서로를 향한 경쟁과 주먹다짐 그 손바닥 뒤집듯 바뀌는 애정과 증오의 관계는 영원히 끝나지 않을 것입니다."
 
 msgctxt "gui/962"
 msgid "Father & Daughter"
