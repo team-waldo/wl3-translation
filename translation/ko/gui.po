@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2022-02-02 12:57+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "gui/0"
 msgid " The first GUI text"
@@ -3243,7 +3245,7 @@ msgstr "임무 필수 아이템"
 
 msgctxt "gui/748"
 msgid "Equip Secondary"
-msgstr ""
+msgstr "보조 무기 장착"
 
 #, fuzzy
 msgctxt "gui/749"
@@ -3347,9 +3349,10 @@ msgctxt "gui/773"
 msgid "Resisted: {0}"
 msgstr "저항: {0}"
 
+#, fuzzy
 msgctxt "gui/774"
 msgid "{0} resisted {1}."
-msgstr ""
+msgstr "{0} {1} 저항함."
 
 msgctxt "gui/775"
 msgid "Security lockdown in effect - all doors sealed."
@@ -3457,9 +3460,10 @@ msgctxt "gui/800"
 msgid "Loot"
 msgstr "획득"
 
+#, fuzzy
 msgctxt "gui/801"
 msgid "Offscreen Enemy Indicators"
-msgstr ""
+msgstr "화면 밖의 적 표시"
 
 msgctxt "gui/802"
 msgid "Abandoned RV Park"
@@ -3648,7 +3652,7 @@ msgstr "치명타 확률 {0}% (x{1})"
 
 msgctxt "gui/842"
 msgid "{0}% chance to apply {1}"
-msgstr ""
+msgstr "{0}% 확률로 {1} 적용"
 
 msgctxt "gui/843"
 msgid "<color=#818A8E>Value:</color> ${0} (${1} each)"
@@ -3793,20 +3797,22 @@ msgstr ""
 
 msgctxt "gui/877"
 msgid "Give Control"
-msgstr ""
+msgstr "조작 권한 넘기기"
 
 #, fuzzy
 msgctxt "gui/878"
 msgid "Wasteland 3"
 msgstr "웨이스트랜드 3"
 
+#, fuzzy
 msgctxt "gui/879"
 msgid "Buried Items"
-msgstr ""
+msgstr "묻어둔 물건"
 
+#, fuzzy
 msgctxt "gui/880"
 msgid "Requires Charley's Keycard"
-msgstr ""
+msgstr "찰리의 키카드 필요"
 
 msgctxt "gui/881"
 msgid "On"
@@ -3842,7 +3848,7 @@ msgstr "{0} 에게 {1} 피해 (치명타)"
 
 msgctxt "gui/889"
 msgid "Hazardous"
-msgstr ""
+msgstr "위험"
 
 #, fuzzy
 msgctxt "gui/890"
@@ -3925,11 +3931,11 @@ msgstr ""
 
 msgctxt "gui/909"
 msgid "New Rank: {0}"
-msgstr ""
+msgstr "새로운 랭크: {0}"
 
 msgctxt "gui/910"
 msgid "Current Rank: {0}"
-msgstr ""
+msgstr "현재 랭크: {0}"
 
 msgctxt "gui/911"
 msgid "Fame Increased"
@@ -4114,7 +4120,7 @@ msgstr "사용자 설정 캐릭터"
 
 msgctxt "gui/956"
 msgid "Create your own customized pair of Rangers."
-msgstr ""
+msgstr "직접 커스터마이즈한 레인저 한 쌍을 생성하세요."
 
 msgctxt "gui/957"
 msgid "Create Custom Characters"
@@ -4212,9 +4218,10 @@ msgctxt "gui/970"
 msgid "Stature"
 msgstr "위상"
 
+#, fuzzy
 msgctxt "gui/971"
 msgid "Build"
-msgstr ""
+msgstr "체형"
 
 #, fuzzy
 msgctxt "gui/972"
@@ -4246,29 +4253,31 @@ msgctxt "gui/978"
 msgid "Archive"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/979"
 msgid "Medium"
-msgstr ""
+msgstr "보통"
 
 msgctxt "gui/980"
 msgid "Burly"
-msgstr ""
+msgstr "건장한"
 
 msgctxt "gui/981"
 msgid "Stocky"
-msgstr ""
+msgstr "다부진"
 
 msgctxt "gui/982"
 msgid "Continue Game from Latest Save"
-msgstr ""
+msgstr "최근 저장 지점에서 게임 이어 하기"
 
 msgctxt "gui/983"
 msgid "Play Cassette"
-msgstr ""
+msgstr "카세트 재생"
 
+#, fuzzy
 msgctxt "gui/984"
 msgid "Scrapper"
-msgstr ""
+msgstr "고물상"
 
 msgctxt "gui/985"
 msgid ""
@@ -4280,18 +4289,21 @@ msgid ""
 "if Fish-Lips is in your party, because he's watching it too - and thinking "
 "about spare-ribs."
 msgstr ""
+"식인을 즐기는 피시립스는 큰 기계나 공장을 해체해 고철을 모으는 일을 전문으로 하는 하드 헤드 갱단의 리더로서, 오직 힘만을 중요시하는 "
+"잔인한 폭력배입니다. 자신보다 더 약하다면 그는 당신을 죽이고 먹어치울 겁니다. 더 강하다면, 당신의 뒤를 쫓다가 약점을 노려 죽이고 "
+"먹어치울 겁니다. 피시립스가 일행에 있다면 항상 뒤를 조심하는 게 좋습니다. 그가 지켜보고 있으니까요, 갈비를 굽는 상상을 하면서요."
 
 msgctxt "gui/986"
 msgid "Failed to connect to the network services. Please try again later."
-msgstr ""
+msgstr "네트워크 서비스에 연결하지 못했습니다. 다시 시도해주세요."
 
 msgctxt "gui/987"
 msgid "Failed to enter game session."
-msgstr ""
+msgstr "게임 세션에 참가하지 못했습니다."
 
 msgctxt "gui/988"
 msgid "Recruit (Masculine)"
-msgstr ""
+msgstr "신병 (남성)"
 
 msgctxt "gui/989"
 msgid "Cost to purchase level {0}: {1}"
@@ -4299,47 +4311,48 @@ msgstr ""
 
 msgctxt "gui/990"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "gui/991"
 msgid "{0} Scrap Required"
-msgstr ""
+msgstr "{0} 스크랩 필요"
 
 msgctxt "gui/992"
 msgid "Jerk (Masculine)"
-msgstr ""
+msgstr "바보 (남성)"
 
 msgctxt "gui/993"
 msgid "{1} Accuracy: <color={2}>{0}%</color>"
-msgstr ""
+msgstr "명중률 {1}: <color={2}>{0}%</color>"
 
 msgctxt "gui/994"
 msgid "Tutorials"
-msgstr ""
+msgstr "튜토리얼"
 
 msgctxt "gui/995"
 msgid "Educated (Masculine)"
-msgstr ""
+msgstr "교양인 (남성)"
 
 msgctxt "gui/996"
 msgid "Ice (Masculine)"
-msgstr ""
+msgstr "냉혹함 (남성)"
 
+#, fuzzy
 msgctxt "gui/997"
 msgid "Joker (Masculine)"
-msgstr ""
+msgstr "조커 (남성)"
 
 msgctxt "gui/998"
 msgid "Rebel (Masculine)"
-msgstr ""
+msgstr "반군 (남성)"
 
 msgctxt "gui/999"
 msgid "Stoic (Masculine)"
-msgstr ""
+msgstr "금욕주의자 (남성)"
 
 msgctxt "gui/1000"
 msgid "Select this Pair"
-msgstr ""
+msgstr "이 캐릭터들로 결정"
 
 msgctxt "gui/1001"
 msgid "{0} / {1}"
@@ -4351,23 +4364,23 @@ msgstr ""
 
 msgctxt "gui/1003"
 msgid "Spikes"
-msgstr ""
+msgstr "대못"
 
 msgctxt "gui/1004"
 msgid "Frozen Ferrets"
-msgstr ""
+msgstr "얼어붙은 흰담비"
 
 msgctxt "gui/1005"
 msgid "Sawblade Ammo"
-msgstr ""
+msgstr "톱날"
 
 msgctxt "gui/1006"
 msgid "Crossbow Bolt"
-msgstr ""
+msgstr "쇠뇌 볼트"
 
 msgctxt "gui/1007"
 msgid ".38 Ammo"
-msgstr ""
+msgstr "38구경 탄약"
 
 msgctxt "gui/1008"
 msgid "Armor Mod ({0})"
@@ -4375,27 +4388,27 @@ msgstr ""
 
 msgctxt "gui/1009"
 msgid "Requires Safecracker"
-msgstr ""
+msgstr "금고털개 필요"
 
 msgctxt "gui/1010"
 msgid "Hosting Lobby, please wait..."
-msgstr ""
+msgstr "로비를 개설합니다, 기다려주세요..."
 
 msgctxt "gui/1011"
 msgid "Creepy Doll"
-msgstr ""
+msgstr "오싹한 인형"
 
 msgctxt "gui/1012"
 msgid "Grants bonus to all squad members."
-msgstr ""
+msgstr "모든 분대원에게 추가 효과를 줍니다."
 
 msgctxt "gui/1013"
 msgid ".50 Ammo"
-msgstr ""
+msgstr "50구경 탄약"
 
 msgctxt "gui/1014"
 msgid "BB Ammo"
-msgstr ""
+msgstr "BB탄"
 
 msgctxt "gui/1015"
 msgid "Scavenged"
@@ -4403,7 +4416,7 @@ msgstr ""
 
 msgctxt "gui/1016"
 msgid "Scavenge"
-msgstr "스캐빈저"
+msgstr "수색하기"
 
 msgctxt "gui/1017"
 msgid "Retain Group on Selection"
@@ -4411,39 +4424,40 @@ msgstr ""
 
 msgctxt "gui/1018"
 msgid "A player is joining the lobby..."
-msgstr ""
+msgstr "플레이어가 로비에 입장하고 있습니다..."
 
 msgctxt "gui/1019"
 msgid "Next"
-msgstr ""
+msgstr "다음"
 
 msgctxt "gui/1020"
 msgid "{0}% Chance To Apply {1}"
-msgstr ""
+msgstr "{0}% 확률로 {1} 적용"
 
 msgctxt "gui/1021"
 msgid "{0}% Chance To Remove {1}"
-msgstr ""
+msgstr "{0}% 확률로 {1} 제거"
 
 msgctxt "gui/1022"
 msgid "Door"
-msgstr ""
+msgstr "문"
 
 msgctxt "gui/1023"
 msgid "Bush"
-msgstr ""
+msgstr "덤불"
 
 msgctxt "gui/1024"
 msgid "Garage Door"
-msgstr ""
+msgstr "차고 문"
 
 msgctxt "gui/1025"
 msgid "Vault Door"
-msgstr ""
+msgstr "볼트 문"
 
+#, fuzzy
 msgctxt "gui/1027"
 msgid "Diggable"
-msgstr ""
+msgstr "팔 수 있음"
 
 msgctxt "gui/1028"
 msgid "Grave"
@@ -4451,231 +4465,239 @@ msgstr "무덤"
 
 msgctxt "gui/1029"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 msgctxt "gui/1030"
 msgid "Painting"
-msgstr ""
+msgstr "그림"
 
 msgctxt "gui/1031"
 msgid "Generator"
-msgstr ""
+msgstr "발전기"
 
 msgctxt "gui/1032"
 msgid "Leave Area"
-msgstr ""
+msgstr "지역 떠나기"
 
+#, fuzzy
 msgctxt "gui/1033"
 msgid "Object"
-msgstr ""
+msgstr "물체"
 
 msgctxt "gui/1034"
 msgid "Toaster"
-msgstr ""
+msgstr "토스터"
 
 msgctxt "gui/1035"
 msgid "Laser Tripwire"
-msgstr ""
+msgstr "레이저 와이어 함정"
 
 msgctxt "gui/1036"
 msgid "Vehicle Workbench"
-msgstr ""
+msgstr "차량 작업대"
 
 msgctxt "gui/1037"
 msgid "Vendomatic 2000"
-msgstr ""
+msgstr "밴더매틱 2000"
 
+#, fuzzy
 msgctxt "gui/1038"
 msgid "Gas Heater"
-msgstr ""
+msgstr "가스 히터"
 
 msgctxt "gui/1039"
 msgid "Tripwire"
-msgstr ""
+msgstr "와이어 함정"
 
+#, fuzzy
 msgctxt "gui/1040"
 msgid "Pressure Plate"
-msgstr ""
+msgstr "압력 감지 함정"
 
 msgctxt "gui/1041"
 msgid "Switch"
-msgstr ""
+msgstr "스위치"
 
 msgctxt "gui/1042"
 msgid "Booze Box"
-msgstr ""
+msgstr "술 보관함"
 
 msgctxt "gui/1043"
 msgid "Drug Stash"
-msgstr ""
+msgstr "마약 보관함"
 
 msgctxt "gui/1044"
 msgid "Ammo Box"
-msgstr ""
+msgstr "탄약 상자"
 
 msgctxt "gui/1045"
 msgid "Armor Crate"
-msgstr ""
+msgstr "방어구 상자"
 
+#, fuzzy
 msgctxt "gui/1046"
 msgid "Container"
-msgstr ""
+msgstr "수납함"
 
 msgctxt "gui/1047"
 msgid "Grenade Box"
-msgstr ""
+msgstr "수류탄 상자"
 
 msgctxt "gui/1048"
 msgid "Ice Block"
-msgstr ""
+msgstr "얼음 장애물"
 
 msgctxt "gui/1049"
 msgid "Corpse"
-msgstr ""
+msgstr "시체"
 
 msgctxt "gui/1050"
 msgid "Junk Pile"
-msgstr ""
+msgstr "쓰레기 더미"
 
 msgctxt "gui/1051"
 msgid "Locker"
-msgstr ""
+msgstr "라커"
 
 msgctxt "gui/1052"
 msgid "Medical Crate"
-msgstr ""
+msgstr "의약품 상자"
 
 msgctxt "gui/1053"
 msgid "Toolbox"
-msgstr ""
+msgstr "공구함"
 
 msgctxt "gui/1054"
 msgid "Large Container"
-msgstr ""
+msgstr "대형 수납함"
 
 msgctxt "gui/1055"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 msgctxt "gui/1056"
 msgid "Electronic Safe"
-msgstr ""
+msgstr "전자 금고"
 
 msgctxt "gui/1057"
 msgid "Truck"
-msgstr ""
+msgstr "트럭"
 
 msgctxt "gui/1058"
 msgid "Vending Machine"
-msgstr ""
+msgstr "자판기"
 
 msgctxt "gui/1059"
 msgid "Weapon Crate"
-msgstr ""
+msgstr "무기 상자"
 
+#, fuzzy
 msgctxt "gui/1060"
 msgid "Loot Bag"
-msgstr ""
+msgstr "소지품 수색"
 
 msgctxt "gui/1061"
 msgid "Cryo Mine"
-msgstr ""
+msgstr "극저온 지뢰"
 
 msgctxt "gui/1062"
 msgid "EMP Mine"
-msgstr ""
+msgstr "EMP 지뢰"
 
 msgctxt "gui/1063"
 msgid "Fire Mine"
-msgstr ""
+msgstr "화염 지뢰"
 
 msgctxt "gui/1064"
 msgid "Frag Mine"
-msgstr ""
+msgstr "파편 지뢰"
 
 msgctxt "gui/1065"
 msgid "Gas Mine"
-msgstr ""
+msgstr "가스 지뢰"
 
 msgctxt "gui/1066"
 msgid "Plasma Mine"
-msgstr ""
+msgstr "플라즈마 지뢰"
 
+#, fuzzy
 msgctxt "gui/1067"
 msgid "Pressure Plate"
-msgstr ""
+msgstr "압력 감지 함정"
 
 msgctxt "gui/1068"
 msgid "Gas Pump"
-msgstr ""
+msgstr "가스 펌프"
 
 msgctxt "gui/1069"
 msgid "Nitrogen Tank"
-msgstr ""
+msgstr "질소 탱크"
 
 msgctxt "gui/1070"
 msgid "Oil Tank"
-msgstr ""
+msgstr "기름 탱크"
 
 msgctxt "gui/1071"
 msgid "Compressor"
-msgstr ""
+msgstr "압축기"
 
 msgctxt "gui/1072"
 msgid "Pipe"
-msgstr ""
+msgstr "파이프"
 
 msgctxt "gui/1073"
 msgid "Explosive Barrel"
-msgstr ""
+msgstr "폭발성 드럼통"
 
 msgctxt "gui/1074"
 msgid "Humans"
-msgstr ""
+msgstr "인간"
 
 msgctxt "gui/1075"
 msgid "Animals"
-msgstr ""
+msgstr "동물"
 
 msgctxt "gui/1076"
 msgid "Robots"
-msgstr ""
+msgstr "로봇"
 
 msgctxt "gui/1077"
 msgid "Vehicles"
-msgstr ""
+msgstr "차량"
 
 msgctxt "gui/1078"
 msgid "Scorpitrons"
-msgstr ""
+msgstr "스콜피트론"
 
 msgctxt "gui/1079"
 msgid "Synths"
-msgstr ""
+msgstr "신스"
 
 msgctxt "gui/1080"
 msgid "Mutants"
-msgstr ""
+msgstr "돌연변이"
 
+#, fuzzy
 msgctxt "gui/1081"
 msgid "Damage vs. {2}: <color={3}>{0}{1}%</color>"
-msgstr ""
+msgstr "{2} 대상 피해: <color={3}>{0}{1}%</color>"
 
 msgctxt "gui/1082"
 msgid "Painting"
-msgstr ""
+msgstr "그림"
 
 msgctxt "gui/1083"
 msgid "Radiation Hazard"
-msgstr ""
+msgstr "방사능 위험 구역"
 
+#, fuzzy
 msgctxt "gui/1084"
 msgid "Leaving Radiation Hazard"
-msgstr ""
+msgstr "방사능 위험 구역 떠나는 중"
 
 msgctxt "gui/1085"
 msgid "{0}: "
-msgstr ""
+msgstr "{0}: "
 
 msgctxt "gui/1086"
 msgid "Chassis"
@@ -4683,11 +4705,11 @@ msgstr "차체"
 
 msgctxt "gui/1087"
 msgid "Gas Tank"
-msgstr ""
+msgstr "가스 탱크"
 
 msgctxt "gui/1088"
 msgid "Turret"
-msgstr ""
+msgstr "포탑"
 
 msgctxt "gui/1089"
 msgid " The first GUI text"
@@ -4695,27 +4717,28 @@ msgstr ""
 
 msgctxt "gui/1090"
 msgid "Wheels"
-msgstr ""
+msgstr "바퀴"
 
+#, fuzzy
 msgctxt "gui/1091"
 msgid "Hoon's Greenhouse"
-msgstr ""
+msgstr "훈의 온실"
 
 msgctxt "gui/1092"
 msgid "Gun Rack"
-msgstr ""
+msgstr "총기 보관대"
 
 msgctxt "gui/1093"
 msgid "Dog Corpse"
-msgstr ""
+msgstr "개 시체"
 
 msgctxt "gui/1094"
 msgid "Dog House"
-msgstr ""
+msgstr "개집"
 
 msgctxt "gui/1095"
 msgid "Statue"
-msgstr ""
+msgstr "조각상"
 
 msgctxt "gui/1096"
 msgid "Urine in Snow"
@@ -4723,7 +4746,7 @@ msgstr ""
 
 msgctxt "gui/1097"
 msgid "Clock"
-msgstr ""
+msgstr "시계"
 
 msgctxt "gui/1098"
 msgid "Pin-Up Poster"
@@ -4731,15 +4754,15 @@ msgstr ""
 
 msgctxt "gui/1099"
 msgid "Corpse"
-msgstr ""
+msgstr "시체"
 
 msgctxt "gui/1100"
 msgid "Pile of Books"
-msgstr ""
+msgstr "책 더미"
 
 msgctxt "gui/1101"
 msgid "Pile of Cans"
-msgstr ""
+msgstr "깡통 더미"
 
 msgctxt "gui/1102"
 msgid "Garden Spire"
@@ -4747,47 +4770,54 @@ msgstr ""
 
 msgctxt "gui/1103"
 msgid "Camp"
-msgstr ""
+msgstr "야영지"
 
 msgctxt "gui/1104"
 msgid "Mass Grave"
-msgstr ""
+msgstr "살점 무덤"
 
+#, fuzzy
 msgctxt "gui/1105"
 msgid "Bones"
-msgstr ""
+msgstr "뼛조각"
 
+#, fuzzy
 msgctxt "gui/1106"
 msgid "Clone Machine"
-msgstr ""
+msgstr "클론 생성 기계"
 
 msgctxt "gui/1107"
 msgid "Pile of Corpses"
-msgstr ""
+msgstr "시체 더미"
 
+#, fuzzy
 msgctxt "gui/1108"
 msgid "Flame Tank"
-msgstr ""
+msgstr "화염 전차"
 
+#, fuzzy
 msgctxt "gui/1109"
 msgid "Gas Tank"
-msgstr "가스통"
+msgstr "가스 탱크"
 
+#, fuzzy
 msgctxt "gui/1110"
 msgid "Blood Splatter"
-msgstr ""
+msgstr "유혈"
 
+#, fuzzy
 msgctxt "gui/1111"
 msgid "Cold food"
-msgstr ""
+msgstr "식은 음식"
 
+#, fuzzy
 msgctxt "gui/1112"
 msgid "P.A.L. Controller"
-msgstr ""
+msgstr "광자증폭렌즈 조종 장치"
 
 msgctxt "gui/1113"
 msgid "Ballerina"
-msgstr ""
+msgstr "발레리나"
 
 msgctxt "gui/1114"
 msgid "Sign"
@@ -4795,19 +4825,21 @@ msgstr ""
 
 msgctxt "gui/1115"
 msgid "CPU"
-msgstr "중앙처리장치"
+msgstr "CPU"
 
+#, fuzzy
 msgctxt "gui/1116"
 msgid "Hydraulics"
-msgstr ""
+msgstr "유압 장치"
 
 msgctxt "gui/1117"
 msgid "Plating"
-msgstr ""
+msgstr "장갑"
 
+#, fuzzy
 msgctxt "gui/1118"
 msgid "Blades"
-msgstr ""
+msgstr "날붙이"
 
 msgctxt "gui/1119"
 msgid "The Hundred Concords"
@@ -4817,37 +4849,42 @@ msgctxt "gui/1120"
 msgid "Monster Uniform"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/1121"
 msgid "Pre-Deluge Canned Beans"
-msgstr ""
+msgstr "대홍수 이전의 콩 통조림"
 
+#, fuzzy
 msgctxt "gui/1122"
 msgid "Shelf"
-msgstr ""
+msgstr "선반"
 
 msgctxt "gui/1123"
 msgid "A Traitor's Weapon"
-msgstr ""
+msgstr "배신자의 무기"
 
+#, fuzzy
 msgctxt "gui/1124"
 msgid "Cybernetic Limbs"
-msgstr ""
+msgstr "인공 신체"
 
+#, fuzzy
 msgctxt "gui/1125"
 msgid "A Patriot's Weapon"
-msgstr ""
+msgstr "애국자의 무기"
 
 msgctxt "gui/1126"
 msgid "Frozen corpse"
-msgstr ""
+msgstr "얼어붙은 시체"
 
 msgctxt "gui/1127"
 msgid "Intercom"
-msgstr ""
+msgstr "인터폰"
 
+#, fuzzy
 msgctxt "gui/1128"
 msgid "Research Notes"
-msgstr ""
+msgstr "연구 노트"
 
 msgctxt "gui/1129"
 msgid "Gate"
@@ -4859,11 +4896,12 @@ msgstr "화면"
 
 msgctxt "gui/1131"
 msgid "Campsite"
-msgstr ""
+msgstr "야영지"
 
+#, fuzzy
 msgctxt "gui/1132"
 msgid "Arcade Machine"
-msgstr ""
+msgstr "오락기"
 
 msgctxt "gui/1133"
 msgid "Holoprojector"
@@ -4871,15 +4909,16 @@ msgstr ""
 
 msgctxt "gui/1134"
 msgid "Radio Dish"
-msgstr ""
+msgstr "라디오 안테나"
 
 msgctxt "gui/1135"
 msgid "Electronics Panel"
-msgstr ""
+msgstr "전자 패널"
 
+#, fuzzy
 msgctxt "gui/1136"
 msgid "Urinal"
-msgstr ""
+msgstr "소변기"
 
 msgctxt "gui/1137"
 msgid "Frozen Tortoise"
