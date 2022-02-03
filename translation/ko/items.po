@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-02 12:57+0000\n"
-"Last-Translator: 이정상 <lee.jeongsang@gmail.com>\n"
+"PO-Revision-Date: 2022-02-03 17:57+0000\n"
+"Last-Translator: Johong <loktaroggarr@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -5386,7 +5386,7 @@ msgstr "조잡하게 개조된 화염방사기입니다. 목표를 꽁꽁 얼려
 
 msgctxt "items/1244"
 msgid "Leader's Banner"
-msgstr ""
+msgstr "지도자의 깃발"
 
 msgctxt "items/1245"
 msgid "With this banner, you'll be able to rally the troops."
@@ -5639,7 +5639,7 @@ msgstr "낸시 장갑"
 
 msgctxt "items/1307"
 msgid "Training Gloves"
-msgstr ""
+msgstr "훈련용 장갑"
 
 msgctxt "items/1308"
 msgid "Payaso Gloves"
@@ -5739,7 +5739,7 @@ msgstr ""
 
 msgctxt "items/1332"
 msgid "Tech Goggles"
-msgstr ""
+msgstr "기술자 고글"
 
 msgctxt "items/1333"
 msgid "Marshal Helmet"
@@ -6229,11 +6229,11 @@ msgstr "정비공의 차고 열쇠"
 
 msgctxt "items/1457"
 msgid "Pried from his cold, dead hands."
-msgstr ""
+msgstr "차갑게 식은 손에서 억지로 꺼냈습니다."
 
 msgctxt "items/1458"
 msgid "Bard's Tale IV: Tips 'n Tricks"
-msgstr ""
+msgstr "바드 이야기 IV: 비법과 요령"
 
 msgctxt "items/1459"
 msgid ""
@@ -6328,7 +6328,7 @@ msgstr "정예 보안관 방어구"
 msgctxt "items/1479"
 msgid ""
 "A heavy suit of armor worn by the Patriarch's Elite Marshals in his defense."
-msgstr ""
+msgstr "패트리아크의 정예 마샬이 방어를 위해 입었던 중장갑 갑옷입니다."
 
 msgctxt "items/1480"
 msgid "Owl of Minerva"
@@ -6436,11 +6436,11 @@ msgstr "토스터 수리공들의 시련과 승리에 대해 다루는 역사서
 
 msgctxt "items/1500"
 msgid "Guest Suites 1 Key"
-msgstr ""
+msgstr "손님용 스위트룸 1 열쇠"
 
 msgctxt "items/1501"
 msgid "Guest Suites 2 Key"
-msgstr ""
+msgstr "손님용 스위트룸 2 열쇠"
 
 msgctxt "items/1502"
 msgid "Sauna Maintenance Key"
@@ -6619,7 +6619,7 @@ msgstr "흡입기 플랩의 시체에서 찾아낸 열쇠입니다. 금고를 �
 
 msgctxt "items/1537"
 msgid "NRC Tech Specs"
-msgstr ""
+msgstr "NRC 기술 사양서"
 
 msgctxt "items/1538"
 msgid "A hefty binder full of technical information about nuclear power."
@@ -7244,11 +7244,11 @@ msgstr ""
 
 msgctxt "items/1682"
 msgid "Dos-Teh-Seh's Head"
-msgstr ""
+msgstr "도스테세의 머리"
 
 msgctxt "items/1683"
 msgid "A synthetic human head, taken off the late Dos-Teh-Seh."
-msgstr ""
+msgstr "도스테세에게서 떼내어진 인조 인간 머리입니다."
 
 msgctxt "items/1684"
 msgid " Synth Head Necklace"
@@ -7772,7 +7772,7 @@ msgstr "오리 모자"
 
 msgctxt "items/1785"
 msgid "You'd have to be a quack to wear this thing."
-msgstr ""
+msgstr "이걸 쓰려면 꽤나 꽥꽥거려야겠군요."
 
 msgctxt "items/1786"
 msgid "I Can't Believe It's Not Butter: The Novel"
@@ -7848,7 +7848,7 @@ msgstr "전쟁 철학에 관한 고대 중국의 서적입니다."
 msgctxt "items/1803"
 msgid ""
 "These fingers were taken from the body of a hostage-taker for Nita Gett."
-msgstr ""
+msgstr "이 손가락들은 니나 겟의 인질범 시체에서 나왔습니다."
 
 msgctxt "items/1804"
 msgid "Excelsior"
@@ -7992,7 +7992,7 @@ msgstr "이 열쇠에 새겨진건 거의 희미하며 \"패트리아크의 별�
 
 msgctxt "items/1834"
 msgid "This old worn key is engraved with the words, \"Guest Suites 1.\""
-msgstr ""
+msgstr "이 오래된 열쇠에는 다음과 같은 글이 새겨져 있습니다, \"손님용 스위트룸 1.\""
 
 msgctxt "items/1835"
 msgid "This key has a faded label on it that says, \"Sauna Maintenance.\""
@@ -8016,7 +8016,7 @@ msgstr "\"냉동고\"라고 새겨져 있는 작은 열쇠입니다."
 msgctxt "items/1839"
 msgid ""
 "A VR helmet detached from the VR machine in Quarex's Cabinet of Curiosities."
-msgstr ""
+msgstr "이 VR 헬멧은 쿼렉스의 신비한 진열장에 있는 VR 기기에서 떨어져 나왔습니다."
 
 msgctxt "items/1840"
 msgid ""
@@ -8088,13 +8088,13 @@ msgstr ""
 
 msgctxt "items/1854"
 msgid "Hostage Taker's Note"
-msgstr ""
+msgstr "인질범의 쪽지"
 
 msgctxt "items/1855"
 msgid ""
 "The note is a bloody scrawl that reads, \"shes crazy shes crazy shes eating "
 "everyone!\""
-msgstr ""
+msgstr "쪽지에는 피로 휘갈겨 쓴 글이 있습니다, \"그년은 미쳤어 그년은 미쳤어 모두를 먹고있어!\""
 
 msgctxt "items/1856"
 msgid "Cabbage Patch Kid"
@@ -8199,7 +8199,7 @@ msgstr "각성한 삽"
 
 msgctxt "items/1876"
 msgid "Hostage Taker's Key"
-msgstr ""
+msgstr "인질범의 열쇠"
 
 msgctxt "items/1877"
 msgid "A worn key taken off the body of a sadistic Dorsey raider. "
@@ -8448,7 +8448,7 @@ msgstr "레인저 중갑 장갑"
 
 msgctxt "items/1938"
 msgid "Pinned Head Helmet"
-msgstr ""
+msgstr "가시 박힌 헬멧"
 
 msgctxt "items/1939"
 msgid "Ranger Heavy Legs"
@@ -9282,11 +9282,11 @@ msgstr ""
 
 msgctxt "items/2125"
 msgid "Clown Outfit"
-msgstr ""
+msgstr "광대 의상"
 
 msgctxt "items/2126"
 msgid "This is the closest one can get to a non-frightening clown costume."
-msgstr ""
+msgstr "개중에 그나마 덜 무서워 보이는 광대 의상입니다."
 
 msgctxt "items/2127"
 msgid "Mime Outfit"
@@ -9487,7 +9487,7 @@ msgstr ""
 
 msgctxt "items/2174"
 msgid " Ranger Tactical Helmet"
-msgstr ""
+msgstr " 레인저 전술 헬멧"
 
 msgctxt "items/2175"
 msgid " Ranger Tactical Pants"
@@ -16157,54 +16157,54 @@ msgstr ""
 
 msgctxt "items/3634"
 msgid "Cookie's Recipe List"
-msgstr ""
+msgstr "쿠키의 레시피 목록"
 
 msgctxt "items/3635"
 msgid "A list of meals to make when you don't have any actual food."
-msgstr ""
+msgstr "실제 음식이 없을 때 만드는 식사 목록입니다."
 
 msgctxt "items/3636"
 msgid "Markham's Personal Journal"
-msgstr ""
+msgstr "마컴의 개인 수첩"
 
 msgctxt "items/3637"
 msgid ""
 "A page from Markham's personal journal talking about the earliest days of "
 "Steeltown."
-msgstr ""
+msgstr "마컴의 개인 수첩에 있는 페이지입니다. 초창기 스틸타운에 대해 얘기하고 있습니다."
 
 msgctxt "items/3638"
 msgid "Blue's Log"
-msgstr ""
+msgstr "블루의 일기"
 
 msgctxt "items/3639"
 msgid ""
 "A page from Blue's log book talking about the earliest days of Steeltown."
-msgstr ""
+msgstr "블루의 일기에 있는 페이지입니다. 초창기 스틸타운에 대해 얘기하고 있습니다."
 
 msgctxt "items/3640"
 msgid "Fungible Resource Loss Report"
-msgstr ""
+msgstr "대체 가능 자원 손실 보고서"
 
 msgctxt "items/3641"
 msgid "A description of an incident that cost Steeltown money and personnel."
-msgstr ""
+msgstr "스틸타운의 돈과 인력에 손실을 입힌 사고에 관한 설명입니다."
 
 msgctxt "items/3642"
 msgid "Auction List"
-msgstr ""
+msgstr "경매 목록"
 
 msgctxt "items/3643"
 msgid "A list of workers Security Chief Ludlow doesn't seem to like."
-msgstr ""
+msgstr "보안책임자 러들로의 마음에 들지 않는 일꾼들의 목록입니다."
 
 msgctxt "items/3644"
 msgid "Found Letter"
-msgstr ""
+msgstr "발견된 편지"
 
 msgctxt "items/3645"
 msgid "A letter written by Crow to Markham."
-msgstr ""
+msgstr "크로우가 마컴에게 쓴 편지입니다."
 
 msgctxt "items/3646"
 msgid "War-bot Factory Assembly Line Schedule"
@@ -16484,16 +16484,20 @@ msgid ""
 "ain't standard kit, and still ain't going anywhere."
 msgstr ""
 
+#, fuzzy
 msgctxt "items/3330"
 msgid "Tumor Gland"
-msgstr ""
+msgstr "샘 종양"
 
+#, fuzzy
 msgctxt "items/3331"
 msgid ""
 "This horrific creature eagerly reaches its tentacles and fangs towards your "
 "head. It's pretty clear it wants you to put it on there, and it's pretty "
 "clear you're a lunatic if you actually do."
 msgstr ""
+"이 끔찍한 생물체는 당신의 머리를 향하여 열렬히 촉수와 송곳니를 뻗습니다. 분명히 머리에 달라붙길 원해 보이고, 머리에 달라붙게 둔다면 "
+"당신은 분명 미치광이 일 겁니다."
 
 msgctxt "items/3332"
 msgid "Holy Radiation Battery"
