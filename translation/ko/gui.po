@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-03 17:57+0000\n"
-"Last-Translator: 이종혁 <zxc3517123@gmail.com>\n"
+"PO-Revision-Date: 2022-02-05 01:57+0000\n"
+"Last-Translator: Mook <studiochanbi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1571,7 +1571,7 @@ msgstr ""
 
 msgctxt "gui/385"
 msgid "Lawkeeper"
-msgstr ""
+msgstr "집행관"
 
 msgctxt "gui/386"
 msgid "Warlord"
@@ -2697,7 +2697,7 @@ msgstr ""
 
 msgctxt "gui/652"
 msgid "Launch"
-msgstr "발사"
+msgstr "실행"
 
 msgctxt "gui/653"
 msgid "Squad Overview"
@@ -5906,91 +5906,95 @@ msgstr "탐색 종료"
 
 msgctxt "gui/1384"
 msgid "Subsystem II"
-msgstr ""
+msgstr "서브시스템 II"
 
 msgctxt "gui/1385"
 msgid "Subsystem I"
-msgstr ""
+msgstr "서브시스템 I"
 
 msgctxt "gui/1386"
 msgid "Subsystem III"
-msgstr ""
+msgstr "서브시스템 III"
 
 msgctxt "gui/1387"
 msgid "Vendomatic 2000!"
-msgstr ""
+msgstr "벤더매틱 2000!"
 
 msgctxt "gui/1388"
 msgid "Machine Intelligence Tower"
-msgstr ""
+msgstr "기계 지능 타워"
 
 msgctxt "gui/1389"
 msgid "SAL's Terminal"
-msgstr ""
+msgstr "SAL의 단말기"
 
 msgctxt "gui/1390"
 msgid "Arcade Machine"
-msgstr ""
+msgstr "오락기"
 
 msgctxt "gui/1391"
 msgid "Reagan A. I."
-msgstr ""
+msgstr "레이건 A. I."
 
+#, fuzzy
 msgctxt "gui/1392"
 msgid "SYSTEMS CRITICAL"
-msgstr ""
+msgstr "치명적 시스템 오류"
 
+#, fuzzy
 msgctxt "gui/1393"
 msgid "Pico's Game (player 1)"
-msgstr ""
+msgstr "피코의 게임 (플레이어 1)"
 
+#, fuzzy
 msgctxt "gui/1394"
 msgid "Pico's Game (player 2)"
-msgstr ""
+msgstr "피코의 게임 (플레이어 2)"
 
 msgctxt "gui/1396"
 msgid "Leaving Game..."
-msgstr ""
+msgstr "게임 종료 중..."
 
 msgctxt "gui/1397"
 msgid "No Games Found"
-msgstr ""
+msgstr "게임을 찾을 수 없음"
 
 msgctxt "gui/1398"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 msgctxt "gui/1399"
 msgid "Party Level"
-msgstr ""
+msgstr "분대 레벨"
 
 msgctxt "gui/1400"
 msgid "Level"
-msgstr ""
+msgstr "레벨"
 
 msgctxt "gui/1401"
 msgid "Privacy"
-msgstr ""
+msgstr "상태"
 
 msgctxt "gui/1402"
 msgid "Connection"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/1403"
 msgid "LAN"
-msgstr ""
+msgstr "랜"
 
 msgctxt "gui/1404"
 msgid "Online"
-msgstr ""
+msgstr "온라인"
 
 msgctxt "gui/1405"
 msgid "Ping"
-msgstr ""
+msgstr "핑"
 
 msgctxt "gui/1406"
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 msgctxt "gui/1407"
 msgid "Friends Only"
