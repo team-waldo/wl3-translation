@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2022-02-06 09:58+0000\n"
+"Last-Translator: Großdeutsches Reich <m4ea24sherman@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "skills/0"
 msgid " The first skill text"
@@ -77,7 +79,7 @@ msgstr "특공대"
 
 msgctxt "skills/16"
 msgid "Nerd Stuff"
-msgstr "컴퓨터광"
+msgstr "컴덕후"
 
 msgctxt "skills/17"
 msgid "Explosives"
@@ -135,7 +137,7 @@ msgstr "칼로 찌르기와 몽둥이질의 고급진 표현입니다."
 
 msgctxt "skills/30"
 msgid "The bigger the gun, the bigger the fun, right?"
-msgstr "총 사이즈가 클수록 쏘는 맛도 큰 법이죠."
+msgstr "구경이 클수록 쏘는 맛도 좋죠. 그렇지 않나요?"
 
 msgctxt "skills/31"
 msgid ""
@@ -266,22 +268,19 @@ msgid ""
 "for them."
 msgstr "위대한 리더들은 큰 위험을 감수하지 않습니다. 그들은 다른 사람들이 그들을 위해 위험을 감수하게 합니다."
 
-#, fuzzy
 msgctxt "skills/48"
 msgid "Locks keep honest people honest. You ain't honest people."
-msgstr "자물쇠는 정직한 사람들을 정직하게 하지만, 당신은 정직한 사람이 아닙니다."
+msgstr "자물쇠는 정직한 사람들을 위해 존재합니다. 물론 당신은 예외지만요."
 
-#, fuzzy
 msgctxt "skills/49"
 msgid ""
 "Living in the wilderness was tough even before the climate shift, mutations, "
 "and radioactivity."
-msgstr "기후변화, 돌연변이, 방사능이 있기 전에도 황무지에서 사는 것은 힘들었습니다."
+msgstr "기후변화, 돌연변이, 방사능 문제가 없던 과거에도 황무지에서 사는 것은 힘들었습니다."
 
-#, fuzzy
 msgctxt "skills/50"
 msgid "You never know what you'll find inside those things."
-msgstr "그 안에서 뭘 발견할지는 모르는 일입니다."
+msgstr "안에서 어떤 걸 발견할지는 아무도 모르는 일입니다."
 
 msgctxt "skills/51"
 msgid ""
@@ -300,12 +299,10 @@ msgctxt "skills/53"
 msgid "Let me tell you what you want to hear. Please!"
 msgstr "당신이 듣고 싶어 하는 말을 들려 드리게 해 주세요. 제발!"
 
-#, fuzzy
 msgctxt "skills/54"
 msgid "Tell me what I want to know. <i>Now</i>."
-msgstr "내가 알고 싶어 하는 걸 말해줘요. <i>지금</i>."
+msgstr "내가 알고 싶어 하는 걸 말해줘요. <i>지금당장</i>."
 
-#, fuzzy
 msgctxt "skills/55"
 msgid "Combat Skills"
 msgstr "전투 기술"
