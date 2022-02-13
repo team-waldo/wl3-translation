@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-11 08:57+0000\n"
+"PO-Revision-Date: 2022-02-13 03:57+0000\n"
 "Last-Translator: Johong <loktaroggarr@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -480,15 +480,13 @@ msgctxt "gui/114"
 msgid "<color=#818A8E>AP:</color> {0}"
 msgstr "<color=#818A8E>AP:</color> {0}"
 
-#, fuzzy
 msgctxt "gui/115"
 msgid "<color={1}>{0}</color> Damage"
-msgstr "<color={1}>{0}</color> Damage"
+msgstr "피해량 <color={1}>{0}</color>"
 
-#, fuzzy
 msgctxt "gui/116"
 msgid "<color={2}>{0}-{1}</color> Damage"
-msgstr "<color={2}>{0}-{1}</color> Damage"
+msgstr "피해량 <color={2}>{0}-{1}</color>"
 
 msgctxt "gui/117"
 msgid "Single Shot"
@@ -767,10 +765,9 @@ msgid ""
 "Are you sure you want to load this game? You will lose any unsaved changes."
 msgstr "이 파일을 불러오시겠습니까? 저장하지 않은 변경사항들을 잃게 됩니다."
 
-#, fuzzy
 msgctxt "gui/186"
 msgid "Sign-in change detected. Returning to main menu."
-msgstr "서명 변경이 탐지되었습니다. 메인 메뉴로 돌아갑니다."
+msgstr "로그인 정보가 변경되었습니다. 메인 메뉴로 돌아갑니다."
 
 msgctxt "gui/187"
 msgid "Please reconnect your controller."
@@ -966,22 +963,20 @@ msgstr ""
 
 msgctxt "gui/234"
 msgid "{0} gained {1}."
-msgstr ""
+msgstr "{0}은(는) {1}을(를) 획득하였습니다."
 
 msgctxt "gui/235"
 msgid "{0} lost {1}."
-msgstr ""
+msgstr "{0}은(는) {1}을(를) 잃었습니다."
 
-#, fuzzy
 msgctxt "gui/236"
 msgid "{0} gained {1} XP."
 msgstr "{0}의 경험치가 {1} 상승했습니다."
 
 msgctxt "gui/237"
 msgid "[{0}]: {1}"
-msgstr ""
+msgstr "[{0}]: {1}"
 
-#, fuzzy
 msgctxt "gui/238"
 msgid "{0} has reached level {1}!"
 msgstr "대원 {0}의 레벨이 {1}으로 상승했습니다!"
@@ -1026,7 +1021,6 @@ msgctxt "gui/248"
 msgid "Portrait"
 msgstr "초상화"
 
-#, fuzzy
 msgctxt "gui/249"
 msgid "Customize Appearance"
 msgstr "외형 세부 조정"
@@ -1035,10 +1029,9 @@ msgctxt "gui/250"
 msgid "Biography"
 msgstr ""
 
-#, fuzzy
 msgctxt "gui/251"
 msgid "Derived Stats"
-msgstr "세부 능력치"
+msgstr "최종 능력치"
 
 msgctxt "gui/252"
 msgid "Gender"
@@ -1065,7 +1058,6 @@ msgctxt "gui/257"
 msgid "Lock cameras to isometric views?"
 msgstr "아이소메트릭 시점으로 고정하시겠습니까?"
 
-#, fuzzy
 msgctxt "gui/258"
 msgid "Reimport Custom Portraits"
 msgstr "사용자 설정 초상화 재등록"
@@ -1078,24 +1070,21 @@ msgctxt "gui/260"
 msgid "Quirk"
 msgstr "기벽"
 
-#, fuzzy
 msgctxt "gui/261"
 msgid "+"
 msgstr "+"
 
-#, fuzzy
 msgctxt "gui/262"
 msgid "-"
 msgstr "-"
 
 msgctxt "gui/263"
 msgid "{2}: <color={3}>{0}{1}</color>"
-msgstr ""
+msgstr "{2}: <color={3}>{0}{1}</color>"
 
-#, fuzzy
 msgctxt "gui/264"
 msgid "Grants the {0} ability"
-msgstr "능력 {0} 부여함"
+msgstr "'{0}' 능력 부여"
 
 msgctxt "gui/265"
 msgid "{0} turns remaining"
@@ -1114,19 +1103,17 @@ msgctxt "gui/268"
 msgid "Unjam"
 msgstr "총알 걸림 해결"
 
-#, fuzzy
 msgctxt "gui/269"
 msgid "Clear the jammed round from your weapon, allowing you to attack."
 msgstr "무기에 걸린 총알을 빼내어, 공격 행동을 할 수 있게 됩니다."
 
-#, fuzzy
 msgctxt "gui/270"
 msgid "Show Log"
 msgstr "로그 확인"
 
 msgctxt "gui/271"
 msgid "{0} - Requires level {1} {2}"
-msgstr ""
+msgstr "{0} - 레벨 요구치 {1} {2}"
 
 msgctxt "gui/272"
 msgid "Locked"
@@ -1158,7 +1145,7 @@ msgstr "동력 끊김"
 
 msgctxt "gui/279"
 msgid "Secure"
-msgstr ""
+msgstr "확보"
 
 msgctxt "gui/280"
 msgid "Hacked"
@@ -1168,14 +1155,13 @@ msgctxt "gui/285"
 msgid "Combat Grid"
 msgstr "전투 격자"
 
-#, fuzzy
 msgctxt "gui/286"
 msgid "Accessed"
 msgstr "접속됨"
 
 msgctxt "gui/287"
 msgid "Secured"
-msgstr "보안됨"
+msgstr "확보됨"
 
 msgctxt "gui/288"
 msgid "Edit"
@@ -1357,23 +1343,22 @@ msgctxt "gui/333"
 msgid "[PH]The Patriarch's Call"
 msgstr "[PH]패트리아크의 부름"
 
-#, fuzzy
 msgctxt "gui/334"
 msgid "Edge Scrolling"
-msgstr "마우스 화면 이동"
+msgstr "화면 가장자리에서 마우스로 화면 이동"
 
-#, fuzzy
 msgctxt "gui/335"
 msgid "Edge Scroll Speed"
-msgstr "마우스 화면 이동 속도"
+msgstr "마우스로 화면 이동 속도"
 
+#, fuzzy
 msgctxt "gui/336"
 msgid "Follow Look Ahead"
-msgstr ""
+msgstr "바라보는 방향 따라가기"
 
 msgctxt "gui/337"
 msgid "Vehicle Re-Center"
-msgstr ""
+msgstr "차량 시점 재설정"
 
 msgctxt "gui/338"
 msgid "Load Multiplayer"
@@ -1389,7 +1374,7 @@ msgstr "친구 초대"
 
 msgctxt "gui/341"
 msgid "Look-At Camera"
-msgstr ""
+msgstr "카메라 바라보기"
 
 msgctxt "gui/342"
 msgid "Formation"
@@ -1442,32 +1427,31 @@ msgstr "대화"
 
 msgctxt "gui/354"
 msgid "More Actions"
-msgstr ""
+msgstr "추가 행동"
 
 msgctxt "gui/355"
 msgid "[{0}: {1}]"
-msgstr ""
+msgstr "[{0}: {1}]"
 
 msgctxt "gui/356"
 msgid "No Targets In Range"
 msgstr "범위 안에 대상이 없음"
 
-#, fuzzy
 msgctxt "gui/357"
 msgid "Requires Safecracker Tool"
 msgstr "금고털개가 필요함"
 
 msgctxt "gui/358"
 msgid "Unlock Safe"
-msgstr ""
+msgstr "금고 잠금 해제"
 
 msgctxt "gui/359"
 msgid "Running"
-msgstr ""
+msgstr "가동중"
 
 msgctxt "gui/360"
 msgid "Electrified"
-msgstr ""
+msgstr "통전됨"
 
 msgctxt "gui/361"
 msgid "Chest Armor"
@@ -1485,17 +1469,14 @@ msgctxt "gui/364"
 msgid "Weapon 2"
 msgstr "무기 2"
 
-#, fuzzy
 msgctxt "gui/365"
 msgid "Cybernetic Arms"
 msgstr "인공 팔"
 
-#, fuzzy
 msgctxt "gui/366"
 msgid "Cybernetic Legs"
 msgstr "인공 다리"
 
-#, fuzzy
 msgctxt "gui/367"
 msgid "Cybernetic Chest"
 msgstr "인공 흉부"
