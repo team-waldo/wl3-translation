@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-14 13:09+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2022-02-14 15:31+0000\n"
+"Last-Translator: Großdeutsches Reich <m4ea24sherman@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -789,7 +789,7 @@ msgctxt "items/195"
 msgid ""
 " \"DESIGNATION: V. ANIMALIA LYSOSOME HEREDITARY A-L-L-A\" ...this clearly "
 "wasn't written by a doctor."
-msgstr ""
+msgstr " \"명칭: V. 애니멀리아 리소좀 A-L-L-A 인자\" ...확실히 전문가가 작성한 글귀는 아닌 것 같아 보입니다."
 
 msgctxt "items/196"
 msgid "Replace me! Obsolete String entry. "
@@ -2066,7 +2066,6 @@ msgctxt "items/490"
 msgid "Striker"
 msgstr "공격수"
 
-#, fuzzy
 msgctxt "items/491"
 msgid "Burst fire and a big drum means a lot of boom-boom in a little package."
 msgstr "점사 모드와 대용량 드럼탄창은 작으면서도 끝내주는 화력을 자랑합니다."
@@ -2294,12 +2293,11 @@ msgctxt "items/539"
 msgid "Death Sifter"
 msgstr "죽음의 거름망"
 
-#, fuzzy
 msgctxt "items/540"
 msgid ""
 "<i>Does</i>: Offer heavy firepower and a high rate of fire. <i>Does not</i>: "
 "Fuck around."
-msgstr "<i>가능</i>: 강력한 화력과 높은 발사 속도 제공. <i>불가능</i>: 총 근처에서 깔짝대기."
+msgstr "<i>특징</i>: 강한 화력과 높은 발사속도. <i>경고</i>: 깝치지 마시오."
 
 msgctxt "items/541"
 msgid "Minigun"
@@ -2554,7 +2552,7 @@ msgstr "패트리아크의 별관 열쇠"
 
 msgctxt "items/605"
 msgid "Picture of The Gift"
-msgstr ""
+msgstr "기프트의 초상화"
 
 msgctxt "items/606"
 msgid "HF Vault Key"
@@ -2656,12 +2654,12 @@ msgctxt "items/626"
 msgid "Tactical Armor"
 msgstr "전술 갑옷"
 
-#, fuzzy
 msgctxt "items/627"
 msgid ""
 "Extra armor, gear storage, and an insulated underlining. Maybe the Rangers "
 "can make it in Colorado after all."
-msgstr "추가 장갑판과 장비 보관 가방이 있고 절연 처리로 마감했습니다. 레인저들이 콜로라도에서 헤쳐나갈 수도 있을 것 같습니다."
+msgstr ""
+"증가 장갑 및 장비 적재함이 증설되었으며 절연처리로 마감되었습니다. 이런 장구라면 레인저들이 콜로라도에서 살아남기도 가능하겠군요."
 
 msgctxt "items/628"
 msgid "Trooper Armor"
@@ -2767,9 +2765,10 @@ msgid ""
 "a vehicle of immense power."
 msgstr "기술적 복잡성으로 따지면 우주왕복선과 동급인 LE-L1 파워 아머는 엄청난 힘을 가진 탑승 장치라고 할 수 있습니다."
 
+#, fuzzy
 msgctxt "items/646"
 msgid "<i> Edit </i>621"
-msgstr ""
+msgstr "<i> Edit </i>621"
 
 msgctxt "items/647"
 msgid " Drone manual"
@@ -2777,7 +2776,7 @@ msgstr " 드론 설명서"
 
 msgctxt "items/648"
 msgid " \"Drones and you: repairs without repercussion\""
-msgstr " \"드론과 당신: 부작용 없는 수리에 관해\""
+msgstr " \"드론과 당신: 결함 없이 수리하기\""
 
 msgctxt "items/650"
 msgid "Bolt Gun"
@@ -2915,7 +2914,7 @@ msgstr "강철보다 단단한 이 총열은 더 높은 약실 압력을 견딜 
 
 msgctxt "items/683"
 msgid "Cut-Rifled Barrel"
-msgstr "일점 가공 강선 총열"
+msgstr "<size=0>1</size>[총열-1]일점 가공 강선 총열"
 
 msgctxt "items/684"
 msgid "Simple, consistent rifling on a true bore for improved bullet velocity."
@@ -2933,7 +2932,7 @@ msgstr "열 부식과 부식에 강한 내성이 있는 희귀 금속으로 만�
 
 msgctxt "items/687"
 msgid "Broach-Rifled Barrel"
-msgstr "브로치 가공 강선 총열"
+msgstr "<size=0>1</size>[총열-4]브로치 가공 강선 총열"
 
 msgctxt "items/688"
 msgid ""
@@ -2943,7 +2942,7 @@ msgstr "이 총열을 생산하는 공정이 비싸긴 해도 매우 좋으며 �
 
 msgctxt "items/689"
 msgid "Titanium-Cobalt Barrel"
-msgstr "티타늄-코발트 총열"
+msgstr "<size=0>1</size>[총열-6]티타늄-코발트 총열"
 
 msgctxt "items/690"
 msgid "Difficult to machine, but twice as strong as steel at the same weight."
@@ -2951,7 +2950,7 @@ msgstr "가공하기 어렵지만 같은 무게의 강철보다 두 배나 단�
 
 msgctxt "items/691"
 msgid "Hammerforge-Rifled Barrel"
-msgstr "다각형 가공 강선"
+msgstr "<size=0>1</size>[총열-7]다각형 가공 강선"
 
 msgctxt "items/692"
 msgid ""
@@ -2969,7 +2968,7 @@ msgstr "고출력 불빛으로 적을 환하게 비춰줄 수 있습니다."
 
 msgctxt "items/695"
 msgid "Spec-Ops Laser Sight"
-msgstr "특수작전 레이저 조준기"
+msgstr "<size=0>3</size>[하부총열-6]특수작전 레이저 조준기"
 
 msgctxt "items/696"
 msgid ""
@@ -2979,7 +2978,7 @@ msgstr "표적점이 더 확실하게 보이는 밝고 안정적인 레이저 �
 
 msgctxt "items/697"
 msgid "SWAT Light"
-msgstr "SWAT 조명"
+msgstr "<size=0>3</size>[하부총열-5]SWAT 조명"
 
 msgctxt "items/698"
 msgid ""
@@ -2989,7 +2988,7 @@ msgstr "최대 밝기의 하단 부착 조명으로 누구도 당신에게서 �
 
 msgctxt "items/699"
 msgid "Ultraviolet Laser Sight"
-msgstr "자외선 레이저 조준기"
+msgstr "<size=0>3</size>[하부총열-6]자외선 레이저 조준기"
 
 msgctxt "items/700"
 msgid ""
@@ -2999,7 +2998,7 @@ msgstr "하이브리드 레이저를 사용해 어두운 빔과 광원만으로�
 
 msgctxt "items/701"
 msgid "Long Mag"
-msgstr "긴 탄창"
+msgstr "<size=0>4</size>[탄창-1]긴 탄창"
 
 msgctxt "items/702"
 msgid "Reload less with more ammo in the mag."
@@ -3023,7 +3022,7 @@ msgstr "부담스럽지 않은 선에서 가장 큰 탄창입니다."
 
 msgctxt "items/707"
 msgid "Oversized Mag"
-msgstr "특대 탄창"
+msgstr "<size=0>4</size>[탄창-7]특대 탄창"
 
 msgctxt "items/708"
 msgid "This huge magazine stores a ton of ammo, but is awkward to reload."
@@ -3031,7 +3030,7 @@ msgstr "이 거대한 탄창은 엄청난 양의 탄약을 넣을 수 있지만,
 
 msgctxt "items/709"
 msgid "Advanced Materials Mag"
-msgstr "신소재 탄창"
+msgstr "<size=0>4</size>[탄창-8]신소재 탄창"
 
 msgctxt "items/710"
 msgid "A smaller, lightweight magazine can make reloads faster when it counts."
@@ -3039,7 +3038,7 @@ msgstr "더 작고 가벼워진 탄창으로 중요할 때 더 빠르게 재장�
 
 msgctxt "items/711"
 msgid "Quickfire Mag"
-msgstr "속사용 탄창"
+msgstr "<size=0>4</size>[탄창-10]속사용 탄창"
 
 msgctxt "items/712"
 msgid ""
@@ -3049,7 +3048,7 @@ msgstr "탄환을 약실에 직접 때려넣는 작동 방식이 내장된 탄�
 
 msgctxt "items/713"
 msgid "Reflex Scope"
-msgstr "반사식 조준경"
+msgstr "<size=0>2</size>[조준경-1]반사식 조준경"
 
 msgctxt "items/714"
 msgid "Old tech, but it lines up the bad guys real quick."
@@ -3065,7 +3064,7 @@ msgstr "작은 점이 말하네요, '총알은 여기로 보내!'"
 
 msgctxt "items/717"
 msgid "Holographic Scope"
-msgstr "홀로그램 조준경"
+msgstr "<size=0>2</size>[조준경-5]홀로그램 조준경"
 
 msgctxt "items/718"
 msgid "The most advanced reticle tech yet developed."
@@ -3073,7 +3072,7 @@ msgstr "가장 발전된 레티클 기술이 들어갔습니다."
 
 msgctxt "items/719"
 msgid "21mm Magnifying Scope"
-msgstr "21mm 망원 조준경"
+msgstr "<size=0>2</size>[조준경-2]21mm 망원 조준경"
 
 msgctxt "items/720"
 msgid ""
@@ -3083,7 +3082,7 @@ msgstr "전쟁 전 세상에서 주요 부착물이었습니다, 이 기본 조�
 
 msgctxt "items/721"
 msgid "32mm Magnifying Scope"
-msgstr "32mm 망원 조준경"
+msgstr "<size=0>2</size>[조준경-4]32mm 망원 조준경"
 
 msgctxt "items/722"
 msgid ""
@@ -3093,7 +3092,7 @@ msgstr "이 조준경의 대물렌즈는 빛을 더 많이 받아들 일 수 있
 
 msgctxt "items/723"
 msgid "38mm Magnifying Scope"
-msgstr "38mm 망원 조준경"
+msgstr "<size=0>2</size>[조준경-6]38mm 망원 조준경"
 
 msgctxt "items/724"
 msgid ""
@@ -3103,7 +3102,7 @@ msgstr "대물렌즈는 확대 기능도 있지만, 무엇보다 최적의 눈�
 
 msgctxt "items/725"
 msgid "Wide Choke"
-msgstr "와이드 초크"
+msgstr "<size=0>5</size>[초크-1]와이드 초크"
 
 msgctxt "items/726"
 msgid "Good for increasing the cone of fire outside the barrel."
@@ -3111,7 +3110,7 @@ msgstr "발사각의 부채꼴 범위를 넓히는 데에 유용합니다."
 
 msgctxt "items/727"
 msgid "Full Choke"
-msgstr "풀 초크"
+msgstr "<size=0>5</size>[초크-2]풀 초크"
 
 msgctxt "items/728"
 msgid "Works by constricting the angle of fire, increasing effective range."
@@ -3119,7 +3118,7 @@ msgstr "발사각을 조절해 유효 사거리를 늘리는 식으로 사용합
 
 msgctxt "items/729"
 msgid "Cylinder Choke"
-msgstr "실린더 초크"
+msgstr "<size=0>5</size>[초크-3]실린더 초크"
 
 msgctxt "items/730"
 msgid ""
@@ -3129,7 +3128,7 @@ msgstr "최소한의 폭발 억제력만 넣어 넓은 범위로 탄을 확산�
 
 msgctxt "items/731"
 msgid "Extra Full Choke"
-msgstr "엑스트라 풀 초크"
+msgstr "<size=0>5</size>[초크-4]엑스트라 풀 초크"
 
 msgctxt "items/732"
 msgid "A very narrow exit passage standard for military weapons."
@@ -3137,7 +3136,7 @@ msgstr "매우 좁은 사격각을 제공하는 군용 무기의 표준 부착�
 
 msgctxt "items/733"
 msgid "Open Cylinder Choke"
-msgstr "오픈 실린더 초크"
+msgstr "<size=0>5</size>[초크-5]오픈 실린더 초크"
 
 msgctxt "items/734"
 msgid ""
@@ -3147,7 +3146,7 @@ msgstr "조임이 아예 없는 완전 개방형 초크입니다. 총구부터 �
 
 msgctxt "items/735"
 msgid "Extra Turkey Choke"
-msgstr "엑스트라 터키 초크"
+msgstr "<size=0>5</size>[초크-6]엑스트라 터키 초크"
 
 msgctxt "items/736"
 msgid "Named for the hunting design, this choke extends range significantly."
@@ -3155,7 +3154,7 @@ msgstr "칠면조 사냥에 사용되는 초크로 사거리를 크게 늘립니
 
 msgctxt "items/737"
 msgid "Arc Weights"
-msgstr "무게 고리"
+msgstr "<size=0>7</size>[무게추-1]무게 고리"
 
 msgctxt "items/738"
 msgid ""
@@ -3165,7 +3164,7 @@ msgstr "타격의 운동력 전달을 향상하려는 목적으로 무기에 장
 
 msgctxt "items/739"
 msgid "Balancing Weights"
-msgstr "균형 무게판"
+msgstr "<size=0>7</size>[무게추-2]균형 무게판"
 
 msgctxt "items/740"
 msgid ""
@@ -3175,7 +3174,7 @@ msgstr "부착식 금속 조각을 무기에 붙이면 무거워 지지만 무�
 
 msgctxt "items/741"
 msgid "Heavy Weights"
-msgstr "무거운 무게판"
+msgstr "<size=0>7</size>[무게추-5]무거운 무게판"
 
 msgctxt "items/742"
 msgid ""
@@ -3185,7 +3184,7 @@ msgstr "작은 납판을 무기에 붙이면 한 방 날릴 때마다 더 강력
 
 msgctxt "items/743"
 msgid "Symmetrical Weights"
-msgstr "대칭 무게추"
+msgstr "<size=0>7</size>[무게추-5]대칭 무게추"
 
 msgctxt "items/744"
 msgid ""
@@ -3195,7 +3194,7 @@ msgstr "이 작은 납봉들은 근접 무기에 더 많은 중량과 더 큰 �
 
 msgctxt "items/745"
 msgid "Grand Slam Weights"
-msgstr "그랜드슬램 무게추"
+msgstr "<size=0>7</size>[무게추-7]그랜드슬램 무게추"
 
 msgctxt "items/746"
 msgid ""
@@ -3205,7 +3204,7 @@ msgstr "이 사용 후 우라늄 말뚝은 보기보다 상당히 무겁습니�
 
 msgctxt "items/747"
 msgid "Counterforce Weights"
-msgstr "반작용 무게추"
+msgstr "<size=0>7</size>[무게추-9]반작용 무게추"
 
 msgctxt "items/748"
 msgid ""
@@ -3215,7 +3214,7 @@ msgstr "이 금속성 퍼티는 무기에 어느 곳에나 발라 질량을 균�
 
 msgctxt "items/749"
 msgid "Tactical Grip"
-msgstr "전술 손잡이"
+msgstr "<size=0>6</size>[손잡이-1]전술 손잡이"
 
 msgctxt "items/750"
 msgid "The little plastic nubs actually do make it easier to hold your weapon."
@@ -3223,7 +3222,7 @@ msgstr "이 조그마한 플라스틱 조각은 실제로 당신이 무기를 �
 
 msgctxt "items/751"
 msgid "Tape Grip"
-msgstr "테이프 손잡이"
+msgstr "<size=0>6</size>[손잡이-1]테이프 손잡이"
 
 msgctxt "items/752"
 msgid ""
@@ -3233,7 +3232,7 @@ msgstr "약간의 산업용 테이프 몇겹으로 손잡이를 좀 더 손바�
 
 msgctxt "items/753"
 msgid "Grooved Grip"
-msgstr "요철 손잡이"
+msgstr "<size=0>6</size>[손잡이-3]요철 손잡이"
 
 msgctxt "items/754"
 msgid ""
@@ -3242,7 +3241,7 @@ msgstr "손잡이에 홈이 파여 쉽게 잡을 수 있고 실수로 미끄러�
 
 msgctxt "items/755"
 msgid "Rubber Grip"
-msgstr "고무 손잡이"
+msgstr "<size=0>6</size>[손잡이-4]고무 손잡이"
 
 msgctxt "items/756"
 msgid ""
@@ -3251,7 +3250,7 @@ msgstr "대갈통을 두들길거라면 편하게 하는게 더 좋지 않을까
 
 msgctxt "items/757"
 msgid "Overmolded Grip"
-msgstr "오버몰드 손잡이"
+msgstr "<size=0>6</size>[손잡이-6]오버몰드 손잡이"
 
 msgctxt "items/758"
 msgid ""
@@ -3261,7 +3260,7 @@ msgstr "손 전체의 윤곽에 맞게 조각되었습니다. 덕분에 무기�
 
 msgctxt "items/759"
 msgid "Fiberglass Grip"
-msgstr "유리섬유 손잡이"
+msgstr "<size=0>6</size>[손잡이-8]유리섬유 손잡이"
 
 msgctxt "items/760"
 msgid ""
@@ -3403,10 +3402,9 @@ msgid ""
 "front, party in the back."
 msgstr "한 쪽 끝에는 날붙이가 있고 다른 쪽에는 스파이크가 있는 스키 막대입니다. 앞에서 일하고 뒤에서는 파티를 하네요.\n"
 
-#, fuzzy
 msgctxt "items/790"
 msgid "Ice Axe"
-msgstr "빙벽등반용 도끼"
+msgstr "얼음 도끼"
 
 msgctxt "items/791"
 msgid ""
@@ -3426,7 +3424,7 @@ msgstr "문명 붕괴의 무언가가 무기 개발계에 엄청난 성취를 �
 
 msgctxt "items/794"
 msgid "Dental Pick"
-msgstr ""
+msgstr "치과의사의 추천"
 
 msgctxt "items/795"
 msgid ""
@@ -6449,11 +6447,11 @@ msgstr "냉동고 열쇠"
 
 msgctxt "items/1504"
 msgid "DeadEye Experimental Scope"
-msgstr "데드아이 실험형 조준경"
+msgstr "<size=0>2</size>[조준경-8]데드아이 실험형 조준경"
 
 msgctxt "items/1505"
 msgid "Wide Spectrum Light"
-msgstr "다중 스펙트럼 조명"
+msgstr "<size=0>3</size>[하부총열-10]다중 스펙트럼 조명"
 
 msgctxt "items/1506"
 msgid ""
@@ -6463,7 +6461,7 @@ msgstr "가시광선을 넘어서는 빛의 파장까지 비출 수 있는 실�
 
 msgctxt "items/1507"
 msgid "Computer Assisted Laser Sight"
-msgstr "컴퓨터 보조 레이저 조준기"
+msgstr "<size=0>3</size>[하부총열-10]컴퓨터 보조 레이저 조준기"
 
 msgctxt "items/1508"
 msgid ""
@@ -6476,7 +6474,7 @@ msgstr ""
 
 msgctxt "items/1509"
 msgid "Lightweight Barrel"
-msgstr "경량 총열"
+msgstr "<size=0>1</size>[총열-8]경량 총열"
 
 msgctxt "items/1510"
 msgid ""
@@ -6486,7 +6484,7 @@ msgstr "이 총열의 가벼운 소재는 화력을 희생하여 무게를 상�
 
 msgctxt "items/1511"
 msgid "Shortened Barrel"
-msgstr "단축 총열"
+msgstr "<size=0>1</size>[총열-8]단축 총열"
 
 msgctxt "items/1512"
 msgid ""
@@ -6496,7 +6494,7 @@ msgstr "단축총열은 명중률을 낮추지만 총알의 속도를 극적으�
 
 msgctxt "items/1513"
 msgid "Ragged Choke"
-msgstr "뾰족한 초크"
+msgstr "<size=0>5</size>[초크-10]뾰족한 초크"
 
 msgctxt "items/1514"
 msgid ""
@@ -6506,7 +6504,7 @@ msgstr "뾰족한 끝을 가지고 있는 과-각도 초크입니다. 사정거�
 
 msgctxt "items/1515"
 msgid "Extended Choke"
-msgstr "연장 초크"
+msgstr "<size=0>5</size>[초크-10]연장 초크"
 
 msgctxt "items/1516"
 msgid ""
@@ -6531,7 +6529,7 @@ msgstr "이 전자 조준경은 상당한 양의 조준 정보를 보여주지�
 
 msgctxt "items/1519"
 msgid "FarSight Computer Assisted Scope"
-msgstr "천리안 컴퓨터 보조 조준경"
+msgstr "<size=0>2</size>[조준경-9]천리안 컴퓨터 보조 조준경"
 
 msgctxt "items/1520"
 msgid ""
@@ -9148,7 +9146,7 @@ msgstr "무정부주의자"
 
 msgctxt "items/2093"
 msgid "Razor Box"
-msgstr "면도날 상자"
+msgstr "<size=0>7</size>[무게추-6]면도날 상자"
 
 msgctxt "items/2094"
 msgid ""
@@ -9158,7 +9156,7 @@ msgstr "근접 무기를 더 뾰족하고 섬뜩하게 만드는데 필요한 �
 
 msgctxt "items/2095"
 msgid "Toxin Cell"
-msgstr "독소 셀"
+msgstr "<size=0>7</size>[무게추-10]독소 셀"
 
 msgctxt "items/2096"
 msgid ""
@@ -9168,7 +9166,7 @@ msgstr "장착되면 셀이 무기의 접촉면에 독소를 조금씩 흘려보
 
 msgctxt "items/2097"
 msgid "Concussion Bell"
-msgstr "뇌진탕 종"
+msgstr "<size=0>7</size>[무게추-10]뇌진탕 종"
 
 msgctxt "items/2098"
 msgid "On impact, emits shockwaves sure to ring the enemy's bell."
@@ -9176,7 +9174,7 @@ msgstr "충격을 받으면 적들을 타종하는 충격파를 방출합니다.
 
 msgctxt "items/2099"
 msgid "Battery Pack"
-msgstr "베터리 팩"
+msgstr "<size=0>7</size>[무게추-10]베터리 팩"
 
 msgctxt "items/2100"
 msgid ""
@@ -9186,7 +9184,7 @@ msgstr "요 전력팩과 아주 작은 전선 한쌍이라면 어떤 무기든�
 
 msgctxt "items/2101"
 msgid "Cryocell Linkage"
-msgstr "극저온 전지 연동장치"
+msgstr "<size=0>3</size>[하부총열-4]극저온 전지 연동장치"
 
 msgctxt "items/2102"
 msgid ""
@@ -9196,7 +9194,7 @@ msgstr "첨단 열 양수기가 극저온 전지를 무기 탄환에 직접 연�
 
 msgctxt "items/2103"
 msgid "Plasma Linkage"
-msgstr "플라즈마 연동장치"
+msgstr "<size=0>3</size>[하부총열-6]플라즈마 연동장치"
 
 msgctxt "items/2104"
 msgid ""
@@ -9206,7 +9204,7 @@ msgstr "발사되는 개개의 탄약에 초고열 이온화 가스를 전달하
 
 msgctxt "items/2105"
 msgid "HE Fuse Linkage"
-msgstr "고폭 퓨즈 연동장치"
+msgstr "<size=0>3</size>[하부총열-8]고폭 퓨즈 연동장치"
 
 msgctxt "items/2106"
 msgid "Applies high explosive microfuses to standard ammunition."
@@ -9441,7 +9439,7 @@ msgstr "오래되고 얼룩진 공책 조각 위에 정확한 정자체로 쓰�
 
 msgctxt "items/2161"
 msgid "Blast Muffler"
-msgstr "소음 머플러"
+msgstr "<size=0>1</size>[총열-2]소음 머플러"
 
 msgctxt "items/2162"
 msgid "Simple baffles redirect sound away from the target."
@@ -9449,7 +9447,7 @@ msgstr "간단한 격벽으로 소리를 목표로부터 다른 방향으로 보
 
 msgctxt "items/2163"
 msgid "Sound Suppressor"
-msgstr "소음기"
+msgstr "<size=0>1</size>[총열-5]소음기"
 
 msgctxt "items/2164"
 msgid ""
@@ -9459,7 +9457,7 @@ msgstr "총알이 발생시키는 소리를 상당히 줄여주는 나사식 부
 
 msgctxt "items/2165"
 msgid "Phase Silencer"
-msgstr ""
+msgstr "<size=0>1</size>[총열-8]다단형 소음기"
 
 msgctxt "items/2166"
 msgid "Sophisticated chambers redirect gases to achieve sound cancellation."
@@ -14665,7 +14663,7 @@ msgstr ""
 
 msgctxt "items/3288"
 msgid "Razor Linkage"
-msgstr "면도날 연동장치"
+msgstr "<size=0>3</size>[하부총열-10]면도날 연동장치"
 
 msgctxt "items/3289"
 msgid ""
@@ -14675,7 +14673,7 @@ msgstr "매 발사마다 파편을 추가하여 목표가 겪는 피해에 추�
 
 msgctxt "items/3290"
 msgid "Toxic Linkage"
-msgstr "독성 연동장치"
+msgstr "<size=0>3</size>[하부총열-6]독성 연동장치"
 
 msgctxt "items/3291"
 msgid ""
@@ -14685,7 +14683,7 @@ msgstr "무기의 탄환을 독성 물질 혼합제로 적시는 총열하부 �
 
 msgctxt "items/3292"
 msgid "Crippling Linkage"
-msgstr "손상 연동장치"
+msgstr "<size=0>3</size>[하부총열-10]손상 연동장치"
 
 msgctxt "items/3293"
 msgid ""
@@ -14698,7 +14696,7 @@ msgstr ""
 
 msgctxt "items/3294"
 msgid "Incendiary Capsule"
-msgstr "소이 캡슐"
+msgstr "<size=0>7</size>[무게추-8]소이 캡슐"
 
 msgctxt "items/3295"
 msgid ""
@@ -14708,7 +14706,7 @@ msgstr "접촉 활성 점화기와 연료 배출기를 통하여 이 개조물�
 
 msgctxt "items/3296"
 msgid "Cryo Capsule"
-msgstr "극저온 캡슐"
+msgstr "<size=0>7</size>[무게추-7]극저온 캡슐"
 
 msgctxt "items/3297"
 msgid ""
@@ -14719,7 +14717,7 @@ msgstr "이 소형화 액체 질소 캡슐과 촉발형 노즐을 아무 근접 
 
 msgctxt "items/3298"
 msgid "HE Capsule"
-msgstr "고폭 캡슐"
+msgstr "<size=0>7</size>[무게추-10]고폭 캡슐"
 
 msgctxt "items/3299"
 msgid ""

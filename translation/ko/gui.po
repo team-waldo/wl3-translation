@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-14 12:56+0000\n"
+"PO-Revision-Date: 2022-02-14 15:31+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4105,7 +4105,7 @@ msgstr "직접 커스터마이즈한 레인저 한 쌍을 생성하세요."
 
 msgctxt "gui/957"
 msgid "Create Custom Characters"
-msgstr "사용사 설정 캐릭터 생성"
+msgstr "사용자 설정 캐릭터 생성하기"
 
 #, fuzzy
 msgctxt "gui/958"
