@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-13 03:58+0000\n"
-"Last-Translator: jennypapa <milites@naver.com>\n"
+"PO-Revision-Date: 2022-02-14 12:56+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2906,7 +2906,7 @@ msgstr "전형적인 조준 부착물. 빨간 빛줄기가 조준하는 걸 더 
 
 msgctxt "items/681"
 msgid "Alloy Barrel"
-msgstr "합금 총열"
+msgstr "<size=0>1</size>[총열-1]합금 총열"
 
 msgctxt "items/682"
 msgid ""
@@ -3015,7 +3015,7 @@ msgstr "더 큰 탄창이 여러분에게 더 많이 갈길 기회를 줍니다.
 
 msgctxt "items/705"
 msgid "Max Capacity Mag"
-msgstr "최대 용량 탄창"
+msgstr "<size=0>4</size>[탄창-3]최대 용량 탄창"
 
 msgctxt "items/706"
 msgid "This is as big as magazines get without becoming a pain in the ass."
@@ -16673,7 +16673,7 @@ msgstr ""
 
 msgctxt "items/3580"
 msgid "Rad-Adherent Shielding Field Crystal"
-msgstr ""
+msgstr "방사선 흡착식 차폐장 크리스탈"
 
 msgctxt "items/3581"
 msgid ""
@@ -16683,7 +16683,7 @@ msgstr ""
 
 msgctxt "items/3582"
 msgid "Wide Scatter Ray-Emitter"
-msgstr ""
+msgstr "광범위 확산형 광선 방사기"
 
 msgctxt "items/3583"
 msgid ""
