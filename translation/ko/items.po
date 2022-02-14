@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-14 12:56+0000\n"
+"PO-Revision-Date: 2022-02-14 13:09+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2923,7 +2923,7 @@ msgstr "총알의 속도를 높이기 위한 단순하고 일관된 구경의 �
 
 msgctxt "items/685"
 msgid "Columbium Barrel"
-msgstr "나이오븀 총열"
+msgstr "<size=0>1</size>[총열-3]나이오븀 총열"
 
 msgctxt "items/686"
 msgid ""
@@ -2961,7 +2961,7 @@ msgstr "첨단 기술로 만든 총열이며, 고강도 결정 구조에서 우�
 
 msgctxt "items/693"
 msgid "Tactical Light"
-msgstr "전술 조명"
+msgstr "<size=0>3</size>[하부총열-3]전술 조명"
 
 msgctxt "items/694"
 msgid "A high-power light that lets you shine 'em up."
@@ -3007,7 +3007,7 @@ msgstr "더 많은 총알이 들어있는 탄창으로 적게 재장전하세요
 
 msgctxt "items/703"
 msgid "Extended Mag"
-msgstr "확장 탄창"
+msgstr "<size=0>4</size>[탄창-2]확장 탄창"
 
 msgctxt "items/704"
 msgid "Bigger magazines give you more boom-boom on tap."
@@ -3057,7 +3057,7 @@ msgstr "오래된 기술이지만, 나쁜 놈들을 더 빨리 잡아낼 수 있
 
 msgctxt "items/715"
 msgid "Red Dot Scope"
-msgstr "레드닷 조준경"
+msgstr "<size=0>2</size>[조준경-3]레드닷 조준경"
 
 msgctxt "items/716"
 msgid "The little dot says, 'Make the bullets go here!'"
@@ -3197,12 +3197,11 @@ msgctxt "items/745"
 msgid "Grand Slam Weights"
 msgstr "그랜드슬램 무게추"
 
-#, fuzzy
 msgctxt "items/746"
 msgid ""
 "These spent uranium pegs weigh a lot more than they look. Anything you "
 "attach them to is going to pack a wallop."
-msgstr "이 사용후우라늄 말뚝은 보기보다 상당히 무겁습니다. 뭐든지 이걸 붙인다면 한방 먹일 수 있을겁니다."
+msgstr "이 사용 후 우라늄 말뚝은 보기보다 상당히 무겁습니다. 뭐든지 이걸 붙인다면 한방 먹일 수 있을겁니다."
 
 msgctxt "items/747"
 msgid "Counterforce Weights"
@@ -3394,16 +3393,15 @@ msgctxt "items/787"
 msgid "The hand of the man that united Colorado."
 msgstr "콜로라도를 통일시킨 자의 손입니다."
 
-#, fuzzy
 msgctxt "items/788"
 msgid "Bladed Ski Pole"
-msgstr "날달린 스키 막대"
+msgstr "날 달린 스키 막대"
 
 msgctxt "items/789"
 msgid ""
 "A ski pole with a blade on one end and a spike on the other. Business up "
 "front, party in the back."
-msgstr ""
+msgstr "한 쪽 끝에는 날붙이가 있고 다른 쪽에는 스파이크가 있는 스키 막대입니다. 앞에서 일하고 뒤에서는 파티를 하네요.\n"
 
 #, fuzzy
 msgctxt "items/790"
