@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-17 08:58+0000\n"
-"Last-Translator: Stellar <xlsksh3@naver.com>\n"
+"PO-Revision-Date: 2022-02-17 14:02+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -213,7 +213,7 @@ msgstr "소염기"
 
 msgctxt "items/53"
 msgid "Underbarrel Light"
-msgstr "총열 하부 조명"
+msgstr "<size=0>31</size>[하단-1]총열 하부 조명"
 
 msgctxt "items/54"
 msgid "Melee Handle"
@@ -2893,7 +2893,7 @@ msgstr " LabEET2_SecretKey"
 
 msgctxt "items/679"
 msgid "Laser Sight"
-msgstr "레이저 조준기"
+msgstr "<size=0>32</size>[하단-2]레이저 조준기"
 
 msgctxt "items/680"
 msgid ""
@@ -2986,7 +2986,7 @@ msgstr "최대 밝기의 하단 부착 조명으로 누구도 당신에게서 �
 
 msgctxt "items/699"
 msgid "Ultraviolet Laser Sight"
-msgstr "<size=0>32</size>[하단-6]자외선 레이저 조준기"
+msgstr "<size=0>321</size>[하단-6]자외선 레이저 조준기"
 
 msgctxt "items/700"
 msgid ""
