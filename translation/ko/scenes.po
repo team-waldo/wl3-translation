@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-14 16:48+0000\n"
-"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
+"PO-Revision-Date: 2022-02-17 08:57+0000\n"
+"Last-Translator: secarnadia <saysaidso@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -501,15 +501,13 @@ msgctxt "scenes/24"
 msgid "Steeltown Gates"
 msgstr "스틸타운 관문"
 
-#, fuzzy
 msgctxt "scenes/25"
 msgid "Admin Level"
-msgstr "관리자 레벨"
+msgstr "행정 구역"
 
-#, fuzzy
 msgctxt "scenes/26"
 msgid "Factory Level"
-msgstr "공장 레벨"
+msgstr "공장 구역"
 
 msgctxt "scenes/27"
 msgid "Steeltown Spire"
