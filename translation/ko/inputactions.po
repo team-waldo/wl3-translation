@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-16 05:58+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2022-02-20 02:58+0000\n"
+"Last-Translator: Großdeutsches Reich <m4ea24sherman@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -105,10 +105,9 @@ msgctxt "inputactions/22"
 msgid "Toggle HUD"
 msgstr "눌러서 HUD 표시"
 
-#, fuzzy
 msgctxt "inputactions/23"
 msgid "Toggle Console"
-msgstr "눌러서 콘솔 열기"
+msgstr "콘솔 열기"
 
 msgctxt "inputactions/24"
 msgid "Attributes"
@@ -372,11 +371,11 @@ msgstr "커스텀 초상화 다시 불러오기"
 
 msgctxt "inputactions/89"
 msgid "Purchase Rank"
-msgstr "구매 랭크"
+msgstr "랭크 구매"
 
 msgctxt "inputactions/90"
 msgid "Refund Rank"
-msgstr ""
+msgstr "랭크 환불"
 
 msgctxt "inputactions/91"
 msgid "Exit Vehicle (All)"
@@ -392,7 +391,7 @@ msgstr "눌러서 격자 켜기"
 
 msgctxt "inputactions/94"
 msgid "Toggle Target Type"
-msgstr ""
+msgstr "목표 타입 표기 켜기"
 
 msgctxt "inputactions/95"
 msgid "Load Multiplayer"
@@ -400,7 +399,7 @@ msgstr "멀티플레이어 불러오기"
 
 msgctxt "inputactions/96"
 msgid "Change Formation"
-msgstr ""
+msgstr "진형 변경"
 
 msgctxt "inputactions/97"
 msgid "Trade"
@@ -416,19 +415,21 @@ msgstr "전부 줍기"
 
 msgctxt "inputactions/100"
 msgid "Distribute All"
-msgstr ""
+msgstr "전원 분배"
 
 msgctxt "inputactions/101"
 msgid "Randomize"
 msgstr "무작위 설정"
 
+#, fuzzy
 msgctxt "inputactions/102"
 msgid "Advance Credits"
-msgstr ""
+msgstr "Advance Credits"
 
+#, fuzzy
 msgctxt "inputactions/103"
 msgid "Toggle Credits Mode"
-msgstr ""
+msgstr "Toggle Credits Mode"
 
 msgctxt "inputactions/104"
 msgid "Randomize Name"
@@ -448,7 +449,7 @@ msgstr "제작"
 
 msgctxt "inputactions/108"
 msgid "Toggle Perk Visibility"
-msgstr ""
+msgstr "특성 표시 활성화"
 
 msgctxt "inputactions/109"
 msgid "Skills"
@@ -468,11 +469,11 @@ msgstr "대화 시작"
 
 msgctxt "inputactions/113"
 msgid "Increase Value"
-msgstr ""
+msgstr "값 증가"
 
 msgctxt "inputactions/114"
 msgid "Decrease Value"
-msgstr ""
+msgstr "값 감소"
 
 msgctxt "inputactions/115"
 msgid "Swap Characters"
@@ -500,7 +501,7 @@ msgstr "그룹에 추가"
 
 msgctxt "inputactions/121"
 msgid "Collections"
-msgstr ""
+msgstr "컬렉션"
 
 msgctxt "inputactions/122"
 msgid "Submit"
@@ -508,7 +509,7 @@ msgstr "확인"
 
 msgctxt "inputactions/123"
 msgid "Break Down"
-msgstr ""
+msgstr "파괴하기"
 
 msgctxt "inputactions/125"
 msgid "Field Strip"
@@ -568,11 +569,11 @@ msgstr "튜토리얼 끄기"
 
 msgctxt "inputactions/140"
 msgid "Privacy: Private"
-msgstr ""
+msgstr "개인: 비공개"
 
 msgctxt "inputactions/141"
 msgid "Privacy: Public"
-msgstr ""
+msgstr "개인: 공개"
 
 msgctxt "inputactions/142"
 msgid "Multiplayer Start Game"
@@ -580,7 +581,7 @@ msgstr "멀티플레이어 게임 시작"
 
 msgctxt "inputactions/143"
 msgid "Direct Connect Multiplayer"
-msgstr ""
+msgstr "다이렉트 커넥트 멀티플레이"
 
 msgctxt "inputactions/144"
 msgid "Refresh Lobby List"

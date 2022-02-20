@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-17 08:57+0000\n"
-"Last-Translator: secarnadia <saysaidso@naver.com>\n"
+"PO-Revision-Date: 2022-02-20 02:57+0000\n"
+"Last-Translator: Großdeutsches Reich <m4ea24sherman@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -517,7 +517,6 @@ msgctxt "scenes/59"
 msgid "Ghost Garage"
 msgstr "고스트의 차고"
 
-#, fuzzy
 msgctxt "scenes/60"
 msgid "Markham Mines"
 msgstr "마컴의 광산"
@@ -526,52 +525,45 @@ msgctxt "scenes/131"
 msgid "Steeltown"
 msgstr "스틸타운"
 
-#, fuzzy
 msgctxt "scenes/28"
 msgid "Dunes of Thought"
-msgstr "생각의 사구"
+msgstr "망각의 사구"
 
 msgctxt "scenes/29"
 msgid "Cheyenne Mountain Entrance"
 msgstr "샤이엔 산 입구"
 
-#, fuzzy
 msgctxt "scenes/30"
 msgid "Observation Level"
-msgstr "관측 레벨"
+msgstr "관측 구역"
 
-#, fuzzy
 msgctxt "scenes/31"
 msgid "Security Level"
-msgstr "보안 레벨"
+msgstr "보안 구역"
 
-#, fuzzy
 msgctxt "scenes/32"
 msgid "Research Level"
-msgstr "연구 레벨"
+msgstr "연구 구역"
 
 msgctxt "scenes/33"
 msgid "Power Storage Facility"
 msgstr "동력 저장시설"
 
-#, fuzzy
 msgctxt "scenes/34"
 msgid "Cheyenne Mountain Level 5"
-msgstr "샤이엔 산 레벨 5"
+msgstr "샤이엔산 5번구역"
 
 msgctxt "scenes/144"
 msgid "Cheyenne Hub"
 msgstr "샤이엔 중심지"
 
-#, fuzzy
 msgctxt "scenes/145"
 msgid "Security Level"
-msgstr "보안 레벨"
+msgstr "보안 구역"
 
-#, fuzzy
 msgctxt "scenes/146"
 msgid "Research Level"
-msgstr "연구 레벨"
+msgstr "연구 구역"
 
 msgctxt "scenes/147"
 msgid "Loading Dock"
