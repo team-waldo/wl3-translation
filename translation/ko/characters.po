@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-17 08:58+0000\n"
-"Last-Translator: secarnadia <saysaidso@naver.com>\n"
+"PO-Revision-Date: 2022-02-21 21:58+0000\n"
+"Last-Translator: Stagger <wnstkd23@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -742,9 +742,10 @@ msgctxt "characters/292"
 msgid "Binary Star"
 msgstr "쌍성"
 
+#, fuzzy
 msgctxt "characters/293"
 msgid "Distributed Operations Platform"
-msgstr ""
+msgstr "분산 운영 플랫폼"
 
 msgctxt "characters/294"
 msgid "Commune Robot"
@@ -4738,21 +4739,24 @@ msgctxt "characters/1547"
 msgid "[empty]"
 msgstr "[비어있음]"
 
+#, fuzzy
 msgctxt "characters/235"
 msgid "Doctor Breeler"
-msgstr ""
+msgstr "브릴러 교수"
 
 msgctxt "characters/241"
 msgid "Carla Asphalt-Runner"
 msgstr "칼라 아스팔트러너"
 
+#, fuzzy
 msgctxt "characters/242"
 msgid "Vega Corsair"
-msgstr ""
+msgstr "베가 커세어"
 
+#, fuzzy
 msgctxt "characters/243"
 msgid "Grille"
-msgstr ""
+msgstr "그릴"
 
 msgctxt "characters/262"
 msgid "Abigail Markham"

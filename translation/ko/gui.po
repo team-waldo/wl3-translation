@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-18 16:57+0000\n"
-"Last-Translator: Großdeutsches Reich <m4ea24sherman@gmail.com>\n"
+"PO-Revision-Date: 2022-02-21 21:57+0000\n"
+"Last-Translator: Stagger <wnstkd23@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1502,9 +1502,10 @@ msgctxt "gui/372"
 msgid "Hacker"
 msgstr "해커"
 
+#, fuzzy
 msgctxt "gui/373"
 msgid "Infiltrator"
-msgstr ""
+msgstr "잠입자"
 
 msgctxt "gui/374"
 msgid "Mechanic"
@@ -1546,9 +1547,10 @@ msgctxt "gui/383"
 msgid "Explosives Expert"
 msgstr "폭발물 전문가"
 
+#, fuzzy
 msgctxt "gui/384"
 msgid "Driver"
-msgstr ""
+msgstr "운전사"
 
 msgctxt "gui/385"
 msgid "Lawkeeper"
@@ -1650,9 +1652,10 @@ msgctxt "gui/409"
 msgid "Effects"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/410"
 msgid "Ancestry"
-msgstr ""
+msgstr "혈통"
 
 msgctxt "gui/411"
 msgid "Religion"
@@ -11100,9 +11103,10 @@ msgctxt "gui/2665"
 msgid "Disable Security"
 msgstr ""
 
+#, fuzzy
 msgctxt "gui/2670"
 msgid "Item Lost"
-msgstr ""
+msgstr "아이템 상실"
 
 #, fuzzy
 msgctxt "gui/2671"
@@ -11369,9 +11373,10 @@ msgstr ""
 "The Battle of Steeltown DLC가 정상적으로 구매되었습니다! 레벨 9 이상의 분대를 선택한 상태로 세계 지도를 불러오면 "
 "스틸타운 임무가 활성화됩니다."
 
+#, fuzzy
 msgctxt "gui/2624"
 msgid "Steeltown Administration"
-msgstr ""
+msgstr "스틸타운 행정부"
 
 msgctxt "gui/2625"
 msgid "Steeltown"
