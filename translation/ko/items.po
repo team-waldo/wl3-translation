@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-27 03:58+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2022-03-01 17:58+0000\n"
+"Last-Translator: Johong <loktaroggarr@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -675,10 +675,9 @@ msgctxt "items/169"
 msgid "[PH] Skull Gun"
 msgstr "[PH] 두개골 총"
 
-#, fuzzy
 msgctxt "items/170"
 msgid "[PH] Gunther would approve."
-msgstr "[PH] 건서가 인증합니다."
+msgstr "[PH] 군터가 보증합니다."
 
 #, fuzzy
 msgctxt "items/171"
@@ -4704,7 +4703,7 @@ msgstr "이거 몇개면 심지어 총알 한두개 조차 아무렇지 않다�
 
 msgctxt "items/1090"
 msgid "Experimental Painkillers"
-msgstr ""
+msgstr "시제품 진통제"
 
 msgctxt "items/1091"
 msgid ""
@@ -4712,7 +4711,6 @@ msgid ""
 "Probably not important."
 msgstr "병의 라벨에 \"경고!\"라고 쓰여져 있고 알아먹을 수가 없는 조그마한 글씨들이 적혀있습니다만, 중요한건 아니겠죠."
 
-#, fuzzy
 msgctxt "items/1092"
 msgid "<i> 1081"
 msgstr "<i> 1081"
@@ -4910,17 +4908,17 @@ msgid ""
 "A customized classic semi-auto. It is an honor to bear this weapon in the "
 "service of the Rangers."
 msgstr ""
+"맞춤형으로 제작된 고전적인 반자동 권총입니다. 이 무기를 지니고 다니는 것은 레인저의 의무를 다하는 동안 최고의 영광일 것입니다."
 
 msgctxt "items/1138"
 msgid "SWAT Rifle"
 msgstr "스왓 소총"
 
-#, fuzzy
 msgctxt "items/1139"
 msgid ""
 "Formerly the weapon of tactical officers and military police. Comes standard "
 "in no-nonsense black."
-msgstr "예전에는 전술 장교나 헌병대가 쓰던 무기였습니다. 진중한 검은색으로 표준 제공됩니다."
+msgstr "과거에는 전술 장교와 헌병대에게 지급되는 무기였습니다. 표준형 흑색 도료를 사용했습니다."
 
 msgctxt "items/1140"
 msgid "Pacifier"
@@ -4978,7 +4976,7 @@ msgstr "패트리아크의 궁전으로 통하는 관문을 여는 딜리전트 
 
 msgctxt "items/1152"
 msgid "Eliminator"
-msgstr ""
+msgstr "분쇄자"
 
 msgctxt "items/1153"
 msgid ""
@@ -5027,7 +5025,7 @@ msgstr "황무지인 의상 A"
 
 msgctxt "items/1163"
 msgid "The latest in Desperate-Not-To-Freeze chic."
-msgstr ""
+msgstr "최신 유행 얼어죽지-않으려고-안달난 스타일 입니다."
 
 msgctxt "items/1164"
 msgid "Wastelander Outfit Set B"
@@ -5093,7 +5091,7 @@ msgstr "별들과 줄무늬, 그리고 무언가를 태우려는 경향까지. �
 
 msgctxt "items/1179"
 msgid "Jawbreakers"
-msgstr ""
+msgstr "턱 분쇄기"
 
 msgctxt "items/1180"
 msgid "The handle is weighted for a little extra knock-'em-on-their-ass."
@@ -5148,7 +5146,7 @@ msgctxt "items/1191"
 msgid ""
 "How I sold a bridge I didn’t own three times a day for ten years, and you "
 "can too!"
-msgstr ""
+msgstr "내것도 아닌 다리를 하루에 세번씩 10년간 판 비법, 당신도 할 수 있습니다!"
 
 msgctxt "items/1192"
 msgid "The Bleeding Edge"
@@ -5168,7 +5166,7 @@ msgstr "꼬마 야구선수들을 위한 기본적인 타구 기술."
 
 msgctxt "items/1196"
 msgid "Kumite: A History"
-msgstr ""
+msgstr "쿠미테: 그 역사"
 
 msgctxt "items/1197"
 msgid "The underground sport of hand to hand combat revealed."
@@ -5229,9 +5227,10 @@ msgctxt "items/1209"
 msgid "Engineering for a Sunday afternoon."
 msgstr "일요일 오후의 엔지니어링."
 
+#, fuzzy
 msgctxt "items/1210"
 msgid "Make My Day"
-msgstr ""
+msgstr "드루온나"
 
 msgctxt "items/1211"
 msgid "Putting punks in their place with proper pistol practices."
@@ -5383,7 +5382,7 @@ msgstr "지도자의 깃발"
 
 msgctxt "items/1245"
 msgid "With this banner, you'll be able to rally the troops."
-msgstr ""
+msgstr "이 깃발과 함께라면, 누구든 당신을 따를겁니다."
 
 msgctxt "items/1246"
 msgid "Cordite Cell Key"
@@ -5512,7 +5511,7 @@ msgstr "레인저 정찰병 장화"
 
 msgctxt "items/1277"
 msgid "Taped Boots"
-msgstr ""
+msgstr "기워붙인 신발"
 
 msgctxt "items/1278"
 msgid "Rough Boots"
