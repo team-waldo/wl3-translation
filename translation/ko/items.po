@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-01 17:58+0000\n"
-"Last-Translator: Johong <loktaroggarr@gmail.com>\n"
+"PO-Revision-Date: 2022-03-03 04:15+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -10678,7 +10678,7 @@ msgstr ""
 
 msgctxt "items/2435"
 msgid "Aramid Pads"
-msgstr "아라미드 완충재"
+msgstr "<size=0>21</size>[상체-1]아라미드 완충재"
 
 msgctxt "items/2436"
 msgid ""
@@ -10690,7 +10690,7 @@ msgstr ""
 
 msgctxt "items/2437"
 msgid "Trauma Plate Insert"
-msgstr "부속 충격 흡수판"
+msgstr "<size=0>21</size>[상체-3]부속 충격 흡수판"
 
 msgctxt "items/2438"
 msgid ""
@@ -10700,7 +10700,7 @@ msgstr "상체방어구를 상당히 보강하는 네오세라믹 부속물입�
 
 msgctxt "items/2439"
 msgid "Chobham Scrap Plates"
-msgstr "초밤 고철 장갑판"
+msgstr "<size=0>21</size>[상체-7]초밤 고철 장갑판"
 
 msgctxt "items/2440"
 msgid ""
@@ -10710,7 +10710,7 @@ msgstr "전차에 휼륭한 방호를 제공하기도 하는 초밤 복합 장�
 
 msgctxt "items/2441"
 msgid "Pocket Doc"
-msgstr "포켓 닥"
+msgstr "<size=0>22</size>[상체-1]주머니형 응급처치도구"
 
 msgctxt "items/2442"
 msgid ""
@@ -10720,7 +10720,7 @@ msgstr "상체 방어구에 장착되면 이 작은 상자가 정교한 생명 �
 
 msgctxt "items/2443"
 msgid "Plasma Capsule"
-msgstr "혈장 캡슐"
+msgstr "<size=0>22</size>[상체-5]혈장 캡슐"
 
 msgctxt "items/2444"
 msgid ""
@@ -10730,7 +10730,7 @@ msgstr "방어구 안에 장착하면, 캡슐과 내장된 컴퓨터가 정맥�
 
 msgctxt "items/2445"
 msgid "HemoGoblin Module"
-msgstr "헤모고블린 모듈"
+msgstr "<size=0>22</size>[상체-8]헤모고블린 모듈"
 
 msgctxt "items/2446"
 msgid ""
@@ -10742,7 +10742,7 @@ msgstr ""
 
 msgctxt "items/2447"
 msgid "Ablative Spray"
-msgstr "융제 스프레이"
+msgstr "<size=0>23</size>[상체-2]융제 스프레이"
 
 msgctxt "items/2448"
 msgid ""
@@ -10752,7 +10752,7 @@ msgstr "이 에어로졸 캔에 들어있는 물질은 방어구 위에 두꺼�
 
 msgctxt "items/2449"
 msgid "Polyxylylene Barrier"
-msgstr "폴릭실린 보호막"
+msgstr "<size=0>23</size>[상체-6]폴릭실린 보호막"
 
 msgctxt "items/2450"
 msgid ""
@@ -10764,7 +10764,7 @@ msgstr ""
 
 msgctxt "items/2451"
 msgid "Phase Temper Controller"
-msgstr "위상 변환 제어기"
+msgstr "<size=0>23</size>[상체-9]위상 변환 제어기"
 
 msgctxt "items/2452"
 msgid ""
@@ -10776,7 +10776,7 @@ msgstr ""
 
 msgctxt "items/2453"
 msgid "Hydraskin Panels"
-msgstr "히드라 비늘판"
+msgstr "<size=0>31</size>[하체-1]히드라비늘형 방탄판"
 
 msgctxt "items/2454"
 msgid ""
@@ -10786,7 +10786,7 @@ msgstr "내부에 가볍고도 튼튼한 실리콘-세라믹 비늘이 있는 �
 
 msgctxt "items/2455"
 msgid "Viscoelastic Plates"
-msgstr "탄성 방탄판"
+msgstr "<size=0>31</size>[하체-4]탄성 방탄판"
 
 msgctxt "items/2456"
 msgid ""
@@ -10796,7 +10796,7 @@ msgstr "기존의 방어구 방탄판을 이 경량 고분자중합체로 교체
 
 msgctxt "items/2457"
 msgid "Ceramo-Silk Patches"
-msgstr "세라믹 비단 덧댐천"
+msgstr "<size=0>31</size>[하체-7]세라믹견섬유 보강재"
 
 msgctxt "items/2458"
 msgid ""
@@ -10806,7 +10806,7 @@ msgstr "유전자 변형 비단으로 만들어진 방어구 덧댐천입니다.
 
 msgctxt "items/2459"
 msgid "Exoknee"
-msgstr "외골격 무릎"
+msgstr "<size=0>32</size>[하체-1]외골격 무릎"
 
 msgctxt "items/2460"
 msgid ""
@@ -10816,7 +10816,7 @@ msgstr "다리를 굽혔다 펴는 것을 동력으로 보조하며 움직임에
 
 msgctxt "items/2461"
 msgid "Personnel Drive"
-msgstr "개인 동력기"
+msgstr "<size=0>32</size>[하체-5]개인용 동력기"
 
 msgctxt "items/2462"
 msgid ""
@@ -10827,7 +10827,7 @@ msgstr ""
 
 msgctxt "items/2463"
 msgid "Accelerator Skeleton"
-msgstr "가속 골격"
+msgstr "<size=0>32</size>[하체-9]가속기 장착 골격"
 
 msgctxt "items/2464"
 msgid ""
@@ -10838,7 +10838,7 @@ msgstr ""
 
 msgctxt "items/2465"
 msgid "Combat Belt"
-msgstr "전투용 벨트"
+msgstr "<size=0>34</size>[하체-3]전투용 벨트"
 
 msgctxt "items/2466"
 msgid ""
@@ -10848,7 +10848,7 @@ msgstr "격렬한 전투 중에 빠르게 사용 할 수 있는 물품들을 위
 
 msgctxt "items/2467"
 msgid "Glance Plates"
-msgstr "튀김판"
+msgstr "<size=0>11</size>[머리-1]굴절식 방탄판"
 
 msgctxt "items/2468"
 msgid ""
@@ -10858,7 +10858,7 @@ msgstr "받는 힘을 막는 대신 흘려보내도록 조정된 강철판입니
 
 msgctxt "items/2469"
 msgid "Titanium Crest"
-msgstr "티타늄 관모"
+msgstr "<size=0>11</size>[머리-3]티타늄 관모"
 
 msgctxt "items/2470"
 msgid ""
@@ -10868,7 +10868,7 @@ msgstr "헬멧 상단에 부착하는 쐐기 모양의 분할기입니다. 공�
 
 msgctxt "items/2471"
 msgid "Molybdenum-alloy Dome"
-msgstr "몰리브덴 합금 반구"
+msgstr "<size=0>11</size>[머리-7]몰리브덴 합금 반구형 방탄판"
 
 msgctxt "items/2472"
 msgid ""
@@ -10878,7 +10878,7 @@ msgstr "금속이 전도성을 띄지만 헬멧의 저항력을 상당히 증대
 
 msgctxt "items/2473"
 msgid "Impact Foam"
-msgstr "임팩트 폼"
+msgstr "<size=0>12</size>[머리-1]충격흡수용 고무보강재"
 
 msgctxt "items/2474"
 msgid ""
@@ -10889,7 +10889,7 @@ msgstr "시계를 약간 제한 하지만 병사의 시력과 청각을 보호�
 
 msgctxt "items/2475"
 msgid "Sensory Shroud"
-msgstr "센서 덮개"
+msgstr "<size=0>12</size>[머리-4]센서장착 덮개식 보호대"
 
 msgctxt "items/2476"
 msgid ""
@@ -10899,7 +10899,7 @@ msgstr "뇌진탕 방지 완충재, 스냅 렌즈, 환경청취 헤드셋으로 
 
 msgctxt "items/2477"
 msgid "Head Gear Platform"
-msgstr "헤드기어 플랫폼"
+msgstr "<size=0>12</size>[머리-9]플랫폼 장착 머리보호대"
 
 msgctxt "items/2478"
 msgid "Bronco's Heart Pendant"
@@ -14558,7 +14558,7 @@ msgstr ""
 
 msgctxt "items/3270"
 msgid "Cardio Regulator"
-msgstr "심근 조절장치"
+msgstr "<size=0>24</size>[상체-3]심근 조절장치"
 
 msgctxt "items/3271"
 msgid ""
@@ -14570,7 +14570,7 @@ msgstr ""
 
 msgctxt "items/3272"
 msgid "Vital Enhancer"
-msgstr "활력 증강기"
+msgstr "<size=0>24</size>[상체-7]활력 증강기"
 
 msgctxt "items/3273"
 msgid ""
@@ -14583,7 +14583,7 @@ msgstr ""
 
 msgctxt "items/3274"
 msgid "CRISPR Box"
-msgstr "크리스퍼 박스"
+msgstr "<size=0>24</size>[상체-X]크리스퍼 박스"
 
 msgctxt "items/3275"
 msgid ""
@@ -14596,7 +14596,7 @@ msgstr ""
 
 msgctxt "items/3276"
 msgid "Tactical HUD"
-msgstr "전술 HUD"
+msgstr "<size=0>13</size>[머리-2]전술 HUD"
 
 msgctxt "items/3277"
 msgid ""
@@ -14606,7 +14606,7 @@ msgstr "이 기초적인 홀로그램 조준 지시계는간섭에 예민하지�
 
 msgctxt "items/3278"
 msgid "Targeting Processor"
-msgstr "조준 프로세서"
+msgstr "<size=0>13</size>[머리-6]조준 프로세서"
 
 msgctxt "items/3279"
 msgid ""
@@ -14616,7 +14616,7 @@ msgstr "이 전술 오버레이에 내장된 통합 CPU는 요청형 전술 권�
 
 msgctxt "items/3280"
 msgid "Threat Intelligence\n"
-msgstr ""
+msgstr "<size=0>13</size>[머리-9]위협 분석기\n"
 
 msgctxt "items/3281"
 msgid ""
@@ -14630,7 +14630,7 @@ msgstr ""
 
 msgctxt "items/3282"
 msgid "Elastosprings"
-msgstr "탄성 스프링"
+msgstr "<size=0>33</size>[하체-1]탄성 스프링"
 
 msgctxt "items/3283"
 msgid ""
@@ -14643,7 +14643,7 @@ msgstr ""
 
 msgctxt "items/3284"
 msgid "Reflex Rails"
-msgstr "반응형 레일"
+msgstr "<size=0>33</size>[하체-5]반응형 레일"
 
 msgctxt "items/3285"
 msgid ""
@@ -14653,7 +14653,7 @@ msgstr "금속 레일과 볼 베어링을 통해 거의 마찰 없이 미끄러�
 
 msgctxt "items/3286"
 msgid "Hermes Coils"
-msgstr "헤르메스 코일"
+msgstr "<size=0>33</size>[하체-8]헤르메스 코일"
 
 msgctxt "items/3287"
 msgid ""
