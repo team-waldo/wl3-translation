@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-02-20 02:58+0000\n"
-"Last-Translator: Großdeutsches Reich <m4ea24sherman@gmail.com>\n"
+"PO-Revision-Date: 2022-03-04 08:58+0000\n"
+"Last-Translator: roc <woah1606@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -424,12 +424,12 @@ msgstr "무작위 설정"
 #, fuzzy
 msgctxt "inputactions/102"
 msgid "Advance Credits"
-msgstr "Advance Credits"
+msgstr "크레딧 넘기기"
 
 #, fuzzy
 msgctxt "inputactions/103"
 msgid "Toggle Credits Mode"
-msgstr "Toggle Credits Mode"
+msgstr "크레딧 표시 전환"
 
 msgctxt "inputactions/104"
 msgid "Randomize Name"
@@ -593,15 +593,16 @@ msgstr "로비 정렬 방식 변경"
 
 msgctxt "inputactions/146"
 msgid "Toggle Lobby List (Sort Ascending)"
-msgstr ""
+msgstr "로비 목록 표시(오름차순 정렬)"
 
 msgctxt "inputactions/147"
 msgid "Change Lobby List (Sort Ascending)"
-msgstr ""
+msgstr "로비 목록 전환(오름차순 방식)"
 
+#, fuzzy
 msgctxt "inputactions/148"
 msgid "Swap Characters Left"
-msgstr ""
+msgstr "좌측 캐릭터로 전환"
 
 msgctxt "inputactions/149"
 msgid "Skip Song"
@@ -609,19 +610,19 @@ msgstr "노래 스킵"
 
 msgctxt "inputactions/151"
 msgid "Toggle Visibility"
-msgstr ""
+msgstr "표기 전환"
 
 msgctxt "inputactions/152"
 msgid "Sell Junk"
-msgstr ""
+msgstr "잡동사니 판매"
 
 msgctxt "inputactions/153"
 msgid "Toggle Inventory Filter"
-msgstr ""
+msgstr "인벤토리 필터 변경"
 
 msgctxt "inputactions/154"
 msgid "Track"
-msgstr ""
+msgstr "목적지 설정"
 
 msgctxt "inputactions/155"
 msgid "Untrack"
