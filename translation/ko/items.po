@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-04 08:58+0000\n"
-"Last-Translator: 이정상 <lee.jeongsang@gmail.com>\n"
+"PO-Revision-Date: 2022-03-05 16:58+0000\n"
+"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6337,7 +6337,7 @@ msgstr ""
 
 msgctxt "items/1482"
 msgid "Orders from Ranger Command"
-msgstr "레인저 지휘본부 명령"
+msgstr "[6]레인저 지휘본부의 명령서"
 
 msgctxt "items/1483"
 msgid ""
@@ -8317,7 +8317,7 @@ msgstr "뭔가에 구멍을 많이 뚫어버리는데 적절해보이는 매우 
 
 msgctxt "items/1900"
 msgid "Old Journal"
-msgstr "오래된 일기"
+msgstr "[2]오래된 일기"
 
 msgctxt "items/1901"
 msgid ""
@@ -8924,7 +8924,7 @@ msgstr "\"웰컴 산장\"이라고 새겨진 작은 열쇠입니다."
 
 msgctxt "items/2043"
 msgid "Slaver's Note"
-msgstr "노예상의 쪽지"
+msgstr "[1]노예상의 쪽지"
 
 msgctxt "items/2044"
 msgid ""
@@ -12098,7 +12098,7 @@ msgstr "때묻은 열쇠입니다. 꼬리표에는 \"ㄱㅗㅇㅂㅏㅇ\"이라�
 
 msgctxt "items/2747"
 msgid "Godfisher Holy Book"
-msgstr "갓피셔 성서"
+msgstr "[5]갓피셔의 성서"
 
 msgctxt "items/2748"
 msgid ""
@@ -12561,7 +12561,7 @@ msgstr "핵 종말 후이지만 패션감각도 필요한 법입니다."
 
 msgctxt "items/2857"
 msgid "Dorsey Prisoner's Note"
-msgstr "돌시 죄수의 메모"
+msgstr "[4]돌시 포로의 쪽지"
 
 msgctxt "items/2858"
 msgid "Judge Watkins said this note was found on the body of a Dorsey."
@@ -12589,7 +12589,7 @@ msgstr "눈이 어지러워질 정도로 빈틈없는 비비섹토의 의료 및
 
 msgctxt "items/2863"
 msgid "Encyclopedia Robotica"
-msgstr "로보티카 백과사전"
+msgstr "[3]로봇학 백과사전"
 
 msgctxt "items/2864"
 msgid "A heavily used guide to Colorado robots."
@@ -14173,7 +14173,7 @@ msgstr "스피드-호크"
 
 msgctxt "items/3180"
 msgid "The Swoop"
-msgstr ""
+msgstr "스웁"
 
 msgctxt "items/3181"
 msgid "The Self-Inflicted"
@@ -14482,9 +14482,10 @@ msgstr ""
 "이 다 부서져가는 기관총은 공구 창고에서 술 취해서 벌인 장난의 결과물인 것 같습니다. 대상을 향해 맥주 캔과 병을 발사합니다. 맞은 "
 "이들은 기껏해야 숙취가 있을 것이고, 더 심하면 영원히 필름이 끊길 것입니다."
 
+#, fuzzy
 msgctxt "items/3256"
 msgid "Empties"
-msgstr ""
+msgstr "빈 병"
 
 msgctxt "items/3257"
 msgid "It's the wrath of grapes, baby."
@@ -15072,11 +15073,12 @@ msgctxt "items/3777"
 msgid "Clockwork Chicken"
 msgstr "시계태엽 닭"
 
+#, fuzzy
 msgctxt "items/3778"
 msgid ""
 "A clockwork chicken packed from beak to butt with explosives. When its "
 "spring breaks, this gizzard gone wild will cluck you up."
-msgstr ""
+msgstr "부리부터 궁둥이까지 폭발물로 채워진 시계태엽 닭입니다. 스프링이 부러진다면, 이 닭똥집이 당신을 튀겨버릴 것 입니다."
 
 msgctxt "items/3779"
 msgid "Pencil Removal Kit"
