@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-05 16:58+0000\n"
-"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
+"PO-Revision-Date: 2022-03-09 23:59+0000\n"
+"Last-Translator: Stellar <xlsksh3@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2947,7 +2947,7 @@ msgstr "가공하기 어렵지만 같은 무게의 강철보다 두 배나 단�
 
 msgctxt "items/691"
 msgid "Hammerforge-Rifled Barrel"
-msgstr "<size=0>12</size>[총열-7]다각형 가공 강선"
+msgstr "<size=0>12</size>[총열-7]다각형 가공 강선 총열"
 
 msgctxt "items/692"
 msgid ""
@@ -5230,7 +5230,7 @@ msgstr "일요일 오후의 엔지니어링."
 #, fuzzy
 msgctxt "items/1210"
 msgid "Make My Day"
-msgstr "드루온나"
+msgstr "어서 덤벼"
 
 msgctxt "items/1211"
 msgid "Putting punks in their place with proper pistol practices."
@@ -5711,7 +5711,7 @@ msgstr "카우보이 모자"
 
 msgctxt "items/1327"
 msgid "Ten Gallon Hat"
-msgstr ""
+msgstr "챙 넒은 카우보이 모자"
 
 msgctxt "items/1328"
 msgid "Rancher Hat"
@@ -5857,7 +5857,7 @@ msgstr "발레 스커트"
 
 msgctxt "items/1363"
 msgid "Dorsey Ravager Pants"
-msgstr ""
+msgstr "돌시 약탈자 하의"
 
 msgctxt "items/1364"
 msgid "Dorsey Scout Pants"
@@ -5865,11 +5865,11 @@ msgstr "돌시 정찰병 하의"
 
 msgctxt "items/1365"
 msgid "Dorsey Crusher Pants"
-msgstr ""
+msgstr "돌시 분쇄자 바지"
 
 msgctxt "items/1366"
 msgid "Dorsey Warmaster Pants"
-msgstr ""
+msgstr "돌시 전쟁대가 바지"
 
 msgctxt "items/1369"
 msgid "Rancher Jeans"
@@ -5905,7 +5905,7 @@ msgstr "현대 정장 바지"
 
 msgctxt "items/1377"
 msgid "Trendy Formal Pants"
-msgstr ""
+msgstr "트랜디한 정장 바지"
 
 msgctxt "items/1378"
 msgid "Elite Marshal Pants"
@@ -5945,7 +5945,7 @@ msgstr "기워진 멜빵바지"
 
 msgctxt "items/1387"
 msgid "<i> Edit </i>"
-msgstr ""
+msgstr "<i> 편집 </i>"
 
 msgctxt "items/1388"
 msgid "Patched Jeans"
@@ -6027,13 +6027,14 @@ msgctxt "items/1407"
 msgid "Synth Legs"
 msgstr "신스 다리"
 
+#, fuzzy
 msgctxt "items/1408"
 msgid "Daughter's Chest"
-msgstr ""
+msgstr "딸의 상자"
 
 msgctxt "items/1409"
 msgid "Dorsey Ravager Vest"
-msgstr ""
+msgstr "돌시 약탈자 조끼"
 
 msgctxt "items/1410"
 msgid "Dorsey Scout Jacket"
@@ -6041,11 +6042,11 @@ msgstr "돌시 정찰병 자켓"
 
 msgctxt "items/1411"
 msgid "Dorsey Crusher Vest"
-msgstr ""
+msgstr "돌시 분쇄자 조끼"
 
 msgctxt "items/1412"
 msgid "Dorsey Warmaster Jacket"
-msgstr ""
+msgstr "돌시 전쟁대가 자켓"
 
 msgctxt "items/1414"
 msgid "Lab Coat"
@@ -6129,7 +6130,7 @@ msgstr "중갑 흉부"
 
 msgctxt "items/1434"
 msgid "Letterman Jacket"
-msgstr ""
+msgstr "우체부 자켓"
 
 msgctxt "items/1435"
 msgid "Varsity Jacket"
@@ -6141,19 +6142,19 @@ msgstr "낸시 자켓"
 
 msgctxt "items/1437"
 msgid "Trickster Chest"
-msgstr ""
+msgstr "사기꾼 흉부"
 
 msgctxt "items/1438"
 msgid "Joker Chest"
-msgstr ""
+msgstr "재담꾼 흉부"
 
 msgctxt "items/1439"
 msgid "Jester Chest"
-msgstr ""
+msgstr "어릿광대 흉부"
 
 msgctxt "items/1440"
 msgid "Prankster Chest"
-msgstr ""
+msgstr "장난꾼 바지"
 
 msgctxt "items/1441"
 msgid "Vic's Jacket"
@@ -13531,9 +13532,9 @@ msgid ""
 "bone. FAILURE! Always, failure! When, God?! When will I find that heavenly "
 "silver-packet flavor!?\""
 msgstr ""
-"음식으로 얼룩진 이 공책의 페이지들은 요리법, 메모, 그리고 일련의 양념 실험을 위한 사후 자료들로 가득 차 있습니다. 마지막 글에는 "
-"이렇게 쓰여있습니다. \"각각 같은 분량의 소금, 양파 가루, 마늘 가루, 간장, 들소 뼈 가루. 실패다! 항상 실패야! 도대체 "
-"언제일까? 언제 그 은박 봉지에 담긴 천상의 맛을 찾을 수 있을까!?\""
+"음식으로 얼룩진 이 공책의 페이지들은 요리법, 메모, 그리고 일련의 양념 실험을 위한 사후 자료들로 가득 차 있다. 마지막 글에는 이렇게 "
+"쓰여있다. \"각각 같은 분량의 소금, 양파 가루, 마늘 가루, 간장, 들소 뼈 가루. 실패다! 항상 실패야! 도대체 언제일까? 언제 그 "
+"은박 봉지에 담긴 천상의 맛을 찾을 수 있을까!?\""
 
 msgctxt "items/3045"
 msgid "Sheet Music"
@@ -17621,7 +17622,7 @@ msgstr "검은색 아이쉐도우"
 
 msgctxt "items/3973"
 msgid "You can’t be in a cult without some gothy makeup. It’s the law."
-msgstr "광신도가 되고 싶으면 고딕 메이크업 정도는 해 주는 게 국룰임."
+msgstr "광신도가 되고 싶으면 고딕 메이크업 정도는 해 주는 게 기본입니다."
 
 msgctxt "items/3974"
 msgid "Spiky Metal Collar"
