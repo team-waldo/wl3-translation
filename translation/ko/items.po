@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-11 02:58+0000\n"
-"Last-Translator: 이정상 <lee.jeongsang@gmail.com>\n"
+"PO-Revision-Date: 2022-03-12 23:58+0000\n"
+"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -5849,7 +5849,7 @@ msgstr "일반인 셔츠"
 
 msgctxt "items/1361"
 msgid "Daughter's Legs"
-msgstr ""
+msgstr "딸의 다리"
 
 msgctxt "items/1362"
 msgid "Tutu"
@@ -6228,11 +6228,12 @@ msgctxt "items/1458"
 msgid "Bard's Tale IV: Tips 'n Tricks"
 msgstr "바드 이야기 IV: 비법과 요령"
 
+#, fuzzy
 msgctxt "items/1459"
 msgid ""
 "A paperback tome that holds all of the secrets and strategies for beating "
 "the classic blobber."
-msgstr ""
+msgstr "기본적인 블로버를 물리치기 위한 비법과 전략이 담겨있는 두꺼운 종이 서적입니다."
 
 msgctxt "items/1460"
 msgid "Bardic Jacket"
@@ -7036,7 +7037,7 @@ msgstr "트럭기사 경적"
 
 msgctxt "items/1637"
 msgid "TEN-FOUR GOOD BUDDY WHAT’S YOUR TWENTY??"
-msgstr ""
+msgstr "알았다 친구, 위치는 어디야??"
 
 msgctxt "items/1638"
 msgid "Pinprick"
@@ -7062,11 +7063,11 @@ msgstr "번"
 
 msgctxt "items/1643"
 msgid "Loose"
-msgstr ""
+msgstr "루즈"
 
 msgctxt "items/1644"
 msgid "Top Cut"
-msgstr ""
+msgstr "탑 컷"
 
 msgctxt "items/1645"
 msgid "Suave"
@@ -7755,9 +7756,10 @@ msgctxt "items/1782"
 msgid "Fabulous Fungi!"
 msgstr "놀라운 곰팡이류!"
 
+#, fuzzy
 msgctxt "items/1783"
 msgid "The book stinks of wet soil and strangely, no small amount of butter."
-msgstr ""
+msgstr "이 책에선 젖은 흙 냄새와, 이상하게도 약간의 버터 냄새가 납니다."
 
 msgctxt "items/1784"
 msgid "Duck Hat"
@@ -7864,9 +7866,10 @@ msgid ""
 "This modified assault rifle gives 'em just a little venom with its bite."
 msgstr "이 개조된 돌격소총은 적을 살짝 깨물어서 약간의 독을 흘려넣을 뿐입니다."
 
+#, fuzzy
 msgctxt "items/1808"
 msgid "The Clobberer"
-msgstr ""
+msgstr "수선가"
 
 msgctxt "items/1809"
 msgid ""
@@ -8091,9 +8094,10 @@ msgid ""
 "everyone!\""
 msgstr "쪽지에는 피로 휘갈겨 쓴 글이 있습니다, \"그년은 미쳤어 그년은 미쳤어 모두를 먹고있어!\""
 
+#, fuzzy
 msgctxt "items/1856"
 msgid "Cabbage Patch Kid"
-msgstr ""
+msgstr "양배추 인형"
 
 msgctxt "items/1857"
 msgid ""
@@ -8508,11 +8512,11 @@ msgstr "레인저 툰드라 하의"
 
 msgctxt "items/1952"
 msgid "Ranger Specialist Coat"
-msgstr ""
+msgstr "레인저 특기병 코트"
 
 msgctxt "items/1953"
 msgid "Ranger Specialist Boots"
-msgstr ""
+msgstr "레인저 특기병 장화"
 
 msgctxt "items/1954"
 msgid "Grim Beret"
@@ -8520,7 +8524,7 @@ msgstr "그림베레"
 
 msgctxt "items/1955"
 msgid "Ranger Specialist Legs"
-msgstr ""
+msgstr "레인저 특기병 다리"
 
 msgctxt "items/1956"
 msgid "Both Barrels"
@@ -9280,9 +9284,10 @@ msgctxt "items/2123"
 msgid "Fancy Suit"
 msgstr "멋진 슈트"
 
+#, fuzzy
 msgctxt "items/2124"
 msgid "Looking sharp! Go get 'em, tiger!"
-msgstr ""
+msgstr "날렵해 보이는데! 가보자고, 멋쟁이!"
 
 msgctxt "items/2125"
 msgid "Clown Outfit"
@@ -9463,31 +9468,31 @@ msgstr "정교한 격실로 가스의 방향을 바꾸어 소음을 차단합니
 
 msgctxt "items/2167"
 msgid " Ranger Tactical Chest"
-msgstr ""
+msgstr " 레인저 전술 흉부"
 
 msgctxt "items/2168"
 msgid " Standard-issue Ranger armor set."
-msgstr " 표준적인 레인저 방어구 한 벌입니다."
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2169"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2170"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2171"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2172"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2173"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2174"
 msgid " Ranger Tactical Helmet"
@@ -9495,207 +9500,207 @@ msgstr " 레인저 전술 헬멧"
 
 msgctxt "items/2175"
 msgid " Ranger Tactical Pants"
-msgstr ""
+msgstr " 레인저 전술 하의"
 
 msgctxt "items/2176"
 msgid " Ranger Veteran Chest"
-msgstr ""
+msgstr " 레인저 베테랑 흉부"
 
 msgctxt "items/2177"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2178"
 msgid " Ranger Veteran Helmet"
-msgstr ""
+msgstr " 레인저 베테랑 헬멧"
 
 msgctxt "items/2179"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2180"
 msgid " Ranger Veteran Pants"
-msgstr ""
+msgstr " 레인저 베테랑 하의"
 
 msgctxt "items/2181"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2182"
 msgid " Ranger Infantry Chest"
-msgstr ""
+msgstr " 레인저 보병 흉부"
 
 msgctxt "items/2183"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2184"
 msgid " Ranger Infantry Helmet"
-msgstr ""
+msgstr " 레인저 보병 헬멧"
 
 msgctxt "items/2185"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2186"
 msgid " Ranger Infantry Pants"
-msgstr ""
+msgstr " 레인저 보병 하의"
 
 msgctxt "items/2187"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2188"
 msgid " Ranger Outrider Chest"
-msgstr ""
+msgstr " 레인저 척후대 흉부"
 
 msgctxt "items/2189"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2190"
 msgid " Ranger Outrider Helmet"
-msgstr ""
+msgstr " 레인저 척후대 헬멧"
 
 msgctxt "items/2191"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2192"
 msgid " Ranger Outrider Pants"
-msgstr ""
+msgstr " 레인저 척후대 하의"
 
 msgctxt "items/2193"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2194"
 msgid " Tundra Jacket"
-msgstr ""
+msgstr " 툰드라 자켓"
 
 msgctxt "items/2195"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2196"
 msgid " Winter Parka"
-msgstr ""
+msgstr " 겨울 파카"
 
 msgctxt "items/2197"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2198"
 msgid " Ranger Scout Chest"
-msgstr ""
+msgstr " 레인저 정찰병 흉부"
 
 msgctxt "items/2199"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2200"
 msgid " Ranger Scout Helmet"
-msgstr ""
+msgstr " 레인저 정찰병 헬멧"
 
 msgctxt "items/2201"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2202"
 msgid " Ranger Gunslinger Chest"
-msgstr ""
+msgstr " 레인저 총잡이 흉부"
 
 msgctxt "items/2203"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2204"
 msgid " Ranger Gunslinger Hat"
-msgstr ""
+msgstr " 레인저 총잡이 모자"
 
 msgctxt "items/2205"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2206"
 msgid " Ranger Gunslinger Pants"
-msgstr ""
+msgstr " 레인저 총잡이 하의"
 
 msgctxt "items/2207"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2208"
 msgid " Ranger Operative Chest"
-msgstr ""
+msgstr " 레인저 요원 흉부"
 
 msgctxt "items/2209"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2210"
 msgid " Ranger Operative Helmet"
-msgstr ""
+msgstr " 레인저 요원 헬멧"
 
 msgctxt "items/2211"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2212"
 msgid " Ranger Operative Pants"
-msgstr ""
+msgstr " 레인저 요원 바지"
 
 msgctxt "items/2213"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2214"
 msgid " Ranger Tundra Chest"
-msgstr ""
+msgstr " 레인저 툰드라 흉부"
 
 msgctxt "items/2215"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2216"
 msgid " Ranger Tundra Helmet"
-msgstr ""
+msgstr " 레인저 툰드라 헬멧"
 
 msgctxt "items/2217"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2218"
 msgid " Ranger Tundra Pants"
-msgstr ""
+msgstr " 레인저 툰드라 하의"
 
 msgctxt "items/2219"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2220"
 msgid " Ranger Specialist Jacket"
-msgstr ""
+msgstr " 레인저 특기병 자켓"
 
 msgctxt "items/2221"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2222"
 msgid " Ranger Specialist Helmet"
-msgstr ""
+msgstr " 레인저 특기병 헬멧"
 
 msgctxt "items/2223"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2224"
 msgid " Ranger Specialist Pants"
-msgstr ""
+msgstr " 레인저 특기병 하의"
 
 msgctxt "items/2225"
 msgid " Standard-issue Ranger armor set."
-msgstr ""
+msgstr " 레인저의 제식 방어구 한 벌입니다."
 
 msgctxt "items/2226"
 msgid "Scrap Helmet"
