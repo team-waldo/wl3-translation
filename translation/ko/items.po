@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-12 23:58+0000\n"
-"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
+"PO-Revision-Date: 2022-03-14 22:58+0000\n"
+"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1837,7 +1837,7 @@ msgstr "이 전쟁 전 디자인은 수집가들과 존 웨오 팬들이 가장 
 
 msgctxt "items/442"
 msgid "K-Cannon"
-msgstr "K-대포"
+msgstr "K-캐논"
 
 msgctxt "items/443"
 msgid ""
@@ -1866,7 +1866,7 @@ msgstr "이 가스-작동식 괴물은 매우 거대한 탄환을 사용합니�
 
 msgctxt "items/448"
 msgid "Man Cannon"
-msgstr "인간 대포"
+msgstr "맨 캐논"
 
 msgctxt "items/449"
 msgid ""
@@ -7017,11 +7017,11 @@ msgstr ""
 
 msgctxt "items/1632"
 msgid "Hat Dance Horn"
-msgstr ""
+msgstr "모자춤 경적"
 
 msgctxt "items/1633"
 msgid "It’s like a party on wheels!"
-msgstr ""
+msgstr "마치 바퀴 위에서의 축제같네요!"
 
 msgctxt "items/1634"
 msgid "Police Horn"
@@ -13032,7 +13032,7 @@ msgid ""
 "heir of Claire Howe. All Marshals present during the Godfisher raid are "
 "sworn to secrecy."
 msgstr ""
-"사울 뷰캐넌의 명령에 따라 고아 멜리사 하우는 클레어 하우의 적법한 후계자로 지정되었습니다. 갓피셔 습격에 참여했던 보안관들은 모두 이 "
+"사울 뷰캐넌의 명령에 따라 고아 멜리사 하우는 클레어 하우의 적법한 후계자로 지정되었습니다. 갓피셔 습격에 참여했던 마샬들은 모두 이 "
 "비밀을 지키기로 맹세했습니다."
 
 msgctxt "items/2953"
