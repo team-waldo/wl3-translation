@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-14 22:58+0000\n"
-"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
+"PO-Revision-Date: 2022-03-15 21:14+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6339,7 +6339,7 @@ msgstr ""
 
 msgctxt "items/1482"
 msgid "Orders from Ranger Command"
-msgstr "[6]레인저 지휘본부의 명령서"
+msgstr "레인저 지휘본부의 명령서"
 
 msgctxt "items/1483"
 msgid ""
@@ -8322,7 +8322,7 @@ msgstr "뭔가에 구멍을 많이 뚫어버리는데 적절해보이는 매우 
 
 msgctxt "items/1900"
 msgid "Old Journal"
-msgstr "[2]오래된 일기"
+msgstr "오래된 일기"
 
 msgctxt "items/1901"
 msgid ""
@@ -8929,7 +8929,7 @@ msgstr "\"웰컴 산장\"이라고 새겨진 작은 열쇠입니다."
 
 msgctxt "items/2043"
 msgid "Slaver's Note"
-msgstr "[1]노예상의 쪽지"
+msgstr "노예상의 쪽지"
 
 msgctxt "items/2044"
 msgid ""
@@ -12104,7 +12104,7 @@ msgstr "때묻은 열쇠입니다. 꼬리표에는 \"ㄱㅗㅇㅂㅏㅇ\"이라�
 
 msgctxt "items/2747"
 msgid "Godfisher Holy Book"
-msgstr "[5]갓피셔의 성서"
+msgstr "갓피셔의 성서"
 
 msgctxt "items/2748"
 msgid ""
@@ -12567,7 +12567,7 @@ msgstr "핵 종말 후이지만 패션감각도 필요한 법입니다."
 
 msgctxt "items/2857"
 msgid "Dorsey Prisoner's Note"
-msgstr "[4]돌시 포로의 쪽지"
+msgstr "돌시 포로의 쪽지"
 
 msgctxt "items/2858"
 msgid "Judge Watkins said this note was found on the body of a Dorsey."
@@ -12595,7 +12595,7 @@ msgstr "눈이 어지러워질 정도로 빈틈없는 비비섹토의 의료 및
 
 msgctxt "items/2863"
 msgid "Encyclopedia Robotica"
-msgstr "[3]로봇학 백과사전"
+msgstr "로봇학 백과사전"
 
 msgctxt "items/2864"
 msgid "A heavily used guide to Colorado robots."
@@ -15221,7 +15221,7 @@ msgstr "스틸타운 설명"
 
 msgctxt "items/3336"
 msgid "Cryo Exo Suit"
-msgstr "냉동 엑소 슈트"
+msgstr "외골격 방한복"
 
 msgctxt "items/3337"
 msgid "A suit that feels cozier than it looks."
@@ -15229,7 +15229,7 @@ msgstr "보기보다 포근한 슈트입니다."
 
 msgctxt "items/3338"
 msgid "Cryo Exo Leg Armor"
-msgstr "냉동 엑소 다리 방어구"
+msgstr "외골격 방한복 하의"
 
 msgctxt "items/3339"
 msgid "A pair of armored legs made for kicking snowmen in the South Pole."
@@ -15237,7 +15237,7 @@ msgstr "남극에서 눈사람을 발로 차려고 만들어진 다리 방어구
 
 msgctxt "items/3340"
 msgid "Cryo Exo Helmet"
-msgstr "냉동 엑소 헬멧"
+msgstr "외골격 방한모"
 
 msgctxt "items/3341"
 msgid "This helmet has side-flap things that keep your ears nice and warm."
@@ -15245,7 +15245,7 @@ msgstr "이 헬멧은 당신의 귀를 따뜻하고 편안하게 해 줄 측면 
 
 msgctxt "items/3342"
 msgid "Pyro Exo Suit"
-msgstr "방화 엑소 슈트"
+msgstr "외골격 방화복"
 
 msgctxt "items/3343"
 msgid "You could bodyslam a fireplace with this suit."
@@ -15253,7 +15253,7 @@ msgstr "이 슈트와 함께라면 벽난로에 몸통박치기도 할 수 있�
 
 msgctxt "items/3344"
 msgid "Pyro Exo Leg Armor"
-msgstr "방화 엑소 다리 방어구"
+msgstr "외골격 방화복 하의"
 
 msgctxt "items/3345"
 msgid "These armored legs can stomp out a forest fire."
@@ -15261,7 +15261,7 @@ msgstr "이 다리 방어구는 산불도 밟아 끌 수 있습니다."
 
 msgctxt "items/3346"
 msgid "Pyro Exo Helmet"
-msgstr "방화 엑소 헬멧"
+msgstr "외골격 방화모"
 
 msgctxt "items/3347"
 msgid "This helmet is an enemy to secondhand smoke."
@@ -15269,7 +15269,7 @@ msgstr "이 헬멧은 간접흡연의 천적입니다."
 
 msgctxt "items/3348"
 msgid "Energy Exo Suit"
-msgstr "에너지 엑소 슈트"
+msgstr "외골격 방전복"
 
 msgctxt "items/3349"
 msgid "This suit makes you feel all tingly. In a good way."
@@ -15277,7 +15277,7 @@ msgstr "이 슈트는 얼얼한 느낌을 줍니다. 좋은 쪽으로요."
 
 msgctxt "items/3350"
 msgid "Energy Exo Leg Armor"
-msgstr "에너지 엑소 다리 방어구"
+msgstr "외골격 방전복 하의"
 
 msgctxt "items/3351"
 msgid ""
@@ -15287,7 +15287,7 @@ msgstr "이 다리 방어구를 착용한 채로 슬라이딩을 한 후 친구�
 
 msgctxt "items/3352"
 msgid "Energy Exo Helmet"
-msgstr "에너지 엑소 헬멧"
+msgstr "외골격 방전모"
 
 msgctxt "items/3353"
 msgid ""
@@ -15297,7 +15297,7 @@ msgstr "이 헬멧은 당신이 피격당했을때 소리굽쇠 소리를 냅니
 
 msgctxt "items/3354"
 msgid "Grounded Suit"
-msgstr ""
+msgstr "접지처리 방전복"
 
 msgctxt "items/3355"
 msgid "You look like a plague doctor in this suit. Neat plating, though."
@@ -15305,7 +15305,7 @@ msgstr "역병의사같이 보이게 만드는 슈트입니다. 그래도 장갑
 
 msgctxt "items/3356"
 msgid "Grounded Leg Armor"
-msgstr ""
+msgstr "접지처리 방전복 하의"
 
 msgctxt "items/3357"
 msgid "You feel <i>grounded</i> with these armored legs on."
@@ -15313,7 +15313,7 @@ msgstr "이 다리 방어구를 착용하면 <i>땅에 붙은</i> 느낌이 듭�
 
 msgctxt "items/3358"
 msgid "Grounded Helmet"
-msgstr ""
+msgstr "접지처리 방전모"
 
 msgctxt "items/3359"
 msgid ""
@@ -15323,7 +15323,7 @@ msgstr "안테나가 왜 있는지는 모르지만, 박치기로 상대의 눈�
 
 msgctxt "items/3360"
 msgid "Ignition Spear"
-msgstr "점화 창"
+msgstr "점화용 창"
 
 msgctxt "items/3361"
 msgid "Made for poking things in a hot forge - or people."
@@ -15331,7 +15331,7 @@ msgstr "뜨거운 용광로에서 무언가를 - 혹은 사람을 찌를 때 사
 
 msgctxt "items/3362"
 msgid "Elite Ignition Spear"
-msgstr "정예 점화 창"
+msgstr "최고급 점화용 창"
 
 msgctxt "items/3363"
 msgid "Now called \"the devil's toothpick.\""
@@ -15347,7 +15347,7 @@ msgstr "사용자 경고: 빛나는 부분을 만지지 마시오."
 
 msgctxt "items/3366"
 msgid "Elite Disruption Baton"
-msgstr "정예 교란용 곤봉"
+msgstr "최고급 교란용 곤봉"
 
 msgctxt "items/3367"
 msgid "Shockingly effective."
@@ -15363,7 +15363,7 @@ msgstr "전기적 분노의 주먹!"
 
 msgctxt "items/3370"
 msgid "Elite Pneumatic Gauntlet"
-msgstr "정예 공압 건틀렛"
+msgstr "최고급 공압 건틀렛"
 
 msgctxt "items/3371"
 msgid "High-fives not recommended. May result in cardiac arrest or death."
@@ -15379,7 +15379,7 @@ msgstr "모든 방화광을 위한 최고의 자동 소총입니다."
 
 msgctxt "items/3374"
 msgid "Elite Auto 'Fireball' Rifle"
-msgstr "정예 자동 '화염구' 소총"
+msgstr "최고급 자동 '화염구' 소총"
 
 msgctxt "items/3375"
 msgid "Step 1: Cast Fireball. Step 2: Shove hands into nearest snowdrift."
@@ -15395,7 +15395,7 @@ msgstr "당신에겐 이롭지만, 적에게는 해로운 진동입니다."
 
 msgctxt "items/3378"
 msgid "Elite Disruption Pulser"
-msgstr "정예 교란 펄스 발생기"
+msgstr "최고급 교란 펄스 발생기"
 
 msgctxt "items/3379"
 msgid "Clear! <i>BZZT!</i>"
@@ -15403,7 +15403,7 @@ msgstr "충전완료! <i>지지직!</i>"
 
 msgctxt "items/3380"
 msgid "Fire Suppressant Sprayer"
-msgstr "화염 억제 스프레이"
+msgstr "소화물질 분무기"
 
 msgctxt "items/3381"
 msgid "Freeze! Hands up!"
@@ -15411,7 +15411,7 @@ msgstr "꼼짝마! 손 들어!"
 
 msgctxt "items/3382"
 msgid "Elite Fire Suppressant Sprayer"
-msgstr "정예 화염 억제 스프레이"
+msgstr "최고급 소화물질 분무기"
 
 msgctxt "items/3383"
 msgid "This upgraded lil' guy stops enemies cold in their tracks."
@@ -15427,7 +15427,7 @@ msgstr "샬롯이 당신에게 그물을 쐈는데 그게 전기라고 생각해
 
 msgctxt "items/3386"
 msgid "Elite Disruption Web Launcher"
-msgstr "정예 교란 망 발사기"
+msgstr "최고급 교란 망 발사기"
 
 msgctxt "items/3387"
 msgid ""
@@ -15437,15 +15437,15 @@ msgstr "원자 재구성이 어떤 느낌인지 알고 싶지 않다면 맞는�
 
 msgctxt "items/3388"
 msgid "Heavy Fire Suppressor"
-msgstr "대형 화염 억제기"
+msgstr "대형 화재 진압기"
 
 msgctxt "items/3389"
 msgid "Smokey the Bear is loaded for bear."
-msgstr "싸울 준비가 된 산불 순찰대 마스코트입니다."
+msgstr "소방관은 화재를 방관하지 않습니다."
 
 msgctxt "items/3390"
 msgid "Elite Heavy Fire Suppressor"
-msgstr "정예 대형 화염 억제기"
+msgstr "최고급 대형 화재 진압기"
 
 msgctxt "items/3391"
 msgid "Remodeled to put your enemies into a tomb of ice."
@@ -15463,7 +15463,7 @@ msgstr "화염방사기에 말려드는게 최악이라고 생각한다면, <i>�
 
 msgctxt "items/3394"
 msgid "Elite Tar-Thrower"
-msgstr "정예 타르방사기"
+msgstr "최고급 타르방사기"
 
 msgctxt "items/3395"
 msgid ""
@@ -15473,7 +15473,7 @@ msgstr "이제 적들은 서부시대의 사악한 마녀가 녹는 것처럼 �
 
 msgctxt "items/3396"
 msgid "Hot-Rivet Rifle"
-msgstr "뜨거운 대못 소총"
+msgstr "가열된 대못 소총"
 
 msgctxt "items/3397"
 msgid "Leave your enemies riveted!"
@@ -15481,7 +15481,7 @@ msgstr "적들을 벽에 박아버립니다!"
 
 msgctxt "items/3398"
 msgid "Elite Hot-Rivet Rifle"
-msgstr "정예 뜨거운 대못 소총"
+msgstr "최고급 가열된 대못 소총"
 
 msgctxt "items/3399"
 msgid "Congratulations! You've created the world's most powerful rivet gun."
@@ -15497,15 +15497,15 @@ msgstr "군중 속에 던져놓고 튀겨지는 걸 보십시오."
 
 msgctxt "items/3402"
 msgid " Elite Disruption Field Generator"
-msgstr " 정예 교란 지대 생성기"
+msgstr " 최고급 교란 지대 생성기"
 
 msgctxt "items/3403"
 msgid " Elite Disruption Field Generator desc"
-msgstr ""
+msgstr " Elite Disruption Field Generator desc"
 
 msgctxt "items/3404"
 msgid "Hazard Shield Generator"
-msgstr "위험 보호막 생성기"
+msgstr "산업재해용 보호막 생성기"
 
 msgctxt "items/3405"
 msgid "A gun that bubble wraps your friends the way they like it."
@@ -15513,7 +15513,7 @@ msgstr "당신의 친구들을 취향에 맞춰 뽁뽁이로 감싸게 해주는
 
 msgctxt "items/3406"
 msgid "Elite Hazard Shield Generator"
-msgstr "정예 위험 보호막 생성기"
+msgstr "최고급 산업재해용 보호막 생성기"
 
 msgctxt "items/3407"
 msgid "Now this is an upgrade you can get behind."
@@ -15521,7 +15521,7 @@ msgstr "뒤에 숨을 수도 있는 업그레이드 입니다."
 
 msgctxt "items/3408"
 msgid "Chemical Neutralizer"
-msgstr "화학 중화제"
+msgstr "화학물질 중화제"
 
 msgctxt "items/3409"
 msgid ""
@@ -15541,7 +15541,7 @@ msgstr "블루의 시체에서 찾았습니다. 보기보다 무겁습니다."
 
 msgctxt "items/3412"
 msgid "Synaptic Degausser"
-msgstr "시냅스 디가우저"
+msgstr "인공신경 소거장치"
 
 msgctxt "items/3413"
 msgid ""
