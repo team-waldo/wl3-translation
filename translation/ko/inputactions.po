@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-04 08:58+0000\n"
-"Last-Translator: roc <woah1606@naver.com>\n"
+"PO-Revision-Date: 2022-03-18 16:58+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -421,12 +421,10 @@ msgctxt "inputactions/101"
 msgid "Randomize"
 msgstr "무작위 설정"
 
-#, fuzzy
 msgctxt "inputactions/102"
 msgid "Advance Credits"
 msgstr "크레딧 넘기기"
 
-#, fuzzy
 msgctxt "inputactions/103"
 msgid "Toggle Credits Mode"
 msgstr "크레딧 표시 전환"
@@ -599,7 +597,6 @@ msgctxt "inputactions/147"
 msgid "Change Lobby List (Sort Ascending)"
 msgstr "로비 목록 전환(오름차순 방식)"
 
-#, fuzzy
 msgctxt "inputactions/148"
 msgid "Swap Characters Left"
 msgstr "좌측 캐릭터로 전환"

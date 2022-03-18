@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-17 11:58+0000\n"
-"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
+"PO-Revision-Date: 2022-03-18 16:58+0000\n"
+"Last-Translator: Tehanuu <studiochanbi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -658,7 +658,6 @@ msgid ""
 "caught in it."
 msgstr "사용자 전방으로 산성 줄기를 발사합니다. 산성 줄기에 닿은 사람은 중독됩니다."
 
-#, fuzzy
 msgctxt "items/166"
 msgid "Earthquake"
 msgstr "지진"
@@ -738,7 +737,6 @@ msgid ""
 "acquired from substance abuse. Except shame."
 msgstr "약물 남용으로 얻게 된 안 좋은 효과들을 즉시 제거해주는 놀라운 알약입니다. 부끄러움만 빼고 말이죠."
 
-#, fuzzy
 msgctxt "items/184"
 msgid " Placeholder sellable"
 msgstr " 판매가 가능한 대체품"
@@ -747,7 +745,6 @@ msgctxt "items/185"
 msgid " You can't use it, but you can sell it!"
 msgstr " 사용할 수는 없지만 팔 수는 있죠!"
 
-#, fuzzy
 msgctxt "items/186"
 msgid " Placeholder animal part"
 msgstr " 동물 부속 대체품"
@@ -2870,22 +2867,18 @@ msgctxt "items/674"
 msgid "-"
 msgstr "-"
 
-#, fuzzy
 msgctxt "items/675"
 msgid " NRC Technical Specs"
 msgstr " NRC Technical Specs"
 
-#, fuzzy
 msgctxt "items/676"
 msgid " NRC Technical Specs"
 msgstr " NRC Technical Specs"
 
-#, fuzzy
 msgctxt "items/677"
 msgid " LabEET2_SecretKey"
 msgstr " LabEET2_SecretKey"
 
-#, fuzzy
 msgctxt "items/678"
 msgid " LabEET2_SecretKey"
 msgstr " LabEET2_SecretKey"
@@ -5453,7 +5446,6 @@ msgctxt "items/1261"
 msgid "Casual Shoes"
 msgstr "평상복 신발"
 
-#, fuzzy
 msgctxt "items/1262"
 msgid "Trendy Shoes"
 msgstr "최신유행 신발"
@@ -6032,10 +6024,9 @@ msgctxt "items/1407"
 msgid "Synth Legs"
 msgstr "신스 다리"
 
-#, fuzzy
 msgctxt "items/1408"
 msgid "Daughter's Chest"
-msgstr "딸의 상자"
+msgstr "딸의 갑옷"
 
 msgctxt "items/1409"
 msgid "Dorsey Ravager Vest"
@@ -6233,12 +6224,11 @@ msgctxt "items/1458"
 msgid "Bard's Tale IV: Tips 'n Tricks"
 msgstr "바드 이야기 IV: 비법과 요령"
 
-#, fuzzy
 msgctxt "items/1459"
 msgid ""
 "A paperback tome that holds all of the secrets and strategies for beating "
 "the classic blobber."
-msgstr "기본적인 블로버를 물리치기 위한 비법과 전략이 담겨있는 두꺼운 종이 서적입니다."
+msgstr "고전적인 블로버를 물리치기 위한 비법과 전략이 담겨있는 두꺼운 종이 서적입니다."
 
 msgctxt "items/1460"
 msgid "Bardic Jacket"
@@ -6684,7 +6674,7 @@ msgstr "보강된 범퍼"
 
 msgctxt "items/1552"
 msgid " Inferno Bumper Description"
-msgstr ""
+msgstr " Inferno Bumper Description"
 
 msgctxt "items/1553"
 msgid "Light Vehicle Plating"
@@ -6692,7 +6682,7 @@ msgstr "경량 차량 장갑"
 
 msgctxt "items/1554"
 msgid " Wood Chipper Bumper Description"
-msgstr ""
+msgstr " Wood Chipper Bumper Description"
 
 msgctxt "items/1555"
 msgid "Light Vehicle Plating"
@@ -6814,7 +6804,7 @@ msgstr "어린이 메뉴 구매시 무료증정입니다. 몇가지 제한사항
 
 msgctxt "items/1583"
 msgid "Wolf Skull Ornament"
-msgstr "늑내 해골 장식"
+msgstr "늑대 해골 장식"
 
 msgctxt "items/1584"
 msgid "“I'm... the BEASTMASTER!\""
@@ -6826,7 +6816,7 @@ msgstr "염소 장식"
 
 msgctxt "items/1586"
 msgid "Prepare for RAMMING SPEED!"
-msgstr ""
+msgstr "돌진하는 속도가 음, 메우 빠릅니다!"
 
 msgctxt "items/1587"
 msgid "Chicken Ornament"
@@ -6834,7 +6824,7 @@ msgstr "닭 장식"
 
 msgctxt "items/1588"
 msgid "Rangers cross the road any time they damn well please."
-msgstr ""
+msgstr "레인저는 누가 뭐라든 본인 기분이 내킬때 길을 건넙니다."
 
 msgctxt "items/1589"
 msgid "Dildo Ornament"
@@ -6980,7 +6970,7 @@ msgstr "파야소 도색"
 
 msgctxt "items/1622"
 msgid "¡Es un show, pendejos! ¡Arriba!"
-msgstr ""
+msgstr "¡Es un show, pendejos! ¡Arriba!"
 
 msgctxt "items/1623"
 msgid "Snakeskin Paint Job"
@@ -7006,7 +6996,7 @@ msgstr "황무지인 도색"
 
 msgctxt "items/1628"
 msgid "The latest in road warrior chic."
-msgstr ""
+msgstr "최신 로드워리어 스타일입니다."
 
 msgctxt "items/1629"
 msgid "Default"
@@ -7018,7 +7008,7 @@ msgstr "염소 경적"
 
 msgctxt "items/1631"
 msgid "Mess with the goat, you get... this horn."
-msgstr ""
+msgstr "잠자는 염소의 수염을 건드리면... 이 뿔에 다칠 수 있습니다."
 
 msgctxt "items/1632"
 msgid "Hat Dance Horn"
@@ -7076,7 +7066,7 @@ msgstr "탑 컷"
 
 msgctxt "items/1645"
 msgid "Suave"
-msgstr ""
+msgstr "슈아브"
 
 msgctxt "items/1646"
 msgid "Frostbite"
@@ -7163,7 +7153,7 @@ msgstr ""
 
 msgctxt "items/1660"
 msgid "Liver Box"
-msgstr ""
+msgstr "인공 간"
 
 msgctxt "items/1661"
 msgid "Hermes Mk. 3 Actuators"
@@ -7288,7 +7278,7 @@ msgstr "프레리 펀치"
 
 msgctxt "items/1692"
 msgid "Puts the 'waste' in wasteland."
-msgstr ""
+msgstr "황무지를 황무지답게 만들어줍니다."
 
 msgctxt "items/1693"
 msgid "Brainwave Destabilizer"
@@ -7335,7 +7325,7 @@ msgstr ""
 
 msgctxt "items/1701"
 msgid "Head 2"
-msgstr ""
+msgstr "머리 2"
 
 msgctxt "items/1702"
 msgid "Typed Letter"
@@ -8099,10 +8089,9 @@ msgid ""
 "everyone!\""
 msgstr "쪽지에는 피로 휘갈겨 쓴 글이 있습니다, \"그년은 미쳤어 그년은 미쳤어 모두를 먹고있어!\""
 
-#, fuzzy
 msgctxt "items/1856"
 msgid "Cabbage Patch Kid"
-msgstr "양배추 인형"
+msgstr "배추머리 인형"
 
 msgctxt "items/1857"
 msgid ""
@@ -8119,7 +8108,7 @@ msgstr "세계의 종말조차 없애는게 불가능한 간식입니다."
 
 msgctxt "items/1860"
 msgid "Billy's Bleat"
-msgstr ""
+msgstr "빌리의 음메"
 
 msgctxt "items/1861"
 msgid "The natural curve of the horn just lends itself to more goat killing."
@@ -8676,7 +8665,7 @@ msgstr "복고풍과 신기술의 만남. 파란 브라이고 - 멋진 취향을
 
 msgctxt "items/1988"
 msgid "Limerick Note Pt. 1"
-msgstr ""
+msgstr "5행시 첫번째 장"
 
 msgctxt "items/1989"
 msgid "The note reads, 'We're the punchline to every joke'."
@@ -8684,15 +8673,15 @@ msgstr "\"우린 모든 농담의 펀치라인이다\"라고 적혀있다."
 
 msgctxt "items/1990"
 msgid "Limerick Note Pt. 2"
-msgstr ""
+msgstr "5행시 두번째 장"
 
 msgctxt "items/1991"
 msgid "The note reads, 'But el Payaso Mejor'."
-msgstr ""
+msgstr "\"하지만 파야소가 최고다\"라고 적혀있다."
 
 msgctxt "items/1992"
 msgid "Limerick Note Pt. 3"
-msgstr ""
+msgstr "5행시 세번째장"
 
 msgctxt "items/1993"
 msgid "The note reads, 'Will even the score'."
@@ -9018,7 +9007,7 @@ msgstr "고기라고요? 통조림으로 된? 이런, 고맙습니다, 부인!"
 
 msgctxt "items/2061"
 msgid "Beer Nuts"
-msgstr ""
+msgstr "안주용 땅콩"
 
 msgctxt "items/2062"
 msgid "It's got nuts. What more do you want?"
@@ -9960,23 +9949,23 @@ msgstr "동력 없이는 너무 무거워서 사용할 수 없습니다. 다행�
 
 msgctxt "items/2275"
 msgid "Gipper Armor Chest"
-msgstr ""
+msgstr "Gipper Armor Chest"
 
 msgctxt "items/2276"
 msgid "Gipper Armor chest description"
-msgstr ""
+msgstr "Gipper Armor chest description"
 
 msgctxt "items/2277"
 msgid "Gipper Armor Helmet"
-msgstr ""
+msgstr "Gipper Armor Helmet"
 
 msgctxt "items/2278"
 msgid "Gipper Armor helmet description"
-msgstr ""
+msgstr "Gipper Armor helmet description"
 
 msgctxt "items/2279"
 msgid "Gipper Armor Legs"
-msgstr ""
+msgstr "Gipper Armor Legs"
 
 msgctxt "items/2280"
 msgid "Verchitin Armor"
@@ -10102,7 +10091,7 @@ msgstr "얼이라는 이름을 가진 신스의 머리입니다."
 
 msgctxt "items/2306"
 msgid " Test Cassette Tape"
-msgstr ""
+msgstr " Test Cassette Tape"
 
 msgctxt "items/2307"
 msgid ""
@@ -10110,6 +10099,9 @@ msgid ""
 "until after R&R kids recruitmentIf we don't do an R&R tape in broadmoor, "
 "let's do it in RHQ; doesn't appear until after R&R kids recruitment"
 msgstr ""
+" If we don't do an R&R tape in broadmoor, let's do it in RHQ; doesn't appear "
+"until after R&R kids recruitmentIf we don't do an R&R tape in broadmoor, "
+"let's do it in RHQ; doesn't appear until after R&R kids recruitment"
 
 msgctxt "items/2308"
 msgid "Scout Pants"
@@ -10130,11 +10122,11 @@ msgstr "눈부심 방지 렌즈와 호흡기가 한지 여행을 좀 더 할만�
 
 msgctxt "items/2312"
 msgid "Scout Armor Mask"
-msgstr ""
+msgstr "Scout Armor Mask"
 
 msgctxt "items/2313"
 msgid " Scout Armor Mask description"
-msgstr ""
+msgstr " Scout Armor Mask description"
 
 msgctxt "items/2314"
 msgid "Merc Leggings"
@@ -10157,11 +10149,11 @@ msgstr "고글과 복면은 그다지 방호력을 제공하지는 않지만 콜
 
 msgctxt "items/2318"
 msgid "Merc Armor Mask"
-msgstr ""
+msgstr "Merc Armor Mask"
 
 msgctxt "items/2319"
 msgid " Merc Armor Mask description"
-msgstr ""
+msgstr " Merc Armor Mask description"
 
 msgctxt "items/2320"
 msgid "Tactical Armor Legs"
@@ -10185,11 +10177,11 @@ msgstr "렌즈와 호흡기, 보온두건이 임무를 어디서 수행하든 �
 
 msgctxt "items/2324"
 msgid "Tactical Armor Mask"
-msgstr ""
+msgstr "Tactical Armor Mask"
 
 msgctxt "items/2325"
 msgid " Tactical Armor Mask description"
-msgstr ""
+msgstr " Tactical Armor Mask description"
 
 msgctxt "items/2326"
 msgid ""
@@ -10221,11 +10213,11 @@ msgstr "스파이크가 위협적이긴 하지만 문간을 지날 때마다 머
 
 msgctxt "items/2331"
 msgid "Trooper Armor Mask"
-msgstr ""
+msgstr "Trooper Armor Mask"
 
 msgctxt "items/2332"
 msgid " Trooper Armor Mask description"
-msgstr ""
+msgstr " Trooper Armor Mask description"
 
 msgctxt "items/2333"
 msgid "Commando Legs"
@@ -10249,11 +10241,11 @@ msgstr "안면 보호구에는 화이트아웃 현상 시에 도움이되는 작
 
 msgctxt "items/2337"
 msgid "Commando Armor Mask"
-msgstr ""
+msgstr "Commando Armor Mask"
 
 msgctxt "items/2338"
 msgid " Commando Armor Mask description"
-msgstr ""
+msgstr " Commando Armor Mask description"
 
 msgctxt "items/2339"
 msgid "Spectrum Assault Legs"
@@ -10280,11 +10272,11 @@ msgstr "헬멧 안에서, 공기는 계속해서 걸러지며 모든 음성은 �
 
 msgctxt "items/2343"
 msgid "Spectrum Assault Armor Mask"
-msgstr ""
+msgstr "Spectrum Assault Armor Mask"
 
 msgctxt "items/2344"
 msgid " Spectrum Assault Armor Mask description"
-msgstr ""
+msgstr " Spectrum Assault Armor Mask description"
 
 msgctxt "items/2345"
 msgid "Bardic Tights"
@@ -10314,7 +10306,7 @@ msgctxt "items/2350"
 msgid ""
 " A papal tiara style crown. Silver, egg shaped, with rings of gold, and a "
 "small skull at its tip."
-msgstr ""
+msgstr " 교황 티아라 스타일의 왕관. 은색에 달걀 모양이며 금으로 된 고리와 끝부분에 작은 해골이 있습니다."
 
 msgctxt "items/2351"
 msgid "MacTavish's Mask"
@@ -10358,131 +10350,131 @@ msgstr "오리 모자"
 
 msgctxt "items/2360"
 msgid "Yer a real quack!"
-msgstr ""
+msgstr "이거 진짜 끝내주꽥!"
 
 msgctxt "items/2361"
 msgid "Dorsey Armor Chest"
-msgstr ""
+msgstr "돌시 가슴방어구"
 
 msgctxt "items/2362"
 msgid " Dorsey Armor Chest description"
-msgstr ""
+msgstr " Dorsey Armor Chest description"
 
 msgctxt "items/2363"
 msgid "Dorsey Armor Legs"
-msgstr ""
+msgstr "돌시 다리방어구"
 
 msgctxt "items/2364"
 msgid " Dorsey Armor Legs description"
-msgstr ""
+msgstr " Dorsey Armor Legs description"
 
 msgctxt "items/2365"
 msgid "Dorsey Armor Helmet"
-msgstr ""
+msgstr "돌시 방어구 헬멧"
 
 msgctxt "items/2366"
 msgid " Dorsey Armor Helmet description"
-msgstr ""
+msgstr " Dorsey Armor Helmet description"
 
 msgctxt "items/2367"
 msgid "Marshal Armor Chest"
-msgstr ""
+msgstr "Marshal Armor Chest"
 
 msgctxt "items/2368"
 msgid " Marshal Armor Chest description"
-msgstr ""
+msgstr " Marshal Armor Chest description"
 
 msgctxt "items/2369"
 msgid "Marshal Armor Legs"
-msgstr ""
+msgstr "Marshal Armor Legs"
 
 msgctxt "items/2370"
 msgid " Marshal Armor Legs description"
-msgstr ""
+msgstr " Marshal Armor Legs description"
 
 msgctxt "items/2371"
 msgid "Marshal Armor Helmet"
-msgstr ""
+msgstr "Marshal Armor Helmet"
 
 msgctxt "items/2372"
 msgid " Marshal Armor Helmet description"
-msgstr ""
+msgstr " Marshal Armor Helmet description"
 
 msgctxt "items/2373"
 msgid "Godfisher Armor Chest"
-msgstr ""
+msgstr "Godfisher Armor Chest"
 
 msgctxt "items/2374"
 msgid " Godfisher Armor Chest description"
-msgstr ""
+msgstr " Godfisher Armor Chest description"
 
 msgctxt "items/2375"
 msgid "Godfisher Armor Legs"
-msgstr ""
+msgstr "Godfisher Armor Legs"
 
 msgctxt "items/2376"
 msgid "Godfisher Armor Helmet"
-msgstr ""
+msgstr "Godfisher Armor Helmet"
 
 msgctxt "items/2377"
 msgid " Godfisher Armor Helmet description"
-msgstr ""
+msgstr " Godfisher Armor Helmet description"
 
 msgctxt "items/2378"
 msgid "Godfisher Armor Mask"
-msgstr ""
+msgstr "Godfisher Armor Mask"
 
 msgctxt "items/2379"
 msgid " Godfisher Armor Mask description"
-msgstr ""
+msgstr " Godfisher Armor Mask description"
 
 msgctxt "items/2380"
 msgid "Nancy Armor Chest"
-msgstr ""
+msgstr "Nancy Armor Chest"
 
 msgctxt "items/2381"
 msgid " Nancy Armor Chest description"
-msgstr ""
+msgstr " Nancy Armor Chest description"
 
 msgctxt "items/2382"
 msgid "Nancy Armor Legs"
-msgstr ""
+msgstr "Nancy Armor Legs"
 
 msgctxt "items/2383"
 msgid " Nancy Armor Legs description"
-msgstr ""
+msgstr " Nancy Armor Legs description"
 
 msgctxt "items/2384"
 msgid "Nancy Armor Helmet"
-msgstr ""
+msgstr "Nancy Armor Helmet"
 
 msgctxt "items/2385"
 msgid " Nancy Armor Helmet description"
-msgstr ""
+msgstr " Nancy Armor Helmet description"
 
 msgctxt "items/2386"
 msgid "Monster Army Armor Chest"
-msgstr ""
+msgstr "Monster Army Armor Chest"
 
 msgctxt "items/2387"
 msgid " Monster Army Armor Chest description"
-msgstr ""
+msgstr " Monster Army Armor Chest description"
 
 msgctxt "items/2388"
 msgid "Monster Army Armor Legs"
-msgstr ""
+msgstr "Monster Army Armor Legs"
 
 msgctxt "items/2389"
 msgid " Monster Army Armor Legs description"
-msgstr ""
+msgstr " Monster Army Armor Legs description"
 
 msgctxt "items/2390"
 msgid "Monster Army Armor Helmet"
-msgstr ""
+msgstr "Monster Army Armor Helmet"
 
 msgctxt "items/2391"
 msgid " Monster Army Armor Helmet description"
-msgstr ""
+msgstr " Monster Army Armor Helmet description"
 
 msgctxt "items/2392"
 msgid "Good Luck"
@@ -11846,7 +11838,7 @@ msgstr "알리스타 훈의 기록"
 
 msgctxt "items/2687"
 msgid "Scout02_Male_ArmorHead"
-msgstr ""
+msgstr "Scout02_Male_ArmorHead"
 
 msgctxt "items/2688"
 msgid "An ancient cassette tape labelled, 'Aspen Advertisement for Radio'."
@@ -12000,7 +11992,7 @@ msgstr "잔인한 코레이"
 
 msgctxt "items/2721"
 msgid "Pending"
-msgstr ""
+msgstr "펜딩"
 
 msgctxt "items/2722"
 msgid "Jingle All The Way Schematics"
@@ -12219,7 +12211,6 @@ msgctxt "items/2773"
 msgid "The Viking"
 msgstr "바이킹"
 
-#, fuzzy
 msgctxt "items/2774"
 msgid "The Jock"
 msgstr "운동부"
@@ -12278,7 +12269,7 @@ msgstr "그런지"
 
 msgctxt "items/2788"
 msgid "Eight-Tease"
-msgstr ""
+msgstr "쌍팔년도"
 
 msgctxt "items/2789"
 msgid "The Porcupine"
@@ -12632,7 +12623,7 @@ msgstr "사토시에게 받은 장식 없는 금속 상자입니다. 이걸 가�
 
 msgctxt "items/2870"
 msgid "Open the case."
-msgstr ""
+msgstr "상자를 연다."
 
 msgctxt "items/2871"
 msgid "Gold Nugget"
@@ -12852,7 +12843,7 @@ msgstr "도미네이터 차체"
 
 msgctxt "items/2918"
 msgid "BEAST MODE. Nothing can stop you now."
-msgstr ""
+msgstr "야·수·모·드. 이제 무엇도 당신을 막을 수 없습니다."
 
 msgctxt "items/2919"
 msgid "Full Self Driving Module"
@@ -15910,27 +15901,27 @@ msgstr ""
 
 msgctxt "items/3529"
 msgid " Clue: Hideout Visit 01 (Prisoner Returns) title"
-msgstr ""
+msgstr " Clue: Hideout Visit 01 (Prisoner Returns) title"
 
 msgctxt "items/3530"
 msgid " Clue: Hideout Visit 01 (Prisoner Returns) desc"
-msgstr ""
+msgstr " Clue: Hideout Visit 01 (Prisoner Returns) desc"
 
 msgctxt "items/3531"
 msgid " Clue: Hideout Visit 02 (Prisoner Returns) title"
-msgstr ""
+msgstr " Clue: Hideout Visit 02 (Prisoner Returns) title"
 
 msgctxt "items/3532"
 msgid " Clue: Hideout Visit 02 (Prisoner Returns) desc"
-msgstr ""
+msgstr " Clue: Hideout Visit 02 (Prisoner Returns) desc"
 
 msgctxt "items/3533"
 msgid " Clue: Hideout Visit 03 (Prisoner Returns) title"
-msgstr ""
+msgstr " Clue: Hideout Visit 03 (Prisoner Returns) title"
 
 msgctxt "items/3534"
 msgid " Clue: Hideout Visit 03 (Prisoner Returns) desc"
-msgstr ""
+msgstr " Clue: Hideout Visit 03 (Prisoner Returns) desc"
 
 msgctxt "items/3547"
 msgid "Tellurium Steel"
@@ -15944,67 +15935,67 @@ msgstr "이 철과 텔루륨 합금은 스틸타운의 대표적인 재료로, �
 
 msgctxt "items/3549"
 msgid "Elite Cryo Exo Suit"
-msgstr ""
+msgstr "최고급 외골격 방한복"
 
 msgctxt "items/3550"
 msgid ""
 "An upgraded suit that gives you the warm hug feeling you've never had "
 "growing up."
-msgstr ""
+msgstr "마치 옛날에 엄마가 따스히 안아줬던 기분을 다시 느끼게 해주는 개량된 방한복입니다."
 
 msgctxt "items/3551"
 msgid "Elite Cryo Exo Leg Armor"
-msgstr ""
+msgstr "최고급 외골격 방한복 하의"
 
 msgctxt "items/3552"
 msgid ""
 "These upgraded armored legs would've been <i>great</i> to have when you "
 "first arrived in Colorado."
-msgstr ""
+msgstr "당신이 콜로라도에 처음 도착했을 때 입고 있었으면 '아주' 유용했을 개량된 방한복 하의입니다."
 
 msgctxt "items/3553"
 msgid "Elite Cryo Exo Helmet"
-msgstr ""
+msgstr "최고급 외골격 방한모"
 
 msgctxt "items/3554"
 msgid "This upgraded helmet tells head colds to go fuck themselves."
-msgstr ""
+msgstr "이 개량된 방한모 하나면 코감기는 개좆병신이 됩니다."
 
 msgctxt "items/3555"
 msgid "Elite Pyro Exo Suit"
-msgstr ""
+msgstr "최고급 외골격 방화복"
 
 msgctxt "items/3556"
 msgid "Flamethrowers ain't shit against this remodeled suit."
-msgstr ""
+msgstr "화염방사기들이 거슬린다면 이 개조된 방화복을 구비하십시오."
 
 msgctxt "items/3557"
 msgid "Elite Pyro Exo Leg Armor"
-msgstr ""
+msgstr "최고급 외골격 방화복 하의"
 
 msgctxt "items/3558"
 msgid "When the floor is lava, you will reign supreme."
-msgstr ""
+msgstr "용암이 바닥일 때, 이 방화복을 입은 당신의 진가가 드러납니다."
 
 msgctxt "items/3559"
 msgid "Elite Pyro Exo Helmet"
-msgstr ""
+msgstr "최고급 외골격 방화모"
 
 msgctxt "items/3560"
 msgid "A remodeled helmet that would be the envy of firefighters."
-msgstr ""
+msgstr "모든 소방관들이 선망하는 개량된 방화모입니다."
 
 msgctxt "items/3561"
 msgid "Elite Energy Exo Suit"
-msgstr ""
+msgstr "최고급 외골격 방전복"
 
 msgctxt "items/3562"
 msgid "Even Mother Nature's lightning couldn't strike down this remade suit."
-msgstr ""
+msgstr "이 개량된 방전복은 대자연의 번개마저도 이겨낼 수 있습니다."
 
 msgctxt "items/3563"
 msgid "Elite Energy Exo Leg Armor"
-msgstr ""
+msgstr "최고급 외골격 방전복 하의"
 
 msgctxt "items/3564"
 msgid ""
@@ -16014,37 +16005,37 @@ msgstr ""
 
 msgctxt "items/3565"
 msgid "Elite Energy Exo Helmet"
-msgstr ""
+msgstr "최고급 외골격 방전모"
 
 msgctxt "items/3566"
 msgid ""
 "Upside: a remade helmet that deflects lightning bolts. Downside: hair static "
 "aftermaths."
-msgstr ""
+msgstr "장점: 이 개량형 방전모는 번개를 막아줍니다. 단점: 그러면 머리가 위로 솟구칩니다."
 
 msgctxt "items/3567"
 msgid "Elite Grounded Suit"
-msgstr ""
+msgstr "최고급 접지처리 방전복"
 
 msgctxt "items/3568"
 msgid "\"Resistance is futile.\" That's adorable."
-msgstr ""
+msgstr "\"저항은 무의미하다.\"라니, 귀엽네요."
 
 msgctxt "items/3569"
 msgid "Elite Grounded Leg Armor"
-msgstr ""
+msgstr "최고급 접지처리 방전복 하의"
 
 msgctxt "items/3570"
 msgid "A pair of refined armored legs with additional \"fuck you\" plating."
-msgstr ""
+msgstr "추가로 \"좆까\" 도금처리한 개량형 방전복 바지입니다."
 
 msgctxt "items/3571"
 msgid "Elite Grounded Helmet"
-msgstr ""
+msgstr "최고급 접지처리 방전모"
 
 msgctxt "items/3572"
 msgid "A refined helmet that's more hardheaded than a Hard-Head."
-msgstr ""
+msgstr "돌대가리들보다 더욱 단단한 개량형 방전모입니다."
 
 msgctxt "items/3573"
 msgid "Disruption Energy Converter"
@@ -16058,7 +16049,7 @@ msgstr ""
 
 msgctxt "items/3577"
 msgid " Stacking Status Weapon"
-msgstr ""
+msgstr " Stacking Status Weapon"
 
 msgctxt "items/3578"
 msgid "Bio-Metric Governor"
@@ -16072,35 +16063,38 @@ msgstr ""
 
 msgctxt "items/3608"
 msgid "Nut Tightening Wrench"
-msgstr ""
+msgstr "너트 조임용 렌치"
 
 msgctxt "items/3609"
 msgid ""
 "\"Righty Tighty\" is the only choice with this wrench. It only tightens, "
 "never loosens. Only for use by certified Nut Tightening Engineers."
 msgstr ""
+"\"오른쪽으로 돌려 조이기\"가 이 렌치의 유일한 기능입니다. 조이기만 할 뿐, 풀어주지 않습니다. 전문 너트 조이기 엔지니어들만 "
+"사용하십시오."
 
 msgctxt "items/3610"
 msgid "Nut Loosening Wrench"
-msgstr ""
+msgstr "너트 조임 풀기용 렌치"
 
 msgctxt "items/3611"
 msgid ""
 "\"Lefty Loosey\" is the only choice with this wrench. It only loosens, never "
 "tightens. Only for use by certified Nut Loosening Engineers."
 msgstr ""
+"\"왼쪽으로 돌려 풀기\"가 이 렌치의 유일한 기능입니다. 풀기만 할 뿐, 조이지 않습니다. 전문 너트 풀기 엔지니어들만 사용하십시오."
 
 msgctxt "items/3612"
 msgid "Russian Nesting Doll"
-msgstr ""
+msgstr "마트료시카"
 
 msgctxt "items/3613"
 msgid "You're afraid to find out how deep the rabbit hole goes."
-msgstr ""
+msgstr "이 토끼 구멍이 얼마나 깊은지 알려면 많은 용기가 필요할 겁니다."
 
 msgctxt "items/3614"
 msgid "Fraternization Clearance Form, Top"
-msgstr ""
+msgstr "친교행위 신청서, 상단"
 
 msgctxt "items/3615"
 msgid ""
@@ -16108,10 +16102,12 @@ msgid ""
 "see each other romantically. The \"Party 1\" field is filled in with the "
 "name \"Serena Ash.\""
 msgstr ""
+"두 작업자가 연애 행위를 승낙 받을 때 작성하는 신청서의 윗부분으로 보입니다. \"당사자 1\"에 해당하는 부분에는 다음과 같은 이름이 "
+"적혀있습니다. \"세레나 애쉬\""
 
 msgctxt "items/3616"
 msgid "Fraternization Clearance Form, Bottom"
-msgstr ""
+msgstr "친교행위 신청서, 하단"
 
 msgctxt "items/3617"
 msgid ""
@@ -16119,10 +16115,12 @@ msgid ""
 "to see each other romantically. The \"Party 2\" field is filled in with the "
 "name \"Luna Moon.\""
 msgstr ""
+"두 작업자가 연애 행위를 승낙 받을 때 작성하는 신청서의 아랫부분으로 보입니다. \"당사자 2\"에 해당하는 부분에는 다음과 같은 이름이 "
+"적혀있습니다. \"루나 문\""
 
 msgctxt "items/3618"
 msgid "McToasties Breakfast Cereal"
-msgstr ""
+msgstr "맥토스티 아침 시리얼"
 
 msgctxt "items/3619"
 msgid ""
@@ -16132,67 +16130,70 @@ msgid ""
 "</i>Lawsuits alleging health risks of eating McToasties cereal are not yet "
 "proven in a court of law."
 msgstr ""
+"진짜 토스트와 라듐 가루를 뿌려서 만든 <i>맥토스티 시리얼은 당신의 아침을 폭발시켜줄 것입니다!\n"
+"\n"
+"</i>맥토스티 시리얼을 먹는 것이 건강에 위험하다는 소송의 주장은 아직 법정에서 입증되지 않았습니다."
 
 msgctxt "items/3620"
 msgid "Synth Declaration"
-msgstr ""
+msgstr "신스의 선언문"
 
 msgctxt "items/3621"
 msgid ""
 "A message of peace and reconciliation from a group of synths that fled to "
 "Colorado."
-msgstr ""
+msgstr "콜로라도로 도망친 신스들이 작성한 메시지로 평화와 화합의 내용을 담고 있습니다."
 
 msgctxt "items/3622"
 msgid "Blue's Throne Thoughts"
-msgstr ""
+msgstr "블루가 왕좌에서 한 생각들"
 
 msgctxt "items/3623"
 msgid "A recording of Blue's most personal reflections."
-msgstr ""
+msgstr "블루의 가장 개인적인 사색들을 담고있는 기록입니다."
 
 msgctxt "items/3624"
 msgid "Rank Ravi's Ribbing"
-msgstr ""
+msgstr "랭크 라비의 놀리기"
 
 msgctxt "items/3625"
 msgid "This Ravi person really doesn't seem very popular."
-msgstr ""
+msgstr "이 라비라는 사람은 그닥 유명하지 않은 것 같습니다."
 
 msgctxt "items/3626"
 msgid "Message From \"B\""
-msgstr ""
+msgstr "메시지 \"B\""
 
 msgctxt "items/3627"
 msgid ""
 "A tape containing a short recorded message from someone named \"B\" to \"J\"."
-msgstr ""
+msgstr "\"B\"라는 이름을 가진 사람이 \"J\"라는 사람에게 보내는 짧은 메시지가 기록된 테이프입니다."
 
 msgctxt "items/3628"
 msgid "Recorded Conversation"
-msgstr ""
+msgstr "대화 기록"
 
 msgctxt "items/3629"
 msgid "A personal call between Markham and Blue."
-msgstr ""
+msgstr "마캄과 블루가 나눈 개인적인 대화입니다."
 
 msgctxt "items/3630"
 msgid "Ludlow Abuses"
-msgstr ""
+msgstr "러들로의 직권 남용"
 
 msgctxt "items/3631"
 msgid ""
 "This recording appears to detail an altercation between Ludlow and some of "
 "the Steeltown workers."
-msgstr ""
+msgstr "스틸타운의 노동자들과 러들로 사이에 발생한 논쟁을 세세히 기록한 테이프로 보입니다."
 
 msgctxt "items/3632"
 msgid "Message to Luis"
-msgstr ""
+msgstr "루이스에게 보내는 메시지"
 
 msgctxt "items/3633"
 msgid "A reassuring message from Luis' wife, Florinda."
-msgstr ""
+msgstr "루이스의 아내 플로린다가 보낸 안부용 메시지입니다."
 
 msgctxt "items/3634"
 msgid "Cookie's Recipe List"
