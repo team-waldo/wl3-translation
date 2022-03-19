@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-18 16:58+0000\n"
-"Last-Translator: Tehanuu <studiochanbi@gmail.com>\n"
+"PO-Revision-Date: 2022-03-19 07:36+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -755,7 +755,7 @@ msgstr " 냄새가 영 좋지 않습니다."
 
 msgctxt "items/188"
 msgid "Cybernetic Transfer Module (Empty)"
-msgstr "인공두뇌 전송 모듈 (빈 상태)"
+msgstr "사이버네틱 전송 모듈 (빈 상태)"
 
 msgctxt "items/189"
 msgid ""
@@ -765,7 +765,7 @@ msgstr "\"최대 2500MB 크기의 기계 지능을 옮기기에 적합합니다.
 
 msgctxt "items/190"
 msgid "Cybernetic Transfer Module (Reagan)"
-msgstr "인공두뇌 전송 모듈 (레이건)"
+msgstr "사이버네틱 전송 모듈 (레이건)"
 
 msgctxt "items/191"
 msgid ""
@@ -10478,7 +10478,7 @@ msgstr " Monster Army Armor Helmet description"
 
 msgctxt "items/2392"
 msgid "Good Luck"
-msgstr "행운을 비마"
+msgstr "[03]행운이 있기를"
 
 msgctxt "items/2393"
 msgid ""
@@ -10487,7 +10487,7 @@ msgstr "조디의 부모님이 녹음한 테이프입니다. 딸이 레인저의
 
 msgctxt "items/2394"
 msgid "Soldier's Note"
-msgstr "군인의 기록"
+msgstr "[05]군인의 기록"
 
 msgctxt "items/2395"
 msgid ""
@@ -10497,7 +10497,7 @@ msgstr "전쟁 직후에 녹음된 테이프입니다. 잘 보존되어 있으�
 
 msgctxt "items/2396"
 msgid "An Interrogation"
-msgstr "심문"
+msgstr "[07]심문 기록"
 
 msgctxt "items/2397"
 msgid ""
@@ -11489,63 +11489,63 @@ msgstr "전투 불능이 된 분대원에겐 딱 세 가지만 있으면 됩니�
 
 msgctxt "items/2605"
 msgid "Aspen is under Attack"
-msgstr "애스펀이 공격 받고 있습니다"
+msgstr "[42]애스펀이 공격 받고 있다"
 
 msgctxt "items/2606"
 msgid "Marriage counseling"
-msgstr "결혼 상담"
+msgstr "[43]결혼 상담"
 
 msgctxt "items/2607"
 msgid "Vic & Breathers"
-msgstr "빅과 브리더"
+msgstr "[44]빅과 브리더"
 
 msgctxt "items/2608"
 msgid "Aspen Radio Ad 1"
-msgstr "애스펀 라디오 광고 1"
+msgstr "[39]애스펀 라디오 광고 1"
 
 msgctxt "items/2609"
 msgid "Aspen Radio Ad 2"
-msgstr "애스펀 라디오 광고 2"
+msgstr "[40]애스펀 라디오 광고 2"
 
 msgctxt "items/2610"
 msgid "Opie Survives"
-msgstr "오피의 생존기"
+msgstr "[41]오피의 생존기"
 
 msgctxt "items/2611"
 msgid "Children of the Cabbage"
-msgstr "양배추의 아이들"
+msgstr "[19]양배추의 아이들"
 
 msgctxt "items/2612"
 msgid "Quotes of Manners"
-msgstr "예절의 인용구"
+msgstr "[17]예절의 인용구"
 
 msgctxt "items/2613"
 msgid "Bizarre Under Assault"
-msgstr "공격당하는 비자르"
+msgstr "[18]공격받는 비자르"
 
 msgctxt "items/2614"
 msgid "Quarex Tape"
-msgstr "쿼렉스의 녹음"
+msgstr "[21]쿼렉스의 녹음"
 
 msgctxt "items/2615"
 msgid "Noodles Ad"
-msgstr "국수집 광고"
+msgstr "[20]국수집 광고"
 
 msgctxt "items/2616"
 msgid "Payasos Mission"
-msgstr "파야소의 임무"
+msgstr "[22]파야소의 임무"
 
 msgctxt "items/2617"
 msgid "Original Inhabitants"
-msgstr "원주민들"
+msgstr "[23]원래 거주민들"
 
 msgctxt "items/2618"
 msgid "Kidnappers in Trouble"
-msgstr "곤경에 빠진 유괴범들"
+msgstr "[24]곤경에 빠진 유괴범들"
 
 msgctxt "items/2619"
 msgid "The Wolf's Mask"
-msgstr "늑대의 가면"
+msgstr "[25]늑대의 가면"
 
 msgctxt "items/2620"
 msgid ".50 Ammo"
@@ -11616,11 +11616,11 @@ msgstr "다이너마이트 막대 화살이 터지려면 잠깐 걸리지만 기
 
 msgctxt "items/2634"
 msgid "Strike Back Pirate Radio with Brad Conway"
-msgstr "브래드 콘웨이의 반격의 약탈자 라디오"
+msgstr "[16]브래드 콘웨이의 반격의 약탈자 라디오"
 
 msgctxt "items/2635"
 msgid "The Automated Chauffeur"
-msgstr "자동 운전기사"
+msgstr "[4]자동 운전기사"
 
 msgctxt "items/2636"
 msgid " The Automated Chauffeur"
@@ -11628,23 +11628,23 @@ msgstr " 자동 운전기사"
 
 msgctxt "items/2637"
 msgid "New Tour Introduction, version 1"
-msgstr "새 관광 안내, 1판"
+msgstr "[06]새로운 관광 안내 도입부, 버전 1"
 
 msgctxt "items/2638"
 msgid "Evidence!"
-msgstr "증거!"
+msgstr "[12]증거!"
 
 msgctxt "items/2639"
 msgid "Workout Tape"
-msgstr "헬스 테이프"
+msgstr "[09]헬스 테이프"
 
 msgctxt "items/2640"
 msgid "The Gangster's Guide to Diction"
-msgstr "갱스터의 단어선정 가이드"
+msgstr "[13]갱스터의 단어선정 가이드"
 
 msgctxt "items/2641"
 msgid "Joker's Wild"
-msgstr "조커의 야성"
+msgstr "[10]조커의 야성"
 
 msgctxt "items/2642"
 msgid "Dorsey Orders"
@@ -11652,23 +11652,23 @@ msgstr "돌시의 명령"
 
 msgctxt "items/2643"
 msgid "Bellamy Test #110"
-msgstr "벨라미의 실험 #110"
+msgstr "[08]벨라미의 실험 기록 #110"
 
 msgctxt "items/2644"
 msgid "Percival Wesson Recording"
-msgstr "퍼시벌 웨슨의 기록"
+msgstr "[15]퍼시벌 웨슨의 기록"
 
 msgctxt "items/2645"
 msgid "Robots and Rangers for Real"
-msgstr "로봇 앤 레인저 실화냐"
+msgstr "[14]로봇과 레인저 플레이 실화"
 
 msgctxt "items/2646"
 msgid "PRIVATE DO NOT PLAY"
-msgstr "사적인 것임 절대 재생하지말 것"
+msgstr "[11]사적인 내용 절대 재생하지말 것"
 
 msgctxt "items/2647"
 msgid "Brygo Radio Call Recording"
-msgstr "브라이고의 라디오 통화 녹음"
+msgstr "[01]브라이고의 라디오 통화 녹음"
 
 msgctxt "items/2648"
 msgid "Nelius to Jarret"
@@ -11684,7 +11684,7 @@ msgstr "심즈의 믹스 테이프"
 
 msgctxt "items/2651"
 msgid "A New Well"
-msgstr "새 유정"
+msgstr "[26]새 유정"
 
 msgctxt "items/2652"
 msgid "A dirty cassette, covered with a sheen of oil."
@@ -11692,7 +11692,7 @@ msgstr "유광으로 뒤덮인 더러운 카세트입니다."
 
 msgctxt "items/2653"
 msgid "Book of Bonzo"
-msgstr "본조의 서"
+msgstr "[28]본조의 서"
 
 msgctxt "items/2654"
 msgid "Your daily sermon for when on the road. KEEP AWAY FROM COMMIES!"
@@ -11700,7 +11700,7 @@ msgstr "여행 중에 들을 수 있는 일일설교. 빨갱이는 손대지말�
 
 msgctxt "items/2655"
 msgid "Reagan Vehicle Development"
-msgstr "레이건용 차량 개발"
+msgstr "[37]레이건용 차량 개발"
 
 msgctxt "items/2656"
 msgid ""
@@ -11710,7 +11710,7 @@ msgstr "일종의 미래형 자동차의 비밀 개발에 관한 고대의 전�
 
 msgctxt "items/2657"
 msgid "Pico's Playtesting"
-msgstr "피코의 플레이테스트"
+msgstr "[35]피코의 플레이테스트"
 
 msgctxt "items/2658"
 msgid ""
@@ -11720,7 +11720,7 @@ msgstr "라벨에는 \"피코의 플레이 테스트\"라고 쓰여 있고, 그 
 
 msgctxt "items/2659"
 msgid "SysAdmin Logs"
-msgstr "시스템관리자 기록"
+msgstr "[27]시스템관리자 기록"
 
 msgctxt "items/2660"
 msgid "This tape is labelled \"Sister Justice SysAdmin logs\"."
@@ -11728,7 +11728,7 @@ msgstr "\"저스티스 수녀의 시스템관리자 기록\"이라고 적혀 있
 
 msgctxt "items/2661"
 msgid "Reliance's Manifesto"
-msgstr "릴라이언스의 성명서"
+msgstr "[29]릴라이언스의 성명서"
 
 msgctxt "items/2662"
 msgid ""
@@ -11738,7 +11738,7 @@ msgstr "전파를 타고 널리 방송되는 릴라이언스의 성명서 녹음
 
 msgctxt "items/2663"
 msgid "A Proposal"
-msgstr "제안"
+msgstr "[34]제안"
 
 msgctxt "items/2664"
 msgid "A Proposal to Engage in a Technical Experiment. For Science."
@@ -11746,7 +11746,7 @@ msgstr "기술적 실험에 대한 관계 제안입니다. 과학을 위해서�
 
 msgctxt "items/2665"
 msgid "Serious Argument With Satisfactory Resolution"
-msgstr "만족스러운 해결을 위한 진지한 논의"
+msgstr "[33]만족스러운 해결책을 위한 진지한 논의"
 
 msgctxt "items/2666"
 msgid ""
@@ -11756,7 +11756,7 @@ msgstr "공공이익을 위한 현실의 구조에 대한 설명이 녹음되어
 
 msgctxt "items/2667"
 msgid "Mourning the Music"
-msgstr "음악에 대한 애도"
+msgstr "[32]음악에 대한 애도"
 
 msgctxt "items/2668"
 msgid "A discussion on the music lost to the world."
@@ -11764,7 +11764,7 @@ msgstr "유실된 음악에 대한 논의입니다."
 
 msgctxt "items/2669"
 msgid "What Comes After?"
-msgstr "무슨 일이 일어날까?"
+msgstr "[31]무슨 일이 일어날까?"
 
 msgctxt "items/2670"
 msgid "Serious considerations on what is to come after the apocalypse."
@@ -11772,7 +11772,7 @@ msgstr "종말 이후 어떤 일이 일어날지에 대한 진지한 숙고입�
 
 msgctxt "items/2671"
 msgid "What Came Before?"
-msgstr "무슨 일이 있었을까?"
+msgstr "[30]예전에는 어땠을까?"
 
 msgctxt "items/2672"
 msgid "Philosophical musings on what life was like before the Deluge of Fire."
@@ -11780,7 +11780,7 @@ msgstr "불의 대홍수 이전에는 삶이 어떠했을지에 대한 철학적
 
 msgctxt "items/2673"
 msgid "You Won't Believe Your Eyes!!"
-msgstr "눈을 믿을 수 없을걸요!!"
+msgstr "[36]당신 눈을 믿을 수 없을걸요!!"
 
 msgctxt "items/2674"
 msgid "One of the most popular TV shows from before the bombs fell."
@@ -11788,7 +11788,7 @@ msgstr "폭탄이 떨어지기 전에 가장 인기 있었던 TV 쇼 중 하나�
 
 msgctxt "items/2675"
 msgid "Marie Soto Lecture"
-msgstr "마리 소토의 강의"
+msgstr "[38]마리 소토의 강의"
 
 msgctxt "items/2676"
 msgid ""
@@ -11802,7 +11802,7 @@ msgstr "알래스카 깜짝 징글송"
 
 msgctxt "items/2678"
 msgid "Cosmonaut Logs"
-msgstr "우주비행사 기록"
+msgstr "[50]우주비행사의 기록"
 
 msgctxt "items/2679"
 msgid "Dee Sharp Sings"
@@ -11810,19 +11810,19 @@ msgstr "디 샤프의 노래"
 
 msgctxt "items/2680"
 msgid "Godfisher Kiting Ritual"
-msgstr "갓피셔 연날리기 의식"
+msgstr "[46]갓피셔의 연날리기 의식"
 
 msgctxt "items/2681"
 msgid "Demolition Derby"
-msgstr "파괴적인 경주"
+msgstr "[51]파괴적인 경주"
 
 msgctxt "items/2682"
 msgid "Yuma County Speedway Race"
-msgstr "유마 카운티 경주로 레이스"
+msgstr "[44]유마 카운티 경주로 레이스"
 
 msgctxt "items/2683"
 msgid "Risky Briskett's Recipe"
-msgstr "리스키 브리스켓의 조리법"
+msgstr "[48]리스키 브리스켓의 조리법"
 
 msgctxt "items/2684"
 msgid "Russian Singalong"
@@ -11830,11 +11830,11 @@ msgstr "러시아어 합창"
 
 msgctxt "items/2685"
 msgid "Windfarm Engineering Report"
-msgstr "풍력발전소 엔지니어링 보고서"
+msgstr "[49]풍력발전소 공학 보고서"
 
 msgctxt "items/2686"
 msgid "Recording from Alastair Hoon"
-msgstr "알리스타 훈의 기록"
+msgstr "[02]알리스타 훈의 기록"
 
 msgctxt "items/2687"
 msgid "Scout02_Male_ArmorHead"
@@ -13062,7 +13062,7 @@ msgctxt "items/2958"
 msgid ""
 "This unlabeled tape contains a recording from Percival Wesson during the "
 "Dorsey attack."
-msgstr "돌시의 공격 중에 퍼시벌의 기록이 담긴 라벨 없는 테이프입니다."
+msgstr "돌시의 공격 중에 퍼시벌 웨슨이 기록한 라벨 없는 테이프입니다."
 
 msgctxt "items/2959"
 msgid "The label simply reads, \"Best. Game. Ever?\""
