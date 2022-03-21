@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-19 07:36+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2022-03-21 06:58+0000\n"
+"Last-Translator: Concubine <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -639,10 +639,9 @@ msgctxt "items/161"
 msgid "Bite"
 msgstr "바이트"
 
-#, fuzzy
 msgctxt "items/162"
 msgid "Clownquake"
-msgstr "발구름광대"
+msgstr "광대한 충격"
 
 msgctxt "items/163"
 msgid "Stomps on the ground, Stunning anyone in the area around the user."
@@ -678,7 +677,6 @@ msgctxt "items/170"
 msgid "[PH] Gunther would approve."
 msgstr "[PH] 군터가 보증합니다."
 
-#, fuzzy
 msgctxt "items/171"
 msgid "Horns"
 msgstr "호른 스프레이"
@@ -7292,7 +7290,7 @@ msgstr "마이크로파를 통해 목표의 신경통로를 흐트러 놓습니�
 
 msgctxt "items/1695"
 msgid "[PH] Technomatic Gizmotron"
-msgstr ""
+msgstr "[PH] Technomatic Gizmotron"
 
 msgctxt "items/1696"
 msgid ""
@@ -7305,7 +7303,7 @@ msgstr ""
 
 msgctxt "items/1697"
 msgid "[PH] Wondertronic Doodlywop"
-msgstr ""
+msgstr "[PH] Wondertronic Doodlywop"
 
 msgctxt "items/1698"
 msgid ""
@@ -7317,11 +7315,11 @@ msgstr ""
 
 msgctxt "items/1699"
 msgid "[PH] Recipe: Technomatic Gizmotron"
-msgstr ""
+msgstr "[PH] Recipe: Technomatic Gizmotron"
 
 msgctxt "items/1700"
 msgid "[PH] Recipe: Wondertronic Doodlywop"
-msgstr ""
+msgstr "[PH] Recipe: Wondertronic Doodlywop"
 
 msgctxt "items/1701"
 msgid "Head 2"
@@ -7861,7 +7859,6 @@ msgid ""
 "This modified assault rifle gives 'em just a little venom with its bite."
 msgstr "이 개조된 돌격소총은 적을 살짝 깨물어서 약간의 독을 흘려넣을 뿐입니다."
 
-#, fuzzy
 msgctxt "items/1808"
 msgid "The Clobberer"
 msgstr "수선가"
@@ -9239,7 +9236,7 @@ msgctxt "items/2114"
 msgid ""
 "These are the clothes of a reasonably-outfitted member of the downtrodden "
 "apocalypse survivor caste."
-msgstr ""
+msgstr "대재앙시기의 탄압받는 생존자 계급에 속한 인원 중 꽤 잘 갖춘 사람의 옷입니다."
 
 msgctxt "items/2115"
 msgid ""
@@ -9278,7 +9275,6 @@ msgctxt "items/2123"
 msgid "Fancy Suit"
 msgstr "멋진 슈트"
 
-#, fuzzy
 msgctxt "items/2124"
 msgid "Looking sharp! Go get 'em, tiger!"
 msgstr "날렵해 보이는데! 가보자고, 멋쟁이!"
@@ -11620,7 +11616,7 @@ msgstr "[16]브래드 콘웨이의 반격의 약탈자 라디오"
 
 msgctxt "items/2635"
 msgid "The Automated Chauffeur"
-msgstr "[4]자동 운전기사"
+msgstr "[04]자동 운전기사"
 
 msgctxt "items/2636"
 msgid " The Automated Chauffeur"
@@ -11818,7 +11814,7 @@ msgstr "[51]파괴적인 경주"
 
 msgctxt "items/2682"
 msgid "Yuma County Speedway Race"
-msgstr "[44]유마 카운티 경주로 레이스"
+msgstr "[45]유마 카운티 경주로 레이스"
 
 msgctxt "items/2683"
 msgid "Risky Briskett's Recipe"
@@ -12281,11 +12277,11 @@ msgstr "소울 글로우"
 
 msgctxt "items/2791"
 msgid "Bang Bangs"
-msgstr ""
+msgstr "빵빵한 앞머리"
 
 msgctxt "items/2792"
 msgid "Finger Waves"
-msgstr ""
+msgstr "손가락 웨이브컷"
 
 msgctxt "items/2793"
 msgid "The Wendigo"
@@ -13797,7 +13793,7 @@ msgstr "패트리아크가 서명한 섬세한 필체의 편지입니다."
 
 msgctxt "items/3093"
 msgid "Skill Book Ability"
-msgstr ""
+msgstr "Skill Book Ability"
 
 msgctxt "items/3094"
 msgid "Monster Army Note"
@@ -13908,7 +13904,7 @@ msgstr "고스 빌리"
 
 msgctxt "items/3120"
 msgid "Sexplosion"
-msgstr ""
+msgstr "색정광"
 
 msgctxt "items/3121"
 msgid "Fin-Hawk"
@@ -14139,7 +14135,7 @@ msgstr "개가 맥주를 마셔서는 안되지만 파는건 괜찮습니다."
 
 msgctxt "items/3172"
 msgid "Scratch and Sniff Stickers"
-msgstr ""
+msgstr "긁으면 향 나는 스티커"
 
 msgctxt "items/3173"
 msgid "\"Sniff sniff, cough cough, sniff sniff, mmmmm!\""
@@ -14179,11 +14175,11 @@ msgstr "스웁"
 
 msgctxt "items/3181"
 msgid "The Self-Inflicted"
-msgstr ""
+msgstr "직접자른 머리"
 
 msgctxt "items/3182"
 msgid "The Crop"
-msgstr ""
+msgstr "크롭컷"
 
 msgctxt "items/3183"
 msgid "Undercut"
@@ -14883,7 +14879,7 @@ msgstr "작업 바지"
 
 msgctxt "items/3654"
 msgid "Nailbiter Mask"
-msgstr ""
+msgstr "손톱 깨물기 교정 마스크"
 
 msgctxt "items/3655"
 msgid "Avenger's Mask"
@@ -15057,7 +15053,7 @@ msgstr "웨스트 사이드 스토리보다 더 서부스럽습니다."
 
 msgctxt "items/3773"
 msgid "Pounded by the Patriarch - A Novel"
-msgstr ""
+msgstr "소설 - 패트리아크의 떡매질"
 
 msgctxt "items/3774"
 msgid "He made Colorado call him \"Daddy\"."
@@ -15869,7 +15865,7 @@ msgstr ""
 
 msgctxt "items/3523"
 msgid "Arthur's Note"
-msgstr ""
+msgstr "아서의 노트"
 
 msgctxt "items/3524"
 msgid ""
@@ -15880,7 +15876,7 @@ msgstr ""
 
 msgctxt "items/3525"
 msgid "Fatima's Note"
-msgstr ""
+msgstr "파티마의 쪽지"
 
 msgctxt "items/3526"
 msgid ""
@@ -16340,7 +16336,7 @@ msgstr ""
 
 msgctxt "items/3714"
 msgid "Executive Bathroom Keycard"
-msgstr ""
+msgstr "임원용 욕실 키카드"
 
 msgctxt "items/3715"
 msgid ""
@@ -16359,25 +16355,25 @@ msgstr ""
 
 msgctxt "items/3234"
 msgid "Nuke Grenade"
-msgstr ""
+msgstr "핵 수류탄"
 
 msgctxt "items/3235"
 msgid "The power of the atom, now in your pocket!"
-msgstr ""
+msgstr "원자의 힘이 이제 당신 주머니 속에 있습니다!"
 
 msgctxt "items/3236"
 msgid "Vigor Dart"
-msgstr ""
+msgstr "활력 다트"
 
 msgctxt "items/3237"
 msgid ""
 "Built on the same components as the common Med Darts, these micro-darts "
 "instantly alleviate many common battlefield afflictions."
-msgstr ""
+msgstr "일반적인 의료 다트와 같은 성분으로 만들어진 이 작은 다트는 전장에서 흔히 겪게되는 부상을 즉시 완화시켜줍니다."
 
 msgctxt "items/3238"
 msgid "Optical Camo Shroud"
-msgstr ""
+msgstr "광학적 위장막"
 
 msgctxt "items/3239"
 msgid ""
@@ -16541,7 +16537,7 @@ msgstr ""
 
 msgctxt "items/3332"
 msgid "Holy Radiation Battery"
-msgstr ""
+msgstr "신성한 방사선 건전지"
 
 msgctxt "items/3333"
 msgid ""
@@ -16549,10 +16545,13 @@ msgid ""
 "safely inside radiation detection rods. Unlike regular batteries, these "
 "probably won’t do much to keep your portable gadgets going."
 msgstr ""
+"생체조직에서 성스러운 방사선을 추출해 방사선 검출봉 안에 안전하게 저장할 수 있는 장치입니다. 일반 건전지와 다르게 휴대용 기기들을 "
+"작동시키는 데에는 큰 도움이 되지 않을 것입니다."
 
+#, fuzzy
 msgctxt "items/3334"
 msgid "Purging Grenade"
-msgstr ""
+msgstr "숙청 수류탄"
 
 msgctxt "items/3335"
 msgid ""
@@ -16560,14 +16559,18 @@ msgid ""
 "Cheyenne R&D determined that soldiers were 72% more likely to use it if they "
 "called it one."
 msgstr ""
+"이 압축 공기 통은 엄밀히 말하자면 수류탄은 아니지만, 샤이엔 연구개발부서의 연구 결과에 따르면 수류탄이라고 부를 때 병사들이 사용할 "
+"가능성이 72% 더 높은 것으로 나타났습니다."
 
+#, fuzzy
 msgctxt "items/3447"
 msgid "Can of Relative Bearing Grease"
-msgstr ""
+msgstr "클록 베어링 구리스 한 캔"
 
+#, fuzzy
 msgctxt "items/3448"
 msgid "Not to be confused with Absolute Bearing Grease."
-msgstr ""
+msgstr "다른 베어링 구리스랑 착각하지 마세요."
 
 msgctxt "items/3449"
 msgid "Box of Grid Squares"
@@ -16789,7 +16792,7 @@ msgstr ""
 
 msgctxt "items/3669"
 msgid "Carbon Fiber"
-msgstr ""
+msgstr "탄소섬유"
 
 msgctxt "items/3670"
 msgid ""
