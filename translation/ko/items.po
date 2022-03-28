@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-26 11:53+0000\n"
+"PO-Revision-Date: 2022-03-28 01:58+0000\n"
 "Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -6397,11 +6397,10 @@ msgctxt "items/1494"
 msgid "Molded Gold Toaster Case"
 msgstr "성형 금 토스터 케이스"
 
-#, fuzzy
 msgctxt "items/1495"
 msgid ""
 "A finely sculpted toaster casing made entirely of gold, untouched by time."
-msgstr "모든 부분이 시간에 불변하는 금으로 휼륭히 조각된 토스터 케이스입니다."
+msgstr "시간에 불변하는 금으로 모든 부분이 아름답게 조각된 토스터 케이스입니다."
 
 msgctxt "items/1496"
 msgid "Gold Insulated Power Cord"
@@ -6850,7 +6849,7 @@ msgstr "에라스투스 돌시의 투구"
 
 msgctxt "items/1594"
 msgid "You think that’s bad, wait ‘til you see what we did with his skull."
-msgstr ""
+msgstr "고작 이걸로 놀랄거면, 이 놈 머리로 뭘 했는 지 알면 기절하겠네."
 
 msgctxt "items/1595"
 msgid "Bison Skull Ornament"
@@ -7749,7 +7748,6 @@ msgctxt "items/1782"
 msgid "Fabulous Fungi!"
 msgstr "놀라운 곰팡이류!"
 
-#, fuzzy
 msgctxt "items/1783"
 msgid "The book stinks of wet soil and strangely, no small amount of butter."
 msgstr "이 책에선 젖은 흙 냄새와, 이상하게도 약간의 버터 냄새가 납니다."
@@ -8682,7 +8680,7 @@ msgstr "5행시 세번째장"
 
 msgctxt "items/1993"
 msgid "The note reads, 'Will even the score'."
-msgstr ""
+msgstr "\"결국엔 모두 동점이 될 것이다.\"라고 적혀있다."
 
 msgctxt "items/1994"
 msgid "Last Call"
@@ -12325,31 +12323,31 @@ msgstr "워커"
 
 msgctxt "items/2803"
 msgid "Sniffer Mask"
-msgstr "호흡기 복면"
+msgstr "호흡기 마스크"
 
 msgctxt "items/2804"
 msgid "Ninja Mask"
-msgstr "닌자 복면"
+msgstr "닌자 마스크"
 
 msgctxt "items/2805"
 msgid "Rough Nuzzler Mask"
-msgstr ""
+msgstr "거칠어진 마스크"
 
 msgctxt "items/2806"
 msgid "Iron Mayhem Mask"
-msgstr ""
+msgstr "아이언 메이헴 마스크"
 
 msgctxt "items/2807"
 msgid "Gag Order Mask"
-msgstr ""
+msgstr "함구령 전용 마스크"
 
 msgctxt "items/2808"
 msgid "Gearface Mask"
-msgstr ""
+msgstr "기어페이스 마스크"
 
 msgctxt "items/2809"
 msgid "Cannibal Mask"
-msgstr ""
+msgstr "식인종 마스크"
 
 msgctxt "items/2810"
 msgid "Deathbreather Mask"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-09 23:57+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2022-03-28 01:57+0000\n"
+"Last-Translator: Tehanuu <studiochanbi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -319,7 +319,7 @@ msgstr "이 눈더미는 분명 기습 이후에 생긴 것이다. 이 부근은
 
 msgctxt "interactables/105"
 msgid " A clue about the advance team."
-msgstr " 정찰대의 흔적이다."
+msgstr " 선발대의 흔적이다."
 
 msgctxt "interactables/106"
 msgid ""
@@ -710,7 +710,7 @@ msgstr " 비틀리고 달구어진 금속이 눈 속에 반쯤 묻혀 있다."
 
 msgctxt "interactables/193"
 msgid " A clue about the advance team."
-msgstr " 정찰대의 흔적이다."
+msgstr " 선발대의 흔적이다."
 
 msgctxt "interactables/194"
 msgid ""
@@ -1722,7 +1722,7 @@ msgstr "이 기계들은 몇 년 동안 움직이지 않은 것 같다."
 
 msgctxt "interactables/385"
 msgid "Sign"
-msgstr "흔적"
+msgstr "안내판"
 
 msgctxt "interactables/386"
 msgid ""
@@ -2723,7 +2723,7 @@ msgstr ""
 
 msgctxt "interactables/580"
 msgid "Sign"
-msgstr ""
+msgstr "안내판"
 
 msgctxt "interactables/581"
 msgid "Mound of Shit"
