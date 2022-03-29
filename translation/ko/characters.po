@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-18 16:58+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2022-03-29 07:58+0000\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -4018,10 +4018,9 @@ msgctxt "characters/1167"
 msgid "SAL's Terminal"
 msgstr "SAL의 단말기"
 
-#, fuzzy
 msgctxt "characters/1169"
 msgid "Stitches"
-msgstr "스티치스"
+msgstr "바늘땀"
 
 #, fuzzy
 msgctxt "characters/1170"
