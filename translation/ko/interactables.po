@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-28 01:57+0000\n"
-"Last-Translator: Tehanuu <studiochanbi@gmail.com>\n"
+"PO-Revision-Date: 2022-03-31 03:57+0000\n"
+"Last-Translator: 강선우 <greatgreengod@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -221,7 +221,7 @@ msgstr "횡재다. 자살자 중 한 명이 지갑을 가지고 있다. 안쪽�
 
 msgctxt "interactables/82"
 msgid " A mural fit for posing."
-msgstr ""
+msgstr " 앞에서 포즈를 취해볼 수 있는 벽화다."
 
 msgctxt "interactables/83"
 msgid " The first mural is very strange."
@@ -2272,9 +2272,10 @@ msgctxt "interactables/489"
 msgid "Sans Luxe. Sounds fancy."
 msgstr "샌 럭스. 멋진 이름이다."
 
+#, fuzzy
 msgctxt "interactables/490"
 msgid "The Marshals must go through a bunkers-worth of coffee every day."
-msgstr ""
+msgstr "먀샬들은 꼭 하루에 벙커 한체치 커피를 마셔야 합니다."
 
 msgctxt "interactables/491"
 msgid "Good cop, bad cop, and a swinging exposed lightbulb. Classic."
