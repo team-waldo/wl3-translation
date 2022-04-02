@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-28 01:57+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2022-04-02 20:58+0000\n"
+"Last-Translator: Stagger <wnstkd23@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -383,7 +383,7 @@ msgstr "레인저"
 
 msgctxt "gui/92"
 msgid "Supreme Jerk"
-msgstr ""
+msgstr "상남자"
 
 msgctxt "gui/93"
 msgid "Interface Volume"
@@ -2577,7 +2577,6 @@ msgctxt "gui/640"
 msgid "Hundred Families"
 msgstr "백가문"
 
-#, fuzzy
 msgctxt "gui/641"
 msgid "Patriarch's Marshals"
 msgstr "패트리아크의 마샬들"
@@ -2738,7 +2737,7 @@ msgstr "모자"
 
 msgctxt "gui/671"
 msgid "Requires Smuggler Camp Key"
-msgstr "밀수업자 야영지 열쇠 필요"
+msgstr "밀입 브로커의 야영지 열쇠 필요"
 
 msgctxt "gui/673"
 msgid "Scar Collector Roadblock"
@@ -3223,7 +3222,7 @@ msgstr " 전투"
 
 msgctxt "gui/752"
 msgid "Arcology Lift Chamber"
-msgstr ""
+msgstr "아콜로지 승강실"
 
 msgctxt "gui/753"
 msgid "Shoot Door"
@@ -3263,16 +3262,15 @@ msgstr "전투 시작"
 
 msgctxt "gui/762"
 msgid "Entry Road"
-msgstr ""
+msgstr "진입로"
 
-#, fuzzy
 msgctxt "gui/763"
 msgid "Quick Slot Item"
 msgstr "퀵 슬롯 아이템"
 
 msgctxt "gui/764"
 msgid "Chapel Steeple"
-msgstr ""
+msgstr "예배당 첨탑"
 
 msgctxt "gui/765"
 msgid "Enemy Turn"
@@ -3408,7 +3406,7 @@ msgstr "변함없는"
 
 msgctxt "gui/799"
 msgid "Smuggler's Camp"
-msgstr "밀수업자 야영지"
+msgstr "밀입 브로커의 야영지"
 
 msgctxt "gui/800"
 msgid "Loot"
@@ -3645,7 +3643,7 @@ msgstr "피해: 무기 피해의 {0}-{1}%"
 
 msgctxt "gui/853"
 msgid "Weapon Mod ({0})"
-msgstr ""
+msgstr "무기 개조 ({0})"
 
 msgctxt "gui/854"
 msgid "AP to Attack"
@@ -3943,7 +3941,7 @@ msgstr "의사"
 
 msgctxt "gui/928"
 msgid "Dossier"
-msgstr ""
+msgstr "서류"
 
 msgctxt "gui/929"
 msgid "Wardrobe"
@@ -3969,7 +3967,6 @@ msgctxt "gui/935"
 msgid "Select Characters"
 msgstr "캐릭터 선택"
 
-#, fuzzy
 msgctxt "gui/936"
 msgid ""
 "Thrills, kills, and spills are the life-breath of this hardcore punk rock "
@@ -3980,7 +3977,7 @@ msgid ""
 "use."
 msgstr ""
 "스릴, 살인, 솟구치는 피가 삶의 전부인 하드코어 펑크 록 듀오입니다. 한때 신의 민병대 소속이었으나, 그 안에선 둘의 사랑이 이어질 수 "
-"없었기에 종교적인 가르침은 물론 신을 섬기지 않겠다고 거부하며 불쾌한 자신들의 상관에게 반항했습니다. 자신들을 죽이려 코앞까지 쫓아온 "
+"없었기에 종교적인 가르침은 물론 신을 섬기지 않겠다고 거부하며 자신들의 역겨운 상관에게 반항했습니다. 자신들을 죽이려 코앞까지 쫓아온 "
 "신의 민병대를 피해 애리조나로 도망간 이들은 레인저에 합류하여 민병대에서 배웠던 것을 가르치며 많은 도움을 주었습니다."
 
 msgctxt "gui/937"
@@ -4072,7 +4069,6 @@ msgctxt "gui/960"
 msgid "Young Rangers"
 msgstr "젊은 레인저들"
 
-#, fuzzy
 msgctxt "gui/961"
 msgid ""
 "Lovers and rivals since first joining the Rangers, Yuri and Spence drive "
@@ -4082,9 +4078,9 @@ msgid ""
 "jabs never end, leading to a love/hate relationship that can switch gears in "
 "seconds."
 msgstr ""
-"레인저에 합류했을 때부터 끝나지 않는 완벽과 위험의 경쟁을 끝없이 이어나가는 사랑과 경쟁의 사이, 유리와 스펜서입니다. 그 둘은 곁에 "
-"있던 사람들이 죽어가는 와중에도 서로의 목숨을 지키며 살아남았습니다. 끊임없이 몰아치는 재난으로 인해 그들의 결속은 더욱더 단단해졌지만, "
-"서로를 향한 경쟁과 주먹다짐 그 손바닥 뒤집듯 바뀌는 애정과 증오의 관계는 영원히 끝나지 않을 것입니다."
+"레인저에 합류했을 때부터 끝나지 않는 완벽과 위험으로 이루어진 경쟁을 끝없이 이어나가는 라이벌인 동시에 연인 사이인, 유리와 "
+"스펜서입니다. 둘은 곁에 있던 사람들이 죽어가는 와중에도 서로의 목숨을 지키며 살아남았습니다. 끊임없이 몰아치는 재난으로 둘의 결속은 "
+"더욱더 단단해졌지만, 서로를 향한 경쟁과 주먹다짐 그 손바닥 뒤집듯 바뀌는 애증의 관계는 영원히 끝나지 않을 것입니다."
 
 msgctxt "gui/962"
 msgid "Father & Daughter"
@@ -4150,7 +4146,6 @@ msgctxt "gui/970"
 msgid "Stature"
 msgstr "신장"
 
-#, fuzzy
 msgctxt "gui/971"
 msgid "Build"
 msgstr "체형"
@@ -4263,7 +4258,7 @@ msgstr "교양인 (남성)"
 
 msgctxt "gui/996"
 msgid "Ice (Masculine)"
-msgstr "냉혹함 (남성)"
+msgstr "냉혈한 (남성)"
 
 msgctxt "gui/997"
 msgid "Joker (Masculine)"
@@ -4311,7 +4306,7 @@ msgstr "38구경 탄약"
 
 msgctxt "gui/1008"
 msgid "Armor Mod ({0})"
-msgstr ""
+msgstr "방어구 개조 ({0})"
 
 msgctxt "gui/1009"
 msgid "Requires Safecracker"
@@ -4705,16 +4700,14 @@ msgctxt "gui/1107"
 msgid "Pile of Corpses"
 msgstr "시체 더미"
 
-#, fuzzy
 msgctxt "gui/1108"
 msgid "Flame Tank"
-msgstr "화염 전차"
+msgstr "연료 탱크"
 
 msgctxt "gui/1109"
 msgid "Gas Tank"
 msgstr "가스 탱크"
 
-#, fuzzy
 msgctxt "gui/1110"
 msgid "Blood Splatter"
 msgstr "유혈"
@@ -4723,7 +4716,6 @@ msgctxt "gui/1111"
 msgid "Cold food"
 msgstr "식은 음식"
 
-#, fuzzy
 msgctxt "gui/1112"
 msgid "P.A.L. Controller"
 msgstr "광자증폭렌즈 조종 장치"
@@ -4740,7 +4732,6 @@ msgctxt "gui/1115"
 msgid "CPU"
 msgstr "CPU"
 
-#, fuzzy
 msgctxt "gui/1116"
 msgid "Hydraulics"
 msgstr "유압 장치"
@@ -4749,25 +4740,22 @@ msgctxt "gui/1117"
 msgid "Plating"
 msgstr "장갑"
 
-#, fuzzy
 msgctxt "gui/1118"
 msgid "Blades"
-msgstr "날붙이"
+msgstr "칼날"
 
 msgctxt "gui/1119"
 msgid "The Hundred Concords"
-msgstr ""
+msgstr "백가문 협정"
 
 msgctxt "gui/1120"
 msgid "Monster Uniform"
 msgstr "몬스터 유니폼"
 
-#, fuzzy
 msgctxt "gui/1121"
 msgid "Pre-Deluge Canned Beans"
 msgstr "대홍수 이전의 콩 통조림"
 
-#, fuzzy
 msgctxt "gui/1122"
 msgid "Shelf"
 msgstr "선반"
@@ -4776,12 +4764,10 @@ msgctxt "gui/1123"
 msgid "A Traitor's Weapon"
 msgstr "배신자의 무기"
 
-#, fuzzy
 msgctxt "gui/1124"
 msgid "Cybernetic Limbs"
-msgstr "인공 신체"
+msgstr "사이버네틱 신체"
 
-#, fuzzy
 msgctxt "gui/1125"
 msgid "A Patriot's Weapon"
 msgstr "애국자의 무기"
@@ -4794,10 +4780,9 @@ msgctxt "gui/1127"
 msgid "Intercom"
 msgstr "인터폰"
 
-#, fuzzy
 msgctxt "gui/1128"
 msgid "Research Notes"
-msgstr "연구 노트"
+msgstr "연구 기록"
 
 msgctxt "gui/1129"
 msgid "Gate"
@@ -4811,12 +4796,10 @@ msgctxt "gui/1131"
 msgid "Campsite"
 msgstr "야영지"
 
-#, fuzzy
 msgctxt "gui/1132"
 msgid "Arcade Machine"
 msgstr "오락기"
 
-#, fuzzy
 msgctxt "gui/1133"
 msgid "Holoprojector"
 msgstr "홀로그램 프로젝터"
@@ -4829,14 +4812,13 @@ msgctxt "gui/1135"
 msgid "Electronics Panel"
 msgstr "전자 패널"
 
-#, fuzzy
 msgctxt "gui/1136"
 msgid "Urinal"
 msgstr "소변기"
 
 msgctxt "gui/1137"
 msgid "Frozen Tortoise"
-msgstr "얼어붙은 거북"
+msgstr "얼어붙은 거북이"
 
 msgctxt "gui/1138"
 msgid "Turret"
@@ -4854,39 +4836,34 @@ msgctxt "gui/1141"
 msgid "Mirror"
 msgstr "거울"
 
-#, fuzzy
 msgctxt "gui/1142"
 msgid "Bedside Table"
 msgstr "침대 협탁"
 
-#, fuzzy
 msgctxt "gui/1143"
 msgid "Foam Wedge"
-msgstr "조각낸 완충재"
+msgstr "고무 받침대"
 
 msgctxt "gui/1144"
 msgid "Pull-Out Couch"
-msgstr ""
+msgstr "소파 침대"
 
 msgctxt "gui/1145"
 msgid "Weight Set"
-msgstr ""
+msgstr "운동기구"
 
-#, fuzzy
 msgctxt "gui/1146"
 msgid "Water Cooler"
 msgstr "수냉식 냉각기"
 
-#, fuzzy
 msgctxt "gui/1147"
 msgid "St. Andrew's Cross"
 msgstr "성 앤드류의 십자가"
 
 msgctxt "gui/1148"
 msgid "Kitchenette"
-msgstr ""
+msgstr "부엌"
 
-#, fuzzy
 msgctxt "gui/1149"
 msgid "Pinball Machine"
 msgstr "핀볼 기계"
@@ -4903,7 +4880,6 @@ msgctxt "gui/1152"
 msgid "Slot Machine"
 msgstr "슬롯머신"
 
-#, fuzzy
 msgctxt "gui/1153"
 msgid "Keg"
 msgstr "케그"
@@ -4912,7 +4888,6 @@ msgctxt "gui/1154"
 msgid "Chalkboard"
 msgstr "칠판"
 
-#, fuzzy
 msgctxt "gui/1155"
 msgid "Hydroponics Bay"
 msgstr "수경재배 구역"
@@ -4921,12 +4896,10 @@ msgctxt "gui/1156"
 msgid "Telescope"
 msgstr "망원경"
 
-#, fuzzy
 msgctxt "gui/1157"
 msgid "Machine Intelligence Tower Replica"
-msgstr "기계 지능 타워의 레플리카"
+msgstr "기계 지능탑 모형"
 
-#, fuzzy
 msgctxt "gui/1158"
 msgid "Godfisher Kite"
 msgstr "갓피셔 연"
@@ -4935,7 +4908,6 @@ msgctxt "gui/1159"
 msgid "Billboard"
 msgstr "빌보드"
 
-#, fuzzy
 msgctxt "gui/1160"
 msgid "Clown Statue"
 msgstr "광대 동상"
@@ -4946,7 +4918,7 @@ msgstr "두개골 더미"
 
 msgctxt "gui/1166"
 msgid "General"
-msgstr ""
+msgstr "일반"
 
 msgctxt "gui/1167"
 msgid "Combat"
@@ -5120,7 +5092,6 @@ msgctxt "gui/1209"
 msgid "Pamphlet"
 msgstr "소책자"
 
-#, fuzzy
 msgctxt "gui/1210"
 msgid "Bookstack"
 msgstr "책더미"
@@ -5205,7 +5176,6 @@ msgctxt "gui/1230"
 msgid "Breather Tank"
 msgstr "브리더 탱크"
 
-#, fuzzy
 msgctxt "gui/1231"
 msgid "Are you sure you want to restart the level?"
 msgstr "정말 이 구간을 다시 시작 합니까?"
@@ -5262,10 +5232,9 @@ msgctxt "gui/1244"
 msgid "Quick Draw"
 msgstr "빨리 뽑기"
 
-#, fuzzy
 msgctxt "gui/1245"
 msgid "Pin"
-msgstr "볼링핀"
+msgstr "핀"
 
 msgctxt "gui/1246"
 msgid "Quarex's Collection"
@@ -5331,7 +5300,6 @@ msgctxt "gui/1261"
 msgid "Sleeping Bags"
 msgstr "침낭"
 
-#, fuzzy
 msgctxt "gui/1262"
 msgid "Dino"
 msgstr "공룡"
@@ -5352,7 +5320,6 @@ msgctxt "gui/1266"
 msgid "Plane"
 msgstr "비행기"
 
-#, fuzzy
 msgctxt "gui/1267"
 msgid "Mall Directory"
 msgstr "마트 안내도"
@@ -5433,7 +5400,6 @@ msgctxt "gui/1286"
 msgid "Gas Victims"
 msgstr "가스를 마신 시체"
 
-#, fuzzy
 msgctxt "gui/1287"
 msgid "Sink"
 msgstr "싱크대"
@@ -5456,7 +5422,7 @@ msgstr "{0} 대상 추가 피해"
 
 msgctxt "gui/1294"
 msgid "{0}{1}"
-msgstr ""
+msgstr "{0}{1}"
 
 msgctxt "gui/1295"
 msgid "Close Call"
@@ -5506,7 +5472,6 @@ msgctxt "gui/1306"
 msgid "Drugs"
 msgstr "마약"
 
-#, fuzzy
 msgctxt "gui/1307"
 msgid "Weather"
 msgstr "악천후"
@@ -5519,14 +5484,13 @@ msgctxt "gui/1309"
 msgid "Resistance to {0}"
 msgstr "{0} 저항"
 
-#, fuzzy
 msgctxt "gui/1310"
 msgid "Resistance to {2}: <color={3}>{0}{1}%</color>"
 msgstr "{2} 저항: <color={3}>{0}{1}%</color>"
 
 msgctxt "gui/1311"
 msgid "{0} - {1} {2}"
-msgstr ""
+msgstr "{0} - {1} {2}"
 
 msgctxt "gui/1312"
 msgid "Duffel Bag"
@@ -5552,7 +5516,6 @@ msgctxt "gui/1317"
 msgid "Weathered Poster"
 msgstr "낡은 포스터"
 
-#, fuzzy
 msgctxt "gui/1318"
 msgid "Dig"
 msgstr "흙더미"
@@ -5585,17 +5548,14 @@ msgctxt "gui/1325"
 msgid "Doomsday Prepper: Cannot read Skill Books"
 msgstr "종말에 대비하라 특성: 기술 책을 읽을 수 없음"
 
-#, fuzzy
 msgctxt "gui/1327"
 msgid "Jacked"
 msgstr "다부짐"
 
-#, fuzzy
 msgctxt "gui/1328"
 msgid "Slender"
 msgstr "늘씬함"
 
-#, fuzzy
 msgctxt "gui/1329"
 msgid "Compact"
 msgstr "난쟁이"
@@ -5606,7 +5566,7 @@ msgstr "샤워기"
 
 msgctxt "gui/1331"
 msgid "{0}%"
-msgstr ""
+msgstr "{0}%"
 
 msgctxt "gui/1332"
 msgid "Record Player"
@@ -5624,12 +5584,10 @@ msgctxt "gui/1335"
 msgid "{0} - {1}/{2} Perks"
 msgstr "{0} - {1}/{2} 특성"
 
-#, fuzzy
 msgctxt "gui/1336"
 msgid "Non-Skill Perks"
 msgstr "비기술 특성"
 
-#, fuzzy
 msgctxt "gui/1337"
 msgid "Giant Eggplant"
 msgstr "거대 가지"
@@ -5660,9 +5618,8 @@ msgstr "중기관총"
 
 msgctxt "gui/1344"
 msgid "EMP"
-msgstr ""
+msgstr "EMP"
 
-#, fuzzy
 msgctxt "gui/1345"
 msgid "Particle Weapon"
 msgstr "입자 무기"
@@ -5687,7 +5644,6 @@ msgctxt "gui/1350"
 msgid "Semi Auto Pistol"
 msgstr "반자동 권총"
 
-#, fuzzy
 msgctxt "gui/1351"
 msgid ""
 "{1} Accuracy: <color={2}>{0}% <sprite=\"TMP_InlineIcons\" name=\"rightarrow\""
@@ -5702,7 +5658,7 @@ msgstr "시작 무기"
 
 msgctxt "gui/1353"
 msgid "<b>{0}</b> (lvl {1})"
-msgstr ""
+msgstr "<b>{0}</b> (lvl {1})"
 
 msgctxt "gui/1354"
 msgid "Learned Skills"
@@ -5710,12 +5666,11 @@ msgstr "배운 기술"
 
 msgctxt "gui/1357"
 msgid "Heavy"
-msgstr ""
+msgstr "헤비"
 
-#, fuzzy
 msgctxt "gui/1359"
 msgid "Apartment 3"
-msgstr "아파트 3"
+msgstr "아파트 3호실"
 
 msgctxt "gui/1360"
 msgid "Apartment 1"
@@ -5749,6 +5704,7 @@ msgctxt "gui/1368"
 msgid ""
 "<sprite=\"TMP_InlineIcons\" name=\"rightarrow\"> <color={2}>{0}{1}</color>"
 msgstr ""
+"<sprite=\"TMP_InlineIcons\" name=\"rightarrow\"> <color={2}>{0}{1}</color>"
 
 msgctxt "gui/1369"
 msgid "Final Action"
@@ -5761,7 +5717,7 @@ msgstr "남아있는 레인저의 행동력을 소모하여 지정 행동에 추
 
 msgctxt "gui/1371"
 msgid "Post"
-msgstr ""
+msgstr "포스트"
 
 msgctxt "gui/1372"
 msgid "Targeting Mode"
@@ -5773,22 +5729,19 @@ msgstr "레인저 이동"
 
 msgctxt "gui/1374"
 msgid "Background: {0}"
-msgstr ""
+msgstr "배경: {0}"
 
-#, fuzzy
 msgctxt "gui/1375"
 msgid "Join"
 msgstr "참여하기"
 
-#, fuzzy
 msgctxt "gui/1376"
 msgid "Host"
-msgstr "호스트"
+msgstr "게임 만들기"
 
-#, fuzzy
 msgctxt "gui/1377"
 msgid "Hosting Game..."
-msgstr "게임 호스팅 중..."
+msgstr "게임 만드는 중..."
 
 msgctxt "gui/1378"
 msgid "Joining Game..."
@@ -5802,20 +5755,17 @@ msgctxt "gui/1380"
 msgid "Connecting To Network..."
 msgstr "네트워크에 연결 중..."
 
-#, fuzzy
 msgctxt "gui/1381"
 msgid "This interaction is not available during combat."
 msgstr "해당 상호작용은 전투 도중 실행할 수 없습니다."
 
-#, fuzzy
 msgctxt "gui/1382"
 msgid "Cycle Targets"
 msgstr "타겟 변경"
 
-#, fuzzy
 msgctxt "gui/1383"
 msgid "End Inspection"
-msgstr "탐색 종료"
+msgstr "조사 종료"
 
 msgctxt "gui/1384"
 msgid "Subsystem II"
@@ -5849,17 +5799,14 @@ msgctxt "gui/1391"
 msgid "Reagan A. I."
 msgstr "레이건 A. I."
 
-#, fuzzy
 msgctxt "gui/1392"
 msgid "SYSTEMS CRITICAL"
 msgstr "치명적 시스템 오류"
 
-#, fuzzy
 msgctxt "gui/1393"
 msgid "Pico's Game (player 1)"
 msgstr "피코의 게임 (플레이어 1)"
 
-#, fuzzy
 msgctxt "gui/1394"
 msgid "Pico's Game (player 2)"
 msgstr "피코의 게임 (플레이어 2)"
@@ -5890,9 +5837,8 @@ msgstr "상태"
 
 msgctxt "gui/1402"
 msgid "Connection"
-msgstr ""
+msgstr "연결"
 
-#, fuzzy
 msgctxt "gui/1403"
 msgid "LAN"
 msgstr "랜"
@@ -5909,30 +5855,26 @@ msgctxt "gui/1406"
 msgid "ms"
 msgstr "ms"
 
-#, fuzzy
 msgctxt "gui/1407"
 msgid "Friends Only"
 msgstr "친구에게만 공개된 방"
 
 msgctxt "gui/1408"
 msgid "Hide Full"
-msgstr ""
+msgstr "가득찬 방 숨기기"
 
 msgctxt "gui/1409"
 msgid "Players"
 msgstr "플레이어"
 
-#, fuzzy
 msgctxt "gui/1410"
 msgid "Any"
 msgstr "모든 방"
 
-#, fuzzy
 msgctxt "gui/1411"
 msgid "Public"
 msgstr "공개 방"
 
-#, fuzzy
 msgctxt "gui/1412"
 msgid "Private"
 msgstr "비밀 방"
@@ -5977,7 +5919,6 @@ msgctxt "gui/1423"
 msgid "On Cooldown"
 msgstr "재사용 대기시간"
 
-#, fuzzy
 msgctxt "gui/1424"
 msgid "Triggered On Death"
 msgstr "사망 시 발동"
@@ -5994,21 +5935,18 @@ msgctxt "gui/1427"
 msgid "Toggle Group Select"
 msgstr "그룹선택 모드 전환"
 
-#, fuzzy
 msgctxt "gui/1428"
 msgid ""
 "Tap: Final Actions\n"
 "Hold: End Turn"
 msgstr ""
 "누르기: 최종 행동\n"
-"누른 채로 유지하기: 턴 종료"
+"누르고 있기: 턴 종료"
 
-#, fuzzy
 msgctxt "gui/1429"
 msgid "End Turn - Hold"
 msgstr "턴 종료 - 누르고 있기"
 
-#, fuzzy
 msgctxt "gui/1430"
 msgid "Final Actions - Tap"
 msgstr "최종 행동 - 누르기"
@@ -6023,31 +5961,31 @@ msgstr "탐지하지 못한 경보!"
 
 msgctxt "gui/1433"
 msgid "1-5"
-msgstr ""
+msgstr "1-5"
 
 msgctxt "gui/1434"
 msgid "6-10"
-msgstr ""
+msgstr "6-10"
 
 msgctxt "gui/1435"
 msgid "11-15"
-msgstr ""
+msgstr "11-15"
 
 msgctxt "gui/1436"
 msgid "16-21"
-msgstr ""
+msgstr "16-21"
 
 msgctxt "gui/1437"
 msgid "21-25"
-msgstr ""
+msgstr "21-25"
 
 msgctxt "gui/1438"
 msgid "26-30"
-msgstr ""
+msgstr "26-30"
 
 msgctxt "gui/1439"
 msgid "30+"
-msgstr ""
+msgstr "30+"
 
 msgctxt "gui/1440"
 msgid "Would you like your game to be public or private?"
@@ -6059,23 +5997,23 @@ msgstr "버튼"
 
 msgctxt "gui/1442"
 msgid "{0} of {1}"
-msgstr ""
+msgstr "{1}의 {0}"
 
 msgctxt "gui/1443"
 msgid "Toggle"
-msgstr ""
+msgstr "전환"
 
 msgctxt "gui/1444"
 msgid "Combo Box"
-msgstr ""
+msgstr "콤보 박스"
 
 msgctxt "gui/1445"
 msgid "Collapsed"
-msgstr ""
+msgstr "무너짐"
 
 msgctxt "gui/1446"
 msgid "Selected"
-msgstr ""
+msgstr "선택됨"
 
 msgctxt "gui/1447"
 msgid "No Save Data"
@@ -6083,7 +6021,7 @@ msgstr "저장 데이터 없음"
 
 msgctxt "gui/1448"
 msgid "Slider at {0}"
-msgstr ""
+msgstr "{0}에 슬라이더"
 
 msgctxt "gui/1449"
 msgid "A-Button"
@@ -6115,11 +6053,11 @@ msgstr "컨트롤러"
 
 msgctxt "gui/1456"
 msgid "Usable Item 4"
-msgstr ""
+msgstr "사용가능한 아이템 4"
 
 msgctxt "gui/1457"
 msgid "Usable Item 5"
-msgstr ""
+msgstr "사용가능한 아이템 5"
 
 msgctxt "gui/1458"
 msgid "CON"
@@ -6145,7 +6083,6 @@ msgctxt "gui/1463"
 msgid "Portrait Background Color"
 msgstr "초상화 배경 색상"
 
-#, fuzzy
 msgctxt "gui/1464"
 msgid "RV"
 msgstr "캠핑카"
@@ -6160,7 +6097,7 @@ msgstr "쓰러짐: {0}턴 후 전투 불능"
 
 msgctxt "gui/1467"
 msgid "Reinforced Supports"
-msgstr ""
+msgstr "보강한 지지대"
 
 msgctxt "gui/1468"
 msgid "Broken Technology"
@@ -6172,7 +6109,7 @@ msgstr "통풍 도관"
 
 msgctxt "gui/1470"
 msgid "TBD-Replace this text."
-msgstr ""
+msgstr "TBD-Replace this text."
 
 msgctxt "gui/1471"
 msgid "Rusted Junction Box"
@@ -6194,10 +6131,9 @@ msgctxt "gui/1475"
 msgid "Papers"
 msgstr "서류"
 
-#, fuzzy
 msgctxt "gui/1476"
 msgid "At least you died with your boots on."
-msgstr "그래도 맞서 싸우다 죽었네요."
+msgstr "그래도 맞서 싸우다 죽었습니다."
 
 msgctxt "gui/1477"
 msgid "You have lost your life in The Wasteland."
@@ -6215,17 +6151,14 @@ msgctxt "gui/1480"
 msgid "You have fallen. Another life claimed by The Wasteland."
 msgstr "쓰러졌습니다. 황무지가 또다른 목숨을 거두었습니다."
 
-#, fuzzy
 msgctxt "gui/1481"
 msgid "Use ({0} {1})"
 msgstr "({0} {1}) 사용"
 
-#, fuzzy
 msgctxt "gui/1482"
 msgid "Use (In Combat)"
 msgstr "(전투 중) 사용"
 
-#, fuzzy
 msgctxt "gui/1484"
 msgid "Going Rogue"
 msgstr "명령 불응"
@@ -6238,7 +6171,6 @@ msgctxt "gui/1486"
 msgid "Overridden"
 msgstr "타겟 재지정됨"
 
-#, fuzzy
 msgctxt "gui/1487"
 msgid "Fan"
 msgstr "환풍기"
@@ -6251,7 +6183,6 @@ msgctxt "gui/1489"
 msgid "Morningstar"
 msgstr "모닝스타"
 
-#, fuzzy
 msgctxt "gui/1490"
 msgid "Attack Mode"
 msgstr "공격 모드"
@@ -6272,7 +6203,6 @@ msgctxt "gui/1494"
 msgid "Refresh List"
 msgstr "목록 새로고침"
 
-#, fuzzy
 msgctxt "gui/1495"
 msgid "Client"
 msgstr "클라이언트"
@@ -6311,7 +6241,7 @@ msgstr "플레이어 차단하기"
 
 msgctxt "gui/1504"
 msgid "22+"
-msgstr ""
+msgstr "22+"
 
 msgctxt "gui/1505"
 msgid "Downed"
@@ -6327,7 +6257,7 @@ msgstr "제작법 발견"
 
 msgctxt "gui/1508"
 msgid "{0} + {1}"
-msgstr ""
+msgstr "{0} + {1}"
 
 msgctxt "gui/1509"
 msgid "<color={1}>Base Hit Chance:</color> {0}"
@@ -6339,43 +6269,43 @@ msgstr "<color=#818A8E>탄약 유형:</color> {0}"
 
 msgctxt "gui/1511"
 msgid "Group {0} of {1}"
-msgstr ""
+msgstr "{1}의 그룹 {0}"
 
 msgctxt "gui/1512"
 msgid "Option {0} of {1}"
-msgstr ""
+msgstr "{1}의 옵션 {0}"
 
 msgctxt "gui/1513"
 msgid "Value {0} of {1}"
-msgstr ""
+msgstr "{1}의 값 {0}"
 
 msgctxt "gui/1514"
 msgid "Control Type: Button."
-msgstr ""
+msgstr "조종 방법: 버튼."
 
 msgctxt "gui/1515"
 msgid "Control Type: Drop-Down List."
-msgstr ""
+msgstr "조종 방법: 드롭 다운 목록."
 
 msgctxt "gui/1516"
 msgid "Control Type: Value Selector."
-msgstr ""
+msgstr "조종 방법: 수치 선택기."
 
 msgctxt "gui/1517"
 msgid "Control Type: Slider."
-msgstr ""
+msgstr "조종 방법: 슬라이더."
 
 msgctxt "gui/1518"
 msgid "Control Type: Key Binder."
-msgstr ""
+msgstr "조종 방법: 키 설정."
 
 msgctxt "gui/1519"
 msgid "Current Value: On."
-msgstr ""
+msgstr "현재 값: 켜짐."
 
 msgctxt "gui/1520"
 msgid "Current Value: Off."
-msgstr ""
+msgstr "현재 값: 꺼짐."
 
 msgctxt "gui/1521"
 msgid "Main Menu."
@@ -6383,199 +6313,199 @@ msgstr "메인 메뉴."
 
 msgctxt "gui/1522"
 msgid "Group Highlighted: Continue."
-msgstr ""
+msgstr "강조된 그룹: 이어하기."
 
 msgctxt "gui/1523"
 msgid "Group Highlighted: New Game."
-msgstr ""
+msgstr "강조된 그룹: 새로운 게임."
 
 msgctxt "gui/1524"
 msgid "Group Highlighted: Multiplayer."
-msgstr ""
+msgstr "강조된 그룹: 멀티플레이."
 
 msgctxt "gui/1525"
 msgid "Group Highlighted: Load Game."
-msgstr ""
+msgstr "강조된 그룹: 게임 불러오기."
 
 msgctxt "gui/1526"
 msgid "Load Game."
-msgstr ""
+msgstr "게임 불러오기."
 
 msgctxt "gui/1527"
 msgid "Option Highlighted: Delete."
-msgstr ""
+msgstr "강조된 옵션: 삭제."
 
 msgctxt "gui/1528"
 msgid "Option Highlighted: Load Multiplayer."
-msgstr ""
+msgstr "강조된 옵션: 멀티플레이 게임 불러오기."
 
 msgctxt "gui/1529"
 msgid "Option Highlighted: Load Game."
-msgstr ""
+msgstr "강조된 옵션: 게임 불러오기."
 
 msgctxt "gui/1530"
 msgid "Option Highlighted: Close."
-msgstr ""
+msgstr "강조된 옵션: 닫기."
 
 msgctxt "gui/1531"
 msgid "Group Highlighted: Options."
-msgstr ""
+msgstr "강조된 그룹: 옵션."
 
 msgctxt "gui/1532"
 msgid "Group Highlighted: Credits."
-msgstr ""
+msgstr "강조된 그룹: 크레딧."
 
 msgctxt "gui/1533"
 msgid "Credits."
-msgstr ""
+msgstr "크레딧."
 
 msgctxt "gui/1534"
 msgid "Group Highlighted: Close."
-msgstr ""
+msgstr "강조된 그룹: 닫기."
 
 msgctxt "gui/1535"
 msgid "Group Highlighted: Exit to Desktop."
-msgstr ""
+msgstr "강조된 그룹: 게임 끄기."
 
 msgctxt "gui/1536"
 msgid "Pause Menu."
-msgstr ""
+msgstr "일시정지 메뉴."
 
 msgctxt "gui/1537"
 msgid "Group Highlighted: Return to Game."
-msgstr ""
+msgstr "강조된 그룹: 게임으로 돌아가기."
 
 msgctxt "gui/1538"
 msgid "Group Highlighted: Quick Save."
-msgstr ""
+msgstr "강조된 그룹: 빠른 저장."
 
 msgctxt "gui/1539"
 msgid "Group Highlighted: Quick Load."
-msgstr ""
+msgstr "강조된 그룹: 빠른 불러오기."
 
 msgctxt "gui/1540"
 msgid "Group Highlighted: Save Game."
-msgstr ""
+msgstr "강조된 그룹: 게임 저장."
 
 msgctxt "gui/1541"
 msgid "Group Highlighted: Load Game."
-msgstr ""
+msgstr "강조된 그룹: 게임 불러오기."
 
 msgctxt "gui/1542"
 msgid "Group Highlighted: Collections."
-msgstr ""
+msgstr "강조된 그룹: 수집품."
 
 msgctxt "gui/1543"
 msgid "Collections."
-msgstr ""
+msgstr "수집품."
 
 msgctxt "gui/1544"
 msgid "Option Highlighted: Cassette Tapes."
-msgstr ""
+msgstr "강조된 그룹: 카세트 테이프."
 
 msgctxt "gui/1545"
 msgid "Option Highlighted: Creepy Dolls."
-msgstr ""
+msgstr "강조된 그룹: 오싹한 인형."
 
 msgctxt "gui/1546"
 msgid "Option Highlighted: Tutorials."
-msgstr ""
+msgstr "강조된 그룹: 튜토리얼."
 
 msgctxt "gui/1547"
 msgid "Options."
-msgstr ""
+msgstr "옵션."
 
 msgctxt "gui/1548"
 msgid "Group Highlighted: Gameplay."
-msgstr ""
+msgstr "강조된 그룹: 게임플레이."
 
 msgctxt "gui/1549"
 msgid "General."
-msgstr ""
+msgstr "일반."
 
 msgctxt "gui/1550"
 msgid "Option Highlighted: Language."
-msgstr ""
+msgstr "강조된 그룹: 언어."
 
 msgctxt "gui/1551"
 msgid "Current Value: English."
-msgstr ""
+msgstr "현재 값: 영어."
 
 msgctxt "gui/1552"
 msgid "Current Value: French."
-msgstr ""
+msgstr "Current Value: French."
 
 msgctxt "gui/1553"
 msgid "Current Value: German."
-msgstr ""
+msgstr "Current Value: German."
 
 msgctxt "gui/1554"
 msgid "Current Value: Spanish."
-msgstr ""
+msgstr "Current Value: Spanish."
 
 msgctxt "gui/1555"
 msgid "Current Value: Russian."
-msgstr ""
+msgstr "Current Value: Russian."
 
 msgctxt "gui/1556"
 msgid "Current Value: Polish."
-msgstr ""
+msgstr "Current Value: Polish."
 
 msgctxt "gui/1557"
 msgid "Option Highlighted: Input Mode."
-msgstr ""
+msgstr "강조된 옵션: 입력 방식."
 
 msgctxt "gui/1558"
 msgid "Current Value: Mouse and Keyboard."
-msgstr ""
+msgstr "현재 값: 마우스와 키보드."
 
 msgctxt "gui/1559"
 msgid "Current Value: Gamepad."
-msgstr ""
+msgstr "현재 값: 게임패드."
 
 msgctxt "gui/1560"
 msgid "Option Highlighted: Autosave."
-msgstr ""
+msgstr "강조된 옵션: 자동저장."
 
 msgctxt "gui/1561"
 msgid "Option Highlighted: Timed Autosave."
-msgstr ""
+msgstr "강조된 옵션: 주기적 자동저장."
 
 msgctxt "gui/1562"
 msgid "Current Value: None."
-msgstr ""
+msgstr "현재 값: 없음."
 
 msgctxt "gui/1563"
 msgid "Current Value: 5 Minute."
-msgstr ""
+msgstr "현재 값: 5분."
 
 msgctxt "gui/1564"
 msgid "Current Value: 10 Minute."
-msgstr ""
+msgstr "현재 값: 10분."
 
 msgctxt "gui/1565"
 msgid "Current Value: 15 Minute."
-msgstr ""
+msgstr "현재 값: 15분."
 
 msgctxt "gui/1566"
 msgid "Current Value: 30 Minute."
-msgstr ""
+msgstr "현재 값: 30분."
 
 msgctxt "gui/1567"
 msgid "Option Highlighted: Show Tutorials."
-msgstr ""
+msgstr "강조된 옵션: 튜토리얼 보이기."
 
 msgctxt "gui/1568"
 msgid "Option Highlighted: Skip Intro Movies."
-msgstr ""
+msgstr "강조된 옵션: 무비 인트로 생략하기."
 
 msgctxt "gui/1569"
 msgid "Option Highlighted: Auto-Sort Inventory."
-msgstr ""
+msgstr "강조된 옵션: 인벤토리 자동 정렬."
 
 msgctxt "gui/1570"
 msgid "Option Highlighted: Retain Group On Selection."
-msgstr ""
+msgstr "강조된 옵션: 선택 시 그룹 유지."
 
 msgctxt "gui/1571"
 msgid "Combat"
@@ -6583,289 +6513,289 @@ msgstr "전투"
 
 msgctxt "gui/1572"
 msgid "Option Highlighted: Concurrent Enemy Movement."
-msgstr ""
+msgstr "강조된 옵션: 적군 이동 동시 진행."
 
 msgctxt "gui/1573"
 msgid "Option Highlighted: Auto-Reload After Combat."
-msgstr ""
+msgstr "강조된 옵션: 전투 후 자동 재장전."
 
 msgctxt "gui/1574"
 msgid "Option Highlighted: Auto-Switch Character."
-msgstr ""
+msgstr "강조된 옵션: 캐릭터 자동 교체."
 
 msgctxt "gui/1575"
 msgid "Option Highlighted: Auto-Switch Character At Low AP."
-msgstr ""
+msgstr "강조된 옵션: 행동력이 낮은 캐릭터 자동 교체."
 
 msgctxt "gui/1576"
 msgid "Option Highlighted: Auto-End Turn."
-msgstr ""
+msgstr "강조된 옵션: 자동 턴 종료."
 
 msgctxt "gui/1577"
 msgid "Option Highlighted: Friendly Fire."
-msgstr ""
+msgstr "강조된 옵션: 아군 오사."
 
 msgctxt "gui/1578"
 msgid "Difficulty."
-msgstr ""
+msgstr "난이도."
 
 msgctxt "gui/1579"
 msgid "Option Highlighted: Difficulty."
-msgstr ""
+msgstr "강조된 옵션: 난이도."
 
 msgctxt "gui/1580"
 msgid "Current Value: Rookie."
-msgstr ""
+msgstr "현재 값: 루키."
 
 msgctxt "gui/1581"
 msgid "Current Value: Wastelander."
-msgstr ""
+msgstr "현재 값: 황무지인."
 
 msgctxt "gui/1582"
 msgid "Current Value: Ranger."
-msgstr ""
+msgstr "현재 값: 레인저."
 
 msgctxt "gui/1583"
 msgid "Current Value: Supreme Jerk."
-msgstr ""
+msgstr "현재 값: 상남자."
 
 msgctxt "gui/1584"
 msgid "Option Highlighted: Permanent Death."
-msgstr ""
+msgstr "강조된 옵션: 영원한 죽음."
 
 msgctxt "gui/1585"
 msgid "Option Highlighted: Hide Skill Requirements."
-msgstr ""
+msgstr "강조된 옵션: 기술 요구치 숨기기."
 
 msgctxt "gui/1586"
 msgid "Camera."
-msgstr ""
+msgstr "카메라."
 
 msgctxt "gui/1587"
 msgid "Option Highlighted: Camera Follow Mode."
-msgstr ""
+msgstr "강조된 옵션: 카메라 추적 모드."
 
 msgctxt "gui/1588"
 msgid "Current Value: Always."
-msgstr ""
+msgstr "현재 값: 항상."
 
 msgctxt "gui/1589"
 msgid "Current Value: Exploration Only."
-msgstr ""
+msgstr "현재 값: 탐험 중에만."
 
 msgctxt "gui/1590"
 msgid "Current Value: Combat Only."
-msgstr ""
+msgstr "현재 값: 전투 중에만."
 
 msgctxt "gui/1591"
 msgid "Current Value: Never."
-msgstr ""
+msgstr "현재 값: 하지 않음."
 
 msgctxt "gui/1592"
 msgid ""
 "Option Highlighted: <i>Experimental</i> Allow Dynamic Conversation Camera "
 "Framing."
-msgstr ""
+msgstr "강조된 옵션: 실험적인 옵션, 동적 카메라 프레이밍 대화 설정."
 
 msgctxt "gui/1593"
 msgid "Option Highlighted: Movement Look Ahead."
-msgstr ""
+msgstr "강조된 옵션: 이동 방향 따라가기."
 
 msgctxt "gui/1594"
 msgid "Option Highlighted: Camera Re-Center On Move."
-msgstr ""
+msgstr "강조된 옵션: 이동 시 카메라를 중앙으로 재조정."
 
 msgctxt "gui/1595"
 msgid "Option Highlighted: Vista Camera."
-msgstr ""
+msgstr "강조된 옵션: 비스타 카메라."
 
 msgctxt "gui/1596"
 msgid "Option Highlighted: Edge Scrolling."
-msgstr ""
+msgstr "강조된 옵션: 가장자리 스크롤 이동."
 
 msgctxt "gui/1597"
 msgid "Option Highlighted: Edge Scrolling Speed."
-msgstr ""
+msgstr "강조된 옵션: 가장자리 스크롤 이동 속도."
 
 msgctxt "gui/1598"
 msgid "Current Value: 0.1."
-msgstr ""
+msgstr "현재 값: 0.1."
 
 msgctxt "gui/1599"
 msgid "Current Value: 0.2."
-msgstr ""
+msgstr "현재 값: 0.2."
 
 msgctxt "gui/1600"
 msgid "Current Value: 0.3."
-msgstr ""
+msgstr "현재 값: 0.3."
 
 msgctxt "gui/1601"
 msgid "Current Value: 0.4."
-msgstr ""
+msgstr "현재 값: 0.4."
 
 msgctxt "gui/1602"
 msgid "Current Value: 0.5."
-msgstr ""
+msgstr "현재 값: 0.5."
 
 msgctxt "gui/1603"
 msgid "Current Value: 0.6."
-msgstr ""
+msgstr "현재 값: 0.6."
 
 msgctxt "gui/1604"
 msgid "Current Value: 0.7."
-msgstr ""
+msgstr "현재 값: 0.7."
 
 msgctxt "gui/1605"
 msgid "Current Value: 0.8."
-msgstr ""
+msgstr "현재 값: 0.8."
 
 msgctxt "gui/1606"
 msgid "Current Value: 0.9."
-msgstr ""
+msgstr "현재 값: 0.9."
 
 msgctxt "gui/1607"
 msgid "Current Value: 1.0."
-msgstr ""
+msgstr "현재 값: 1.0."
 
 msgctxt "gui/1608"
 msgid "Current Value: 1.1."
-msgstr ""
+msgstr "현재 값: 1.1."
 
 msgctxt "gui/1609"
 msgid "Current Value: 1.2."
-msgstr ""
+msgstr "현재 값: 1.2."
 
 msgctxt "gui/1610"
 msgid "Current Value: 1.3."
-msgstr ""
+msgstr "현재 값: 1.3."
 
 msgctxt "gui/1611"
 msgid "Current Value: 1.4."
-msgstr ""
+msgstr "현재 값: 1.4."
 
 msgctxt "gui/1612"
 msgid "Current Value: 1.5."
-msgstr ""
+msgstr "현재 값: 1.5."
 
 msgctxt "gui/1613"
 msgid "Current Value: 1.6."
-msgstr ""
+msgstr "현재 값: 1.6."
 
 msgctxt "gui/1614"
 msgid "Current Value: 1.7."
-msgstr ""
+msgstr "현재 값: 1.7."
 
 msgctxt "gui/1615"
 msgid "Current Value: 1.8."
-msgstr ""
+msgstr "현재 값: 1.8."
 
 msgctxt "gui/1616"
 msgid "Current Value: 1.9."
-msgstr ""
+msgstr "현재 값: 1.9."
 
 msgctxt "gui/1617"
 msgid "Current Value: 2.0."
-msgstr ""
+msgstr "현재 값: 2.0."
 
 msgctxt "gui/1618"
 msgid "Option Highlighted: Wireless Controller Cursor Speed."
-msgstr ""
+msgstr "강조된 옵션: 무선 컨트롤러 커서 속도."
 
 msgctxt "gui/1619"
 msgid "Option Highlighted: Restrict Mouse to Window."
-msgstr ""
+msgstr "강조된 옵션: 창 내에 마우스 커서 가두기."
 
 msgctxt "gui/1620"
 msgid "Group Highlighted: Interface."
-msgstr ""
+msgstr "강조된 그룹: 인터페이스."
 
 msgctxt "gui/1621"
 msgid "Accessibility"
-msgstr ""
+msgstr "접근성"
 
 msgctxt "gui/1622"
 msgid "Option Highlighted: Text Size."
-msgstr ""
+msgstr "강조된 옵션: 글자 크기."
 
 msgctxt "gui/1623"
 msgid "Current Value: Small."
-msgstr ""
+msgstr "현재 값: 작음."
 
 msgctxt "gui/1624"
 msgid "Current Value: Medium."
-msgstr ""
+msgstr "현재 수치: 보통."
 
 msgctxt "gui/1625"
 msgid "Current Value: Large."
-msgstr ""
+msgstr "현재 값: 큼."
 
 msgctxt "gui/1626"
 msgid "Current Value: Very Large."
-msgstr ""
+msgstr "현재 값: 매우 큼."
 
 msgctxt "gui/1627"
 msgid "Option Highlighted: Interactive Object Glow."
-msgstr ""
+msgstr "강조된 옵션: 상호작용가능한 물체 발광."
 
 msgctxt "gui/1628"
 msgid "Option Highlighted: Highlight Fill."
-msgstr ""
+msgstr "강조된 옵션: 하이라이트 채우기."
 
 msgctxt "gui/1629"
 msgid "Option Highlighted: Multiplayer Partner Offscreen Indicator."
-msgstr ""
+msgstr "강조된 옵션: 화면 밖에 있는 멀티플레이어 위치 표시기."
 
 msgctxt "gui/1630"
 msgid "Option Highlighted: Offscreen Enemy Indicators."
-msgstr ""
+msgstr "강조된 옵션: 화면 밖 적 위치 표시기."
 
 msgctxt "gui/1631"
 msgid "Option Highlighted: Conversation Response Time."
-msgstr ""
+msgstr "강조된 옵션: 대화 반응 시간."
 
 msgctxt "gui/1632"
 msgid "Current Value: 0.0."
-msgstr ""
+msgstr "현재 값: 0.0."
 
 msgctxt "gui/1633"
 msgid "Notifications."
-msgstr ""
+msgstr "알림."
 
 msgctxt "gui/1634"
 msgid "Option Highlighted: Mission Notifications."
-msgstr ""
+msgstr "강조된 옵션: 미션 알림."
 
 msgctxt "gui/1635"
 msgid "Text Log."
-msgstr ""
+msgstr "문자 기록."
 
 msgctxt "gui/1636"
 msgid "Option Highlighted: Show Chat Log."
-msgstr ""
+msgstr "강조된 옵션: 채팅 기록 보이기."
 
 msgctxt "gui/1637"
 msgid "Option Highlighted: Combat Text."
-msgstr ""
+msgstr "강조된 옵션: 전투 기록."
 
 msgctxt "gui/1638"
 msgid "Option Highlighted: Item Pickups."
-msgstr ""
+msgstr "강조된 옵션: 아이템 습득."
 
 msgctxt "gui/1639"
 msgid "Option Highlighted: Experience Points."
-msgstr ""
+msgstr "강조된 옵션: 경험치."
 
 msgctxt "gui/1640"
 msgid "Option Highlighted: Radio Broadcasts."
-msgstr ""
+msgstr "강조된 옵션: 라디오 내용."
 
 msgctxt "gui/1641"
 msgid "Option Highlighted: NPC Barks."
-msgstr ""
+msgstr "강조된 옵션: NPC 반응."
 
 msgctxt "gui/1642"
 msgid "Option Highlighted: Chat Messages."
-msgstr ""
+msgstr "강조된 옵션: 채팅 메시지."
 
 msgctxt "gui/1643"
 msgid "Combat"
@@ -6873,168 +6803,167 @@ msgstr "전투"
 
 msgctxt "gui/1644"
 msgid "Option Highlighted: Overhead Health Bars."
-msgstr ""
+msgstr "강조된 옵션: 머리 위 체력 표시."
 
 msgctxt "gui/1645"
 msgid "Option Highlighted: Show Combat Grid."
-msgstr ""
+msgstr "강조된 옵션: 전투 중 격자 구역 표시."
 
 msgctxt "gui/1646"
 msgid "Group Highlighted: Display."
-msgstr ""
+msgstr "강조된 그룹: 화면."
 
 msgctxt "gui/1647"
 msgid "Screen."
-msgstr ""
+msgstr "화면."
 
 msgctxt "gui/1648"
 msgid "Option Highlighted: Fullscreen."
-msgstr ""
+msgstr "강조된 옵션: 전체화면."
 
 msgctxt "gui/1649"
 msgid "Option Highlighted: Resolution."
-msgstr ""
+msgstr "강조된 옵션: 창모드."
 
 msgctxt "gui/1650"
 msgid "Current Value: 1024x768 (4:3) @ 60Hz."
-msgstr ""
+msgstr "Current Value: 1024x768 (4:3) @ 60Hz."
 
 msgctxt "gui/1651"
 msgid "Current Value: 1024x768 (4:3) @ 70Hz."
-msgstr ""
+msgstr "Current Value: 1024x768 (4:3) @ 70Hz."
 
 msgctxt "gui/1652"
 msgid "Current Value: 1024x768 (4:3) @ 75Hz."
-msgstr ""
+msgstr "Current Value: 1024x768 (4:3) @ 75Hz."
 
 msgctxt "gui/1653"
 msgid "Current Value: 1152x864 (4:3) @ 60Hz."
-msgstr ""
+msgstr "Current Value: 1152x864 (4:3) @ 60Hz."
 
 msgctxt "gui/1654"
 msgid "Current Value: 1280x720 (16:9) @ 50Hz."
-msgstr ""
+msgstr "Current Value: 1280x720 (16:9) @ 50Hz."
 
 msgctxt "gui/1655"
 msgid "Current Value: 1280x720 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1280x720 (16:9) @ 59Hz."
 
 msgctxt "gui/1656"
 msgid "Current Value: 1280x720 (16:9) @ 60Hz."
-msgstr ""
+msgstr "Current Value: 1280x720 (16:9) @ 60Hz."
 
 msgctxt "gui/1657"
 msgid "Current Value: 1280x768 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1280x768 (16:9) @ 59Hz."
 
 msgctxt "gui/1658"
 msgid "Current Value: 280x800 (16:10) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 280x800 (16:10) @ 59Hz."
 
 msgctxt "gui/1659"
 msgid "Current Value: 1280x960 (4:3) @ 60Hz."
-msgstr ""
+msgstr "Current Value: 1280x960 (4:3) @ 60Hz."
 
 msgctxt "gui/1660"
 msgid "Current Value: 1280x1024 (5:4) @ 60Hz."
-msgstr ""
+msgstr "Current Value: 1280x1024 (5:4) @ 60Hz."
 
 msgctxt "gui/1661"
 msgid "Current Value: 1280x1024 (5:4) @ 75Hz."
-msgstr ""
+msgstr "Current Value: 1280x1024 (5:4) @ 75Hz."
 
 msgctxt "gui/1662"
 msgid "Current Value: 1360x768 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1360x768 (16:9) @ 59Hz."
 
 msgctxt "gui/1663"
 msgid "Current Value: 1366x768 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1366x768 (16:9) @ 59Hz."
 
 msgctxt "gui/1664"
 msgid "Current Value: 1440x900 (16:10) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1440x900 (16:10) @ 59Hz."
 
 msgctxt "gui/1665"
 msgid "Current Value: 1600x900 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1600x900 (16:9) @ 59Hz."
 
 msgctxt "gui/1666"
 msgid "Current Value: 1600x1024 (16:10) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1600x1024 (16:10) @ 59Hz."
 
 msgctxt "gui/1667"
 msgid "Current Value: 1600x1200 (4:3) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1600x1200 (4:3) @ 59Hz."
 
 msgctxt "gui/1668"
 msgid "Current Value: 1680x1050 (16:10) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1680x1050 (16:10) @ 59Hz."
 
-#, fuzzy
 msgctxt "gui/1669"
 msgid "Box"
-msgstr "상자"
+msgstr "박스"
 
 msgctxt "gui/1671"
 msgid "Current Value: 1768x992 (16:9) @ 50Hz."
-msgstr ""
+msgstr "Current Value: 1768x992 (16:9) @ 50Hz."
 
 msgctxt "gui/1672"
 msgid "Current Value: 1768x992 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1768x992 (16:9) @ 59Hz."
 
 msgctxt "gui/1673"
 msgid "Current Value: 1768x992 (16:9) @ 60Hz."
-msgstr ""
+msgstr "Current Value: 1768x992 (16:9) @ 60Hz."
 
 msgctxt "gui/1674"
 msgid "Current Value: 1920x1080 (16:9) @ 50Hz."
-msgstr ""
+msgstr "Current Value: 1920x1080 (16:9) @ 50Hz."
 
 msgctxt "gui/1675"
 msgid "Current Value: 1920x1080 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1920x1080 (16:9) @ 59Hz."
 
 msgctxt "gui/1676"
 msgid "Current Value: 1920x1080 (16:9) @ 60Hz."
-msgstr ""
+msgstr "Current Value: 1920x1080 (16:9) @ 60Hz."
 
 msgctxt "gui/1677"
 msgid "Current Value: 1920x1200 (16:10) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1920x1200 (16:10) @ 59Hz."
 
 msgctxt "gui/1678"
 msgid "Current Value: 1920x1440 (4:3) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 1920x1440 (4:3) @ 59Hz."
 
 msgctxt "gui/1679"
 msgid "Current Value: 2048x1536 (4:3) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 2048x1536 (4:3) @ 59Hz."
 
 msgctxt "gui/1680"
 msgid "Current Value: 2560x1440 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 2560x1440 (16:9) @ 59Hz."
 
 msgctxt "gui/1681"
 msgid "Current Value: 2560x1600 (16:10) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 2560x1600 (16:10) @ 59Hz."
 
 msgctxt "gui/1682"
 msgid "Current Value: 3840x2160 (16:9) @ 29Hz."
-msgstr ""
+msgstr "Current Value: 3840x2160 (16:9) @ 29Hz."
 
 msgctxt "gui/1683"
 msgid "Current Value: 3840x2160 (16:9) @ 30Hz."
-msgstr ""
+msgstr "Current Value: 3840x2160 (16:9) @ 30Hz."
 
 msgctxt "gui/1684"
 msgid "Current Value: 3840x2160 (16:9) @ 59Hz."
-msgstr ""
+msgstr "Current Value: 3840x2160 (16:9) @ 59Hz."
 
 msgctxt "gui/1685"
 msgid "Option Highlighted: Brightness."
-msgstr ""
+msgstr "강조된 옵션: 밝기."
 
 msgctxt "gui/1686"
 msgid "Current Value: 0."
@@ -7608,563 +7537,563 @@ msgstr "옵션 강조됨: 캐릭터 2 선택하기."
 
 msgctxt "gui/1829"
 msgid "Current Value: F2."
-msgstr ""
+msgstr "현재 값: F2."
 
 msgctxt "gui/1830"
 msgid "Option Highlighted: Select Character 3."
-msgstr ""
+msgstr "강조된 옵션: 캐릭터 3 선택하기."
 
 msgctxt "gui/1831"
 msgid "Current Value: F3."
-msgstr ""
+msgstr "현재 값: F3."
 
 msgctxt "gui/1832"
 msgid "Option Highlighted: Select Character 4."
-msgstr ""
+msgstr "강조된 옵션: 캐릭터 4 선택하기."
 
 msgctxt "gui/1833"
 msgid "Current Value: F4."
-msgstr ""
+msgstr "현재 값: F4."
 
 msgctxt "gui/1834"
 msgid "Option Highlighted: Select Character 5."
-msgstr ""
+msgstr "강조된 옵션: 캐릭터 5 선택하기."
 
 msgctxt "gui/1835"
 msgid "Current Value: F5."
-msgstr ""
+msgstr "현재 값: F5."
 
 msgctxt "gui/1836"
 msgid "Option Highlighted: Select Character 6."
-msgstr ""
+msgstr "강조된 옵션: 캐릭터 6 선택하기."
 
 msgctxt "gui/1837"
 msgid "Current Value: F6."
-msgstr ""
+msgstr "현재 값: F6."
 
 msgctxt "gui/1838"
 msgid "Option Highlighted: Attack."
-msgstr ""
+msgstr "강조된 옵션: 공격."
 
 msgctxt "gui/1839"
 msgid "Current Value: Left Control."
-msgstr ""
+msgstr "현재 값: 왼쪽 Ctrl."
 
 msgctxt "gui/1840"
 msgid "Option Highlighted: Compare Item With Equipped."
-msgstr ""
+msgstr "강조된 옵션: 장착 아이템과 비교하기."
 
 msgctxt "gui/1841"
 msgid "Option Highlighted: Zoom In."
-msgstr ""
+msgstr "강조된 옵션: 확대하기."
 
 msgctxt "gui/1842"
 msgid "Current Value: Insert."
-msgstr ""
+msgstr "현재 값: Insert."
 
 msgctxt "gui/1843"
 msgid "Option Highlighted: Zoom Out."
-msgstr ""
+msgstr "강조된 옵션: 축소하기."
 
 msgctxt "gui/1844"
 msgid "Current Value: Delete."
-msgstr ""
+msgstr "강조된 옵션: Delete."
 
 msgctxt "gui/1845"
 msgid "Option Highlighted: Toggle Group Mode."
-msgstr ""
+msgstr "강조된 옵션: 그룹 모드 전환하기."
 
 msgctxt "gui/1846"
 msgid "Option Highlighted: Snap Camera To Party."
-msgstr ""
+msgstr "강조된 옵션: 파티원에게 카메라 이동."
 
 msgctxt "gui/1847"
 msgid "Current Value: Home."
-msgstr ""
+msgstr "현재 값: Home."
 
 msgctxt "gui/1848"
 msgid "Option Highlighted: Rotate Camera Clockwise."
-msgstr ""
+msgstr "강조된 옵션: 카메라 시계 방향으로 돌리기."
 
 msgctxt "gui/1849"
 msgid "Current Value: Q."
-msgstr ""
+msgstr "현재 값: Q."
 
 msgctxt "gui/1850"
 msgid "Option Highlighted: Rotate Camera Counterclockwise."
-msgstr ""
+msgstr "강조된 옵션: 카메라 반대 방향으로 돌리기."
 
 msgctxt "gui/1851"
 msgid "Current Value: E."
-msgstr ""
+msgstr "현재 값: E."
 
 msgctxt "gui/1852"
 msgid "Option Highlighted: Reset Camera Angle."
-msgstr ""
+msgstr "강조된 옵션: 카메라 각도 초기화하기."
 
 msgctxt "gui/1853"
 msgid "Current Value: Backspace."
-msgstr ""
+msgstr "현재 값: 백스페이스."
 
 msgctxt "gui/1854"
 msgid "Option Highlighted: Toggle Combat Grid."
-msgstr ""
+msgstr "강조된 옵션: 전투 중 격자 공간 활성 전환하기."
 
 msgctxt "gui/1855"
 msgid "Current Value: G."
-msgstr ""
+msgstr "현재 값: G."
 
 msgctxt "gui/1856"
 msgid "Option Highlighted: Strike."
-msgstr ""
+msgstr "강조된 옵션: 정밀 타격."
 
 msgctxt "gui/1857"
 msgid "Current Value: F."
-msgstr ""
+msgstr "현재 값: F."
 
 msgctxt "gui/1858"
 msgid "Option Highlighted: Add To Group."
-msgstr ""
+msgstr "강조된 옵션: 그룹에 추가하기."
 
 msgctxt "gui/1859"
 msgid "Current Value: Right Shift."
-msgstr ""
+msgstr "현재 값: 오른쪽 Shift."
 
 msgctxt "gui/1860"
 msgid "Group Highlighted: Sound."
-msgstr ""
+msgstr "강조된 그룹: 소리."
 
 msgctxt "gui/1861"
 msgid "Option Highlighted: Master Volume."
-msgstr ""
+msgstr "강조된 옵션: 전체 음량."
 
 msgctxt "gui/1862"
 msgid "Current Value: 0%."
-msgstr ""
+msgstr "Current Value: 0%."
 
 msgctxt "gui/1863"
 msgid "Current Value: 1%."
-msgstr ""
+msgstr "Current Value: 1%."
 
 msgctxt "gui/1864"
 msgid "Current Value: 2%."
-msgstr ""
+msgstr "Current Value: 2%."
 
 msgctxt "gui/1865"
 msgid "Current Value: 3%."
-msgstr ""
+msgstr "Current Value: 3%."
 
 msgctxt "gui/1866"
 msgid "Current Value: 4%."
-msgstr ""
+msgstr "Current Value: 4%."
 
 msgctxt "gui/1867"
 msgid "Current Value: 5%."
-msgstr ""
+msgstr "Current Value: 5%."
 
 msgctxt "gui/1868"
 msgid "Current Value: 6%."
-msgstr ""
+msgstr "Current Value: 6%."
 
 msgctxt "gui/1869"
 msgid "Current Value: 7%."
-msgstr ""
+msgstr "Current Value: 7%."
 
 msgctxt "gui/1870"
 msgid "Current Value: 8%."
-msgstr ""
+msgstr "Current Value: 8%."
 
 msgctxt "gui/1871"
 msgid "Current Value: 9%."
-msgstr ""
+msgstr "Current Value: 9%."
 
 msgctxt "gui/1872"
 msgid "Current Value: 10%."
-msgstr ""
+msgstr "Current Value: 10%."
 
 msgctxt "gui/1873"
 msgid "Current Value: 11%."
-msgstr ""
+msgstr "Current Value: 11%."
 
 msgctxt "gui/1874"
 msgid "Current Value: 12%."
-msgstr ""
+msgstr "Current Value: 12%."
 
 msgctxt "gui/1875"
 msgid "Current Value: 13%."
-msgstr ""
+msgstr "Current Value: 13%."
 
 msgctxt "gui/1876"
 msgid "Current Value: 14%."
-msgstr ""
+msgstr "Current Value: 14%."
 
 msgctxt "gui/1877"
 msgid "Current Value: 15%."
-msgstr ""
+msgstr "Current Value: 15%."
 
 msgctxt "gui/1878"
 msgid "Current Value: 16%."
-msgstr ""
+msgstr "Current Value: 16%."
 
 msgctxt "gui/1879"
 msgid "Current Value: 17%."
-msgstr ""
+msgstr "Current Value: 17%."
 
 msgctxt "gui/1880"
 msgid "Current Value: 18%."
-msgstr ""
+msgstr "Current Value: 18%."
 
 msgctxt "gui/1881"
 msgid "Current Value: 19%."
-msgstr ""
+msgstr "Current Value: 19%."
 
 msgctxt "gui/1882"
 msgid "Current Value: 20%."
-msgstr ""
+msgstr "Current Value: 20%."
 
 msgctxt "gui/1883"
 msgid "Current Value: 21%."
-msgstr ""
+msgstr "Current Value: 21%."
 
 msgctxt "gui/1884"
 msgid "Current Value: 22%."
-msgstr ""
+msgstr "Current Value: 22%."
 
 msgctxt "gui/1885"
 msgid "Current Value: 23%."
-msgstr ""
+msgstr "Current Value: 23%."
 
 msgctxt "gui/1886"
 msgid "Current Value: 24%."
-msgstr ""
+msgstr "Current Value: 24%."
 
 msgctxt "gui/1887"
 msgid "Current Value: 25%."
-msgstr ""
+msgstr "Current Value: 25%."
 
 msgctxt "gui/1888"
 msgid "Current Value: 26%."
-msgstr ""
+msgstr "Current Value: 26%."
 
 msgctxt "gui/1889"
 msgid "Current Value: 27%."
-msgstr ""
+msgstr "Current Value: 27%."
 
 msgctxt "gui/1890"
 msgid "Current Value: 28%."
-msgstr ""
+msgstr "Current Value: 28%."
 
 msgctxt "gui/1891"
 msgid "Current Value: 29%."
-msgstr ""
+msgstr "Current Value: 29%."
 
 msgctxt "gui/1892"
 msgid "Current Value: 30%."
-msgstr ""
+msgstr "Current Value: 30%."
 
 msgctxt "gui/1893"
 msgid "Current Value: 31%."
-msgstr ""
+msgstr "Current Value: 31%."
 
 msgctxt "gui/1894"
 msgid "Current Value: 32%."
-msgstr ""
+msgstr "Current Value: 32%."
 
 msgctxt "gui/1895"
 msgid "Current Value: 33%."
-msgstr ""
+msgstr "Current Value: 33%."
 
 msgctxt "gui/1896"
 msgid "Current Value: 34%."
-msgstr ""
+msgstr "Current Value: 34%."
 
 msgctxt "gui/1897"
 msgid "Current Value: 35%."
-msgstr ""
+msgstr "Current Value: 35%."
 
 msgctxt "gui/1898"
 msgid "Current Value: 36%."
-msgstr ""
+msgstr "Current Value: 36%."
 
 msgctxt "gui/1899"
 msgid "Current Value: 37%."
-msgstr ""
+msgstr "Current Value: 37%."
 
 msgctxt "gui/1900"
 msgid "Current Value: 38%."
-msgstr ""
+msgstr "Current Value: 38%."
 
 msgctxt "gui/1901"
 msgid "Current Value: 39%."
-msgstr ""
+msgstr "Current Value: 39%."
 
 msgctxt "gui/1902"
 msgid "Current Value: 40%."
-msgstr ""
+msgstr "Current Value: 40%."
 
 msgctxt "gui/1903"
 msgid "Current Value: 41%."
-msgstr ""
+msgstr "Current Value: 41%."
 
 msgctxt "gui/1904"
 msgid "Current Value: 42%."
-msgstr ""
+msgstr "Current Value: 42%."
 
 msgctxt "gui/1905"
 msgid "Current Value: 43%."
-msgstr ""
+msgstr "Current Value: 43%."
 
 msgctxt "gui/1906"
 msgid "Current Value: 44%."
-msgstr ""
+msgstr "Current Value: 44%."
 
 msgctxt "gui/1907"
 msgid "Current Value: 45%."
-msgstr ""
+msgstr "Current Value: 45%."
 
 msgctxt "gui/1908"
 msgid "Current Value: 46%."
-msgstr ""
+msgstr "Current Value: 46%."
 
 msgctxt "gui/1909"
 msgid "Current Value: 47%."
-msgstr ""
+msgstr "Current Value: 47%."
 
 msgctxt "gui/1910"
 msgid "Current Value: 48%."
-msgstr ""
+msgstr "Current Value: 48%."
 
 msgctxt "gui/1911"
 msgid "Current Value: 49%."
-msgstr ""
+msgstr "Current Value: 49%."
 
 msgctxt "gui/1912"
 msgid "Current Value: 50%."
-msgstr ""
+msgstr "Current Value: 50%."
 
 msgctxt "gui/1913"
 msgid "Current Value: 51%."
-msgstr ""
+msgstr "Current Value: 51%."
 
 msgctxt "gui/1914"
 msgid "Current Value: 52%."
-msgstr ""
+msgstr "Current Value: 52%."
 
 msgctxt "gui/1915"
 msgid "Current Value: 53%."
-msgstr ""
+msgstr "Current Value: 53%."
 
 msgctxt "gui/1916"
 msgid "Current Value: 54%."
-msgstr ""
+msgstr "Current Value: 54%."
 
 msgctxt "gui/1917"
 msgid "Current Value: 55%."
-msgstr ""
+msgstr "Current Value: 55%."
 
 msgctxt "gui/1918"
 msgid "Current Value: 56%."
-msgstr ""
+msgstr "Current Value: 56%."
 
 msgctxt "gui/1919"
 msgid "Current Value: 57%."
-msgstr ""
+msgstr "Current Value: 57%."
 
 msgctxt "gui/1920"
 msgid "Current Value: 58%."
-msgstr ""
+msgstr "Current Value: 58%."
 
 msgctxt "gui/1921"
 msgid "Current Value: 59%."
-msgstr ""
+msgstr "Current Value: 59%."
 
 msgctxt "gui/1922"
 msgid "Current Value: 60%."
-msgstr ""
+msgstr "Current Value: 60%."
 
 msgctxt "gui/1923"
 msgid "Current Value: 61%."
-msgstr ""
+msgstr "Current Value: 61%."
 
 msgctxt "gui/1924"
 msgid "Current Value: 62%."
-msgstr ""
+msgstr "Current Value: 62%."
 
 msgctxt "gui/1925"
 msgid "Current Value: 63%."
-msgstr ""
+msgstr "Current Value: 63%."
 
 msgctxt "gui/1926"
 msgid "Current Value: 64%."
-msgstr ""
+msgstr "Current Value: 64%."
 
 msgctxt "gui/1927"
 msgid "Current Value: 65%."
-msgstr ""
+msgstr "Current Value: 65%."
 
 msgctxt "gui/1928"
 msgid "Current Value: 66%."
-msgstr ""
+msgstr "Current Value: 66%."
 
 msgctxt "gui/1929"
 msgid "Current Value: 67%."
-msgstr ""
+msgstr "Current Value: 67%."
 
 msgctxt "gui/1930"
 msgid "Current Value: 68%."
-msgstr ""
+msgstr "Current Value: 68%."
 
 msgctxt "gui/1931"
 msgid "Current Value: 69%."
-msgstr ""
+msgstr "Current Value: 69%."
 
 msgctxt "gui/1932"
 msgid "Current Value: 70%."
-msgstr ""
+msgstr "Current Value: 70%."
 
 msgctxt "gui/1933"
 msgid "Current Value: 71%."
-msgstr ""
+msgstr "Current Value: 71%."
 
 msgctxt "gui/1934"
 msgid "Current Value: 72%."
-msgstr ""
+msgstr "Current Value: 72%."
 
 msgctxt "gui/1935"
 msgid "Current Value: 73%."
-msgstr ""
+msgstr "Current Value: 73%."
 
 msgctxt "gui/1936"
 msgid "Current Value: 74%."
-msgstr ""
+msgstr "Current Value: 74%."
 
 msgctxt "gui/1937"
 msgid "Current Value: 75%."
-msgstr ""
+msgstr "Current Value: 75%."
 
 msgctxt "gui/1938"
 msgid "Current Value: 76%."
-msgstr ""
+msgstr "Current Value: 76%."
 
 msgctxt "gui/1939"
 msgid "Current Value: 77%."
-msgstr ""
+msgstr "Current Value: 77%."
 
 msgctxt "gui/1940"
 msgid "Current Value: 78%."
-msgstr ""
+msgstr "Current Value: 78%."
 
 msgctxt "gui/1941"
 msgid "Current Value: 79%."
-msgstr ""
+msgstr "Current Value: 79%."
 
 msgctxt "gui/1942"
 msgid "Current Value: 80%."
-msgstr ""
+msgstr "Current Value: 80%."
 
 msgctxt "gui/1943"
 msgid "Current Value: 81%."
-msgstr ""
+msgstr "Current Value: 81%."
 
 msgctxt "gui/1944"
 msgid "Current Value: 82%."
-msgstr ""
+msgstr "Current Value: 82%."
 
 msgctxt "gui/1945"
 msgid "Current Value: 83%."
-msgstr ""
+msgstr "Current Value: 83%."
 
 msgctxt "gui/1946"
 msgid "Current Value: 84%."
-msgstr ""
+msgstr "Current Value: 84%."
 
 msgctxt "gui/1947"
 msgid "Current Value: 85%."
-msgstr ""
+msgstr "Current Value: 85%."
 
 msgctxt "gui/1948"
 msgid "Current Value: 86%."
-msgstr ""
+msgstr "Current Value: 86%."
 
 msgctxt "gui/1949"
 msgid "Current Value: 87%."
-msgstr ""
+msgstr "Current Value: 87%."
 
 msgctxt "gui/1950"
 msgid "Current Value: 88%."
-msgstr ""
+msgstr "Current Value: 88%."
 
 msgctxt "gui/1951"
 msgid "Current Value: 89%."
-msgstr ""
+msgstr "Current Value: 89%."
 
 msgctxt "gui/1952"
 msgid "Current Value: 90%."
-msgstr ""
+msgstr "Current Value: 90%."
 
 msgctxt "gui/1953"
 msgid "Current Value: 91%."
-msgstr ""
+msgstr "Current Value: 91%."
 
 msgctxt "gui/1954"
 msgid "Current Value: 92%."
-msgstr ""
+msgstr "Current Value: 92%."
 
 msgctxt "gui/1955"
 msgid "Current Value: 93%."
-msgstr ""
+msgstr "Current Value: 93%."
 
 msgctxt "gui/1956"
 msgid "Current Value: 94%."
-msgstr ""
+msgstr "Current Value: 94%."
 
 msgctxt "gui/1957"
 msgid "Current Value: 95%."
-msgstr ""
+msgstr "Current Value: 95%."
 
 msgctxt "gui/1958"
 msgid "Current Value: 96%."
-msgstr ""
+msgstr "Current Value: 96%."
 
 msgctxt "gui/1959"
 msgid "Current Value: 97%."
-msgstr ""
+msgstr "Current Value: 97%."
 
 msgctxt "gui/1960"
 msgid "Current Value: 98%."
-msgstr ""
+msgstr "Current Value: 98%."
 
 msgctxt "gui/1961"
 msgid "Current Value: 99%."
-msgstr ""
+msgstr "Current Value: 99%."
 
 msgctxt "gui/1962"
 msgid "Current Value: 100%."
-msgstr ""
+msgstr "Current Value: 100%."
 
 msgctxt "gui/1963"
 msgid "Option Highlighted: Music Volume."
-msgstr ""
+msgstr "강조된 옵션: 음악 음량."
 
 msgctxt "gui/1964"
 msgid "Option Highlighted: SFX Volume."
-msgstr ""
+msgstr "강조된 옵션: 효과음 음량."
 
 msgctxt "gui/1965"
 msgid "Option Highlighted: Interface Volume."
-msgstr ""
+msgstr "강조된 옵션: 인터페이스 음량."
 
 msgctxt "gui/1966"
 msgid "Option Highlighted: Voice Volume."
-msgstr ""
+msgstr "강조된 옵션: 목소리 음량."
 
 msgctxt "gui/1967"
 msgid "Group Highlighted: Restore Defaults."
-msgstr ""
+msgstr "강조된 그룹: 초기화."
 
 msgctxt "gui/1968"
 msgid "Group Highlighted: Main Menu."
-msgstr ""
+msgstr "강조된 그룹: 메인 메뉴."
 
 msgctxt "gui/1969"
 msgid "Tire Tracks"
@@ -8227,12 +8156,10 @@ msgctxt "gui/1980"
 msgid "Damaged Market Stall"
 msgstr "망가진 가판대"
 
-#, fuzzy
 msgctxt "gui/1981"
 msgid "Usables"
 msgstr "소모품"
 
-#, fuzzy
 msgctxt "gui/1982"
 msgid "Healing"
 msgstr "치유"
@@ -8261,7 +8188,6 @@ msgctxt "gui/1988"
 msgid "Reputation: {0}"
 msgstr "평판: {0}"
 
-#, fuzzy
 msgctxt "gui/1989"
 msgid ""
 "You are leaving Ranger HQ. Do you wish to make changes to your squad before "
@@ -8278,7 +8204,7 @@ msgstr "분대원 설정을 실행합니다..."
 
 msgctxt "gui/1992"
 msgid "Or"
-msgstr ""
+msgstr "Or"
 
 msgctxt "gui/1993"
 msgid "Debris"
@@ -8401,7 +8327,6 @@ msgctxt "gui/2011"
 msgid "Power Armor"
 msgstr "파워 아머"
 
-#, fuzzy
 msgctxt "gui/2012"
 msgid "Filter"
 msgstr "정렬 기준"
@@ -8414,7 +8339,6 @@ msgctxt "gui/2014"
 msgid "Armor Mods"
 msgstr "방어구 부속품"
 
-#, fuzzy
 msgctxt "gui/2015"
 msgid "Unlocks: {0}"
 msgstr "사용 가능: {0}"
@@ -8445,7 +8369,7 @@ msgstr "비활성화"
 
 msgctxt "gui/2022"
 msgid "Hard Only"
-msgstr ""
+msgstr "일부만"
 
 msgctxt "gui/2023"
 msgid "All"
@@ -8477,7 +8401,7 @@ msgstr "그림자 거리"
 
 msgctxt "gui/2030"
 msgid "Shadow Cascades"
-msgstr ""
+msgstr "그림자 밀도"
 
 msgctxt "gui/2031"
 msgid "Bloom"
@@ -8493,7 +8417,7 @@ msgstr "모션 블러"
 
 msgctxt "gui/2034"
 msgid "Motion Blur Sample Count"
-msgstr ""
+msgstr "모션 블러 샘플 숫자"
 
 msgctxt "gui/2035"
 msgid "Screen Space Reflections"
@@ -8541,7 +8465,7 @@ msgstr "피사계 심도"
 
 msgctxt "gui/2046"
 msgid "Automatic Exposure"
-msgstr ""
+msgstr "시각 순응"
 
 msgctxt "gui/2047"
 msgid "Chromatic Aberration"
@@ -8605,7 +8529,7 @@ msgstr "프리셋"
 
 msgctxt "gui/2062"
 msgid "Geometry"
-msgstr ""
+msgstr "구조물"
 
 msgctxt "gui/2063"
 msgid "Shadows"
@@ -8645,7 +8569,7 @@ msgstr "폭발 피해"
 
 msgctxt "gui/2072"
 msgid "Customize:"
-msgstr ""
+msgstr "맞춤:"
 
 msgctxt "gui/2073"
 msgid "Prepared"
@@ -8657,11 +8581,11 @@ msgstr "조사하기"
 
 msgctxt "gui/2075"
 msgid "{0} x{1}"
-msgstr ""
+msgstr "{0} x{1}"
 
 msgctxt "gui/2076"
 msgid "{0} <sprite=\"TMP_InlineIcons\" name=\"{1}\">"
-msgstr ""
+msgstr "{0} <sprite=\"TMP_InlineIcons\" name=\"{1}\">"
 
 msgctxt "gui/2077"
 msgid "<color={1}>Crit Damage:</color> x{0}"
@@ -8693,7 +8617,7 @@ msgstr "동료"
 
 msgctxt "gui/2084"
 msgid "<color=#5b6a6f>[{0}]</color> {1}"
-msgstr ""
+msgstr "<color=#5b6a6f>[{0}]</color> {1}"
 
 msgctxt "gui/2085"
 msgid "Upgrade Cost: {0}"
@@ -8755,7 +8679,7 @@ msgstr "소프트 파티클"
 
 msgctxt "gui/2099"
 msgid "Soft Vegetation"
-msgstr ""
+msgstr "부드러운 초목"
 
 msgctxt "gui/2100"
 msgid "Reflections"
@@ -8783,31 +8707,31 @@ msgstr "{0}: 장착 불가"
 
 msgctxt "gui/2106"
 msgid "Lucky Crit!"
-msgstr ""
+msgstr "행운 치명타!"
 
 msgctxt "gui/2107"
 msgid "Lucky Mega Crit!"
-msgstr ""
+msgstr "행운 극대 치명타!"
 
 msgctxt "gui/2108"
 msgid "Lucky Evade!"
-msgstr ""
+msgstr "행운 회피!"
 
 msgctxt "gui/2109"
 msgid "Lucky Crit Resist!"
-msgstr ""
+msgstr "행운 치명타 저항!"
 
 msgctxt "gui/2110"
 msgid "Lucky Heal Bonus!"
-msgstr ""
+msgstr "행운 치유 보너스!"
 
 msgctxt "gui/2111"
 msgid "Lucky Money Bonus!"
-msgstr ""
+msgstr "행운 돈 보너스!"
 
 msgctxt "gui/2112"
 msgid "Lucky Scrap Bonus!"
-msgstr ""
+msgstr "행운 고철 보너스!"
 
 msgctxt "gui/2113"
 msgid "Confirm Changes"
@@ -8847,11 +8771,11 @@ msgstr "UI 내레이션"
 
 msgctxt "gui/2121"
 msgid "Voice Chat Text To Speech"
-msgstr ""
+msgstr "음성 채팅 문자를 음성으로"
 
 msgctxt "gui/2122"
 msgid "Voice Chat Speech To Text"
-msgstr ""
+msgstr "음성 채팅 음성을 문자로"
 
 msgctxt "gui/2123"
 msgid "Fireplace"
@@ -8877,22 +8801,18 @@ msgctxt "gui/2128"
 msgid "Y Button"
 msgstr "Y 버튼"
 
-#, fuzzy
 msgctxt "gui/2129"
 msgid "Cross"
 msgstr "×"
 
-#, fuzzy
 msgctxt "gui/2130"
 msgid "Square"
 msgstr "□"
 
-#, fuzzy
 msgctxt "gui/2131"
 msgid "Triangle"
 msgstr "△"
 
-#, fuzzy
 msgctxt "gui/2132"
 msgid "Circle"
 msgstr "○"
@@ -8915,7 +8835,7 @@ msgstr "에필로그"
 
 msgctxt "gui/2137"
 msgid "Barred"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "gui/2138"
 msgid "{0} - (Failure: {1} Impossible)"
@@ -8956,7 +8876,7 @@ msgstr "분대 인벤토리"
 
 msgctxt "gui/2149"
 msgid "Chemistry Set"
-msgstr ""
+msgstr "화학 기구"
 
 msgctxt "gui/2150"
 msgid "Skill Perks"
@@ -8964,7 +8884,7 @@ msgstr "기술 특성"
 
 msgctxt "gui/2151"
 msgid "<color={3}>{0}:</color> <color={4}>${1} {2}</color>"
-msgstr ""
+msgstr "<color={3}>{0}:</color> <color={4}>${1} {2}</color>"
 
 msgctxt "gui/2152"
 msgid "(Barter Bonus {1}{0}%)"
@@ -9046,7 +8966,7 @@ msgstr "게스트로 계속하기"
 
 msgctxt "gui/2171"
 msgid "Active User Lost"
-msgstr ""
+msgstr "활성 유저 사라짐"
 
 msgctxt "gui/2172"
 msgid ""
@@ -9060,7 +8980,7 @@ msgstr "능력치 + 아이템"
 
 msgctxt "gui/2174"
 msgid "[empty]"
-msgstr "[모든 괴물들 또한 처음에는 그저 인간이었다.] - 에드워드 올비"
+msgstr "[empty]"
 
 msgctxt "gui/2175"
 msgid "Broken Parts"
@@ -9084,7 +9004,7 @@ msgstr "타입 캡슐"
 
 msgctxt "gui/2180"
 msgid "Customizing:"
-msgstr ""
+msgstr "커스터마이징:"
 
 msgctxt "gui/2181"
 msgid "Unmute Player"
@@ -9104,7 +9024,7 @@ msgstr "무선 컨트롤러 커서 이동속도"
 
 msgctxt "gui/2185"
 msgid "Show Locked"
-msgstr ""
+msgstr "보이기 고정됨"
 
 msgctxt "gui/2186"
 msgid "Swap Squads"
@@ -9116,7 +9036,7 @@ msgstr "노래 스킵하기"
 
 msgctxt "gui/2189"
 msgid "Failed requirement penalty:"
-msgstr ""
+msgstr "능력치 미달 페널티:"
 
 msgctxt "gui/2190"
 msgid "Easy"
@@ -9208,7 +9128,7 @@ msgstr "탄약"
 
 msgctxt "gui/2212"
 msgid "Usable Items"
-msgstr ""
+msgstr "소모품"
 
 msgctxt "gui/2213"
 msgid "Mods"
@@ -9222,10 +9142,9 @@ msgctxt "gui/2215"
 msgid "Miscellaneous"
 msgstr "기타"
 
-#, fuzzy
 msgctxt "gui/2216"
 msgid "Junk Items"
-msgstr "잡동사니 아이템"
+msgstr "잡동사니"
 
 msgctxt "gui/2217"
 msgid "Crafting Components"
@@ -9247,7 +9166,7 @@ msgstr "멀티 플레이 게임을 하려면 게임을 완전히 설치해야 �
 
 msgctxt "gui/2221"
 msgid "<color={3}>{0}</color> <color={4}>{2}${1}</color>"
-msgstr ""
+msgstr "<color={3}>{0}</color> <color={4}>{2}${1}</color>"
 
 msgctxt "gui/2222"
 msgid "Travel to Colorado Springs"
@@ -9286,9 +9205,8 @@ msgstr "자막"
 
 msgctxt "gui/2230"
 msgid "Required {0} {1}"
-msgstr ""
+msgstr "{0} {1} 필요"
 
-#, fuzzy
 msgctxt "gui/2231"
 msgid "Sell Junk"
 msgstr "잡동사니 팔기"
@@ -9303,11 +9221,11 @@ msgstr "탱크 파괴됨!"
 
 msgctxt "gui/2234"
 msgid "Interacted!"
-msgstr ""
+msgstr "상호작용!"
 
 msgctxt "gui/2235"
 msgid "Already has Cyborg Tech"
-msgstr ""
+msgstr "이미 사이보그 상태입니다"
 
 msgctxt "gui/2236"
 msgid "Only the Host Player Can Use Vehicle Customization"
@@ -9349,14 +9267,13 @@ msgctxt "gui/2245"
 msgid "Special Features"
 msgstr "추가 컨텐츠"
 
-#, fuzzy
 msgctxt "gui/2246"
 msgid "Live Action Vignette"
 msgstr "라이브 액션 단편"
 
 msgctxt "gui/2247"
 msgid "Ambush Site Intro"
-msgstr ""
+msgstr "습격 장소 인트로"
 
 msgctxt "gui/2248"
 msgid "Grip"
@@ -9364,7 +9281,7 @@ msgstr "손잡이"
 
 msgctxt "gui/2249"
 msgid "Weight"
-msgstr ""
+msgstr "무게추"
 
 msgctxt "gui/2250"
 msgid "Barrel"
@@ -9405,7 +9322,7 @@ msgstr ""
 
 msgctxt "gui/2258"
 msgid "Blob Shadows"
-msgstr ""
+msgstr "얼룩 그림자"
 
 msgctxt "gui/2259"
 msgid "Dynamic Shadows"
@@ -9413,7 +9330,7 @@ msgstr "동적 그림자"
 
 msgctxt "gui/2260"
 msgid "Enhanced Mode"
-msgstr ""
+msgstr "강화 모드"
 
 msgctxt "gui/2261"
 msgid "Player has left the lobby"
@@ -9461,19 +9378,19 @@ msgstr "삭제"
 
 msgctxt "gui/2272"
 msgid "{0} Crit"
-msgstr ""
+msgstr "{0} 치명타"
 
 msgctxt "gui/2273"
 msgid "Installed Mods:"
-msgstr ""
+msgstr "설치된 부속품:"
 
 msgctxt "gui/2274"
 msgid "({0} {1} from {2} {3})"
-msgstr ""
+msgstr "({2} {3}에서 {0} {1})"
 
 msgctxt "gui/2275"
 msgid "Recruited"
-msgstr ""
+msgstr "소집됨"
 
 msgctxt "gui/2276"
 msgid "This action cannot be rebound to this input."
@@ -9501,7 +9418,7 @@ msgstr "비등방성 텍스쳐"
 
 msgctxt "gui/2282"
 msgid "{0} (Requires {1} Level {2})"
-msgstr ""
+msgstr "{0} ({1} {2}레벨 필요)"
 
 msgctxt "gui/2283"
 msgid "Waiting for player"
@@ -9530,11 +9447,11 @@ msgstr "게임 생성하기"
 
 msgctxt "gui/2289"
 msgid "UNUSED"
-msgstr ""
+msgstr "안쓰임"
 
 msgctxt "gui/2290"
 msgid "UNUSED"
-msgstr ""
+msgstr "안쓰임"
 
 msgctxt "gui/2291"
 msgid "Shadow Edges"
@@ -9554,11 +9471,11 @@ msgstr "동적 해상도"
 
 msgctxt "gui/2295"
 msgid "Waiting to Merge Combat"
-msgstr ""
+msgstr "전투 합치는 중"
 
 msgctxt "gui/2296"
 msgid "Combat: {0}"
-msgstr ""
+msgstr "전투: {0}"
 
 msgctxt "gui/2297"
 msgid "Loading"
@@ -9592,12 +9509,10 @@ msgctxt "gui/2304"
 msgid "Right Stick Button"
 msgstr "오른쪽 스틱 버튼"
 
-#, fuzzy
 msgctxt "gui/2305"
 msgid "Triangle"
 msgstr "△"
 
-#, fuzzy
 msgctxt "gui/2306"
 msgid "Cross"
 msgstr "×"
@@ -9628,11 +9543,11 @@ msgstr "메뉴 버튼"
 
 msgctxt "gui/2313"
 msgid "Press Right Button for more"
-msgstr ""
+msgstr "오른쪽 버튼을 눌러서 추가"
 
 msgctxt "gui/2314"
 msgid "Press Left Button for more"
-msgstr ""
+msgstr "왼쪽 버튼을 눌러서 추가"
 
 msgctxt "gui/2315"
 msgid "Press and Hold Left Stick"
@@ -9681,7 +9596,7 @@ msgstr "L3 버튼 누르고 있기"
 
 msgctxt "gui/2325"
 msgid "Host Game"
-msgstr ""
+msgstr "게임 생성하기"
 
 msgctxt "gui/2326"
 msgid "Connect"
@@ -9757,15 +9672,15 @@ msgstr "이 화면을 나가면 배정한 능력치 점수가 모두 확정됩�
 
 msgctxt "gui/2342"
 msgid "Toggle Leg Armor"
-msgstr ""
+msgstr "방어구 하의 외형 보이기"
 
 msgctxt "gui/2343"
 msgid "Toggle Chest Armor"
-msgstr ""
+msgstr "방어구 상의 외형 보이기"
 
 msgctxt "gui/2344"
 msgid "Toggle Helmet"
-msgstr ""
+msgstr "헬멧 외형 보이기"
 
 msgctxt "gui/2345"
 msgid "Windowed"
@@ -9797,19 +9712,19 @@ msgstr "전술핵"
 
 msgctxt "gui/2352"
 msgid "Empties"
-msgstr ""
+msgstr "빈 병"
 
 msgctxt "gui/2353"
 msgid "Grenade Cartridge"
-msgstr ""
+msgstr "수류탄 적재함"
 
 msgctxt "gui/2354"
 msgid "Wasp Tank"
-msgstr ""
+msgstr "말벌 탱크"
 
 msgctxt "gui/2355"
 msgid "{0} ({1})"
-msgstr ""
+msgstr "{0} ({1})"
 
 msgctxt "gui/2356"
 msgid "You must be near this NPC to join the conversation."
@@ -9855,7 +9770,7 @@ msgstr "전투 중 장착 불가"
 
 msgctxt "gui/2365"
 msgid "Input Field"
-msgstr ""
+msgstr "입력창"
 
 msgctxt "gui/2366"
 msgid ""
@@ -9885,6 +9800,8 @@ msgid ""
 "them to the current selected group. If disabled, only the new squad members "
 "will be selected."
 msgstr ""
+"활성화하면 탐험 모드에서 분대원을 선택했을 때 그 분대원을 현재 선택된 그룹에 추가합니다. 비활성화하면 그 분대원이 새로운 그룹으로 "
+"선택됩니다."
 
 msgctxt "gui/2372"
 msgid ""
@@ -9970,7 +9887,7 @@ msgstr "마우스 커서를 화면 가장자리로 옮길 때 카메라가 이�
 
 msgctxt "gui/2384"
 msgid "Determines how quickly the camera pans when Edge Scrolling is enabled."
-msgstr ""
+msgstr "가장자리 카메라 이동이 활성화 되었을 때 카메라가 움직이는 속도를 결정합니다."
 
 msgctxt "gui/2385"
 msgid ""
@@ -9985,7 +9902,7 @@ msgstr "활성화하면 마우스 커서가 게임 창 밖으로 나가지 않�
 
 msgctxt "gui/2387"
 msgid "Determines the size at which text is displayed."
-msgstr ""
+msgstr "텍스트 창의 크기를 결정합니다."
 
 msgctxt "gui/2388"
 msgid ""
@@ -9997,13 +9914,13 @@ msgctxt "gui/2389"
 msgid ""
 "If enabled, highlighted characters and objects will have an inner fill "
 "effect."
-msgstr ""
+msgstr "활성화하면 하이라이트된 캐릭터와 물체에 내부 조명 효과를 적용합니다."
 
 msgctxt "gui/2390"
 msgid ""
 "If enabled, your multiplayer partner's squad members will show offscreen "
 "indicators."
-msgstr ""
+msgstr "활성화하면 화면 밖에 있는 멀티 플레이어 파트너의 분대원이 화살표로 표시됩니다."
 
 msgctxt "gui/2391"
 msgid ""
@@ -10139,7 +10056,7 @@ msgctxt "gui/2416"
 msgid ""
 "Determines the number of cascades used by real-time shadows. At higher "
 "levels, shadows closer to the camera will appear sharper and more defined."
-msgstr ""
+msgstr "실시간 그림자의 CSM 값을 결정합니다. 값을 높이면 그림자가 카메라에 가까울수록 더 선명하고 뚜렷하게 보입니다."
 
 msgctxt "gui/2417"
 msgid ""
@@ -10173,7 +10090,7 @@ msgctxt "gui/2422"
 msgid ""
 "Determines the resolution of screen space reflections. At higher levels, "
 "reflections will appear sharper and more defined."
-msgstr ""
+msgstr "SSR 해상도를 결정합니다. 값이 높으면 반사 효과가 더 선명하고 뚜렷해집니다."
 
 msgctxt "gui/2423"
 msgid ""
@@ -10217,13 +10134,13 @@ msgstr "인터페이스 음향의 볼륨을 결정합니다."
 
 msgctxt "gui/2431"
 msgid "Determines the volume level of voice-over."
-msgstr ""
+msgstr "대사의 음량을 결정합니다."
 
 msgctxt "gui/2432"
 msgid ""
 "If enabled, the game will use text-to-speech to narrate menu options and "
 "navigation."
-msgstr ""
+msgstr "활성화하면 메뉴 옵션 선택과 메뉴 이동 시 TTS 내레이션을 사용합니다."
 
 msgctxt "gui/2433"
 msgid ""
@@ -10250,31 +10167,31 @@ msgstr "활성화하면 게임 내의 특정한 상황에서 무선 컨트롤러
 
 msgctxt "gui/2437"
 msgid "Jerk (Feminine)"
-msgstr ""
+msgstr "바보 (여성)"
 
 msgctxt "gui/2438"
 msgid "Recruit (Feminine)"
-msgstr ""
+msgstr "신병 (여성)"
 
 msgctxt "gui/2439"
 msgid "Educated (Feminine)"
-msgstr ""
+msgstr "교양인 (여성)"
 
 msgctxt "gui/2440"
 msgid "Ice (Feminine)"
-msgstr ""
+msgstr "냉혈한 (여성)"
 
 msgctxt "gui/2441"
 msgid "Joker (Feminine)"
-msgstr ""
+msgstr "익살꾼 (여성)"
 
 msgctxt "gui/2442"
 msgid "Rebel (Feminine)"
-msgstr ""
+msgstr "반군 (여성)"
 
 msgctxt "gui/2443"
 msgid "Stoic (Feminine)"
-msgstr ""
+msgstr "금욕주의자 (여성)"
 
 msgctxt "gui/2444"
 msgid "Join Conversation"
@@ -10282,11 +10199,11 @@ msgstr "대화 참가"
 
 msgctxt "gui/2445"
 msgid "{0}{1}% Evasion"
-msgstr ""
+msgstr "회피율 {0}{1}%"
 
 msgctxt "gui/2446"
 msgid "Selling Junk"
-msgstr ""
+msgstr "잡동사니 팔기"
 
 msgctxt "gui/2447"
 msgid "Join Combat"
@@ -10351,7 +10268,7 @@ msgstr "레인저 본부에서만 분대원을 변경할 수 있습니다."
 
 msgctxt "gui/2461"
 msgid "Fueling Station"
-msgstr ""
+msgstr "급유 시설"
 
 msgctxt "gui/2462"
 msgid "Brightness Calibration"
@@ -10368,11 +10285,11 @@ msgstr "왼쪽의 레인저 별 문양이 거의 보이지 않을 때까지 밝�
 
 msgctxt "gui/2465"
 msgid "Added to Archive"
-msgstr ""
+msgstr "아카이브에 저장됨"
 
 msgctxt "gui/2466"
 msgid "Active Conversation Available"
-msgstr ""
+msgstr "동적 대화 활성화됨"
 
 msgctxt "gui/2467"
 msgid "..."
@@ -10404,15 +10321,15 @@ msgstr "활성화하면 게임 내의 특정 상황에서 무선 컨트롤러가
 
 msgctxt "gui/2473"
 msgid "Decal Coverage"
-msgstr ""
+msgstr "데칼 범위"
 
 msgctxt "gui/2474"
 msgid "P1"
-msgstr ""
+msgstr "P1"
 
 msgctxt "gui/2475"
 msgid "P2"
-msgstr ""
+msgstr "P2"
 
 msgctxt "gui/2476"
 msgid "Player 1"
@@ -10428,6 +10345,8 @@ msgid ""
 "have had on their land - whether you might have changed their lives for the "
 "better or the worse, or ended them entirely."
 msgstr ""
+"콜로라도 주민들은 데저트 레인저가 그들의 땅에 불러온 여파를 영영 알 수 없을 겁니다. 당신이 그들의 삶을 더 낫게 했든, 망쳐놓았든, "
+"아주 끝내버렸든 간에 말입니다."
 
 msgctxt "gui/2479"
 msgid "Confirm Characters"
@@ -10455,7 +10374,7 @@ msgstr "쓰러졌거나 전투 불능인 캐릭터들은 이동시키거나 내�
 
 msgctxt "gui/2485"
 msgid "Lv {0} {1}"
-msgstr ""
+msgstr "{0}레벨 {1}"
 
 msgctxt "gui/2486"
 msgid "Enter Text"
@@ -10495,7 +10414,7 @@ msgstr "게임 버전이 서로 다릅니다. 두 플레이어 모두 최신 업
 
 msgctxt "gui/2495"
 msgid "Highest Skill Level:"
-msgstr ""
+msgstr "최고 기술 레벨:"
 
 msgctxt "gui/2496"
 msgid "Other player is Ready"
@@ -10782,7 +10701,7 @@ msgstr "펌프"
 
 msgctxt "gui/2579"
 msgid "Crafting Recipes Unlocked: "
-msgstr ""
+msgstr "조합 제작법 추가됨: "
 
 msgctxt "gui/2580"
 msgid "Minimum Level: {0}+"
@@ -10852,7 +10771,7 @@ msgstr ""
 
 msgctxt "gui/2609"
 msgid "Crafting Recipe"
-msgstr ""
+msgstr "제작법"
 
 msgctxt "gui/2610"
 msgid "Craft"
@@ -10892,7 +10811,7 @@ msgstr "이 저장 파일을 불러오기 위한 DLC를 소지하고 있지 않�
 
 msgctxt "gui/2621"
 msgid "Deployables"
-msgstr ""
+msgstr "배치 가능"
 
 msgctxt "gui/2622"
 msgid "Grenades"
@@ -10900,11 +10819,11 @@ msgstr "수류탄"
 
 msgctxt "gui/2623"
 msgid "Special"
-msgstr ""
+msgstr "특수"
 
 msgctxt "gui/2628"
 msgid "(max {0}x)"
-msgstr ""
+msgstr "(최대 {0}배)"
 
 msgctxt "gui/2629"
 msgid "-{0}x per turn"
@@ -10912,14 +10831,12 @@ msgstr "턴 당 -{0}"
 
 msgctxt "gui/2630"
 msgid "{0} Recipe"
-msgstr ""
+msgstr "제조법 {0}"
 
-#, fuzzy
 msgctxt "gui/2631"
 msgid "New Content Available"
 msgstr "새로운 컨텐츠 확인됨"
 
-#, fuzzy
 msgctxt "gui/2632"
 msgid "Crafting Recipes Unlocked"
 msgstr "새로운 제작법 해금됨"
@@ -10940,19 +10857,17 @@ msgctxt "gui/2637"
 msgid "Colorado Survival Gear"
 msgstr "콜로라도 생존 장비"
 
-#, fuzzy
 msgctxt "gui/2638"
 msgid "The Battle of Steeltown"
-msgstr "The Battle of Steeltown"
+msgstr "스틸타운 전투"
 
-#, fuzzy
 msgctxt "gui/2639"
 msgid "Cult of the Holy Detonation"
-msgstr "성스러운 폭발의 의식"
+msgstr "성스러운 폭발의 신도들"
 
 msgctxt "gui/2643"
 msgid "Stay"
-msgstr ""
+msgstr "머무르기"
 
 msgctxt "gui/2644"
 msgid ""
@@ -11030,21 +10945,19 @@ msgstr "저장이 불가능한 상태에서 다른 플레이어가 게임을 떠
 
 msgctxt "gui/2665"
 msgid "Disable Security"
-msgstr ""
+msgstr "보안 해제"
 
-#, fuzzy
 msgctxt "gui/2670"
 msgid "Item Lost"
 msgstr "아이템 상실"
 
-#, fuzzy
 msgctxt "gui/2671"
 msgid ""
 "You're about to return to the World Map. All Downloadable Content takes "
 "place before the events of the End Game. Do you wish to make changes to your "
 "squad before leaving for the World Map?"
 msgstr ""
-"세계 지도로 돌아가기를 선택했습니다. 모든 DLC는 게임을 종료하기 전에 다운로드됩니다. 세계 지도로 이동하기 전 분대의 변경 사항을 "
+"세계 지도로 돌아가기를 선택했습니다. 모든 DLC 컨텐츠는 게임의 최종장 전에 나타납니다. 세계 지도로 이동하기 전 분대의 변경 사항을 "
 "저장하시겠습니까?"
 
 msgctxt "gui/2672"
@@ -11097,7 +11010,6 @@ msgctxt "gui/645"
 msgid "Steeltown"
 msgstr "스틸타운"
 
-#, fuzzy
 msgctxt "gui/651"
 msgid ""
 "Reputation tracks how your actions have affected each faction's opinion of "
@@ -11111,29 +11023,25 @@ msgstr ""
 "각 파벌은 자신들의 성격에 따라 레인저의 행동에 의견을 표하며, 평판은 이를 나타냅니다.\\n"
 "\\n"
 "푸에블로 폐허 위에 세워진 거대한 산업 도시 스틸타운. 금속과 콘크리트로 얽혀있는 그 모습은 대재앙 이후에나 볼 법한 형상을 하고 "
-"있으며, 끊임없이 검은 매연과 불꽃을 콜로라도의 하늘 위로 뿌려댑니다. 그런 스틸타운은 지배하는 애비게일 마컴은 카리스마 있는 사업가이자 "
-"엔지니어입니다."
+"있으며, 끊임없이 검은 매연과 불꽃을 콜로라도의 하늘 위로 뿌려댑니다. 그런 스틸타운을 지배하는 것은 카리스마 있는 사업가이자 공학자인 "
+"아비게일 마컴입니다."
 
 msgctxt "gui/672"
 msgid "Steeltown Gates"
 msgstr "스틸타운 관문"
 
-#, fuzzy
 msgctxt "gui/1163"
 msgid "Steeltown's Sigil"
 msgstr "스틸타운의 문양"
 
-#, fuzzy
 msgctxt "gui/1164"
 msgid "Computation Engine Model"
 msgstr "연산 엔진 모델"
 
-#, fuzzy
 msgctxt "gui/2528"
 msgid "Fire Suppression System"
 msgstr "화재 진압 시스템"
 
-#, fuzzy
 msgctxt "gui/2529"
 msgid "Administration Valve"
 msgstr "제어 밸브"
@@ -11142,37 +11050,30 @@ msgctxt "gui/2530"
 msgid "Cookie's Goat Meat"
 msgstr "쿠키의 염소 고기"
 
-#, fuzzy
 msgctxt "gui/2531"
 msgid "Failsafe Release GAMMA"
 msgstr "자동안전장치 감마 실행"
 
-#, fuzzy
 msgctxt "gui/2532"
 msgid "Failsafe Release OMEGA"
 msgstr "자동안전장치 오메가 실행"
 
-#, fuzzy
 msgctxt "gui/2533"
 msgid "Core Control Console"
 msgstr "중앙 제어 콘솔"
 
-#, fuzzy
 msgctxt "gui/2542"
 msgid "Ocular Scanner"
-msgstr "안구 검사기"
+msgstr "검안기"
 
-#, fuzzy
 msgctxt "gui/2543"
 msgid "Biometric Assessment Pod"
 msgstr "신체 측정실"
 
-#, fuzzy
 msgctxt "gui/2544"
 msgid "Skills Test Terminal"
 msgstr "능력 측정 단말기"
 
-#, fuzzy
 msgctxt "gui/2545"
 msgid "Test Terminal"
 msgstr "검사 단말기"
@@ -11193,7 +11094,6 @@ msgctxt "gui/2549"
 msgid "Small Radio"
 msgstr "소형 라디오"
 
-#, fuzzy
 msgctxt "gui/2550"
 msgid "Old racing buggy"
 msgstr "구형 대회용 버기"
@@ -11210,26 +11110,22 @@ msgctxt "gui/2553"
 msgid "Sealed Crate"
 msgstr "잠긴 상자"
 
-#, fuzzy
 msgctxt "gui/2576"
 msgid "Target Practice"
-msgstr "사격 연습"
+msgstr "사격 연습대"
 
-#, fuzzy
 msgctxt "gui/2577"
 msgid "Cognitive Test"
-msgstr "인지력 시험"
+msgstr "인지력 시험대"
 
 msgctxt "gui/2578"
 msgid "Fitness Test"
 msgstr "체력 시험"
 
-#, fuzzy
 msgctxt "gui/2581"
 msgid "Reinforced Gate"
-msgstr "보강된 게이트"
+msgstr "강화문"
 
-#, fuzzy
 msgctxt "gui/2582"
 msgid "West Gates"
 msgstr "서쪽 게이트"
@@ -11254,7 +11150,6 @@ msgctxt "gui/2594"
 msgid "Sealed Crate"
 msgstr "잠긴 상자"
 
-#, fuzzy
 msgctxt "gui/2595"
 msgid "Shipment"
 msgstr "운송물"
@@ -11263,7 +11158,6 @@ msgctxt "gui/2596"
 msgid "Sealed Crate"
 msgstr "잠긴 상자"
 
-#, fuzzy
 msgctxt "gui/2597"
 msgid "Sealed Box"
 msgstr "잠긴 보관함"
@@ -11272,10 +11166,9 @@ msgctxt "gui/2598"
 msgid "Crate"
 msgstr "상자"
 
-#, fuzzy
 msgctxt "gui/2599"
 msgid "Box"
-msgstr "보관함"
+msgstr "박스"
 
 msgctxt "gui/2600"
 msgid "Sealed Crate"
@@ -11293,40 +11186,35 @@ msgctxt "gui/2606"
 msgid "Television"
 msgstr "텔레비전"
 
-#, fuzzy
 msgctxt "gui/2613"
 msgid ""
 "You’ve successfully purchased The Battle of Steeltown! The Steeltown mission "
 "will become active once you load into the World Map with a level 9 party."
 msgstr ""
-"The Battle of Steeltown DLC가 정상적으로 구매되었습니다! 레벨 9 이상의 분대를 선택한 상태로 세계 지도를 불러오면 "
+"The Battle of Steeltown DLC가 정상적으로 구매되었습니다! 레벨 9 이상의 분대를 선택한 상태로 세계 지도로 이동하면 "
 "스틸타운 임무가 활성화됩니다."
 
-#, fuzzy
 msgctxt "gui/2624"
 msgid "Steeltown Administration"
-msgstr "스틸타운 행정부"
+msgstr "스틸타운 행정부서"
 
 msgctxt "gui/2625"
 msgid "Steeltown"
 msgstr "스틸타운"
 
-#, fuzzy
 msgctxt "gui/2626"
 msgid ""
 "Administrator Markham and her team of middle managers, clerks, and "
 "assistants, dedicated to giving Colorado a brighter future by returning to "
 "America's industrialized past."
 msgstr ""
-"중간 관리자, 사무원, 보조원 등으로 이루어진 관리자 마컴의 조직은 과거 미국의 산업화 시대처럼 콜로라도가 더 밝은 미래로 나아갈 수 "
+"중간 관리자, 사무원, 보조원 등으로 이루어진 마컴 이사의 조직은 과거 미국의 산업화 시대처럼 콜로라도가 더 밝은 미래로 나아갈 수 "
 "있도록 큰 노력을 쏟았습니다."
 
-#, fuzzy
 msgctxt "gui/2511"
 msgid "Radioactive Waste Barrel"
 msgstr "방사성 폐기물 드럼통"
 
-#, fuzzy
 msgctxt "gui/2614"
 msgid ""
 "You’ve successfully purchased Cult of the Holy Detonation! The Cheyenne "
@@ -11336,7 +11224,6 @@ msgstr ""
 "Cult of the Holy Detonation DLC가 정상적으로 구매되었습니다! 레벨 16 이상의 분대를 선택한 상태로 세계 지도를 "
 "불러오면 샤이엔산 임무가 활성화됩니다."
 
-#, fuzzy
 msgctxt "gui/2627"
 msgid "Toxic Waste Pipe"
 msgstr "독성 폐기물 파이프"
@@ -11349,17 +11236,14 @@ msgctxt "gui/2640"
 msgid "Bone Pile"
 msgstr "뼈 더미"
 
-#, fuzzy
 msgctxt "gui/2641"
 msgid "Mysterious Hole"
 msgstr "의심쩍은 구멍"
 
-#, fuzzy
 msgctxt "gui/2642"
 msgid "None"
 msgstr "없음"
 
-#, fuzzy
 msgctxt "gui/2646"
 msgid "Gorilla Corpse"
 msgstr "고릴라 시체"
@@ -11368,23 +11252,21 @@ msgctxt "gui/2647"
 msgid "Holy Radiation"
 msgstr "신성한 방사능"
 
-#, fuzzy
 msgctxt "gui/2648"
 msgid "Field Crystal Housing"
 msgstr "결정 보호막 장치"
 
 msgctxt "gui/2654"
 msgid "Monitor Bank"
-msgstr ""
+msgstr "모니터 여러대"
 
 msgctxt "gui/2666"
 msgid "Cheyenne Power Conduit"
 msgstr "샤이엔 전력 전선관"
 
-#, fuzzy
 msgctxt "gui/2667"
 msgid "Energy Syphon"
-msgstr "에너지 사이펀"
+msgstr "에너지 흡수관"
 
 msgctxt "gui/2668"
 msgid "Loading Dock Door"

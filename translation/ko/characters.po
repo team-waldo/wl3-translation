@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-03-31 03:58+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2022-04-02 20:59+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -741,7 +741,6 @@ msgctxt "characters/292"
 msgid "Binary Star"
 msgstr "쌍성"
 
-#, fuzzy
 msgctxt "characters/293"
 msgid "Distributed Operations Platform"
 msgstr "분산 운영 플랫폼"
@@ -940,7 +939,7 @@ msgstr "니타 겟"
 
 msgctxt "characters/348"
 msgid "Smuggler Saboteur "
-msgstr "밀수업자 공작원 "
+msgstr "밀입 브로커 공작원 "
 
 msgctxt "characters/349"
 msgid "Refugee"
@@ -2060,7 +2059,7 @@ msgstr "얼어붙은 시체"
 
 msgctxt "characters/666"
 msgid "Bargain Clown"
-msgstr "장사꾼 광대"
+msgstr "바겐 클라운"
 
 msgctxt "characters/667"
 msgid "Whining Jimmy"
@@ -2650,7 +2649,6 @@ msgctxt "characters/817"
 msgid "Pvt. Macchione"
 msgstr "이등병 마키오네"
 
-#, fuzzy
 msgctxt "characters/818"
 msgid "Fixling"
 msgstr "픽슬링"
@@ -2723,12 +2721,10 @@ msgctxt "characters/835"
 msgid "Pvt. Deeb"
 msgstr "이등병 디브"
 
-#, fuzzy
 msgctxt "characters/836"
 msgid "Pvt. Jertberg"
 msgstr "이등병 젤트베르크"
 
-#, fuzzy
 msgctxt "characters/837"
 msgid "Pvt. Hasian"
 msgstr "이등병 하시안"
@@ -3949,7 +3945,6 @@ msgctxt "characters/1150"
 msgid "StarStationWars.exe"
 msgstr "스타스테이션워즈.exe"
 
-#, fuzzy
 msgctxt "characters/1151"
 msgid "Dying Man"
 msgstr "죽어가는 남자"
@@ -4022,12 +4017,10 @@ msgctxt "characters/1169"
 msgid "Stitches"
 msgstr "바늘땀"
 
-#, fuzzy
 msgctxt "characters/1170"
 msgid "Commune Archeologist"
 msgstr "코뮌 고고학자"
 
-#, fuzzy
 msgctxt "characters/1171"
 msgid "Commune Philosopher"
 msgstr "코뮌 철학자"
@@ -4052,12 +4045,10 @@ msgctxt "characters/1176"
 msgid "Woman in White"
 msgstr "흰옷의 여인"
 
-#, fuzzy
 msgctxt "characters/1177"
 msgid "Bellameow"
 msgstr "벨라뮤"
 
-#, fuzzy
 msgctxt "characters/1178"
 msgid "Vigilant Guard"
 msgstr "경계하는 경비원"
@@ -4090,7 +4081,6 @@ msgctxt "characters/1185"
 msgid "Subsystem III"
 msgstr "서브시스템 III"
 
-#, fuzzy
 msgctxt "characters/1186"
 msgid "SYSTEMS CRITICAL"
 msgstr "치명적 시스템 오류"
@@ -4199,20 +4189,17 @@ msgctxt "characters/1212"
 msgid "Spiny Hopper"
 msgstr "스파이니 호퍼"
 
-#, fuzzy
 msgctxt "characters/1213"
 msgid "Monster Army Boomer"
 msgstr "몬스터 아미 폭탄마"
 
-#, fuzzy
 msgctxt "characters/1214"
 msgid "Smuggler Cutter "
-msgstr "밀수업자 절단자 "
+msgstr "밀입 브로커 절단자 "
 
-#, fuzzy
 msgctxt "characters/1215"
 msgid "Smuggler Devastator "
-msgstr "밀수업자 파괴단원 "
+msgstr "밀입 브로커 파괴단원 "
 
 msgctxt "characters/1216"
 msgid "Slaver Enforcer"
@@ -4618,15 +4605,13 @@ msgctxt "characters/1317"
 msgid "Commune Heavy Cannon Turret"
 msgstr "코뮌 중구경 기관포 포탑"
 
-#, fuzzy
 msgctxt "characters/1319"
 msgid "Pvt. Fagan"
 msgstr "이등병 페이건"
 
-#, fuzzy
 msgctxt "characters/1320"
 msgid "Pvt. O'Neill"
-msgstr "이등병 오닐"
+msgstr "이등병 오'닐"
 
 msgctxt "characters/1321"
 msgid "Mysterious Wreck"
@@ -4734,23 +4719,20 @@ msgstr "자동판매기"
 
 msgctxt "characters/1547"
 msgid "[empty]"
-msgstr "[비어있음]"
+msgstr "[empty]"
 
-#, fuzzy
 msgctxt "characters/235"
 msgid "Doctor Breeler"
-msgstr "브릴러 교수"
+msgstr "브릴러 의사"
 
 msgctxt "characters/241"
 msgid "Carla Asphalt-Runner"
 msgstr "칼라 아스팔트러너"
 
-#, fuzzy
 msgctxt "characters/242"
 msgid "Vega Corsair"
 msgstr "베가 커세어"
 
-#, fuzzy
 msgctxt "characters/243"
 msgid "Grille"
 msgstr "그릴"
@@ -4889,7 +4871,7 @@ msgstr "올루와디밀라디"
 
 msgctxt "characters/1356"
 msgid "Dog-Bot"
-msgstr ""
+msgstr "개 로봇"
 
 msgctxt "characters/1357"
 msgid "Guard-Bot"
@@ -4901,35 +4883,35 @@ msgstr "경비 로봇 XL"
 
 msgctxt "characters/1359"
 msgid "Steeltown Guard Transport"
-msgstr ""
+msgstr "스틸타운 경비병 수송선"
 
 msgctxt "characters/1360"
 msgid "Ghost Exo-Tec"
-msgstr ""
+msgstr "고스트 엑소테크 기술자"
 
 msgctxt "characters/1361"
 msgid "Ghost Thermal-Tec"
-msgstr ""
+msgstr "고스트 서멀테크 기술자"
 
 msgctxt "characters/1362"
 msgid "Ghost Mechanic"
-msgstr ""
+msgstr "고스트 기계공"
 
 msgctxt "characters/1363"
 msgid "Ghost Shield-Tec"
-msgstr ""
+msgstr "고스트 보호막 기술자"
 
 msgctxt "characters/1364"
 msgid "Ghost Powerloader"
-msgstr ""
+msgstr "고스트 중기갑병"
 
 msgctxt "characters/1365"
 msgid "Ghost Weaponized Powerloader"
-msgstr ""
+msgstr "고스트 무장 중기갑병"
 
 msgctxt "characters/1367"
 msgid "Slaver"
-msgstr ""
+msgstr "노예상인"
 
 msgctxt "characters/1368"
 msgid " Debug Mission: Order Up"
@@ -4957,7 +4939,7 @@ msgstr " Debug Mission: Gift of the Magi"
 
 msgctxt "characters/1374"
 msgid "O.M.C. Walsh"
-msgstr ""
+msgstr "O.M.C. 월시"
 
 msgctxt "characters/1375"
 msgid "Cookie"
@@ -4965,19 +4947,19 @@ msgstr "쿠키"
 
 msgctxt "characters/1376"
 msgid "Bot-lift"
-msgstr ""
+msgstr "봇리프트"
 
 msgctxt "characters/1377"
 msgid "Clerk Jerry"
-msgstr ""
+msgstr "점원 제리"
 
 msgctxt "characters/1378"
 msgid "Clerk Hurley"
-msgstr ""
+msgstr "점원 헐리"
 
 msgctxt "characters/1379"
 msgid "Clerk Doe"
-msgstr ""
+msgstr "점원 도"
 
 msgctxt "characters/1380"
 msgid "Bernice"
@@ -4997,79 +4979,79 @@ msgstr "아치"
 
 msgctxt "characters/1385"
 msgid "Edith"
-msgstr ""
+msgstr "이디스"
 
 msgctxt "characters/1386"
 msgid "Awake Alfonso"
-msgstr ""
+msgstr "깨어난 알폰소"
 
 msgctxt "characters/1387"
 msgid "Sugarplum Fairy"
-msgstr ""
+msgstr "꼬마사탕 요정"
 
 msgctxt "characters/1388"
 msgid "Bug"
-msgstr ""
+msgstr "벌레"
 
 msgctxt "characters/1389"
 msgid "Silas"
-msgstr ""
+msgstr "실라스"
 
 msgctxt "characters/1390"
 msgid "Nova"
-msgstr ""
+msgstr "노바"
 
 msgctxt "characters/1391"
 msgid "Desmond"
-msgstr ""
+msgstr "데즈먼드"
 
 msgctxt "characters/1392"
 msgid "Nurse Firenze"
-msgstr ""
+msgstr "간호사 피렌지"
 
 msgctxt "characters/1393"
 msgid "Wink Tillman"
-msgstr ""
+msgstr "윙크 틸먼"
 
 msgctxt "characters/1394"
 msgid "Amos Ryan"
-msgstr ""
+msgstr "에이모스 라이언"
 
 msgctxt "characters/1395"
 msgid "Shirley Ryan"
-msgstr ""
+msgstr "셜리 라이언"
 
 msgctxt "characters/1396"
 msgid "Shemp Ryan"
-msgstr ""
+msgstr "솀프 라이언"
 
 msgctxt "characters/1397"
 msgid "Serena Ash"
-msgstr ""
+msgstr "서리나 애시"
 
 msgctxt "characters/1398"
 msgid "Lazar Blazer"
-msgstr ""
+msgstr "레이저 블레이저"
 
 msgctxt "characters/1399"
 msgid "B.F."
-msgstr ""
+msgstr "B.F."
 
 msgctxt "characters/1400"
 msgid "Ivan"
-msgstr ""
+msgstr "이반"
 
 msgctxt "characters/1401"
 msgid "Giles"
-msgstr ""
+msgstr "자일스"
 
 msgctxt "characters/1402"
 msgid "Arushi"
-msgstr ""
+msgstr "아루시"
 
 msgctxt "characters/1403"
 msgid "Reg"
-msgstr ""
+msgstr "렉"
 
 msgctxt "characters/1404"
 msgid "Keith"
@@ -5077,251 +5059,251 @@ msgstr "키이스"
 
 msgctxt "characters/1405"
 msgid "Mabelle"
-msgstr ""
+msgstr "마벨"
 
 msgctxt "characters/1406"
 msgid "Computation Engine Synth"
-msgstr ""
+msgstr "연산엔진 신스"
 
 msgctxt "characters/1407"
 msgid "Toilet"
-msgstr ""
+msgstr "변기"
 
 msgctxt "characters/1408"
 msgid "Fatima"
-msgstr ""
+msgstr "파티마"
 
 msgctxt "characters/1409"
 msgid "Fatima's Corpse"
-msgstr ""
+msgstr "파티마의 시신"
 
 msgctxt "characters/1410"
 msgid "Aram's Corpse"
-msgstr ""
+msgstr "아람의 시신"
 
 msgctxt "characters/1411"
 msgid "Iris's Corpse"
-msgstr ""
+msgstr "아이리스의 시신"
 
 msgctxt "characters/1412"
 msgid "Arthur"
-msgstr ""
+msgstr "아서"
 
 msgctxt "characters/1413"
 msgid "Arthur's Corpse"
-msgstr ""
+msgstr "아서의 시신"
 
 msgctxt "characters/1415"
 msgid "Karl Ludlow"
-msgstr ""
+msgstr "칼 러들로"
 
 msgctxt "characters/1417"
 msgid "Iris"
-msgstr ""
+msgstr "아이리스"
 
 msgctxt "characters/1419"
 msgid "Enrico"
-msgstr ""
+msgstr "엔리코"
 
 msgctxt "characters/1421"
 msgid "Beals"
-msgstr ""
+msgstr "빌즈"
 
 msgctxt "characters/1422"
 msgid "Ghost Gang Raid Leader"
-msgstr ""
+msgstr "고스트 갱 약탈단 지도자"
 
 msgctxt "characters/1426"
 msgid "Rank Ravi"
-msgstr ""
+msgstr "랭크 레이비"
 
 msgctxt "characters/1427"
 msgid "Rad Ravi"
-msgstr ""
+msgstr "래드 레이비"
 
 msgctxt "characters/1428"
 msgid "War-bot Floor Model"
-msgstr ""
+msgstr "워봇 플로어 모델"
 
 msgctxt "characters/1429"
 msgid "Hayes"
-msgstr ""
+msgstr "헤이즈"
 
 msgctxt "characters/1430"
 msgid "Luna Moon"
-msgstr ""
+msgstr "루나 문"
 
 msgctxt "characters/1447"
 msgid "Nova"
-msgstr ""
+msgstr "노바"
 
 msgctxt "characters/1450"
 msgid "Bug"
-msgstr ""
+msgstr "벌레"
 
 msgctxt "characters/1451"
 msgid "Worker"
-msgstr ""
+msgstr "일꾼"
 
 msgctxt "characters/1452"
 msgid "Dash Grabem"
-msgstr ""
+msgstr "대시 그레이범"
 
 msgctxt "characters/1453"
 msgid "HN6R"
-msgstr ""
+msgstr "HN6R"
 
 msgctxt "characters/1454"
 msgid "HRPs"
-msgstr ""
+msgstr "HRPs"
 
 msgctxt "characters/1455"
 msgid "H1n1"
-msgstr ""
+msgstr "H1n1"
 
 msgctxt "characters/1456"
 msgid "H3Y0"
-msgstr ""
+msgstr "H3Y0"
 
 msgctxt "characters/1458"
 msgid "H3L0"
-msgstr ""
+msgstr "H3L0"
 
 msgctxt "characters/1469"
 msgid "Disruption Turret"
-msgstr ""
+msgstr "분열 포탑"
 
 msgctxt "characters/1470"
 msgid "Shield-Bot"
-msgstr ""
+msgstr "실드봇"
 
 msgctxt "characters/1471"
 msgid "Biometric Assessment Pod"
-msgstr ""
+msgstr "신체 측정실"
 
 msgctxt "characters/1472"
 msgid "Ocular Scanner"
-msgstr ""
+msgstr "검안기"
 
 msgctxt "characters/1473"
 msgid "Skills Test Terminal"
-msgstr ""
+msgstr "기술 시험 단말기"
 
 msgctxt "characters/1474"
 msgid "Newt"
-msgstr ""
+msgstr "영원"
 
 msgctxt "characters/1475"
 msgid "Ellen"
-msgstr ""
+msgstr "엘런"
 
 msgctxt "characters/1480"
 msgid "Deirdre"
-msgstr ""
+msgstr "데어드레"
 
 msgctxt "characters/1482"
 msgid "Strength Test Terminal"
-msgstr ""
+msgstr "근력 시험 단말기"
 
 msgctxt "characters/1483"
 msgid "H3R0"
-msgstr ""
+msgstr "H3R0"
 
 msgctxt "characters/1484"
 msgid "Bot-Lift"
-msgstr ""
+msgstr "봇리프트"
 
 msgctxt "characters/1486"
 msgid "Computation Engine Interface"
-msgstr ""
+msgstr "연산엔진 인터페이스"
 
 msgctxt "characters/1489"
 msgid "Secret Head"
-msgstr ""
+msgstr "비밀 머리"
 
 msgctxt "characters/1490"
 msgid "Handcraft"
-msgstr ""
+msgstr "수제작"
 
 msgctxt "characters/1492"
 msgid "Blue's Drafting Table"
-msgstr ""
+msgstr "블루의 제도 테이블"
 
 msgctxt "characters/1493"
 msgid "Markham's Gun Rack"
-msgstr ""
+msgstr "마컴의 총포 보관대"
 
 msgctxt "characters/1494"
 msgid "Worker Incentive System Prototype"
-msgstr ""
+msgstr "프로토타입 노동자 인센티브 시스템"
 
 msgctxt "characters/1503"
 msgid "EEG Hood Prototype"
-msgstr ""
+msgstr "프로토타입 EEG 후드"
 
 msgctxt "characters/1504"
 msgid "Florinda"
-msgstr ""
+msgstr "플로린다"
 
 msgctxt "characters/1514"
 msgid "Clean Toilet"
-msgstr ""
+msgstr "깨끗한 변기"
 
 msgctxt "characters/1515"
 msgid "Fancy Toilet"
-msgstr ""
+msgstr "호화로운 변기"
 
 msgctxt "characters/358"
 msgid "Holy Detonation Acolyte"
-msgstr ""
+msgstr "성스러운 폭발 수행사제"
 
 msgctxt "characters/421"
 msgid "Tourmaline"
-msgstr ""
+msgstr "전기석"
 
 msgctxt "characters/626"
 msgid "Holy Detonation Disciple"
-msgstr ""
+msgstr "성스러운 폭발 사도"
 
 msgctxt "characters/627"
 msgid "Radiation Angel"
-msgstr ""
+msgstr "방사능 천사"
 
 msgctxt "characters/1346"
 msgid "Initiate"
-msgstr ""
+msgstr "입회자"
 
 msgctxt "characters/1347"
 msgid "Zealot"
-msgstr ""
+msgstr "열광자"
 
 msgctxt "characters/1348"
 msgid "Evangelist"
-msgstr ""
+msgstr "복음 전도사"
 
 msgctxt "characters/1349"
 msgid "Feral Proto-Drool"
-msgstr ""
+msgstr "야생 원시 드룰"
 
 msgctxt "characters/1350"
 msgid "Feral Flesh Mass"
-msgstr ""
+msgstr "야생 살점덩어리"
 
 msgctxt "characters/1351"
 msgid "Radiation Angel"
-msgstr ""
+msgstr "방사능 천사"
 
 msgctxt "characters/1352"
 msgid "Flesh Tumor"
-msgstr ""
+msgstr "살점 종양"
 
 msgctxt "characters/1353"
 msgid "Access Hatch"
-msgstr ""
+msgstr "접근로 개구부"
 
 msgctxt "characters/1366"
 msgid "Particle Cannon"
-msgstr ""
+msgstr "입자포"
 
 msgctxt "characters/1418"
 msgid "Father Bezoar"
@@ -5329,59 +5311,59 @@ msgstr "베조아르 신부"
 
 msgctxt "characters/1420"
 msgid "Coolant Tanks"
-msgstr ""
+msgstr "냉각제 탱크"
 
 msgctxt "characters/1423"
 msgid "Security Beacon"
-msgstr ""
+msgstr "보안 신호기"
 
 msgctxt "characters/1424"
 msgid "Recon Bot"
-msgstr ""
+msgstr "정찰로봇"
 
 msgctxt "characters/1425"
 msgid "Security Turret"
-msgstr ""
+msgstr "보안 포탑"
 
 msgctxt "characters/1431"
 msgid "Abbot Deuterium"
-msgstr ""
+msgstr "애벗 듀티리엄"
 
 msgctxt "characters/1432"
 msgid "Angel Iridium"
-msgstr ""
+msgstr "천사의 이리듐"
 
 msgctxt "characters/1433"
 msgid "Night Terror"
-msgstr ""
+msgstr "나이트 테러"
 
 msgctxt "characters/1448"
 msgid "Night Terror"
-msgstr ""
+msgstr "나이트 테러"
 
 msgctxt "characters/1449"
 msgid "Carbuncle"
-msgstr ""
+msgstr "카벙클"
 
 msgctxt "characters/1457"
 msgid "Benign"
-msgstr ""
+msgstr "양성"
 
 msgctxt "characters/1478"
 msgid "Metastatic"
-msgstr ""
+msgstr "전이성"
 
 msgctxt "characters/1485"
 msgid "Vent"
-msgstr ""
+msgstr "환풍구"
 
 msgctxt "characters/1495"
 msgid "Proteus"
-msgstr ""
+msgstr "프로테우스"
 
 msgctxt "characters/1496"
 msgid "Clone Fabricator"
-msgstr ""
+msgstr "클론 복제기"
 
 msgctxt "characters/1497"
 msgid "Goiter"
@@ -5389,11 +5371,11 @@ msgstr "고이터"
 
 msgctxt "characters/1498"
 msgid "Mitosis"
-msgstr ""
+msgstr "유사분열"
 
 msgctxt "characters/1499"
 msgid "Bubo"
-msgstr ""
+msgstr "부보"
 
 msgctxt "characters/1500"
 msgid "Polyp"
@@ -5401,168 +5383,168 @@ msgstr "폴립"
 
 msgctxt "characters/1501"
 msgid "Sick Rick"
-msgstr ""
+msgstr "앓는 릭"
 
 msgctxt "characters/1502"
 msgid "Melanoma"
-msgstr ""
+msgstr "흑색종"
 
 msgctxt "characters/1507"
 msgid "Brother Bismuth"
-msgstr ""
+msgstr "비즈무스 수사"
 
 msgctxt "characters/1508"
 msgid "Boris"
-msgstr ""
+msgstr "보리스"
 
 msgctxt "characters/1509"
 msgid "Natasha"
-msgstr ""
+msgstr "나타샤"
 
 msgctxt "characters/1510"
 msgid "Sister Autunite"
-msgstr ""
+msgstr "오투나이트 수녀"
 
 msgctxt "characters/1511"
 msgid "Primordialist Initiate"
-msgstr ""
+msgstr "태고주의자 입회자"
 
 msgctxt "characters/1512"
 msgid "Primordialist Evangelist"
-msgstr ""
+msgstr "태고주의자 복음전도사"
 
 msgctxt "characters/1513"
 msgid "Primordialist Proto-Drool"
-msgstr ""
+msgstr "태고주의자 원시 드룰"
 
 msgctxt "characters/1516"
 msgid "Initiate Warrior"
-msgstr ""
+msgstr "입회자 전사"
 
 msgctxt "characters/1517"
 msgid "Initiate Defender"
-msgstr ""
+msgstr "입회자 수호자"
 
 msgctxt "characters/1518"
 msgid "Initiate Enforcer"
-msgstr ""
+msgstr "입회자 강제자"
 
 msgctxt "characters/1519"
 msgid "Initiate Soldier"
-msgstr ""
+msgstr "입회자 병사"
 
 msgctxt "characters/1520"
 msgid "Initiate Marksman"
-msgstr ""
+msgstr "입회자 명사수"
 
 msgctxt "characters/1521"
 msgid "Zealot Crusader"
-msgstr ""
+msgstr "열광자 성전사"
 
 msgctxt "characters/1522"
 msgid "Zealot Blaster"
-msgstr ""
+msgstr "열광자 폭발전문가"
 
 msgctxt "characters/1523"
 msgid "Zealot Enforcer"
-msgstr ""
+msgstr "열광자 강제자"
 
 msgctxt "characters/1524"
 msgid "Zealot Gunner"
-msgstr ""
+msgstr "열광자 총포수"
 
 msgctxt "characters/1525"
 msgid "Zealot Purifier"
-msgstr ""
+msgstr "열광자 정화자"
 
 msgctxt "characters/1526"
 msgid "Zealot Soldier"
-msgstr ""
+msgstr "열광자 병사"
 
 msgctxt "characters/1527"
 msgid "Tumor Door"
-msgstr ""
+msgstr "종양의 문"
 
 msgctxt "characters/1528"
 msgid "Flesh Prince"
-msgstr ""
+msgstr "살점 왕자"
 
 msgctxt "characters/1529"
 msgid "Radiation Pipe"
-msgstr ""
+msgstr "방사능 파이프"
 
 msgctxt "characters/1530"
 msgid "Hydraulics Pump"
-msgstr ""
+msgstr "수압 펌프"
 
 msgctxt "characters/1531"
 msgid "Water Pump"
-msgstr ""
+msgstr "물 펌프"
 
 msgctxt "characters/1532"
 msgid "Ranger Turret"
-msgstr ""
+msgstr "레인저 포탑"
 
 msgctxt "characters/1533"
 msgid "Tumor Crate"
-msgstr ""
+msgstr "종양 크레이트"
 
 msgctxt "characters/1534"
 msgid "Stubborn Tumor Crate"
-msgstr ""
+msgstr "꿈쩍 않는 종양 크레이트"
 
 msgctxt "characters/1535"
 msgid "System Announcer"
-msgstr ""
+msgstr "시스템 아나운서"
 
 msgctxt "characters/1536"
 msgid "Tulane Blacktop"
-msgstr ""
+msgstr "튤레인 블랙탑"
 
 msgctxt "characters/1537"
 msgid "Pustule"
-msgstr ""
+msgstr "농포"
 
 msgctxt "characters/1538"
 msgid "Uber-Clone"
-msgstr ""
+msgstr "우버 클론"
 
 msgctxt "characters/1539"
 msgid "Energy Syphon"
-msgstr ""
+msgstr "에너지 흡수관"
 
 msgctxt "characters/1540"
 msgid "Pressure Sensor"
-msgstr ""
+msgstr "압력 감지기"
 
 msgctxt "characters/1541"
 msgid "Caul"
-msgstr ""
+msgstr "대망막"
 
 msgctxt "characters/1542"
 msgid "Strontium"
-msgstr ""
+msgstr "스트론튬"
 
 msgctxt "characters/1543"
 msgid "Crate"
-msgstr ""
+msgstr "상자"
 
 msgctxt "characters/1544"
 msgid "Vehicle Workbench"
-msgstr ""
+msgstr "차량 작업대"
 
 msgctxt "characters/1545"
 msgid "Mound of Shit"
-msgstr ""
+msgstr "똥 무더기"
 
 msgctxt "characters/1546"
 msgid "Container"
-msgstr ""
+msgstr "수납함"
 
 msgctxt "characters/1548"
 msgid "Feral Pitchblend"
-msgstr ""
+msgstr "야생 피치블렌드"
 
 msgctxt "characters/1549"
 msgid "Core Control Console"
-msgstr ""
+msgstr "중앙 제어 콘솔"
