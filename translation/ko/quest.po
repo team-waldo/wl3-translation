@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-06 17:57+0000\n"
-"Last-Translator: 박범준 <pbj00216@gmail.com>\n"
+"PO-Revision-Date: 2022-04-07 18:57+0000\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6508,7 +6508,7 @@ msgstr "앞면 혹은 뒷면"
 
 msgctxt "mission_x3501_arapahocaravanorhoons/1"
 msgid "Save the Caravan"
-msgstr "캐러밴을 구하기"
+msgstr "행상단을 구하기"
 
 msgctxt "mission_x3501_arapahocaravanorhoons/2"
 msgid "Save the Hoons"
@@ -6516,7 +6516,7 @@ msgstr "훈 가족 구하기"
 
 msgctxt "mission_x3501_arapahocaravanorhoons/8"
 msgid "Travel to the Hoon Homestead or the location of the Arapaho caravan."
-msgstr "훈 농장이나 아라파호 캐러밴으로 이동하기."
+msgstr "훈 농장이나 아라파호 행상단으로 이동하기."
 
 msgctxt "mission_x3501_arapahocaravanorhoons/9"
 msgid "Confront Erastus Dorsey at the Hoon Homestead."
@@ -6524,7 +6524,7 @@ msgstr "훈 농장에서 에라스투스 돌시와 대면하기."
 
 msgctxt "mission_x3501_arapahocaravanorhoons/10"
 msgid "Eliminate the Scar Collectors attacking the Arapaho caravan."
-msgstr "아라파호 캐러밴을 공격하는 스카 콜렉터들 제거하기."
+msgstr "아라파호 행상단을 공격하는 스카 콜렉터들 제거하기."
 
 msgctxt "mission_x3501_arapahocaravanorhoons/13"
 msgid "Travel to the Hoon Homestead."
@@ -6536,7 +6536,7 @@ msgstr "콜로라도 주민들이 레인저의 도움을 구하고 있다. 앞�
 
 msgctxt "mission_x3501_arapahocaravanorhoons/10001"
 msgid "You chose to save the Arapaho caravan."
-msgstr "아라파호 캐러밴을 구하기로 함."
+msgstr "아라파호 행상단을 구하기로 함."
 
 msgctxt "mission_x3501_arapahocaravanorhoons/10002"
 msgid "You chose to save the Hoon family."
@@ -6553,7 +6553,7 @@ msgstr "돌시들과 싸우지 않고 떠나도록 설득해 훈 가족을 구�
 
 msgctxt "mission_x3501_arapahocaravanorhoons/10005"
 msgid "We eliminated the Scar Collectors and secured the convoy."
-msgstr "스카 콜렉터를 제거하고 캐러밴 호송대를 구했다."
+msgstr "스카 콜렉터를 제거하고 행상단 호송대를 구했다."
 
 msgctxt "mission_x3501_arapahocaravanorhoons/10006"
 msgid "We decided to take out the Hoon family ourselves."
@@ -6561,7 +6561,7 @@ msgstr "훈 가족을 직접 처리하기로 결정했다."
 
 msgctxt "mission_x3501_arapahocaravanorhoons/10007"
 msgid "The Arapaho couriers manning the caravan are dead."
-msgstr "캐러밴을 지키던 아라파호 배달부들은 죽었다."
+msgstr "행상단을 지키던 아라파호 배달부들은 죽었다."
 
 msgctxt "mission_x3501_arapahocaravanorhoons/10008"
 msgid ""
