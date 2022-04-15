@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-14 06:13+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2022-04-15 17:58+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2917,7 +2917,7 @@ msgstr " 공기중의 고포화 신성한 방사선량에 의해 강화되었습
 
 msgctxt "statuseffects/581"
 msgid "Holy Destroying Angel Mushroom"
-msgstr "성스러운 파괴의 천사 버섯"
+msgstr "성스러운 독우산광대버섯"
 
 msgctxt "statuseffects/582"
 msgid ""
@@ -2926,7 +2926,7 @@ msgstr "신성한 방사선의 강화 효과를 누리는 당신은 심판을 �
 
 msgctxt "statuseffects/583"
 msgid "Holy Horse Mushroom"
-msgstr "성스러운 준마 버섯"
+msgstr "성스러운 흰주름버섯"
 
 msgctxt "statuseffects/584"
 msgid ""
@@ -2936,7 +2936,7 @@ msgstr "신성한 방사선의 강화 효과를 누려 바람처럼 내달리고
 
 msgctxt "statuseffects/585"
 msgid "Holy Panther Mushroom"
-msgstr "성스러운 표범 버섯"
+msgstr "성스러운 마귀광대버섯"
 
 msgctxt "statuseffects/586"
 msgid "Empowered by Holy Radiation, your reflexes are faster than lightning."
@@ -2998,15 +2998,15 @@ msgstr "아이구 이런... 좀 앉을래... 토할 것 같아..."
 
 msgctxt "statuseffects/671"
 msgid "Glowing Horse Mushroom"
-msgstr "발광하는 준마 버섯"
+msgstr "발광 흰주름버섯"
 
 msgctxt "statuseffects/672"
 msgid "Glowing Panther Mushroom"
-msgstr "발광하는 흑표범 버섯"
+msgstr "발광 마귀광대버섯"
 
 msgctxt "statuseffects/673"
 msgid "Glowing Destroying Angel Mushroom"
-msgstr "발광하는 파괴의 천사 버섯"
+msgstr "발광 독우산광대버섯"
 
 msgctxt "statuseffects/674"
 msgid "Note to future self: maybe don't eat strange glowing mushrooms."

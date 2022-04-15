@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-14 06:13+0000\n"
-"Last-Translator: butnine <butnine@gmail.com>\n"
+"PO-Revision-Date: 2022-04-15 17:58+0000\n"
+"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -16052,7 +16052,7 @@ msgstr " Stacking Status Weapon"
 
 msgctxt "items/3578"
 msgid "Bio-Metric Governor"
-msgstr "생체 조절 칩"
+msgstr "생체신호 관리장치"
 
 msgctxt "items/3579"
 msgid ""
@@ -16857,7 +16857,7 @@ msgstr "이 열쇠에는 조그만한 종이가 붙어있습니다. \"전기 시
 
 msgctxt "items/3697"
 msgid "Horse Mushroom"
-msgstr "말 버섯"
+msgstr "흰주름버섯"
 
 msgctxt "items/3698"
 msgid "A large, edible white mushroom that smells faintly of almonds."
@@ -16865,7 +16865,7 @@ msgstr "은은한 아몬드 향이나는 커다란 식용 흰 버섯입니다."
 
 msgctxt "items/3699"
 msgid "Panther Mushroom"
-msgstr "팬서 버섯"
+msgstr "마귀광대버섯"
 
 msgctxt "items/3700"
 msgid ""
@@ -16875,7 +16875,7 @@ msgstr "작은 갈색 반점이 있는 하얀 버섯입니다. 환강 성분이 
 
 msgctxt "items/3701"
 msgid "Destroying Angel Mushroom"
-msgstr "파괴의 천사 버섯"
+msgstr "독우산광대버섯"
 
 msgctxt "items/3702"
 msgid "An all-white mushroom of the genus Amanita. Highly poisonous."
@@ -16883,34 +16883,34 @@ msgstr "광대버섯속의 흰 버섯입니다. 독성이 매우 강합니다."
 
 msgctxt "items/3703"
 msgid "Holy Destroying Angel Mushroom"
-msgstr "신성한 파괴의 천사 버섯"
+msgstr "신성한 독우산광대버섯"
 
 msgctxt "items/3704"
 msgid ""
 "A destroying angel mushroom successfully infused with the power of holy "
 "radiation."
-msgstr "파괴의 천사 버섯에 성공적으로 신성한 방사능의 힘이 주입된 결과물입니다."
+msgstr "독우산광대버섯에 성공적으로 신성한 방사능의 힘이 주입된 결과물입니다."
 
 msgctxt "items/3705"
 msgid "Holy Panther Mushroom"
-msgstr "신성한 팬서 버섯"
+msgstr "신성한 마귀광대버섯"
 
 msgctxt "items/3706"
 msgid ""
 "A panther mushroom successfully infused with the power of holy radiation."
-msgstr "팬서 버섯에 성공적으로 신성한 방사능의 힘이 주입된 결과물입니다."
+msgstr "마귀광대버섯에 성공적으로 신성한 방사능의 힘이 주입된 결과물입니다."
 
 msgctxt "items/3707"
 msgid "Holy Horse Mushroom"
-msgstr "신성한 말 버섯"
+msgstr "신성한 흰주름버섯"
 
 msgctxt "items/3708"
 msgid "A horse mushroom successfully infused with the power of holy radiation."
-msgstr "말 버섯에 성공적으로 신성한 방사능의 힘이 주입된 결과물입니다."
+msgstr "흰주름버섯에 성공적으로 신성한 방사능의 힘이 주입된 결과물입니다."
 
 msgctxt "items/3709"
 msgid "Glowing Horse Mushroom"
-msgstr "빛나는 말 버섯"
+msgstr "발광 흰주름버섯"
 
 msgctxt "items/3710"
 msgid ""
@@ -16920,15 +16920,15 @@ msgstr "위험하게 빛나는 방사능에 절여진 버섯입니다. 실험이
 
 msgctxt "items/3711"
 msgid "Holy Destroying Angel Mushroom"
-msgstr "신성한 파괴의 천사 버섯"
+msgstr "신성한 독우산광대버섯"
 
 msgctxt "items/3712"
 msgid "Holy Horse Mushroom"
-msgstr "신성한 말 버섯"
+msgstr "신성한 흰주름버섯"
 
 msgctxt "items/3713"
 msgid "Holy Panther Mushroom"
-msgstr "성스러운 표범 버섯"
+msgstr "성스러운 마귀광대버섯"
 
 msgctxt "items/3728"
 msgid "Fungus Software"
@@ -17938,11 +17938,11 @@ msgstr "부서지고 생살로 가득찬 오르골입니다. 다시는 노래를
 
 msgctxt "items/4026"
 msgid "Glowing Destroying Angel Mushroom"
-msgstr "발광하는 파괴의 천사 버섯"
+msgstr "발광 독우산광대버섯"
 
 msgctxt "items/4027"
 msgid "Glowing Panther Mushroom"
-msgstr "발광하는 흑표범 버섯"
+msgstr "발광 마귀광대버섯"
 
 msgctxt "items/4028"
 msgid "Grimy Cassette"
