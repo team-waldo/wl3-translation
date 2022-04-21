@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-02 20:59+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2022-04-21 13:06+0000\n"
+"Last-Translator: Concubine <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1754,7 +1754,7 @@ msgstr "로봇식 레이저 포탑을 배치하여 적을 공격하게 합니다
 
 msgctxt "abilities/372"
 msgid "Pustule"
-msgstr "농포"
+msgstr "고름집"
 
 msgctxt "abilities/373"
 msgid ""
@@ -1765,7 +1765,7 @@ msgid ""
 msgstr ""
 "35%만큼 추가 피해를 줍니다.\n"
 "\n"
-"<color=#808080>{0}% 확률로:</color> 대상의 농포를 터뜨려 처치하고 독성 가스 구름을 방출합니다."
+"<color=#808080>{0}% 확률로:</color> 대상의 고름집을 터뜨려 처치하고 독성 가스 구름을 방출합니다."
 
 msgctxt "abilities/374"
 msgid "Throat"
@@ -2358,7 +2358,7 @@ msgstr "한 발 한 발을 신중하게 발사합니다. 명중률이 30%만큼 
 
 msgctxt "abilities/497"
 msgid "Try it and see!"
-msgstr "한번 직접 해 보세요!"
+msgstr "한번 먹어보세요!"
 
 msgctxt "abilities/498"
 msgid "Cower"
@@ -2753,13 +2753,13 @@ msgstr ""
 
 msgctxt "abilities/569"
 msgid "Slime Sack"
-msgstr "점액 농포"
+msgstr "점액 고름집"
 
 msgctxt "abilities/570"
 msgid ""
 "Instantly kills the target and ruptures its slime sack, damaging and slowing "
 "anything nearby."
-msgstr "대상을 즉시 처치하고 점액 농포를 터뜨려, 주변 모든 대상에게 피해를 주고 느려지게 만듭니다."
+msgstr "대상을 즉시 처치하고 점액 고름집을 터뜨려, 주변 모든 대상에게 피해를 주고 느려지게 만듭니다."
 
 msgctxt "abilities/571"
 msgid ""
