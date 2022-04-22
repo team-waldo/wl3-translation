@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-21 13:06+0000\n"
+"PO-Revision-Date: 2022-04-22 18:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -579,7 +579,7 @@ msgctxt "perks/122"
 msgid ""
 "Shotgun attacks deal +50% Damage vs. Cover. If the attack destroys Cover "
 "enemies are behind, then any enemies who were taking cover are Slowed."
-msgstr "산탄총이 엄폐물에 추가 피해를 줍니다. 엄폐물이 파괴되면 엄폐물 뒤에 숨어있던 적이 느려짐 효과를 받습니다."
+msgstr "산탄총이 엄폐물에 추가 피해를 줍니다. 엄폐물이 파괴되면 엄폐물 뒤에 숨어 있던 적이 느려짐 효과를 받습니다."
 
 msgctxt "perks/123"
 msgid "Devastation"
@@ -852,7 +852,7 @@ msgid ""
 "and you won't let them down. You've got your bug-out bag packed and you "
 "ain't readin' no lyin' <i>books</i>."
 msgstr ""
-"당신이 여기 있는 이유는 당신의 가족이 미디어를 믿지 않았기 때문입니다. 가족은 준비되어있었고 당신은 가족을 실망시키지 않을 것입니다. "
+"당신이 여기 있는 이유는 당신의 가족이 미디어를 믿지 않았기 때문입니다. 가족은 준비되어 있었고 당신은 가족을 실망시키지 않을 것입니다. "
 "당신은 긴급상황용 가방을 준비했으며 거짓말이 잔뜩 담긴 <i>책</i>따위는 읽지 않습니다."
 
 msgctxt "perks/178"
@@ -2017,7 +2017,7 @@ msgstr "아무리 멋진 총을 가지고 있다고 한들 기절하면 아무�
 
 msgctxt "perks/355"
 msgid "Your first attack after reloading an empty weapon costs no AP"
-msgstr "비어있는 무기를 재장전한 다음의 첫 공격은 행동력을 소모하지 않습니다"
+msgstr "비어 있는 무기를 재장전한 다음의 첫 공격은 행동력을 소모하지 않습니다"
 
 msgctxt "perks/356"
 msgid "Shotgun attacks gain +25% Damage for each enemy hit by the same shot."
@@ -2263,7 +2263,7 @@ msgstr "당신은 항상 좋은 기회를 노리고, 그런 기회를 만드는 
 msgctxt "perks/406"
 msgid ""
 "Your Strike Meter charges a bonus 5% with each successful handgun attack"
-msgstr "권총 공격이 성공할 때마다 정밀 타격 게이지에 5%의 보너스 부가"
+msgstr "권총 공격이 성공할 때마다 정밀 타격 미터에 5%의 보너스 부가"
 
 msgctxt "perks/407"
 msgid ""
@@ -2502,7 +2502,7 @@ msgstr "돌격소총으로 적을 공격할 시 대상은 엄폐물 효과를 40
 
 msgctxt "perks/459"
 msgid "+1 bonus Skill Point every 2 level-ups."
-msgstr "2 레벨마다 +1 추가 기술 점수를 얻습니다."
+msgstr "2 레벨마다 +1 추가 기술 포인트를 얻습니다."
 
 msgctxt "perks/460"
 msgid "Surprise! I can flatten your organs!"
