@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-22 18:58+0000\n"
+"PO-Revision-Date: 2022-04-25 09:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -477,7 +477,7 @@ msgstr "힘 요구치가 <color=#B2B4B7>{0}</color>이상인 장비를 불이익
 
 msgctxt "derivedstats/104"
 msgid "Gain <color=#B2B4B7>+{0}</color> Skill Point(s)"
-msgstr "스킬 포인트 <color=#B2B4B7>+{0}</color>개 획득"
+msgstr "기술 포인트 <color=#B2B4B7>+{0}</color>개 획득"
 
 msgctxt "derivedstats/105"
 msgid "Disarm Alarms (Difficulty <color=#B2B4B7>{0}</color> or less)"

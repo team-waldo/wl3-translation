@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-24 01:58+0000\n"
+"PO-Revision-Date: 2022-04-25 09:58+0000\n"
 "Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1039,7 +1039,7 @@ msgstr "마샬 권"
 
 msgctxt "characters/379"
 msgid "The Mechanic"
-msgstr "정비공"
+msgstr "기계공"
 
 msgctxt "characters/380"
 msgid "The Fine Man, Cult Leader"
@@ -1511,7 +1511,7 @@ msgstr "백가문 청년"
 
 msgctxt "characters/509"
 msgid "Nightclub Patron"
-msgstr "나이트클럽 단골"
+msgstr "나이트클럽 손님"
 
 msgctxt "characters/510"
 msgid "Starving Wolverine"
@@ -2203,7 +2203,7 @@ msgstr "실버 스탤리언"
 
 msgctxt "characters/702"
 msgid "Bizarre Patron"
-msgstr "비자르 단골"
+msgstr "비자르 손님"
 
 msgctxt "characters/703"
 msgid "Pig"
@@ -2519,7 +2519,7 @@ msgstr "콜로라도 시민"
 
 msgctxt "characters/782"
 msgid "Club Patron"
-msgstr "클럽 단골"
+msgstr "클럽 손님"
 
 msgctxt "characters/783"
 msgid "Hundred Families Member"
@@ -2903,7 +2903,7 @@ msgstr "반란군 소총병"
 
 msgctxt "characters/881"
 msgid "Hard-Head Mechanic"
-msgstr "하드헤드 기계공"
+msgstr "하드헤드 정비공"
 
 msgctxt "characters/882"
 msgid "Hard-Head Scrapper"
@@ -3507,7 +3507,7 @@ msgstr "벌브"
 
 msgctxt "characters/1040"
 msgid "Brothel Patron"
-msgstr "매춘업소 단골"
+msgstr "매춘업소 손님"
 
 msgctxt "characters/1041"
 msgid "Dancer"
@@ -4027,7 +4027,7 @@ msgstr "코뮌 철학자"
 
 msgctxt "characters/1172"
 msgid "Party Pal"
-msgstr "파티 친구"
+msgstr "파티 팔"
 
 msgctxt "characters/1173"
 msgid "Dorsey War-bot"
@@ -4363,7 +4363,7 @@ msgstr "보초"
 
 msgctxt "characters/1256"
 msgid "Angry Patron"
-msgstr "화난 단골"
+msgstr "화난 손님"
 
 msgctxt "characters/1257"
 msgid "Pvt. Brandon"
@@ -4723,7 +4723,7 @@ msgstr ""
 
 msgctxt "characters/235"
 msgid "Doctor Breeler"
-msgstr "브릴러 의사"
+msgstr "브릴러 박사"
 
 msgctxt "characters/241"
 msgid "Carla Asphalt-Runner"
@@ -4747,7 +4747,7 @@ msgstr "베니 비안치"
 
 msgctxt "characters/264"
 msgid "Salene Crow"
-msgstr "셀레네 크로우"
+msgstr "설린 크로우"
 
 msgctxt "characters/265"
 msgid "Roland Herrera"
@@ -4815,7 +4815,7 @@ msgstr "상처입은 스틸타운 수비대"
 
 msgctxt "characters/800"
 msgid "Blue's Gang Mechanic"
-msgstr "블루 갱 수리공"
+msgstr "블루 갱 정비공"
 
 msgctxt "characters/801"
 msgid "Blue's Gang Tech"
@@ -4855,7 +4855,7 @@ msgstr "동력기 담당자"
 
 msgctxt "characters/1344"
 msgid "Weaponized Powerloader Operator"
-msgstr "무기화된 동력기 담당자"
+msgstr "무기화된 파워로더 조종사"
 
 msgctxt "characters/1345"
 msgid "Di"
@@ -4895,7 +4895,7 @@ msgstr "고스트 서멀테크 기술자"
 
 msgctxt "characters/1362"
 msgid "Ghost Mechanic"
-msgstr "고스트 기계공"
+msgstr "고스트 정비공"
 
 msgctxt "characters/1363"
 msgid "Ghost Shield-Tec"
@@ -5191,7 +5191,7 @@ msgstr "기술 시험 단말기"
 
 msgctxt "characters/1474"
 msgid "Newt"
-msgstr "영원"
+msgstr "뉴트"
 
 msgctxt "characters/1475"
 msgid "Ellen"
