@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-25 09:58+0000\n"
-"Last-Translator: Concubine <jamespark9001@gmail.com>\n"
+"PO-Revision-Date: 2022-04-26 10:58+0000\n"
+"Last-Translator: GameSlot <gamehdhdhdjdjdjd@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -375,7 +375,7 @@ msgstr "마이클의 노트"
 
 msgctxt "items/98"
 msgid "Says - \"OOC pg 143\""
-msgstr "\"옛콜무 143쪽\"이라고 합니다."
+msgstr "\"옛콜무 143쪽\"이라고 합니다.\""
 
 msgctxt "items/99"
 msgid "\"Outlaws of Old Colorado\""
@@ -415,7 +415,7 @@ msgstr "캐릭터가 받는 모든 피해를 지연시키고 나중에 피해를
 
 msgctxt "items/107"
 msgid " Consumable Zapper"
-msgstr "1회용 체포장치"
+msgstr " 1회용 체포장치"
 
 msgctxt "items/108"
 msgid " This item grants a direct attack ability."
@@ -426,7 +426,7 @@ msgid ""
 "The Consumable Zapper (new and improved for model year 1997!) is the... "
 "latest and greatest in consumable zapping technology. Point it at an enemy "
 "and click."
-msgstr "강력한 최신 기술이 적용된 일회용 체포장치(1997년식 모델의 개량형 !). 적에게 겨누고 클릭하시오. "
+msgstr "강력한 최신 기술이 적용된 일회용 체포장치(1997년식 모델의 개량형 !). 적에게 겨누고 클릭하시오."
 
 msgctxt "items/110"
 msgid "Snowball"
@@ -1384,7 +1384,7 @@ msgstr "복잡하게 땋이고 고리모양으로 엮인 인간의 머리카락 
 
 msgctxt "items/344"
 msgid " AR Helmet"
-msgstr "증강현실 헬멧"
+msgstr " 증강현실 헬멧"
 
 msgctxt "items/345"
 msgid " AR Helmet desc"
@@ -2927,7 +2927,7 @@ msgctxt "items/688"
 msgid ""
 "The process that produces these barrels is expensive, but the product is "
 "very strong with minimal micro-fatigue."
-msgstr "이 총열을 생산하는 공정이 비싸긴 하지만, 그 결과물만큼은 매우 뛰어나서, 최소한의 극소 균열만 발생합니다."
+msgstr "이 총열을 생산하는 공정이 비싸긴 합니다. 하지만 그 결과물만큼은 매우 뛰어나서, 최소한의 극소 균열만 발생합니다."
 
 msgctxt "items/689"
 msgid "Titanium-Cobalt Barrel"
@@ -6542,7 +6542,7 @@ msgstr "사이드컷"
 
 msgctxt "items/1524"
 msgid "Hobo Shotgun"
-msgstr "떠돌이 산탄총"
+msgstr "부랑자 산탄총"
 
 msgctxt "items/1525"
 msgid ""
@@ -6787,7 +6787,7 @@ msgstr "레인저 별 장식"
 
 msgctxt "items/1580"
 msgid "Big. Damn. Hero."
-msgstr "크고. 빌어먹을. 영웅들."
+msgstr "존나. 위대한. 영웅들."
 
 msgctxt "items/1581"
 msgid "Peek & Poke Ornament"
@@ -9025,11 +9025,11 @@ msgstr "왕에게 어울리는 푸짐한 요리."
 
 msgctxt "items/2067"
 msgid "Hobo Dog"
-msgstr "호보도그"
+msgstr "부랑자도그"
 
 msgctxt "items/2068"
 msgid "You can really taste the hobo."
-msgstr "호보 맛을 제대로 느낄 수 있습니다."
+msgstr "부랑자 맛을 제대로 느낄 수 있습니다."
 
 msgctxt "items/2069"
 msgid "Goat Horn Stew"
@@ -10681,7 +10681,7 @@ msgid ""
 "Some very practical people have salvaged damaged Kevlar vests into "
 "individual pads that can be attached to a complete torso armor."
 msgstr ""
-"손재주가 매우 좋은 사람 몇몇이 손상된 방탄섬유 조끼를 재활용해 개별 완충재 여러 개로 만들었습니다. 완전한 상체 방어 구에 부착할 수 "
+"손재주가 매우 좋은 사람 몇몇이 손상된 방탄섬유 조끼를 재활용해 개별 완충재 여러 개로 만들었습니다. 완전한 상체 방어구에 부착할 수 "
 "있습니다."
 
 msgctxt "items/2437"
@@ -12362,7 +12362,7 @@ msgstr "고통극락 마스크"
 
 msgctxt "items/2813"
 msgid "Ken's Shriveled Junk"
-msgstr "켄의 쪼그라진 잡동사니"
+msgstr "캔의 쪼그라든 물건"
 
 msgctxt "items/2814"
 msgid "How... emasculating."
@@ -14149,7 +14149,7 @@ msgstr "그냥 종이백이라고? 장난감 없이? 개같네."
 
 msgctxt "items/3176"
 msgid "Hobo Grooming Kit"
-msgstr "호보 몸단장 키트"
+msgstr "부랑자 몸단장 키트"
 
 msgctxt "items/3177"
 msgid "A bold look for those who refuse to abide by every societal standard."
@@ -14201,7 +14201,7 @@ msgstr "단발머리"
 
 msgctxt "items/3188"
 msgid "Hobo Hair"
-msgstr "떠돌이 머리"
+msgstr "부랑자 머리"
 
 msgctxt "items/3189"
 msgid "The Rat"
@@ -15129,7 +15129,7 @@ msgstr "당신의 은신 기술을 솔리드하게 만들어줍니다."
 
 msgctxt "items/3791"
 msgid "Are they made of hobos, or eaten by hobos? The answer is yes."
-msgstr "호보로 만든건가요 아니면 호보가 먹는다는 건가요? 질문에 대한 정답은 '네' 입니다."
+msgstr "부랑자로 만든 건가요, 부랑자가 먹는 건가요? 대답은 '네' 입니다."
 
 msgctxt "items/3792"
 msgid "The perfect blend of 11 brands of battery acid and agave."
@@ -17390,7 +17390,7 @@ msgstr "마른 갈색 진흙이 깊게 때묻은 구겨진 종이입니다. 내�
 
 msgctxt "items/3854"
 msgid "Nucleist Patrol Log"
-msgstr "핵 독점파 순찰 기록"
+msgstr "원자파 순찰 기록"
 
 msgctxt "items/3855"
 msgid "A page from a log book, detailing incidents occuring on a guard patrol."
@@ -18000,7 +18000,7 @@ msgstr "오래된 줄 노트위에 큰 글씨가 적혀있지만 워낙 개발�
 
 msgctxt "items/4040"
 msgid "Nucleist Patrol Log"
-msgstr "핵 독점파의 정찰 기록"
+msgstr "원자파의 정찰 기록"
 
 msgctxt "items/4041"
 msgid ""

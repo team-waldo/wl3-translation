@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-25 09:58+0000\n"
+"PO-Revision-Date: 2022-04-26 10:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -616,11 +616,11 @@ msgstr "기계공학 요구치가<color=#B2B4B7>{0}</color>이상인 아이템 �
 
 msgctxt "derivedstats/137"
 msgid "Critical Heal Chance <color=#B2B4B7>+{0}%</color>"
-msgstr "치명 회복 확률 <color=#B2B4B7>+{0}%</color>"
+msgstr "대량 회복 확률 <color=#B2B4B7>+{0}%</color>"
 
 msgctxt "derivedstats/138"
 msgid "Critical Heal Bonus <color=#B2B4B7>+{0}X</color>"
-msgstr "치명 회복의 회복량 <color=#B2B4B7>+{0}배</color>"
+msgstr "추가 대량 회복량 <color=#B2B4B7>+{0}배</color>"
 
 msgctxt "derivedstats/139"
 msgid ""
