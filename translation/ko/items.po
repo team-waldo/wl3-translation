@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-27 23:58+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2022-04-29 02:58+0000\n"
+"Last-Translator: Concubine <jamespark9001@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2562,7 +2562,7 @@ msgstr "환자 보고서: 사울 뷰캐넌"
 
 msgctxt "items/609"
 msgid "Doc Parker's Surgical Instruments"
-msgstr "의사 파커의 수술 도구"
+msgstr "파커 선생의 수술 도구"
 
 msgctxt "items/610"
 msgid "Coded letter from Markham"
@@ -3549,7 +3549,7 @@ msgid ""
 "option. Looks less like a real gun and more like someone duct-taped a giant "
 "battery to a pistol."
 msgstr ""
-"때때로 경비원들의 비살상 옵션으로서 황무지에서 쓰이고는 합니다. 진짜 총보다는 권총에 거대한 베터리를 덕트 테이프로 감은 것 처럼 "
+"때때로 경비원들의 비살상 옵션으로서 황무지에서 쓰이고는 합니다. 진짜 총보다는 권총에 거대한 배터리를 덕트 테이프로 감은 것 처럼 "
 "보입니다."
 
 msgctxt "items/824"
@@ -3891,7 +3891,7 @@ msgstr "흑표범 가죽 설명"
 
 msgctxt "items/900"
 msgid "Waste Wolf Paw"
-msgstr "웨이스트 울프 발"
+msgstr "황무지 늑대 발"
 
 msgctxt "items/901"
 msgid "Hang it from your hat."
@@ -3899,7 +3899,7 @@ msgstr "모자에 매달아 보십시오."
 
 msgctxt "items/902"
 msgid "Waste Wolf Fang"
-msgstr "웨이스트 울프 송곳니"
+msgstr "황무지 늑대 송곳니"
 
 msgctxt "items/903"
 msgid ""
@@ -3909,7 +3909,7 @@ msgstr "이걸 목에 걸어서 모두에게 자신이 얼마나 외로운 상�
 
 msgctxt "items/904"
 msgid "Waste Wolf Pelt"
-msgstr "웨이스트 울프 생가죽"
+msgstr "황무지 늑대 생가죽"
 
 msgctxt "items/905"
 msgid "A fine pelt from a wolf. A merchant would probably pay for it."
@@ -4315,11 +4315,11 @@ msgstr "이 금속 장난감 차는 탁트인 도로를 꿈꿉니다."
 
 msgctxt "items/1003"
 msgid " Battery Core"
-msgstr " 베터리 코어"
+msgstr " 배터리 코어"
 
 msgctxt "items/1004"
 msgid " BatteryCore: Looks like this could power a small device"
-msgstr " 베터리 코어: 작은 장치에 동력을 공급할 수 있을 것 같습니다"
+msgstr " 배터리 코어: 작은 장치에 동력을 공급할 수 있을 것 같습니다"
 
 msgctxt "items/1005"
 msgid "Repair Kit"
@@ -6879,7 +6879,7 @@ msgstr "나는 밤이다!"
 
 msgctxt "items/1601"
 msgid "Radioactive Battery Ornament"
-msgstr "방사능 베터리 장식"
+msgstr "방사능 배터리 장식"
 
 msgctxt "items/1602"
 msgid ""
@@ -7994,7 +7994,7 @@ msgstr "\"백가문 방공호\"라고 새겨져 있는 열쇠입니다. 되게 �
 msgctxt "items/1837"
 msgid ""
 "A recent medical evaluation of the Patriarch, written by Dr. Nash Parker."
-msgstr "내쉬 파커 박사가 쓴 패트리아크의 최근 검진 보고서입니다."
+msgstr "내쉬 파커 선생이 쓴 패트리아크의 최근 검진 보고서입니다."
 
 msgctxt "items/1838"
 msgid "This small key is engraved with the word, \"Freezer.\""
@@ -8559,7 +8559,7 @@ msgstr "\"107\"이란 번호가 새겨져 있는 작은 창고 열쇠입니다."
 
 msgctxt "items/1966"
 msgid "Doctor Parker's Suicide Note"
-msgstr "파커 박사의 자살 유서"
+msgstr "파커 선생의 자살 유서"
 
 msgctxt "items/1967"
 msgid ""
@@ -9164,7 +9164,7 @@ msgstr "충격을 받으면 적들을 타종하는 충격파를 방출합니다.
 
 msgctxt "items/2099"
 msgid "Battery Pack"
-msgstr "<size=0>73</size>[무게-X]베터리 팩"
+msgstr "<size=0>73</size>[무게-X]배터리 팩"
 
 msgctxt "items/2100"
 msgid ""
@@ -10659,7 +10659,7 @@ msgstr "차량 에너지 탄환"
 
 msgctxt "items/2432"
 msgid "Extra-big energy weapons call for extra-big batteries to power them."
-msgstr "특대형 에너지 무기에는 동력을 공급할 특대형 베터리가 필요하죠."
+msgstr "특대형 에너지 무기에는 동력을 공급할 특대형 배터리가 필요하죠."
 
 msgctxt "items/2433"
 msgid "JabJab's Joke Book"
@@ -10959,7 +10959,7 @@ msgctxt "items/2491"
 msgid ""
 "Deploys a Thumper device on the ground to summon a friendly Waste Worm that "
 "fights for you."
-msgstr "지면에 설치하여 아군 편에서 싸우는 우호적인 웨이스트 웜을 소환할 수 있는 진동 장치입니다."
+msgstr "지면에 설치하여 아군 편에서 싸우는 우호적인 황무지 벌레를 소환할 수 있는 진동 장치입니다."
 
 msgctxt "items/2492"
 msgid "Titanium Shield"
@@ -11016,7 +11016,7 @@ msgstr "블러드비스트 송곳니"
 
 msgctxt "items/2503"
 msgid "The fang of a Bloodbeast. Metal."
-msgstr "블러드 비스트의 송곳니입니다. 금속 같네요."
+msgstr "블러드비스트의 송곳니입니다. 금속 같네요."
 
 msgctxt "items/2504"
 msgid "Bloodbeast Fur"
@@ -11452,13 +11452,13 @@ msgstr "드룰이 입던 너덜너덜한 누더기입니다. 세월과 냉기로
 
 msgctxt "items/2599"
 msgid "Waste Worm Teeth"
-msgstr "웨이스트 웜 이빨"
+msgstr "황무지 벌레 이빨"
 
 msgctxt "items/2600"
 msgid ""
 "Teeth from a Waste Worm. These bladed incisors are used for tunneling "
 "through the earth and ice."
-msgstr "웨이스트 웜의 이빨입니다. 이 날카로운 치아들은 흙과 얼음을 파는데 쓰입니다."
+msgstr "황무지 벌레의 이빨입니다. 이 날카로운 치아들은 흙과 얼음을 파는데 쓰입니다."
 
 msgctxt "items/2601"
 msgid "Safecracker"
@@ -11811,7 +11811,7 @@ msgstr "[51]파괴적인 경주"
 
 msgctxt "items/2682"
 msgid "Yuma County Speedway Race"
-msgstr "[45]유마 카운티 고속도로 레이스"
+msgstr "[45]유마 카운티 경주로 레이스"
 
 msgctxt "items/2683"
 msgid "Risky Briskett's Recipe"
@@ -12460,11 +12460,11 @@ msgstr "크리스가 목걸이로 만든 낡은 토스터 손잡이입니다."
 
 msgctxt "items/2834"
 msgid "9 Volt Battery"
-msgstr "9 볼트 베터리"
+msgstr "9 볼트 배터리"
 
 msgctxt "items/2835"
 msgid "This battery has teeth marks on the terminals. Don't ask."
-msgstr "전극에 이빨 자국이 있는 베터리입니다. 뭔지 물어보지는 마세요."
+msgstr "전극에 이빨 자국이 있는 배터리입니다. 뭔지 물어보지는 마세요."
 
 msgctxt "items/2836"
 msgid "Waste Dweller Helmet"
@@ -13572,7 +13572,7 @@ msgstr ""
 
 msgctxt "items/3051"
 msgid "Talk To Strangers So You Don't Marry Your Cousin"
-msgstr "모르는 사람에게 말을 걸어보렴, 그럼 사촌과 결혼하지 않을 거란다"
+msgstr "사촌과 결혼하지 않으려면 모르는 사람에게 말을 걸어보렴"
 
 msgctxt "items/3052"
 msgid ""
@@ -13755,7 +13755,7 @@ msgctxt "items/3086"
 msgid ""
 "A recording from before the apocalypse of an exhilerating race at the Yuma "
 "County Speedway."
-msgstr "종말 전 유마 카운티 고속도로에서 있었던 짜릿한 경주의 녹음입니다."
+msgstr "종말 전 유마 카운티 경주로에서 있었던 짜릿한 경주의 녹음입니다."
 
 msgctxt "items/3087"
 msgid ""
@@ -14032,7 +14032,7 @@ msgctxt "items/3148"
 msgid ""
 "This tape features a recent recording of entertainment at the Yuma County "
 "Speedway."
-msgstr "유마 카운티 고속도로의 오락이 담겨있는 최근의 기록입니다."
+msgstr "유마 카운티 경주로의 오락이 담겨있는 최근의 기록입니다."
 
 msgctxt "items/3149"
 msgid "Bear Chest"
@@ -14346,7 +14346,7 @@ msgctxt "items/3221"
 msgid ""
 "Who wouldn't want a Waste Worm on their side? Just be sure to walk without "
 "rhythm."
-msgstr "웨이스트 웜이 같은 편이 된다는데 싫어할 사람이 있나요? 그냥, 규칙적으로 걷지만 마세요."
+msgstr "황무지 벌레가 같은 편이 된다는데 싫어할 사람이 있나요? 그냥, 규칙적으로 걷지만 마세요."
 
 msgctxt "items/3222"
 msgid "Tactical Nuke"
@@ -14825,7 +14825,7 @@ msgstr "자작 마법사 의상 레깅스"
 
 msgctxt "items/3426"
 msgid "Handmade Battery-Powered Wizard’s Hat"
-msgstr "자작 베터리식 마법사 모자"
+msgstr "자작 배터리식 마법사 모자"
 
 msgctxt "items/3535"
 msgid "Skinny Dreads"
@@ -15133,7 +15133,7 @@ msgstr "부랑자로 만든 건가요, 부랑자가 먹는 건가요? 대답은 
 
 msgctxt "items/3792"
 msgid "The perfect blend of 11 brands of battery acid and agave."
-msgstr "11가지 브랜드의 베터리 산과 용설란의 완벽한 혼합입니다."
+msgstr "11가지 브랜드의 배터리 산과 용설란의 완벽한 혼합입니다."
 
 msgctxt "items/3793"
 msgid "Well, what did you expect?"

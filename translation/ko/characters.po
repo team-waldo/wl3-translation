@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-28 02:15+0000\n"
+"PO-Revision-Date: 2022-04-29 02:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -35,7 +35,7 @@ msgstr "돌시 사냥꾼"
 
 msgctxt "characters/5"
 msgid "Dorsey Raider"
-msgstr "돌시 레이더"
+msgstr "돌시 침입자"
 
 msgctxt "characters/6"
 msgid "Dorsey Ambusher"
@@ -183,11 +183,11 @@ msgstr " 시민"
 
 msgctxt "characters/99"
 msgid "Waste Wolf"
-msgstr "웨이스트 울프"
+msgstr "황무지 늑대"
 
 msgctxt "characters/100"
 msgid "Waste Wolf Alpha"
-msgstr "웨이스트 울프 우두머리"
+msgstr "황무지 늑대 우두머리"
 
 msgctxt "characters/101"
 msgid "Ice Hopper"
@@ -831,7 +831,7 @@ msgstr "산양"
 
 msgctxt "characters/315"
 msgid "Dr. Smiles"
-msgstr "스마일 박사"
+msgstr "닥터 스마일스"
 
 msgctxt "characters/316"
 msgid "Crossword Gang Thief"
@@ -887,7 +887,7 @@ msgstr "테어도릭 퀴리"
 
 msgctxt "characters/335"
 msgid "Refugee Leader"
-msgstr "난민 지도자"
+msgstr "난민 우두머리"
 
 msgctxt "characters/336"
 msgid "Voice on radio"
@@ -931,7 +931,7 @@ msgstr "부관 기글스"
 
 msgctxt "characters/346"
 msgid "Lieutenant Chester"
-msgstr "체스터 중위"
+msgstr "부관 체스터"
 
 msgctxt "characters/347"
 msgid "Nita Gett"
@@ -1023,7 +1023,7 @@ msgstr "R.E.M. 용 디버그"
 
 msgctxt "characters/375"
 msgid "Vic Buchanan"
-msgstr "빅토리 뷰캐넌"
+msgstr "빅 뷰캐넌"
 
 msgctxt "characters/376"
 msgid "Ironclad Cordite"
@@ -1339,7 +1339,7 @@ msgstr "토끼"
 
 msgctxt "characters/462"
 msgid "Doc Parker"
-msgstr "파커 박사"
+msgstr "파커 선생"
 
 msgctxt "characters/463"
 msgid "October-11"
@@ -1535,7 +1535,7 @@ msgstr "스카 콜렉터 노예"
 
 msgctxt "characters/515"
 msgid "Scar Collector Overlord"
-msgstr "스카 콜렉터 지도자"
+msgstr "스카 콜렉터 지배자"
 
 msgctxt "characters/516"
 msgid "Scar Collector Truck"
@@ -1755,7 +1755,7 @@ msgstr "술 마시는 십 대"
 
 msgctxt "characters/574"
 msgid "Dorsey Leadbiter"
-msgstr "돌시 리드바이터"
+msgstr "돌시 강철이빨"
 
 msgctxt "characters/575"
 msgid "Angus Hoon"
@@ -1939,15 +1939,15 @@ msgstr "마샬 장교"
 
 msgctxt "characters/631"
 msgid "Arapaho Sharpshooter"
-msgstr "아라파호족 명사수"
+msgstr "아라파호 명사수"
 
 msgctxt "characters/632"
 msgid "Arapaho Shotgunner"
-msgstr "아라파호족 산탄총 사수"
+msgstr "아라파호 산탄총 사수"
 
 msgctxt "characters/633"
 msgid "Arapaho Grease Monkey"
-msgstr "아라파호족 수리공"
+msgstr "아라파호 수리공"
 
 msgctxt "characters/634"
 msgid "Mama Cotter"
@@ -2067,7 +2067,7 @@ msgstr "징징대는 지미"
 
 msgctxt "characters/668"
 msgid "Safe Guard"
-msgstr "안정 장치"
+msgstr "안전장치"
 
 msgctxt "characters/669"
 msgid "Newt Campbell"
@@ -2275,7 +2275,7 @@ msgstr "엔지의 권총수"
 
 msgctxt "characters/720"
 msgid "Angie's Tech"
-msgstr "엔지의 기술자"
+msgstr "엔지의 기술병"
 
 msgctxt "characters/721"
 msgid "Wounded Marshal"
@@ -3575,7 +3575,7 @@ msgstr "디버그: 아이템 테스터"
 
 msgctxt "characters/1057"
 msgid "Priest of the Final Deluge"
-msgstr "마지막 대홍수 사제"
+msgstr "마지막 대홍수교 사제"
 
 msgctxt "characters/1058"
 msgid "G-String Theory"
@@ -3843,11 +3843,11 @@ msgstr "괴물 염소"
 
 msgctxt "characters/1125"
 msgid "Waste Wormling"
-msgstr "웨이스트 웜링"
+msgstr "황무지 새끼 벌레"
 
 msgctxt "characters/1126"
 msgid "Frost Crawler"
-msgstr "프로스트 크롤러"
+msgstr "서리 크롤러"
 
 msgctxt "characters/1127"
 msgid "Silicon Reaver"
@@ -3867,7 +3867,7 @@ msgstr "불 피카로페"
 
 msgctxt "characters/1131"
 msgid "Waste Goop"
-msgstr "웨이스트 굽"
+msgstr "황무지 끈적이"
 
 msgctxt "characters/1132"
 msgid "Flesh Mass"
@@ -4131,7 +4131,7 @@ msgstr "스카 콜렉터 폭탄 노예"
 
 msgctxt "characters/1198"
 msgid "Scar Collector Cyclops"
-msgstr "스카 콜렉터 저격수"
+msgstr "스카 콜렉터 애꾸눈"
 
 msgctxt "characters/1199"
 msgid "Scar Collector Heavy"
@@ -4139,27 +4139,27 @@ msgstr "스카 콜렉터 중화기 사수"
 
 msgctxt "characters/1200"
 msgid "Angie's Marksman"
-msgstr "안젤라의 저격병"
+msgstr "엔지의 저격병"
 
 msgctxt "characters/1201"
 msgid "Angie's Breacher"
-msgstr "안젤라의 강행침입병"
+msgstr "엔지의 공병"
 
 msgctxt "characters/1202"
 msgid "Angie's Heavy Support"
-msgstr "안젤라의 중화기병"
+msgstr "엔지의 중화기병"
 
 msgctxt "characters/1203"
 msgid "Angie's Gunslinger"
-msgstr "안젤라의 총잡이"
+msgstr "엔지의 총잡이"
 
 msgctxt "characters/1204"
 msgid "Angie's Tech Specialist"
-msgstr "안젤라의 특기병"
+msgstr "엔지의 특기병"
 
 msgctxt "characters/1205"
 msgid "Angie's Rebel"
-msgstr "안젤라의 반란군"
+msgstr "엔지의 반란군"
 
 msgctxt "characters/1206"
 msgid "Nightclub Pit Boss"
@@ -4171,7 +4171,7 @@ msgstr "쇼크독"
 
 msgctxt "characters/1208"
 msgid "Drilldog"
-msgstr "드릴도그"
+msgstr "드릴독"
 
 msgctxt "characters/1209"
 msgid "Liberty's War-bot"
@@ -4191,7 +4191,7 @@ msgstr "스파이니 호퍼"
 
 msgctxt "characters/1213"
 msgid "Monster Army Boomer"
-msgstr "몬스터 아미 폭탄마"
+msgstr "몬스터 아미 노동자"
 
 msgctxt "characters/1214"
 msgid "Smuggler Cutter "
@@ -4199,7 +4199,7 @@ msgstr "밀입 브로커 절단자 "
 
 msgctxt "characters/1215"
 msgid "Smuggler Devastator "
-msgstr "밀입 브로커 파괴단원 "
+msgstr "밀입 브로커 파괴자 "
 
 msgctxt "characters/1216"
 msgid "Slaver Enforcer"
@@ -4207,7 +4207,7 @@ msgstr "노예상 집행자"
 
 msgctxt "characters/1217"
 msgid "Slaver Trapper"
-msgstr "노예상 사냥꾼"
+msgstr "노예상 덫 사냥꾼"
 
 msgctxt "characters/1218"
 msgid "Mercenary Commando"
@@ -4223,7 +4223,7 @@ msgstr "용병"
 
 msgctxt "characters/1221"
 msgid "Wessons' Servitor Bot"
-msgstr "웨슨가의 시종 로봇"
+msgstr "웨슨가 시종 로봇"
 
 msgctxt "characters/1222"
 msgid "DEBUG OEI Functions"
@@ -4303,15 +4303,15 @@ msgstr "리버티 뷰캐넌의 책상"
 
 msgctxt "characters/1241"
 msgid "Adult Waste Worm"
-msgstr "웨이스트 웜 성체"
+msgstr "황무지 벌레 성체"
 
 msgctxt "characters/1242"
 msgid "Waste Worm Queen"
-msgstr "여왕 웨이스트 웜"
+msgstr "여왕 황무지 벌레"
 
 msgctxt "characters/1243"
 msgid "Waste Worm Colony Lord"
-msgstr "웨이스트 웜 둥지어미"
+msgstr "황무지 벌레 둥지어미"
 
 msgctxt "characters/1244"
 msgid "Sawpup"
@@ -4683,7 +4683,7 @@ msgstr "이등병 데푸토우스키"
 
 msgctxt "characters/1476"
 msgid "Assistant Rahmen"
-msgstr "조수 라멘"
+msgstr "라멘 조수"
 
 msgctxt "characters/1477"
 msgid "Parrot"
@@ -5111,7 +5111,7 @@ msgstr "빌즈"
 
 msgctxt "characters/1422"
 msgid "Ghost Gang Raid Leader"
-msgstr "고스트 갱 약탈단 지도자"
+msgstr "고스트 갱 약탈단 대장"
 
 msgctxt "characters/1426"
 msgid "Rank Ravi"
@@ -5387,7 +5387,7 @@ msgstr "앓는 릭"
 
 msgctxt "characters/1502"
 msgid "Melanoma"
-msgstr "흑색종"
+msgstr "멜라노마"
 
 msgctxt "characters/1507"
 msgid "Brother Bismuth"
