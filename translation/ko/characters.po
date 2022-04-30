@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-29 02:58+0000\n"
+"PO-Revision-Date: 2022-04-30 04:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -191,7 +191,7 @@ msgstr "황무지 늑대 우두머리"
 
 msgctxt "characters/101"
 msgid "Ice Hopper"
-msgstr "아이스 호퍼"
+msgstr "얼음 껑충이"
 
 msgctxt "characters/102"
 msgid "DEBUG Long John"
@@ -663,7 +663,7 @@ msgstr "새끼 고양이"
 
 msgctxt "characters/273"
 msgid "Fish-Lips"
-msgstr "피시립스"
+msgstr "피쉬립스"
 
 msgctxt "characters/274"
 msgid "Hard-Head"
@@ -1179,7 +1179,7 @@ msgstr "벳시"
 
 msgctxt "characters/416"
 msgid "Fish-Lips"
-msgstr "피시립스"
+msgstr "피쉬립스"
 
 msgctxt "characters/417"
 msgid "Hard-Head Tinkerer"
@@ -2127,7 +2127,7 @@ msgstr "누더기 차"
 
 msgctxt "characters/683"
 msgid "Debug Fishlips Conversation"
-msgstr "디버그 피시립스 대화"
+msgstr "디버그 피쉬립스 대화"
 
 msgctxt "characters/684"
 msgid "Refugee"
@@ -4183,11 +4183,11 @@ msgstr "워봇"
 
 msgctxt "characters/1211"
 msgid "Glow Hopper"
-msgstr "글로우 호퍼"
+msgstr "빛나는 껑충이"
 
 msgctxt "characters/1212"
 msgid "Spiny Hopper"
-msgstr "스파이니 호퍼"
+msgstr "가시돋힌 껑충이"
 
 msgctxt "characters/1213"
 msgid "Monster Army Boomer"
@@ -4683,7 +4683,7 @@ msgstr "이등병 데푸토우스키"
 
 msgctxt "characters/1476"
 msgid "Assistant Rahmen"
-msgstr "라멘 조수"
+msgstr "조수 라멘"
 
 msgctxt "characters/1477"
 msgid "Parrot"
@@ -4951,15 +4951,15 @@ msgstr "봇리프트"
 
 msgctxt "characters/1377"
 msgid "Clerk Jerry"
-msgstr "점원 제리"
+msgstr "사무원 제리"
 
 msgctxt "characters/1378"
 msgid "Clerk Hurley"
-msgstr "점원 헐리"
+msgstr "사무원 헐리"
 
 msgctxt "characters/1379"
 msgid "Clerk Doe"
-msgstr "점원 도"
+msgstr "사무원 도"
 
 msgctxt "characters/1380"
 msgid "Bernice"
