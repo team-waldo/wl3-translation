@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-30 12:04+0000\n"
+"PO-Revision-Date: 2022-05-02 05:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2285,7 +2285,7 @@ msgstr "기절, 실명, 감전, 출혈, 중독 상태에 걸린 적에게 가하
 
 msgctxt "perks/411"
 msgid "Brawling combo maximum increased to 10x"
-msgstr "격투 콤보 최대치 10배 증가"
+msgstr "격투 콤보 최대치가 10회로 증가"
 
 msgctxt "perks/412"
 msgid "Extreme Combo"
