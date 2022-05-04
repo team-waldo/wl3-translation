@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-04-27 23:58+0000\n"
+"PO-Revision-Date: 2022-05-04 02:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -216,11 +216,11 @@ msgstr "이 캐릭터가 가할 수 있는 화염 피해에 보정을 적용한 
 
 msgctxt "derivedstats/42"
 msgid "Cold Damage Bonus"
-msgstr "추위 피해량"
+msgstr "냉기 피해량"
 
 msgctxt "derivedstats/43"
 msgid "Bonus to cold damage dealt by this character."
-msgstr "이 캐릭터가 가할 수 있는 추위 피해에 보정을 적용한 피해량입니다."
+msgstr "이 캐릭터가 가할 수 있는 냉기 피해에 보정을 적용한 피해량입니다."
 
 msgctxt "derivedstats/44"
 msgid "Explosive Damage Bonus"
@@ -260,11 +260,11 @@ msgstr "이 캐릭터가 화염 피해에 얼마나 저항할 수 있는지를 �
 
 msgctxt "derivedstats/53"
 msgid "Cold Resistance"
-msgstr "추위 저항력"
+msgstr "냉기 저항력"
 
 msgctxt "derivedstats/54"
 msgid "Determines how resistant this character is to Cold Damage."
-msgstr "이 캐릭터가 추위 피해에 얼마나 저항할 수 있는지를 나타냅니다."
+msgstr "이 캐릭터가 냉기 피해에 얼마나 저항할 수 있는지를 나타냅니다."
 
 msgctxt "derivedstats/55"
 msgid "Energy Resistance"
