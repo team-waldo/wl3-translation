@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-05-04 02:58+0000\n"
+"PO-Revision-Date: 2022-05-05 03:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -51,11 +51,11 @@ msgstr "7.62mm 탄약"
 
 msgctxt "items/9"
 msgid "Shotgun Shells"
-msgstr "샷건 셸"
+msgstr "산탄총 탄약"
 
 msgctxt "items/10"
 msgid ".45 Ammo"
-msgstr ".45 탄약"
+msgstr "45구경 탄약"
 
 msgctxt "items/11"
 msgid ".30-06 Ammo"
@@ -570,7 +570,7 @@ msgstr "부어즈 라이트"
 
 msgctxt "items/146"
 msgid "You won't get drunk, but you won't get fat either."
-msgstr "취하지도 않고 살도 안 찌죠."
+msgstr "취하지는 않지만, 살도 안 찝니다."
 
 msgctxt "items/147"
 msgid "Mile High Mug-Filler"
@@ -1992,7 +1992,7 @@ msgstr "이 원시적인 무기는 자신들의 먹잇감을 낚아채 죽이거
 
 msgctxt "items/476"
 msgid "SR2000-Argent"
-msgstr "SR2000-요원"
+msgstr "SR2000-아전트"
 
 msgctxt "items/477"
 msgid ""
@@ -2518,7 +2518,7 @@ msgctxt "items/599"
 msgid ""
 "Wastelanders carry this weapon as a way to say that they're gonna to find "
 "ya, gonna gitcha, gitcha, gitcha, gitcha."
-msgstr "황무지인들은 다음과 같은 뜻으로 이 무기를 들고 다닙니다.  너를 찾아 죽일 거야, 죽일 거야, 죽일 거야, 죽일 거야.  "
+msgstr "황무지인들은 다음과 같은 뜻으로 이 무기를 들고 다닙니다. 너를 찾아 죽일 거야, 죽일 거야, 죽일 거야, 죽일 거야."
 
 msgctxt "items/600"
 msgid "Psychopath Appearance"
@@ -10098,7 +10098,7 @@ msgstr ""
 
 msgctxt "items/2308"
 msgid "Scout Pants"
-msgstr "정찰대 다리보호구"
+msgstr "정찰병 다리보호구"
 
 msgctxt "items/2309"
 msgid ""
@@ -10107,7 +10107,7 @@ msgstr "그럭저럭 방탄 성능이 괜찮지만 중요한건 미끄럼 방지
 
 msgctxt "items/2310"
 msgid "Scout Helmet"
-msgstr "정찰대 헬멧"
+msgstr "정찰병 헬멧"
 
 msgctxt "items/2311"
 msgid "Anti-glare lenses and a breather make snow travel a lot more bearable."
