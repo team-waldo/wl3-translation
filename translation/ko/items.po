@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-05-06 05:58+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2022-05-08 15:58+0000\n"
+"Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2667,7 +2667,7 @@ msgstr "유연하고 금속판으로 강화했습니다. 무거운 무게와 달
 
 msgctxt "items/630"
 msgid "Commando Armor"
-msgstr "코만도 방어구"
+msgstr "특공대 상체보호구"
 
 msgctxt "items/631"
 msgid ""
@@ -8663,7 +8663,7 @@ msgstr "5행시 첫번째 장"
 
 msgctxt "items/1989"
 msgid "The note reads, 'We're the punchline to every joke'."
-msgstr "\"우린 모든 농담의 펀치라인이다\"라고 적혀있다."
+msgstr "\"우린 모든 농담의 펀치라인\"라고 적혀있다."
 
 msgctxt "items/1990"
 msgid "Limerick Note Pt. 2"
@@ -8671,7 +8671,7 @@ msgstr "5행시 두번째 장"
 
 msgctxt "items/1991"
 msgid "The note reads, 'But el Payaso Mejor'."
-msgstr "\"하지만 파야소가 최고다\"라고 적혀있다."
+msgstr "\"하지만 엘 파야소 메호르가\"라고 적혀있다."
 
 msgctxt "items/1992"
 msgid "Limerick Note Pt. 3"
@@ -8679,7 +8679,7 @@ msgstr "5행시 세번째장"
 
 msgctxt "items/1993"
 msgid "The note reads, 'Will even the score'."
-msgstr "\"결국엔 모두 동점이 될 것이다.\"라고 적혀있다."
+msgstr "\"모두 응징해줄 거야.\"라고 적혀있다."
 
 msgctxt "items/1994"
 msgid "Last Call"
