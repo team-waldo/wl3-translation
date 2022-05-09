@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-05-05 03:58+0000\n"
+"PO-Revision-Date: 2022-05-09 16:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4803,7 +4803,7 @@ msgstr "Debug Garage With No Name"
 
 msgctxt "characters/590"
 msgid "Blue's Gang Assault"
-msgstr "블루 갱 돌격대"
+msgstr "블루 갱단 돌격대"
 
 msgctxt "characters/591"
 msgid "Blue"
@@ -4851,11 +4851,11 @@ msgstr "노동자 안전 위원장"
 
 msgctxt "characters/1343"
 msgid "Powerloader Operator"
-msgstr "동력기 담당자"
+msgstr "파워로더 기사"
 
 msgctxt "characters/1344"
 msgid "Weaponized Powerloader Operator"
-msgstr "무기화된 파워로더 조종사"
+msgstr "무기화된 파워로더 기사"
 
 msgctxt "characters/1345"
 msgid "Di"
@@ -4959,7 +4959,7 @@ msgstr "사무원 헐리"
 
 msgctxt "characters/1379"
 msgid "Clerk Doe"
-msgstr "사무원 도"
+msgstr "사무원 도우"
 
 msgctxt "characters/1380"
 msgid "Bernice"
@@ -5027,7 +5027,7 @@ msgstr "솀프 라이언"
 
 msgctxt "characters/1397"
 msgid "Serena Ash"
-msgstr "서리나 애시"
+msgstr "세레나 애쉬"
 
 msgctxt "characters/1398"
 msgid "Lazar Blazer"
@@ -5039,7 +5039,7 @@ msgstr "B.F."
 
 msgctxt "characters/1400"
 msgid "Ivan"
-msgstr "이반"
+msgstr "아이반"
 
 msgctxt "characters/1401"
 msgid "Giles"
@@ -5055,7 +5055,7 @@ msgstr "레지"
 
 msgctxt "characters/1404"
 msgid "Keith"
-msgstr "키이스"
+msgstr "키스"
 
 msgctxt "characters/1405"
 msgid "Mabelle"
@@ -5219,11 +5219,11 @@ msgstr "연산엔진 인터페이스"
 
 msgctxt "characters/1489"
 msgid "Secret Head"
-msgstr "비밀 머리"
+msgstr "비밀 변기"
 
 msgctxt "characters/1490"
 msgid "Handcraft"
-msgstr "수제작"
+msgstr "핸드크래프트"
 
 msgctxt "characters/1492"
 msgid "Blue's Drafting Table"
@@ -5259,7 +5259,7 @@ msgstr "성스러운 폭발 수행사제"
 
 msgctxt "characters/421"
 msgid "Tourmaline"
-msgstr "전기석"
+msgstr "토멀린"
 
 msgctxt "characters/626"
 msgid "Holy Detonation Disciple"
@@ -5407,15 +5407,15 @@ msgstr "오투나이트 수녀"
 
 msgctxt "characters/1511"
 msgid "Primordialist Initiate"
-msgstr "태고주의자 입회자"
+msgstr "태고파 입회자"
 
 msgctxt "characters/1512"
 msgid "Primordialist Evangelist"
-msgstr "태고주의자 복음전도사"
+msgstr "태고파 복음전도사"
 
 msgctxt "characters/1513"
 msgid "Primordialist Proto-Drool"
-msgstr "태고주의자 원시 드룰"
+msgstr "태고파 원시 드룰"
 
 msgctxt "characters/1516"
 msgid "Initiate Warrior"
@@ -5463,7 +5463,7 @@ msgstr "열광자 병사"
 
 msgctxt "characters/1527"
 msgid "Tumor Door"
-msgstr "종양의 문"
+msgstr "종양 문"
 
 msgctxt "characters/1528"
 msgid "Flesh Prince"
