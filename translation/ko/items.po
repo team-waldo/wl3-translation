@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-05-09 16:58+0000\n"
+"PO-Revision-Date: 2022-05-10 17:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -13713,7 +13713,7 @@ msgstr "거의 불의 대홍수까지 거슬러 올라가는 고대의 테이프
 
 msgctxt "items/3077"
 msgid "Not for cabrones or mamones."
-msgstr "호구나 마마보이에겐 맞지 않습니다."
+msgstr "까브론이나 마몬에겐 맞지 않습니다."
 
 msgctxt "items/3078"
 msgid "True Accounts of Quarex's Grand Journeys."
