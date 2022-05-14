@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-05-10 17:58+0000\n"
+"PO-Revision-Date: 2022-05-14 17:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -59,7 +59,7 @@ msgstr "45구경 탄약"
 
 msgctxt "items/11"
 msgid ".30-06 Ammo"
-msgstr ".30-06 탄약"
+msgstr "30-06 탄약"
 
 msgctxt "items/12"
 msgid " Test Shotgun"
@@ -129,7 +129,7 @@ msgctxt "items/28"
 msgid ""
 "A unique \"flame rifle\" that discharges short bursts of fire over a great "
 "distance with surprising accuracy."
-msgstr "드넓은 거리에 짧은 주기로 불꽃 폭발을 방출하는 놀라운 명중률을 지닌 독특한 \"화염 소총\"입니다."
+msgstr "긴 사거리에 놀라운 명중률로 짧은 주기의 불덩이를 방출하는 독특한 \"화염 소총\"입니다."
 
 msgctxt "items/29"
 msgid "The Emancipator"
@@ -155,7 +155,7 @@ msgstr "압력 배출 밸브"
 
 msgctxt "items/34"
 msgid "This key is heavy and unpolished. It hasn't been used in a long time."
-msgstr "무겁고 더러운 열쇠입니다. 오랫동안 사용되지 않은 것 같습니다."
+msgstr "무겁고 투박한 열쇠입니다. 오랫동안 사용되지 않은 것 같습니다."
 
 msgctxt "items/35"
 msgid "A temperature pressure relief valve."
@@ -163,7 +163,7 @@ msgstr "압력 배출 밸브입니다."
 
 msgctxt "items/36"
 msgid "Compressor"
-msgstr "압축기"
+msgstr "컴프레서"
 
 msgctxt "items/37"
 msgid ""
@@ -241,7 +241,7 @@ msgstr "총구 섬광을 줄여줍니다."
 
 msgctxt "items/60"
 msgid "This basic underbarrel mod makes it easier to sight down targets."
-msgstr "기본적인 총열 하부 부착물로서 표적을 더 쉽게 볼 수 있게 해줍니다."
+msgstr "표적을 더 쉽게 볼 수 있게 해주는 기본적인 총열 하부 부착물입니다."
 
 msgctxt "items/61"
 msgid "Get a grip."
@@ -405,7 +405,7 @@ msgctxt "items/105"
 msgid ""
 "A collection of medical tools and equipment that can be used to perform "
 "treatment on the battlefield. Requires training in First Aid."
-msgstr "전장에서 치료를 하는데 사용될 수 있는 의료 도구와 장비들의 모음입니다. 응급치료 훈련이 필요합니다."
+msgstr "전장에서 치료할 때 쓸 수 있는 의료 도구와 장비들의 모음입니다. 응급치료 훈련이 필요합니다."
 
 msgctxt "items/106"
 msgid ""
@@ -7071,7 +7071,7 @@ msgctxt "items/1647"
 msgid ""
 "Make sure you prepare a selection of cold-themed puns before taking this "
 "into a gunfight."
-msgstr "이걸들고 총격적을 벌이기 전에 꼭 차가움을 주제로 하는 말장난을 몇개 선정해두십시오."
+msgstr "이걸 들고 총격전을 벌이기 전에 꼭 차가움을 주제로 하는 말장난을 몇 개 선정해두십시오."
 
 msgctxt "items/1648"
 msgid "OptiLaser 9000"
@@ -15285,7 +15285,7 @@ msgstr "이 헬멧은 당신이 피격당했을때 소리굽쇠 소리를 냅니
 
 msgctxt "items/3354"
 msgid "Grounded Suit"
-msgstr "접지처리 방전복"
+msgstr "접지처리 작업복 상의"
 
 msgctxt "items/3355"
 msgid "You look like a plague doctor in this suit. Neat plating, though."
@@ -15293,7 +15293,7 @@ msgstr "역병의사같이 보이게 만드는 슈트입니다. 그래도 장갑
 
 msgctxt "items/3356"
 msgid "Grounded Leg Armor"
-msgstr "접지처리 방전복 하의"
+msgstr "접지처리 작업복 하의"
 
 msgctxt "items/3357"
 msgid "You feel <i>grounded</i> with these armored legs on."
@@ -15301,7 +15301,7 @@ msgstr "이 다리 방어구를 착용하면 <b>땅에 붙은</b> 느낌이 듭�
 
 msgctxt "items/3358"
 msgid "Grounded Helmet"
-msgstr "접지처리 방전모"
+msgstr "접지처리 작업복 안전모"
 
 msgctxt "items/3359"
 msgid ""
@@ -16013,7 +16013,7 @@ msgstr "장점: 이 개량형 방전모는 번개를 막아줍니다. 단점: �
 
 msgctxt "items/3567"
 msgid "Elite Grounded Suit"
-msgstr "최고급 접지처리 방전복"
+msgstr "최고급 접지처리 작업복 상의"
 
 msgctxt "items/3568"
 msgid "\"Resistance is futile.\" That's adorable."
@@ -16021,7 +16021,7 @@ msgstr "\"저항은 무의미하다.\"라니, 귀엽네요."
 
 msgctxt "items/3569"
 msgid "Elite Grounded Leg Armor"
-msgstr "최고급 접지처리 방전복 하의"
+msgstr "최고급 접지처리 작업복 하의"
 
 msgctxt "items/3570"
 msgid "A pair of refined armored legs with additional \"fuck you\" plating."
@@ -16029,7 +16029,7 @@ msgstr "추가로 \"좆까\" 도금처리한 개량형 방전복 바지입니다
 
 msgctxt "items/3571"
 msgid "Elite Grounded Helmet"
-msgstr "최고급 접지처리 방전모"
+msgstr "최고급 접지처리 작업복 안전모"
 
 msgctxt "items/3572"
 msgid "A refined helmet that's more hardheaded than a Hard-Head."
@@ -16663,7 +16663,7 @@ msgstr "'프님어하' 밴드"
 msgctxt "items/3504"
 msgid ""
 "Words etched on the inside of the bracelet read, \"What would plutonium do?\""
-msgstr "팔찌 안에는 다음과 같은 말이 새겨져 있습니다. \"프로테우스님이라면 어떻게 하실까?\""
+msgstr "팔찌 안에는 다음과 같은 말이 새겨져 있습니다. \"프로테우스 님이라면 어떻게 하실까?\""
 
 msgctxt "items/3505"
 msgid "Gently Glowing Science Textbook"
