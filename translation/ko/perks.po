@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-05-02 05:58+0000\n"
+"PO-Revision-Date: 2022-05-17 20:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2364,7 +2364,7 @@ msgstr "세계 지도에서 숨겨진 방공호를 발견할 확률이 +40% 증�
 
 msgctxt "perks/430"
 msgid "All squad members gain +8 Armor while this character is present."
-msgstr "해당 케릭터 주변에 있는 모든 분대원 +8 방어력을 얻습니다."
+msgstr "해당 캐릭터 주변에 있는 모든 분대원 +8 방어력을 얻습니다."
 
 msgctxt "perks/431"
 msgid "Efficient Armorer"
