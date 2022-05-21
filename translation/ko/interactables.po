@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-01 02:43+0900\n"
-"PO-Revision-Date: 2022-05-09 16:58+0000\n"
+"PO-Revision-Date: 2022-05-21 22:58+0000\n"
 "Last-Translator: butnine <butnine@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2190,7 +2190,7 @@ msgstr "옛 시대의 금속 상자들이 시멘트에 박혀 있다. 인터페�
 
 msgctxt "interactables/473"
 msgid "This statue looks like a much younger version of The Patriarch."
-msgstr "이 동상은 패트리아크가 훨씬 더 어릴 때의 모습으로 보인다."
+msgstr "이 동상은 패트리아크가 훨씬 더 젊을 때의 모습으로 보인다."
 
 msgctxt "interactables/474"
 msgid "These terminals are covered in a thick layer of dust."
